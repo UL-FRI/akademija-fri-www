@@ -60,7 +60,7 @@ mailchimpFormName = "b_ad2bdda8ad23165330c877ca4_0990001b34"
     # footer
     [params.footer]
     logo = "images/unilj.png"
-    content = "<strong>Fakulteta za računalništvo in informatiko</strong><br><strong>Akademija FRI</strong><br> Večna pot 113, 1000 Ljubljana, Slovenija<br><br>T: +386 1 479 8268 <br>E: akademijafri@fri.uni-lj.si"
+    content = "<strong>Univerza v Ljubljani</strong><br><strong>Fakulteta za računalništvo in informatiko</strong><br><strong>Akademija FRI</strong><br> Večna pot 113, 1000 Ljubljana, Slovenija<br><br>T: +386 1 479 8268 <br>E: akademijafri@fri.uni-lj.si"
 
     # copyright
     copyright = "Vse pravice pridržane &copy; <span class=\"text-primary\">Akademija FRI</span>, <script>document.write(new Date().getFullYear())</script><noscript>2019</noscript>"
