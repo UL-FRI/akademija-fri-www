@@ -1,0 +1,45 @@
+{{ "<!-- izobrazevanje aktualno -->" | safeHTML }}
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 py-100">
+                <div class="row">
+                    {{ range .Paginator.Pages }}
+                    {{ "<!-- blog-item -->" | safeHTML }}
+                    <div class="col-sm-6 mb-4">
+                        <a href="{{ .Permalink }}" class="h4 font-primary text-dark">
+                            <article class="card">
+                                <div class="card-img-wrapper overlay-rounded-top">
+                                    <img class="card-img-top mx-auto d-block post-img" src="{{ .Params.image | absURL }}" alt="blog-thumbnail">
+                                </div>
+                                <div class="card-body p-0">
+                                    <div class="d-flex">
+                                        <div class="py-3 px-4 border-right text-center">
+                                            <h3 class="text-primary mb-0">{{ with (index .Params.Dates 0)}} {{ . | dateFormat "2"}} {{end}}</h3>
+                                            <p class="mb-0" style="white-space: nowrap;">
+                                                {{ index $.Site.Data.meseci (dateFormat "1" (index .Params.Dates 0)) }}
+                                            </p>
+                                        </div>
+                                        <div class="d-flex align-items-center card-title-text">
+                                            {{ .Title }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                        </a>
+                    </div>
+                    {{ end }}
+
+                    <div class="col-12">
+                        <div class="d-flex justify-content-center" style="margin-top: 30px;">
+                            {{ template "_internal/pagination.html" . }}
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            {{ partial "sidebar.html" . }}
+        </div>
+    </div>
+</section>
+{{ "<!-- /izobrazevanje aktualno -->" | safeHTML }}

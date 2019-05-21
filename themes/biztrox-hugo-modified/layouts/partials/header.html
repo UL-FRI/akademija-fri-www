@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Site.Title }}</title>
+
+    {{ "<!-- mobile responsive meta -->" | safeHTML }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="{{ .Site.Data.meta.description }}">
+    <meta name="keywords" content="{{ .Site.Data.meta.keywords }}">
+
+    <!-- Hugo info -->
+    <!-- Build date: {{ .Hugo.BuildDate }} -->
+    {{ .Hugo.Generator }}
+
+    {{ "<!-- Bootstrap -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/bootstrap/bootstrap.min.css" | absURL }} ">
+
+    {{ "<!-- themify icon -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/themify-icons/themify-icons.css" | absURL }} ">
+
+    {{ "<!-- font awesome icon -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/font-awesome-4.7.0/css/font-awesome.min.css" | absURL }} ">
+
+    {{ "<!-- Fullcalendar -->" | safeHTML }}
+    <link href="{{ "plugins/fullcalendar/core/main.css" | absURL }}" rel="stylesheet">
+    <link href="{{ "plugins/fullcalendar/daygrid/main.css" | absURL }}" rel="stylesheet">
+    <link href="{{ "plugins/fullcalendar/bootstrap/main.css" | absURL }}" rel="stylesheet">
+
+    {{ "<!-- animate -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/animate/animate.css" | absURL }} ">
+
+    {{ "<!-- Slick Carousel -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "plugins/slick/slick.css" | absURL }} ">
+    <link rel="stylesheet" href="{{ "plugins/slick/slick-theme.css" | absURL }} ">
+
+    {{ "<!-- Stylesheets -->" | safeHTML }}
+    <link href="{{ "css/style.css" | absURL }}" rel="stylesheet">
+    <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
+
+    {{ "<!--Favicon-->" | safeHTML }}
+    <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }} " type="image/x-icon">
+    <link rel="icon" href="{{ "images/favicon.ico" | absURL }} " type="image/x-icon">
+
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/ad2bdda8ad23165330c877ca4/2692e30b772f030bc695e5045.js");</script>
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    {{ "<!-- Created by: greenstatic -->" | safeHTML }}
+</head>
+
+<body>
+
+
+    {{ "<!-- preloader start -->" | safeHTML }}
+    <div class="preloader">
+        <img src="{{ "images/preloader.gif" | absURL }} " alt="preloader">
+    </div>
+    {{ "<!-- preloader end -->" | safeHTML }}

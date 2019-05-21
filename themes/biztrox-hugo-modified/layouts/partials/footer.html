@@ -1,0 +1,98 @@
+{{ "<!-- footer -->" | safeHTML }}
+<footer class="bg-secondary">
+    <div class="py-100 border-bottom" style="border-color: #454547 !important">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4">
+                    <div class="mb-5 mb-md-0 text-center text-md-left">
+                        {{ with .Site.Params.footer.logo }}
+                            {{ "<!-- logo -->" | safeHTML }}
+                            <img class="mb-30 max-width-relative" src="{{ . | absURL }}" alt="logo">
+                        {{ end }}
+
+                        {{ with .Site.Params.footer.content }} <p class="text-white mb-30"> {{ . | safeHTML }}</p> {{ end }}
+                        {{ "<!-- social icon -->" | safeHTML }}
+                        <ul class="list-inline">
+                            {{ range .Site.Params.footer.socialIcon }}
+                            <li class="list-inline-item">
+                                <a class="social-icon-outline" href="{{ .URL | absURL }}">
+                                    <i class="{{ .icon }}"></i>
+                                </a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+
+                {{ "<!-- footer navigation links -->" | safeHTML }}
+                <div class="col-lg-2 col-md-4 col-6">
+                    <h4 class="text-white mb-4">Povezave</h4>
+                    <ul class="footer-links">
+                        {{ range .Site.Menus.nav }}
+                        <li>
+                            {{ if (len .Children ) }}
+                              <span style="color:white;">{{ .Name }}</span>
+                            {{ else }}
+                              <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+                            {{ end }}
+
+                            <ul>
+                                {{ range .Children }}
+                                <li>
+                                    <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    {{ "<!-- copyright -->" | safeHTML }}
+    <div class="pt-4 pb-3 position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-5">
+                    <p class="text-white text-center text-md-left">
+                       {{ with .Site.Params.footer.copyright }} {{ . | safeHTML }}</p> {{ end }}
+                </div>
+                <div class="col-lg-6 col-md-7">
+                    <ul class="list-inline text-center text-md-right">
+                        {{ range .Site.Params.footer.links }}
+                        <li class="list-inline-item mx-lg-3 my-lg-0 mx-2 my-2">
+                            <a class="font-secondary text-white" href="{{ .URL | absURL }}">{{ .name }}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        {{ "<!-- back to top -->" | safeHTML }}
+        <button class="back-to-top">
+            <i class="ti-angle-up"></i>
+        </button>
+    </div>
+</footer>
+{{ "<!-- /footer -->" | safeHTML }}
+
+{{ "<!-- jQuery -->" | safeHTML }}
+<script src="{{ "plugins/jQuery/jquery.min.js" | absURL }}"></script>
+{{ "<!-- Bootstrap JS -->" | safeHTML }}
+<script src="{{ "plugins/bootstrap/bootstrap.min.js" | absURL }}"></script>
+{{ "<!-- slick slider -->" | safeHTML }}
+<script src="{{ "plugins/slick/slick.min.js" | absURL }}"></script>
+
+{{ "<!-- Main Script -->" | safeHTML }}
+<script src="{{ "js/script.js" | absURL }}"></script>
+
+{{ partial "netlify-cms-redirect.html" . }}
+
+
+</body>
+
+</html>

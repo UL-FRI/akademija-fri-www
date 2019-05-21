@@ -1,0 +1,44 @@
+{{ "<!-- single -->" | safeHTML }}
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 py-100">
+                <h3>{{ .Title }}</h3>
+                <div class="post-content">
+                    {{ .Content }}
+                </div>
+                <div class="post-content-extended">
+
+                    <div class="col-lg-12">
+                        <div class="project-menu text-center">
+                            <ul class="controls list-inline">
+                                {{ "<!-- filter item list -->" | safeHTML }}
+                                <li class="list-inline-item control active" data-filter="all">All</li>
+                                {{ range .Site.Data.project.filterList }}
+                                <li class="list-inline-item control" data-filter=".{{ .dataFilter }}">{{ .filterTitle }}</li> {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+
+                    {{ range where .Site.RegularPages "Type" "izobrazevanjaZaPodjetja" }}
+                    {{ "<!-- item -->" | safeHTML }}
+                    <div class="col-lg-3 col-md-4 col-sm-6 p-0 {{ .Params.FilterCategories }}" data-ref="mixitup-target">
+                        <div class="position-relative">
+                            <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="project-image">
+                            <div class="project-info">
+                                <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
+                                <p>
+                                    <i class="ti-tag"></i>{{ .Params.Tag }}</p>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+
+                </div>
+            </div>
+
+            {{ partial "sidebar.html" . }}
+        </div>
+    </div>
+</section>
+{{ "<!-- /single -->" | safeHTML }}

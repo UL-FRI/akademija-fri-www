@@ -1,0 +1,134 @@
+backend:
+  name: git-gateway
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+editor:
+  preview: false
+
+collections:
+  - label: "Novice"
+    name: "novice"
+    folder: "content/novice"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Aktualna izobrazevanja"
+    name: "izobrazevanjaAktualno"
+    folder: "content/izobrazevanja/aktualno"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaAktualno"}
+      - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime"}, default: []}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Izobrazevanja za podjetja (podstrani)"
+    name: "za-podjetja"
+    folder: "content/izobrazevanja/za-podjetja"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Izvajalci"
+    name: "izvajalci"
+    folder: "content/izvajalci"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Facebook URL", name: "facebookURL", widget: "string", required: false}
+      - {label: "Twitter URL", name: "twitterURL", widget: "string", required: false}
+      - {label: "LinkedIn URL", name: "linkedinURL", widget: "string", required: false}
+      - {label: "Github URL", name: "githubURL", widget: "string", required: false}
+      - {label: "Phone", name: "phone", widget: "string", required: false}
+      - {label: "Email", name: "email", widget: "string", required: false}
+      - {label: "Website", name: "website", widget: "string", required: false}
+      - {label: "Redirect page", name: "redirect", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "homepage"
+    label: "Home Page"
+    files:
+      - file: "content/_index.md"
+        label: "Main"
+        name: "main"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "data/homepagePonudba.yml"
+        label: "Ponudba"
+        name: "ponudba"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Description", name: "description", widget: string}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/about-bg.jpg"}
+          - {label: "List", name: "list", widget: list, field: { label: "Element", name: "element", widget: string } }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/izobrazevanja/za-podjetja.md"
+        label: "Izobraževanja za podjetja"
+        name: "za-podjetja-main"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/cenik.md"
+        label: "Cenik"
+        name: "cenik"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/kontakt.md"
+        label: "Kontakt"
+        name: "kontakt"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/pogoji.md"
+        label: "Pogoji"
+        name: "pogoji"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
+  - name: "other"
+    label: "Other"
+    files:
+      - file: "data/meta.yml"
+        label: "Metadata"
+        name: "metadata"
+        fields:
+          - {label: "Description", name: "description", widget: string}
+          - {label: "Keywords", name: "keywords", widget: string}
+
+      - file: "data/zadovoljeneStranke.yml"
+        name: "zadovoljeneStranke"
+        label: "Zadovoljene Stranke"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Enable", name: "enable", widget: boolean}
+          - label: "List"
+            name: "list"
+            widget: list
+            fields:
+            - { label: "Image", name: "image" }
+            - { label: "URL", name: "url", widget: "string" }

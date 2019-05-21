@@ -1,0 +1,176 @@
+/* Typography */
+.ignore-list-style {
+    list-style-type: none;
+}
+.post-content h4, .post-content h5 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+.post-content li {
+    font-weight: 400;
+    color: #666;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.post-content ol {
+    margin-bottom: 10px;
+}
+
+.post-content ol li::before {
+    content: "";
+}
+
+.post-img {
+    max-width: 250px;
+}
+
+.post-single-img {
+    max-height: 250px;
+}
+
+blockquote p {
+    margin-bottom: 0px;
+}
+
+.meta {
+    font-family: "Poppins", sans-serif;
+}
+
+/* General */
+.btn-slim {
+    padding: 10px 25px 10px 25px;
+}
+
+.card2 {
+    margin-bottom: 30px;
+    padding: 20px 30px 20px 30px;
+}
+
+.max-width-relative {
+    max-width: 100%;
+}
+
+.card-title-text {
+    margin-left: 15px;
+}
+
+/* Header */
+
+/* Ugly hacks for logo in header */
+.logo-image {
+    max-width: 85%;
+}
+
+.navigation .navbar-brand {
+    position: unset;
+    top: 0px;
+    height: 0px;
+    background: transparent;
+    box-shadow: unset;
+}
+
+.navigation .navbar-brand img {
+    position: unset;
+    top: 0px;
+}
+@media (max-width: 991px) {
+    .navigation .navbar-brand img {
+        height: 50px;
+        width: auto;
+        max-width: unset;
+        padding: .5rem 1rem;
+    }
+    .navigation .navbar {
+        padding: .5rem 1rem;
+    }
+}
+/* End ugly hacks for logo in header */
+
+/* Footer */
+.footer-links li a {
+    margin-bottom: 10px;
+}
+
+.footer-links li {
+    margin-bottom: 15px;
+}
+
+.footer-links li li {
+    margin-bottom: 5px;
+}
+
+.footer-links ul li ul {
+    margin-top: 5px;
+}
+
+/* Homepage */
+.homepage-main-content p {
+    font-size: larger;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Koledar */
+#calendar {
+    max-width: 900px;
+    margin: 0 auto;
+    margin-right: 15px;
+}
+
+.fc-event, .fc-event-dot {
+    background-color: #e84444;
+}
+
+.fc-event {
+    border: 1px solid #e84444;
+}
+
+.fc-today-button, .fc-prev-button, .fc-next-button {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.fc-prev-button {
+    padding-left: 15px;
+    padding-right: 20px;
+}
+
+.fc-next-button {
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
+.fc-today {
+    background-color: #ff989829;
+    color: #212529;
+}
+
+/* Pagination */
+.pagination .page-item .page-link {
+    border: 1px solid #dee2e6;
+    background: unset;
+}
+
+
+.pagination .page-item .page-link a {
+    color: #e84444;
+}
+.pagination .page-item .page-link a:hover {
+    color: #007bff;
+}
+
+
+.pagination .page-item.active .page-link {
+    background-color: #e84444;
+}
+.pagination .page-item.active .page-link a {
+    color: white;
+}
+
+.pagination .page-item.disabled .page-link a {
+    color: grey;
+}

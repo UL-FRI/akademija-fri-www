@@ -1,0 +1,75 @@
+baseURL = "http://akademijafri.si"
+languageCode = "sl-si"
+title = "Akademija FRI"
+theme = "biztrox-hugo-modified"
+
+[menu]
+    [[menu.nav]]
+    name = "Izobraževanja"
+    weight = 2
+    hasChildren = true
+
+        [[menu.nav]]
+        parent = "Izobraževanja"
+        name = "Aktualna"
+        URL = "/izobrazevanja/aktualno"
+
+        [[menu.nav]]
+        parent = "Izobraževanja"
+        name = "Za podjetja"
+        URL = "/izobrazevanja/za-podjetja"
+    
+    [[menu.nav]]
+    name = "Izvajalci"
+    URL = "/izvajalci"
+    weight = 3
+    
+    [[menu.nav]]
+    name = "Cenik"
+    URL = "/cenik"
+    weight = 4
+    
+    [[menu.nav]]
+    name = "Koledar"
+    URL = "/koledar"
+    weight = 5
+    
+    [[menu.nav]]
+    name = "Kontakt"
+    URL = "/kontakt"
+    weight = 6
+    
+    [[menu.nav]]
+    name = "Novice"
+    URL = "/novice"
+    weight = 7
+
+[params]
+logo = "images/logo_fri.png"
+mail = "akademijafri@fri.uni-lj.si"
+mobile = "+386 1 479 8268"
+home = "Akademija FRI"
+
+# mailchimp subsciption
+mailchimpFormAction = "https://uni-lj.us20.list-manage.com/subscribe/post?u=ad2bdda8ad23165330c877ca4&amp;id=0990001b34"
+mailchimpFormName = "b_ad2bdda8ad23165330c877ca4_0990001b34"
+
+  [params.homepage]
+  image = "images/banner.jpg"
+
+    # footer
+    [params.footer]
+    logo = "images/unilj.png"
+    content = "<strong>Fakulteta za računalništvo in informatiko</strong><br><strong>Akademija FRI</strong><br> Večna pot 113, 1000 Ljubljana, Slovenija<br><br>T: +386 1 479 8268 <br>E: akademijafri@fri.uni-lj.si"
+
+    # copyright
+    copyright = "Vse pravice pridržane &copy; <span class=\"text-primary\">Akademija FRI</span>, <script>document.write(new Date().getFullYear())</script><noscript>2019</noscript>"
+
+        # social icon
+        [[params.footer.socialIcon]]
+        icon = "ti-facebook"
+        URL = "https://www.facebook.com/akademijafri"
+
+        [[params.footer.socialIcon]]
+        icon = "ti-linkedin"
+        URL = "https://www.linkedin.com/company/akademijafri"

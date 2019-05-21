@@ -1,0 +1,18 @@
+{{ "<!-- list -->" | safeHTML }}
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 py-100">
+        <div class="row">
+          <hr>
+          {{ range .Data.Pages }}
+          {{ "<!-- item -->" | safeHTML }}
+          {{ . }}
+          {{ end }}
+        </div>
+      </div>
+      {{ partial "sidebar.html" . }}
+    </div>
+  </div>
+</section>
+{{ "<!-- /list -->" | safeHTML }}

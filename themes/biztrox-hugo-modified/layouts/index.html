@@ -1,0 +1,146 @@
+{{ partial "header.html" . }}
+
+{{ partial "navigation.html" . }}
+
+{{ "<!-- image -->" | safeHTML }}
+<section>
+    <div class="homepage-slider position-relative">
+        <div class="homepage-slider-item py-160" style="background-image: url('{{ .Site.Params.homepage.image| absURL }}')" data-icon="ti-comments"
+             data-text="{{ .Params.Title }}">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="hero-content">
+                            <h1 class="font-weight-bold mb-3" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in="0.1">Akademija FRI</h1>
+                            <h4 class="text-uppercase mb-1" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in="0.2">Vrhunsko znanje</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- /image -->" | safeHTML }}
+
+{{ "<!-- main -->" | safeHTML }}
+<section class="section" style="padding: 100px 0 100px;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="homepage-main-content">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- /main-->" | safeHTML }}
+
+{{ "<!-- izobrazevanje aktualno -->" | safeHTML }}
+<section class="section bg-gray">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-title section-title-border-gray">Aktualna izobraževanja</h2>
+            </div>
+
+            {{ range sort (where .Site.RegularPages "Type" "izobrazevanjaAktualno") "Params.date" "asc" }}
+            <div class="col-lg-8">
+                {{ "<!-- izobrazevanje aktualno item -->" | safeHTML }}
+                <div class="card card2">
+                    <h4 class="card-title pt-3">{{ .Params.Title }}</h4>
+                    <h6>
+                        {{ $len := (len .Params.dates) }}
+                        {{ range $index, $elm := .Params.dates }}
+                            {{ $elm | dateFormat "2. 1. 2006" }}
+                            {{ if ne (add $index 1) $len }}
+                            , &nbsp;
+                            {{ end }}
+                        {{ end }}
+                    </h6>
+
+                    <div class="row">
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-8">
+                            <img class="max-width-relative" src="{{ .Params.image | absURL }}" alt="izobrazevanje-aktualno-image">
+                        </div>
+
+                        <div class="col-lg-9">
+                            <p>{{ .Summary }}</p>
+                            <a class="btn btn-primary btn-slim float-right" href="{{ .Permalink }}">Več</a>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- /izobrazevanje aktualno -->" | safeHTML }}
+
+{{ "<!-- ponudba -->" | safeHTML }}
+<section class="section-sm overlay" style="background-image: url('{{ .Site.Data.homepagePonudba.bgImage | absURL }}');">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 ml-auto">
+                <div class="rounded p-sm-5 px-3 py-5 bg-secondary">
+                    {{ with .Site.Data.homepagePonudba.title }} <h3 class="section-title section-title-border-half text-white">{{ . }}</h3> {{ end }}
+                    {{ with .Site.Data.homepagePonudba.description }} <p class="text-white mb-40">{{ . }}</p> {{ end }}
+                    <div>
+                        <ul class="ignore-list-style list-inline row">
+                            {{ range .Site.Data.homepagePonudba.list }}
+                            <li class="font-secondary mb-10 text-white col-xs-6 col-sm-6 col-md-6">
+                                <i class="text-primary mr-2 ti-arrow-circle-right"></i>{{ . }}
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- /ponudba -->" | safeHTML }}
+
+{{ "<!-- novice -->" | safeHTML }}
+<section class="section bg-gray">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-title section-title-border-gray">Najnovejše novice</h2>
+            </div>
+
+            {{ range $index, $element:= where .Site.RegularPages "Type" "novice" }}
+            {{ if lt $index 3}}
+            {{ "<!-- novice-item -->" | safeHTML }}
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <a href="{{ .Permalink }}" class="h4 font-primary text-dark">
+                    <article class="card">
+                        <div class="card-img-wrapper overlay-rounded-top">
+                            <img class="card-img-top mx-auto d-block post-img" src="{{ .Params.image | absURL }}" alt="blog-thumbnail">
+                        </div>
+                        <div class="card-body p-0">
+                            <div class="d-flex">
+                                <div class="py-3 px-4 border-right text-center">
+                                    <h3 class="text-primary mb-0">{{ .PublishDate.Format "02" }}</h3>
+                                    <p class="mb-0">{{ index $.Site.Data.meseci (printf "%d" .PublishDate.Month) }}</p>
+                                </div>
+                                <div class="d-flex align-items-center card-title-text">
+                                    {{ .Title }}
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </a>
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- /novice -->" | safeHTML }}
+
+{{ partial "zadovoljeneStranke.html" . }}
+
+{{ partial "footer.html" . }}

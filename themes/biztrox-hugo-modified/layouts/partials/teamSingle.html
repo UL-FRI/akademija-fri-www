@@ -1,0 +1,86 @@
+{{ "<!-- team single -->" | safeHTML }}
+<section class="section">
+    <div class="container">
+        <div class="row">
+            {{ "<!-- sidebar -->" | safeHTML }}
+            <aside class="col-lg-3">
+                {{ "<!-- team member info -->" | safeHTML }}
+                <div class="bg-gray rounded mb-20">
+                    <img class="img-fluid w-100 rounded-top" src="{{ .Params.Image | absURL }}" alt="team member">
+                </div>
+                <div>
+                    <ul class="list-inline">
+                        {{ if .Params.facebookURL }}
+                        <li class="list-inline-item mb-3">
+                            <a class="social-icon-lg bg-facebook" href="{{ .Params.facebookURL | absURL }}">
+                                <i class="ti-facebook"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+
+                        {{ if .Params.twitterURL }}
+                        <li class="list-inline-item ">
+                            <a class="social-icon-lg bg-twitter" href="{{ .Params.twitterURL | absURL }}">
+                                <i class="ti-twitter-alt"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+
+                        {{ if .Params.linkedinURL }}
+                        <li class="list-inline-item ">
+                            <a class="social-icon-lg bg-linkedin" href="{{ .Params.linkedinURL | absURL }}">
+                                <i class="ti-linkedin"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+
+                        {{ if .Params.githubURL }}
+                        <li class="list-inline-item ">
+                            <a class="social-icon-lg bg-github" href="{{ .Params.githubURL | absURL }}">
+                                <i class="ti-github"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+
+                    </ul>
+                </div>
+            </aside>
+            {{ "<!-- /sidebar -->" | safeHTML }}
+
+            {{ "<!-- team member details -->" | safeHTML }}
+            <div class="col-lg-9">
+                <div>
+                    <h2>{{ .Title }}</h2>
+                    <div class="row">
+                        {{ "<!-- contact info -->" | safeHTML }}
+                        <div class="col-md-6">
+                            <h4>Kontakt</h4>
+                            <ul class="pl-0 mb-40" style="list-style:none;">
+                                {{ if .Params.Email }}
+                                <li class="font-secondary text-color my-3">
+                                    <i class="mr-3 ti-email"></i>{{ .Params.Email }}
+                                </li>
+                                {{ end }}
+
+                                {{ if .Params.Phone }}
+                                <li class="font-secondary text-color my-3">
+                                    <i class="mr-3 ti-mobile"></i>{{ .Params.Phone }}
+                                </li>
+                                {{ end }}
+
+                                {{ if .Params.Website }}
+                                <li class="font-secondary text-color my-3">
+                                    <i class="mr-3 ti-cloud"></i>
+                                    <a href="{{ .Params.Website }}">{{ .Params.Website }}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- /team single -->" | safeHTML }}
