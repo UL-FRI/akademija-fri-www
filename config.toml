@@ -13,12 +13,20 @@ theme = "biztrox-hugo-modified"
         parent = "Izobraževanja"
         name = "Aktualna"
         URL = "/izobrazevanja/aktualno"
+        weight = 1
 
         [[menu.nav]]
         parent = "Izobraževanja"
         name = "Za podjetja"
         URL = "/izobrazevanja/za-podjetja"
-    
+        weight = 2
+
+        [[menu.nav]]
+        parent = "Izobraževanja"
+        name = "Sofinanciranje"
+        URL = "/izobrazevanja/sofinanciranje"
+        weight = 3
+
     [[menu.nav]]
     name = "Izvajalci"
     URL = "/izvajalci"

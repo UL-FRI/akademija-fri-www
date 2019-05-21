@@ -76,13 +76,21 @@ collections:
           - {label: "Title", name: "title", widget: string}
           - {label: "Description", name: "description", widget: string}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/about-bg.jpg"}
-          - {label: "List", name: "list", widget: list, field: { label: "Element", name: "element", widget: string } }
+          - {label: "List", name: "list", widget: list, field: {label: "Element", name: "element", widget: string}}
   - name: "pages"
     label: "Pages"
     files:
       - file: "content/izobrazevanja/za-podjetja.md"
         label: "Izobraževanja za podjetja"
         name: "za-podjetja-main"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/izobrazevanja/sofinanciranje.md"
+        label: "Izobraževanja - Sofinanciranje"
+        name: "sofinanciranje"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
@@ -132,5 +140,5 @@ collections:
             name: "list"
             widget: list
             fields:
-            - { label: "Image", name: "image" widget: "image" }
-            - { label: "URL", name: "url", widget: "string" }
+            - {label: "Image", name: "image" widget: "image"}
+            - {label: "URL", name: "url", widget: "string"}
