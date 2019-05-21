@@ -46,7 +46,9 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "First name", name: "firstName", widget: "string"}
+      - {label: "Last name", name: "lastName", widget: "string"}
+      - {label: "Creation date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Facebook URL", name: "facebookURL", widget: "string", required: false}
