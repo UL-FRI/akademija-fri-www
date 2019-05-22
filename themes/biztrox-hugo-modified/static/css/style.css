@@ -2134,6 +2134,10 @@ blockquote{
   background-color: #ee7171 !important;
 }
 
+#mc-embedded-subscribe:disabled {
+  background-color: #d1d1d1 !important;
+}
+
 /* 22.3 google map */
 .map {
   position: relative;

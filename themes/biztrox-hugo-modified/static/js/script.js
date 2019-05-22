@@ -123,5 +123,21 @@
         ]
     });
 
+    newsletter_set_button(true);
+    $("#gdpr_19317").change(function() {
+        if (this.checked) {
+            // Enabled prijava
+            newsletter_set_button(false);
+        }  else {
+            newsletter_set_button(true);
+        }
+    });
+
 
 })(jQuery);
+
+
+function newsletter_set_button(disabled) {
+    // Disabled is a boolean value whether the button is disabled or not.
+    $("#mc-embedded-subscribe").prop("disabled", disabled);
+}
