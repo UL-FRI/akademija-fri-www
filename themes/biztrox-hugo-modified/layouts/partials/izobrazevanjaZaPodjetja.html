@@ -13,9 +13,13 @@
                         <div class="izobrazevanja-za-podjetja-filter text-center pt-3 pb-4">
                             <ul class="controls list-inline">
                                 {{ "<!-- filter item list -->" | safeHTML }}
-                                <li class="list-inline-item control active" data-filter="all">Vsi</li>
+                                <li class="list-inline-item control active" data-filter="all">
+                                    <small>Vsi</small>
+                                </li>
                                 {{ range .Site.Taxonomies.tagsIzobrazevanjaZaPodjetja }}
-                                <li class="list-inline-item control" data-filter=".{{ anchorize .Page.Title }}">{{ .Page.Title }}</li>
+                                <li class="list-inline-item control" data-filter=".{{ anchorize .Page.Title }}">
+                                    <small>{{ .Page.Title }}</small>
+                                </li>
                                 {{ end }}
                             </ul>
                         </div>
