@@ -11,6 +11,10 @@
     <meta name="description" content="{{ .Site.Data.meta.description }}">
     <meta name="keywords" content="{{ .Site.Data.meta.keywords }}">
 
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+
+
     <!-- Hugo info -->
     <!-- Build date: {{ .Hugo.BuildDate }} -->
     {{ .Hugo.Generator }}
