@@ -16,7 +16,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Aktualna izobrazevanja"
     name: "izobrazevanjaAktualno"
@@ -26,7 +26,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaAktualno"}
       - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime"}, default: []}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
@@ -39,6 +39,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Image", name: "image", default: "images/placeholder.jpg"}
+      - {label: "Tags", name: "tagsIzobrazevanjaZaPodjetja", widget: list}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izvajalci"
     name: "izvajalci"

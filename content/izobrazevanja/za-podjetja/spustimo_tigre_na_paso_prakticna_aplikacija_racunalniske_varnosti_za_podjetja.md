@@ -2,6 +2,7 @@
 title: "Spustimo tigre na pašo! (Praktična aplikacija računalniške varnosti za podjetja)"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Naučili vas bomo osnovnih principov penetracijskega testiranja (i. e. preverjanja varnosti sistemov prek simuliranih napadov), s poudarkom na izrabi človeških virov in pasivnega zbiranja podatko o pomanjkljivostih sistema in posameznikov. Program vsebuje teoretične in praktične elemente.

@@ -52,6 +52,11 @@ theme = "biztrox-hugo-modified"
     URL = "/novice"
     weight = 7
 
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    tagIzobrazevanjeZaPodjetje = "tagsIzobrazevanjaZaPodjetja"
+
 [params]
 logo = "images/logo_fri.png"
 mail = "akademijafri@fri.uni-lj.si"

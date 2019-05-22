@@ -2,6 +2,7 @@
 title: "Razvoj VR aplikacij v okolju Unity3D"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. 

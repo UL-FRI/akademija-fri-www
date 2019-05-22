@@ -2,7 +2,9 @@
 title: "Globoko učenje v računalniškem vidu 1 in 2"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja: ["Globoko učenje", "Računalniški vid"]
 ---
 
 V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krilih globokega učenja dosega odlične rezultate in v obliki raznih aplikacij in robotskih sistemov vstopa na najrazličnejša področja našega življenja. Izobraževanji sta namenjeni predvsem podatkovnim analitikom in

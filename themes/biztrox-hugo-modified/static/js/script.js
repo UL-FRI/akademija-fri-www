@@ -67,6 +67,23 @@
         }, 1500, 'easeInOutExpo');
     });
 
+    //Active changer
+    $('.control').on('click', function () {
+        $('.control').removeClass('active');
+        $(this).addClass('active');
+    });
+
+    // mixitup filter
+    var containerEl = document.querySelector('[data-ref~="mixitup-container"]');
+    var mixer;
+    if (containerEl) {
+        mixer = mixitup(containerEl, {
+            selectors: {
+                target: '[data-ref~="mixitup-target"]'
+            }
+        });
+    }
+
     // clients logo slider
     $('.client-logo-slider').slick({
         infinite: true,

@@ -2,6 +2,7 @@
 title: "Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Hadoop je platforma namenjena shranjevanju velike količine podatkov. 

@@ -2,6 +2,7 @@
 title: Statistično modeliranje z Bayesovimi mrežami
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Spoznali bomo statistične osnove, kako razmišljati statistično in kako mreže uporabiti v praksi, pri čemer si bomo pomagali s sodobnim orodjem za statistično sklepanje Stan. 

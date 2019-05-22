@@ -2,7 +2,9 @@
 title: "Prepoznavanje groženj, ki jih srečamo v okviru informacijske varnosti"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja: ["Varnost"]
 ---
 Naučili vas bomo osnovnega izrazoslovja informacijske varnosti, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. 
 Spoznali bomo tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. 

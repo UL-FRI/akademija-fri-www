@@ -2,6 +2,7 @@
 title: "Uvod v nevronske mreže"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Nevronske mreže so računalniški programi, ki delujejo po vzoru človeških nevronskih mrež v možganih. Njihov cilj je izvajanje kognitivnih funkcij kot sta reševanje problemov in strojno učenje.

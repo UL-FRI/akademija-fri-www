@@ -2,6 +2,7 @@
 title: "Uvod v umetno inteligenco in strojno učenje"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Na izobraževnju bomo razjasnili razliko med človeško in računalniško inteligenco ter spoznali strojno učenje kot temelj umetne inteligence. 

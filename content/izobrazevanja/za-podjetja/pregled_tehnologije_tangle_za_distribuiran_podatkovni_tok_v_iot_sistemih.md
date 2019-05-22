@@ -2,6 +2,7 @@
 title: "Pregled tehnologije tangle za distribuiran podatkovni tok v IoT sistemih"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Pregledali bomo podatkovni model, ki temelji na usmerjenem acikličnem grafu, metodologijo toka podatkov ter dovzetnost do potencialnih napadov. Na podlagi kriptovalute IOTA bomo spoznali možnosti namestitve vozlišča, priprave denarnice in funkcionalnosti ekosistema. 

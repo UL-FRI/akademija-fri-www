@@ -2,6 +2,7 @@
 title: "Osnove 3D modeliranja v orodju Blender"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je smiselno spoznati tudi osnove nastajanja takšnih vsebin. 

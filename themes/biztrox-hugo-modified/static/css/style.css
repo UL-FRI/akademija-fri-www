@@ -51,6 +51,10 @@ h6, .h6 {
   font-size: 14px;
 }
 
+.badge-no-bold {
+  font-weight: normal;
+}
+
 /* 1.3 Button style */
 .btn {
   font-size: 14px;
@@ -128,7 +132,7 @@ h6, .h6 {
   padding: 13px 40px !important;
 }
 
-/* 1.2 common style */
+/* 1.2 Common style */
 body {
   background-color: #fff;
   overflow-x: hidden;
@@ -144,7 +148,7 @@ body {
   color: #fff;
 }
 
-/* preloader */
+/* Preloader */
 .preloader {
   position: fixed;
   top: 0;
@@ -1734,7 +1738,7 @@ img.arrow-bottom {
 /* 19. project section */
 
 
-.project-menu ul li {
+.izobrazevanja-za-podjetja-filter ul li {
   padding: 5px 20px;
   border-radius: 35px;
   color: #222;
@@ -1743,15 +1747,15 @@ img.arrow-bottom {
   border: 1px solid #e5e5e5;
   cursor: pointer;
   background: #f5f5f5;
-  margin: 0 10px 25px;
+  margin: 0 8px 15px;
 }
 
-.project-menu ul li.active {
+.izobrazevanja-za-podjetja-filter ul li.active {
   background: #e84444;
   color: #fff;
 }
 
-.project-info {
+.izobrazevanja-za-podjetja-info {
   position: absolute;
   top: 0;
   left: 0;
@@ -1762,7 +1766,7 @@ img.arrow-bottom {
   transition: .2s ease;
 }
 
-.project-info a {
+.izobrazevanja-za-podjetja-info a {
   color: #fff;
   position: absolute;
   left: 30px;
@@ -1772,11 +1776,11 @@ img.arrow-bottom {
   opacity: 0;
 }
 
-.project-info a:hover {
+.izobrazevanja-za-podjetja-info a:hover {
   color: #e84444;
 }
 
-.project-info p {
+.izobrazevanja-za-podjetja-info p {
   position: absolute;
   left: 25px;
   bottom: 0;
@@ -1788,21 +1792,21 @@ img.arrow-bottom {
   transition-delay: .1s;
 }
 
-.project-info p i {
+.izobrazevanja-za-podjetja-info p i {
   margin-right: 5px;
 }
 
-.project-info:hover {
+.izobrazevanja-za-podjetja-info:hover {
   opacity: 1;
 }
 
-.project-info:hover a {
+.izobrazevanja-za-podjetja-info:hover a {
   -webkit-transform: translateY(0);
           transform: translateY(0);
   opacity: 1;
 }
 
-.project-info:hover p {
+.izobrazevanja-za-podjetja-info:hover p {
   -webkit-transform: translateY(0);
           transform: translateY(0);
   opacity: .7;
@@ -1810,21 +1814,21 @@ img.arrow-bottom {
 
 /* 19.3 project single page start */
 
-.project-content h3{
+.izobrazevanja-za-podjetja-content h3{
   margin-bottom: 10px;
 }
 
-.project-content p{
+.izobrazevanja-za-podjetja-content p{
   margin-bottom: 40px;
 }
 
-.project-content img{
+.izobrazevanja-za-podjetja-content img{
   margin-bottom: 10px;
   max-width: 100%;
   height: auto
 }
 
-.project-content h6{
+.izobrazevanja-za-podjetja-content h6{
   font-family: "Open Sans", sans-serif;
   font-weight: 600;
   font-size: 14px;
@@ -1833,7 +1837,7 @@ img.arrow-bottom {
   position: relative;
   margin-left: 20px;
 }
-.project-content h6::before{
+.izobrazevanja-za-podjetja-content h6::before{
   position: absolute;
   content: "\e65d";
   font-family: "themify";

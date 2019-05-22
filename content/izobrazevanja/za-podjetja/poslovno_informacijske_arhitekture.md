@@ -2,6 +2,7 @@
 title: "Poslovno informacijske arhitekture"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovnoinformacijske arhitekture Archimate. 

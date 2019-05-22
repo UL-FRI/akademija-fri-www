@@ -2,7 +2,9 @@
 title: "Obvladovanje velikih količin podatkov (Big Data)"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja: ["Big data"]
 ---
 Količina podatkov, ki jih zajamemo dnevno, se je v zadnjih desetih letih povečala za nekaj velikostnih razredov. 
 Poleg kopičenja podatkov v okviru družbenih medijev, k temu pripomore tudi izjemen razmah interneta stvari. 

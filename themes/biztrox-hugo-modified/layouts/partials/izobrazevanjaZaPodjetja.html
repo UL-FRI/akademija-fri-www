@@ -10,29 +10,43 @@
                 <div class="post-content-extended">
 
                     <div class="col-lg-12">
-                        <div class="project-menu text-center">
+                        <div class="izobrazevanja-za-podjetja-filter text-center pt-3 pb-4">
                             <ul class="controls list-inline">
                                 {{ "<!-- filter item list -->" | safeHTML }}
-                                <li class="list-inline-item control active" data-filter="all">All</li>
-                                {{ range .Site.Data.project.filterList }}
-                                <li class="list-inline-item control" data-filter=".{{ .dataFilter }}">{{ .filterTitle }}</li> {{ end }}
+                                <li class="list-inline-item control active" data-filter="all">Vsi</li>
+                                {{ range .Site.Taxonomies.tagsIzobrazevanjaZaPodjetja }}
+                                <li class="list-inline-item control" data-filter=".{{ anchorize .Page.Title }}">{{ .Page.Title }}</li>
+                                {{ end }}
                             </ul>
                         </div>
                     </div>
 
-                    {{ range where .Site.RegularPages "Type" "izobrazevanjaZaPodjetja" }}
-                    {{ "<!-- item -->" | safeHTML }}
-                    <div class="col-lg-3 col-md-4 col-sm-6 p-0 {{ .Params.FilterCategories }}" data-ref="mixitup-target">
-                        <div class="position-relative">
-                            <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="project-image">
-                            <div class="project-info">
-                                <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
-                                <p>
-                                    <i class="ti-tag"></i>{{ .Params.Tag }}</p>
-                            </div>
+                    <div class="row" data-ref="mixitup-container">
+                        {{ range where .Site.RegularPages "Type" "izobrazevanjaZaPodjetja" }}
+                        {{ "<!-- item -->" | safeHTML }}
+                        <div class="col-sm-6 mb-4 {{ range .Params.tagsIzobrazevanjaZaPodjetja}} {{ anchorize . }}{{end}}" data-ref="mixitup-target">
+                            <a href="{{ .Permalink }}" class="h4 font-primary text-dark">
+                                <article class="card">
+                                    {{ if .Params.image }}
+                                    <div class="card-img-wrapper overlay-rounded-top">
+                                        <img class="card-img-top mx-auto d-block " src="{{ .Params.image | absURL }}" alt="blog-thumbnail">
+                                    </div>
+                                    {{ end }}
+                                    <div class="card-body p-3">
+                                        <div class="align-items-center card-title-text">
+                                            {{ .Title }}
+                                        </div>
+                                        <div class="pt-3 card-title-text">
+                                            {{ range .Params.tagsIzobrazevanjaZaPodjetja }}
+                                            <span class="badge badge-pill badge-light badge-no-bold"><small>{{ . }}</small></span>
+                                            {{ end }}
+                                        </div>
+                                    </div>
+                                </article>
+                            </a>
                         </div>
+                        {{ end }}
                     </div>
-                    {{ end }}
 
                 </div>
             </div>

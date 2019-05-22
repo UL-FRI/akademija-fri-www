@@ -2,6 +2,7 @@
 title: "Uporaba pametnih pogodb pri tehnologiji veriženja blokov"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks.

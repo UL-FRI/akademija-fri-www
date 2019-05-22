@@ -2,6 +2,7 @@
 title: Priporočilni sistemi
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Sodobni splet si je nemogoče zamisliti brez priporočilnih sistemov, saj zmanjšujejo informacijsko preobremenitev in uporabniku omogočajo ogled/uporabo/nakup izdelkov/storitev, ki bi mu utegnili biti všeč, vendar jih sicer zaradi preobilne izbire skoraj gotovo ne bi našel. 

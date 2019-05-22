@@ -2,6 +2,7 @@
 title: "Rudarjenje in organizacija besedil"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Udeleženci bodo uporabili metode za predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene podatke se bodo naučili shranjevati v semantičnih podatkovnih zbirkah (kot je na primer DBPedia) in po njih tudi poizvedovati. 

@@ -2,7 +2,9 @@
 title: "Prepoznavanje in odzivanje na InfoSec napade"
 date: 2019-04-19T0:00:00+01:00
 bgImage: images/background/page-title.jpg
+image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja: ["Varnost"]
 ---
 Na tem izobraževanju se bomo poglobili v načine varovanja podjetja pred napadi in načine pravilnega odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi, ki skrbi za človeške vire, ter pravnim in PR službam.
 Izobraževanje je namenjeno tehničnemu osebju – sistemskim administratorjem, CISO, CTO, vodjem in članom skupin, ki se v podjetju odzivajo na incidente, torej CERT v generičnem smislu besede.
