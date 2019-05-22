@@ -9,4 +9,4 @@ phone: +368 1 479 8208
 email: miha.grohar@fri.uni-lj.si
 redirect: ''
 ---
-Miha Grohar je asistent na Fakulteti račaunalništvo in informatiko Univerze v Ljubljani ter član Laboratorija za računalniške komunikacije.
+Miha Grohar je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član Laboratorija za računalniške komunikacije.

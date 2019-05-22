@@ -10,4 +10,4 @@ phone: +386 1 479 8208
 email: matjaz.pancur@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Matjaž Pančur je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član Laboratorija za računalniške komunikacije.
+Dr. Matjaž Pančur je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član Laboratorija za računalniške komunikacije FRI.
