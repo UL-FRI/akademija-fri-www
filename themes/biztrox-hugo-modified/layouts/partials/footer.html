@@ -25,27 +25,24 @@
                 </div>
 
                 {{ "<!-- footer navigation links -->" | safeHTML }}
-                <div class="col-lg-2 col-md-4 col-6">
+                <div class="col-lg-5 col-md-7 col-6 align-self-center">
                     <h4 class="text-white mb-4">Povezave</h4>
-                    <ul class="footer-links">
-                        {{ range .Site.Menus.nav }}
-                        <li>
-                            {{ if (len .Children ) }}
-                              <span style="color:white;">{{ .Name }}</span>
-                            {{ else }}
-                              <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+                    <div class="row">
+                        <div class="col-6">
+                            <ul class="footer-links">
+                            {{ range (first (div (len .Site.Menus.nav) 2) .Site.Menus.nav) }}
+                                {{ partial "footer_links.html" . }}
                             {{ end }}
-
-                            <ul>
-                                {{ range .Children }}
-                                <li>
-                                    <a href="{{ .URL | absURL }}">{{ .Name }}</a>
-                                </li>
-                                {{ end }}
                             </ul>
-                        </li>
-                        {{ end }}
-                    </ul>
+                        </div>
+                        <div class="col-6">
+                            <ul class="footer-links">
+                            {{ range (last (math.Ceil (div (len .Site.Menus.nav) 2.0)) .Site.Menus.nav) }}
+                                {{ partial "footer_links.html" . }}
+                            {{ end }}
+                            </ul>
+                        </div>
+                    </div>
                 </div>
 
             </div>

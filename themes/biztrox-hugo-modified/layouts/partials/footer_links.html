@@ -1,0 +1,15 @@
+<li>
+  {{ if (len .Children ) }}
+  <span style="color:white;">{{ .Name }}</span>
+  {{ else }}
+  <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+  {{ end }}
+
+  <ul>
+    {{ range .Children }}
+    <li>
+      <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</li>
