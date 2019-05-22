@@ -2,6 +2,7 @@
 Build with ❤️ using [hugo](https://gohugo.io/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/19095399-4ec8-4364-bc2e-f2ac4d3ac411/deploy-status)](https://app.netlify.com/sites/akademija-fri-beta/deploys)
+
 Link: [akademijafri.si](https://akademijafri.si)
 
 
