@@ -23,9 +23,9 @@ Pridržuje si pravico do napak v besedilih oziroma tekstovnih napak.
 
 ## **OBVEŠČANJE PREK E-NOVIC**
 
-Uporabnik se strinja, da ga ob prijavi na Novičnik (e-novice) občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Vaša privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. Podatke zbiramo na spletnem mestu Mailchimp
+Ob prijavi na Novičnik (e-novice) se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
 
-Ponudnik se obvezuje, da e-naslova uporabnika ne bo na noben način zlorabil ali posredoval tretji osebi. Uporabnik se lahko od prejemanja novic kadarkoli odjavi. 
+Fakulteta za računalništvo in informatiko Univerze v Ljubljani se obvezuje, da e-naslova ne bo na noben način zlorabil ali posredoval tretji osebi. Od prejemanja novic se lahko kadarkoli odjavite. 
 
 
 
