@@ -5,11 +5,9 @@ bgImage: images/background/page-title.jpg
 ---
 ## **POLITIKA ZASEBNOSTI**
 
-Akademija FRI, ki spada pod Fakulteto za računalništvo in informatiko Univerze v Ljubljani, in ki upravlja z spletnim mestom www.akademijafri.si, se zaveda pomembnosti varovanja osebnih podatkov in zasebnosti, zato z vsako posredovano informacijo ravna skrbno, ter se zavezuje k trajnemu varovanju vseh osebnih podatkov. Osebni podatki v nobenem primeru ne bodo predani nepooblaščenim osebam.
+Akademija FRI, ki spada pod Fakulteto za računalništvo in informatiko Univerze v Ljubljani, in ki upravlja z spletnim mestom www.akademijafri.si, se zaveda pomembnosti varovanja osebnih podatkov in zasebnosti, zato z vsako posredovano informacijo ravna skrbno, v skladu z veljavno zakonodajo o varstvu osebnih podatkov v Republiki Sloveniji in uredbo GDPR. Zavezuje se k trajnemu varovanju vseh osebnih podatkov, ki v nobenem primeru ne bodo predani nepooblaščenim osebam.
 
 Navedba osebnih podatkov je potrebna, če se naročite na obveščanje ali prijavite na izobraževanje. Osebne podatke zbiramo le takrat, ko nam jih pošljete s prijavo, izpolnjenimi obrazci ali elektronsko pošto kot naročilo na obveščanje ali storitev.
-
-Področje varstva osebnih podatkov v Sloveniji sistemsko ureja Zakon o varstvu osebnih podatkov (EU) 2016/679, (Uradni list RS, št. 86/04), ki določa pravice, obveznosti, načela in ukrepe, s katerimi se preprečujejo neustavni, nezakoniti in neupravičeni posegi v zasebnost in dostojanstvo posameznika pri obdelavi osebnih podatkov.
 
 ## **PRAVNO OBVESTILO**
 
