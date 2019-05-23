@@ -21,7 +21,7 @@ bgImage: images/background/page-title.jpg
 
 \*_DDV ni vključen v ceno_.
 
-#### Najem prostora Akademije FRI
+##### Najem prostora Akademije FRI
 
 **Kapaciteta:** 15-20 sedežev
 
