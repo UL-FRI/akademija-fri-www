@@ -20,3 +20,23 @@ bgImage: images/background/page-title.jpg
 * 6 šolskih ur: 5.000,00 EUR/dan
 
 \*_DDV ni vključen v ceno_.
+
+
+
+## **Najem prostora Akademije FRI**
+
+**Kapaciteta:** 15-20 sedežev
+
+**Oprema:**
+
+* projekcijsko platno - 1 kom
+* projektor - 1 kom
+* bela tabla
+* internet (hitrosti 1GB/s)
+
+**Cena:**
+
+* Najem do 5 ur med tednom 214,00 EUR.
+* Najem do 5 ur v soboto in nedeljo 128,00 EUR.
+* Celodnevni najem med tednom 324,00 EUR.
+* Celodnevni najem v soboto in nedeljo 194,00 EUR.
