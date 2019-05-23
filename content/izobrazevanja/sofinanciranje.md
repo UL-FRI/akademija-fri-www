@@ -15,7 +15,7 @@ Usposabljanja si lahko izberete izključno iz Kataloga usposabljanj, ki je objav
 * Subvencija: **minimalna 1.000 EUR, maksimalna 9999,99 EUR**.
 * Upravičenost stroškov in izdatkov traja od 5. 4. 2019 do 30. 9. 2023.
 
-## OSNOVNE INFORMACIJE O POTEKU PRIJAVE
+## Osnovne informacije o poteku prijave
 
 **PRIJAVA**
 
