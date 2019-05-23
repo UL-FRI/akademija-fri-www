@@ -1,25 +1,22 @@
 ---
-title: "Cenik"
-date: 2019-03-18T12:21:00+01:00
+title: Cenik
+date: 2019-03-18T11:21:00.000Z
 bgImage: images/background/page-title.jpg
-type: cenik
 ---
-
 ##### Frontalno predavanje (do 15 oseb):
-* 3-4 šolske ure: 2000 €/dan
-* 5-6 šolskih ur: 3000 €/dan
 
+* 3-4 šolske ure: 2.000,00 EUR/dan
+* 5-6 šolskih ur: 3.000,00 EUR/dan
 
 ##### Tehnološko specializirano izobraževanje z demo projektom (do 15 oseb):
-* 3-4 šolske ure: 3000 €/dan
-* 5-6 šolskih ur: 3500 €/dan
 
+* 3-4 šolske ure: 3.000,00 EUR/dan
+* 5-6 šolskih ur: 3.500,00 EUR/dan
 
 ##### "Hands on" intenzivno izobraževanje (do 10 oseb):
-* 3-4 šolske ure: 4000 €/dan
-* 5 šolskih ur: 4500 €/dan
-* 6 šolskih ur: 5000 €/dan
 
-**DDV ni vključen v ceno*.
+* 3-4 šolske ure: 4.000,00 EUR/dan
+* 5 šolskih ur: 4.500,00 EUR/dan
+* 6 šolskih ur: 5.000,00 EUR/dan
 
-Vsak udeleženec naj s seboj prinese svoj prenosni računalnik.
+\*_DDV ni vključen v ceno_.
