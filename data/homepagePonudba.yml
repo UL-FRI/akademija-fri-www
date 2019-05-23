@@ -2,11 +2,11 @@ title: Ponudba
 description: 'Nudimo vam izobraževanja z aktualnih področij:'
 bgImage: images/background/about-bg.jpg
 list:
-  - data mining
-  - big data
-  - artificial intelligence
-  - deep learning
-  - cyber security
-  - blockchain
-  - machine learning
-  - design
+  - Podatkovno rudarjenje
+  - Big Data
+  - Umetna inteligenca
+  - Globoko učenje
+  - Informacijska varnost
+  - Blockchain
+  - Strojno učenje
+  - Dizajn
