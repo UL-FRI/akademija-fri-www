@@ -15,8 +15,6 @@ Usposabljanja si lahko izberete izključno iz Kataloga usposabljanj, ki je objav
 * Subvencija: **minimalna 1.000 EUR, maksimalna 9999,99 EUR**.
 * Upravičenost stroškov in izdatkov traja od 5. 4. 2019 do 30. 9. 2023.
 
-
-
 ## OSNOVNE INFORMACIJE O POTEKU PRIJAVE
 
 **PRIJAVA**
@@ -53,7 +51,7 @@ Upravičenec ima največ **6 mesecev** (od dneva podpisa pogodbe) časa, da **iz
 
 Slovenski podjetniški sklad se zaveže, da bo odobrena sredstva plačal **v 30 dneh** po prejemu pravilno izstavljenega zahtevka za izplačilo in potrjene dokumentacije, ki izkazuje nastanek upravičenih izdatkov, oziroma najkasneje naslednji delovni dan po prejemu sredstev s strani Ministrstva za gospodarski razvoj in tehnologijo in v okviru razpoložljivih proračunskih sredstev za ta projekt, na transakcijski račun upravičenca.
 
-Upravičenec se strinja, da mu bo DIH Slovenija po končanem usposabljanju, posredoval vprašalnik o oceni zadovoljstva o izvedenem usposabljanju,
+Upravičenec se strinja, da mu bo DIH Slovenija po končanem usposabljanju, posredoval vprašalnik o oceni zadovoljstva o izvedenem usposabljanju.
 
 Izbrani zunanji izvajalec usposabljanja je zavezan po vsakem izvedenem usposabljanju pripraviti poročilo o izvedenem usposabljanju in ga v roku 5 delovnih dni po končanem usposabljanju posredovati na elektronski naslov DIH Slovenija: info@dihslovenia.si.
 
