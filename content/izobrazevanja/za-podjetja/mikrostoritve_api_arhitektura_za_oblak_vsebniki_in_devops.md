@@ -37,7 +37,7 @@ Izobraževanje je primerno predvsem za CIO, vodje razvoja, načrtovalce in arhit
 V izdelavi.
 
 #### Predznanje:
-
+V izdelavi.
 #### Trajanje:
 
 2 x 4 šolske ure
