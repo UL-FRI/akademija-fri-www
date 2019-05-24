@@ -1,19 +1,41 @@
 ---
-title: "Razvoj VR aplikacij v okolju Unity3D"
-date: 2019-04-19T0:00:00+01:00
+title: Razvoj VR aplikacij v okolju Unity3D
+date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja:
+  - Kreativa
 ---
-Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. 
-Z vse večjim krogom uporabnikov pa se veča tudi potreba po dobrih in smiselnih aplikacijah, ki s pomočjo navidezne resničnosti predtavijo izbrano vsebino. 
-V okviru izobraževanja bomo spoznali čiste osnove razvoja aplikacij za navidezno resničnost v okolju Unity3D.
+Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. Z vse večjim krogom uporabnikov pa se veča tudi potreba po dobrih in smiselnih aplikacijah, ki s pomočjo navidezne resničnosti predstavijo izbrano vsebino. V okviru izobraževanja bomo spoznali čiste osnove razvoja aplikacij za navidezno resničnost v okolju Unity3D.
 
-Trajanje: 1-2 x 6 šolskih ur
+#### Namen:
 
-Delavnica je lahko prilagojena za tiste, ki okolja Unity3D še ne poznajo (2 dni) ali tiste, ki že poznajo
-osnove okolja in si želijo znanje dodatno nadgraditi (1 dan).
+V izdelavi.
 
----
+#### Vsebina:
 
-Ključni izvajalci: as. dr. Ciril Bohak
+V izdelavi.
+
+#### Za koga?
+
+V izdelavi.
+
+#### Zakaj se udeležiti?
+
+V izdelavi.
+
+#### Predznanja:
+
+V izdelavi
+
+#### Trajanje:
+
+* 1-2 x 6 šolskih ur
+  Delavnica je lahko prilagojena za tiste, ki okolja Unity3D še ne poznajo (2 dni) ali tiste, ki že poznajo osnove okolja in si želijo znanje dodatno nadgraditi (1 dan).
+
+- - -
+
+#### Izvajalci:
+
+* [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
