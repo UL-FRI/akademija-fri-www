@@ -27,6 +27,10 @@ Na izobraževanju bo prek praktičnega primera predstavljen dizajnerski pristop 
 
 Izobraževanje je namenjeno vsem, ki so novi v dizajnerskem pristopu in si želijo živahnega, praktičnega uvoda v svoja temeljna načela. Za vodje velikih in malih podjetij ter njihove uslužbence, za zagonska podjetja, uslužbence vladne in akademske sfere.
 
+#### Zakaj se udeležiti?
+
+V izdelavi.
+
 #### Predznanje:
 
 Predznanja niso potrebna.
