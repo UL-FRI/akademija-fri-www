@@ -78,6 +78,10 @@ mailchimpFormName = "b_ad2bdda8ad23165330c877ca4_0990001b34"
     # copyright
     copyright = "Vse pravice pridržane &copy; <span class=\"text-primary\">Akademija FRI</span>, <script>document.write(new Date().getFullYear())</script><noscript>2019</noscript>"
 
+    [[params.footer.links]]
+    name = "Pogoji uporabe"
+    URL = "/pogoji"
+
         # social icon
         [[params.footer.socialIcon]]
         icon = "ti-facebook"
