@@ -1,6 +1,6 @@
 ---
-title: "Iterativno in agilno vodenje projektov razvoja programske opreme"
-date: 2019-04-19T0:00:00+01:00
+title: Iterativno in agilno vodenje projektov razvoja programske opreme
+date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
@@ -10,20 +10,27 @@ V drugem delu udeleženci podrobneje spoznajo dva popularna agilna iterativna pr
 Izobraževanje je primerno predvsem za vodje projektov razvoja programske opreme.
 
 #### Namen
+
 Namen izobraževanja je predstaviti sodobne pristope vodenja projektov razvoja programske opreme. 
 
 #### Vsebina
-- Predstavitev iterativnega razvoja.
-- Organizacija in planiranje iterativno vodenega projekta.
-- Obvladovanje projektnih tveganj.
-- Meritve in ocenjevanje napredka projekta.
-- Predstavitev agilnih pristopov.
-- Pristop Scrum.
-- Uporabniške zgodbe.
-- Pristop Kanban.
 
-Trajanje: 2 x 4 šolske ure
+* Predstavitev iterativnega razvoja.
+* Organizacija in planiranje iterativno vodenega projekta.
+* Obvladovanje projektnih tveganj.
+* Meritve in ocenjevanje napredka projekta.
+* Predstavitev agilnih pristopov.
+* Pristop Scrum.
+* Uporabniške zgodbe.
+* Pristop Kanban.
 
---- 
+#### Trajanje:
 
-Ključni izvajalci: izr. prof. dr. Damjan Vavpotič, izr. prof. dr. Tomaž Hovelja
+* 2 x 4 šolske ure
+
+- - -
+
+#### Izvajalci:
+
+* [Damjan Vavpotič](https://akademijafri.si/izvajalci/damjan-vavpotic/)
+* Tomaž Hovelja
