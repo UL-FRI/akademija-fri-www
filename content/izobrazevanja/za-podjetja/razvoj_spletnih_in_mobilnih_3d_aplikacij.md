@@ -1,19 +1,40 @@
 ---
-title: "Razvoj spletnih in mobilnih 3D aplikacij"
-date: 2019-04-19T0:00:00+01:00
+title: Razvoj spletnih in mobilnih 3D aplikacij
+date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja:
+  - Kreativa
 ---
-V zadnjem času se pojavlja vse večja potreba po 3D vsebinah in vizualizacijah, ki so vključenih v spletne in mobilne aplikacije. 
-V okviru izobraževanja bodo na praktičnih delavnicah podane osnove 3D računalniške grafike in razvoja spletnih in mobilnih 3D aplikacij. 
-Po zaključenem izobraževanju bodo udeleženci lahko samostojno razvili aplikacijo s 3D vsebino.
+V zadnjem času se pojavlja vse večja potreba po 3D vsebinah in vizualizacijah, ki so vključenih v spletne in mobilne aplikacije. V okviru izobraževanja bodo na praktičnih delavnicah podane osnove 3D računalniške grafike in razvoja spletnih in mobilnih 3D aplikacij v programu WebGL/Unity. Po zaključenem izobraževanju bodo udeleženci lahko samostojno razvili aplikacijo s 3D vsebino.
 
-#### Tehnologije
-- WebGL/Unity.
+#### Namen:
 
-Trajanje: 3-5 x 6 šolskih ur
+V izdelavi.
 
----
+#### Vsebina:
 
-Ključni izvajalci: as. dr. Ciril Bohak
+V izdelavi.
+
+#### Za koga?
+
+V izdelavi.
+
+#### Zakaj se udeležiti?
+
+V izdelavi.
+
+#### Predznanje:
+
+V izdelavi.
+
+#### Trajanje: 
+
+* 3-5 x 6 šolskih ur
+
+- - -
+
+#### Izvajalci: 
+
+* [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
