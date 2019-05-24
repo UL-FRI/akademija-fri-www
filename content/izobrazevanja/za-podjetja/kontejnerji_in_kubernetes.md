@@ -23,7 +23,8 @@ Pregled arhitekture, tehnologij, orodij in pristopov za potrebe obvladovanja kon
 #### Za koga?
 
 Izobraževanje je primerno predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
-
+#### Zakaj se udeležiti?
+V izdelavi.
 #### Predznanja:
 
 Specifična predznanja niso potrebna.
