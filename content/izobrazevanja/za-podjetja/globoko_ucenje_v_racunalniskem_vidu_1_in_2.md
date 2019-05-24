@@ -17,13 +17,13 @@ podatkovnim inženirjem ter vsem, ki bi želeli izvedeti več o tehnologiji.
 
 Udeleženci dobijo pravo sliko glede tovrstne tehnologije in boljše razumevanje, ali je uporabna na njihovi problemski domeni. 
 
-
-
 ##### Vsebina
 
 Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje predvsem pa zmožnosti in aplikacije globokega učenja v računalniškem vidu. 
 
-Trajanje: 4 šolske ure 
+##### Trajanje:
+
+* 4 šolske ure 
 
 - - -
 
@@ -45,8 +45,14 @@ Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni 
   * lokalizacija in detekcija.
 * Uporaba globokega učenja na drugih področjih.
 
-Trajanje: 2 x 4 šolske ure
+##### Trajanje:
+
+* 2 x 4 šolske ure
 
 - - -
 
-Ključni izvajalci: izr. prof. dr. Danijel Skočaj, as. Žiga Emeršič, as. Blaž Meden
+##### Ključni izvajalci:
+
+* Danijel Skočaj 
+* [Žiga Emeršič](https://akademijafri.si/izvajalci/ziga-emersic/) 
+* [Blaž Meden](https://akademijafri.si/izvajalci/blaz-meden/)
