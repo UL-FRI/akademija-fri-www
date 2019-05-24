@@ -25,10 +25,10 @@ Na izobraževanju bo prek praktičnega primera predstavljen dizajnerski pristop 
 
 #### Trajanje:
 
-4 šolske ure
+* 4 šolske ure
 
 - - -
 
-#### Ključni izvajalci:
+#### Izvajalci:
 
-dr. Rok Stritar
+* Rok Stritar
