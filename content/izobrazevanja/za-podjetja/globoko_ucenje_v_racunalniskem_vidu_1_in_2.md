@@ -26,7 +26,8 @@ Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni 
 
 #### Za koga?
 V izdelavi.
-
+#### Zakaj se udeležiti?
+V izdelavi.
 #### Predznanje:
 V izdelavi.
 #### Trajanje:
