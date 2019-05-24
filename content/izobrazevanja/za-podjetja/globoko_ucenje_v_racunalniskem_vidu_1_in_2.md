@@ -13,13 +13,19 @@ podatkovnim inženirjem ter vsem, ki bi želeli izvedeti več o tehnologiji.
 
 #### Globoko učenje v računalniškem vidu 1
 
-##### Namen
+##### Namen:
 
 Udeleženci dobijo pravo sliko glede tovrstne tehnologije in boljše razumevanje, ali je uporabna na njihovi problemski domeni. 
 
-##### Vsebina
+##### Vsebina:
 
 Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje predvsem pa zmožnosti in aplikacije globokega učenja v računalniškem vidu. 
+
+##### Za koga?
+V izdelavi.
+
+##### Predznanje:
+V izdelavi.
 
 ##### Trajanje:
 
@@ -29,11 +35,11 @@ Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje
 
 #### Globoko učenje v računalniškem vidu 2
 
-##### Namen
+##### Namen:
 
 Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni računalniški vid, predvsem pa skozi vrsto primerov dobrih praks predstaviti zmožnosti, ki jih ta tehnologija ponuja.
 
-##### Vsebina
+##### Vsebina:
 
 * Osnove globokih nevronskih mrež.
 * Osnove konvolucijskih nevronskih mrež.
@@ -45,6 +51,11 @@ Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni 
   * lokalizacija in detekcija.
 * Uporaba globokega učenja na drugih področjih.
 
+##### Za koga?
+V izdelavi.
+
+##### Predznanje:
+V izdelavi.
 ##### Trajanje:
 
 * 2 x 4 šolske ure
