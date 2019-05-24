@@ -1,6 +1,6 @@
 ---
 title: Globoko učenje v računalniškem vidu 2
-date: 2019-04-18T23:00:00.000Z
+date: 2019-05-23T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
