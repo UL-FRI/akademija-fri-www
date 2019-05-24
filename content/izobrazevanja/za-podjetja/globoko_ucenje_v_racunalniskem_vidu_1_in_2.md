@@ -51,7 +51,7 @@ Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni 
 
 - - -
 
-##### Ključni izvajalci:
+##### Izvajalci:
 
 * Danijel Skočaj 
 * [Žiga Emeršič](https://akademijafri.si/izvajalci/ziga-emersic/) 
