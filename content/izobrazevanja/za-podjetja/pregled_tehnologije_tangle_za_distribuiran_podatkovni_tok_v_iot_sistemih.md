@@ -41,7 +41,7 @@ V izdelavi.
 
 #### Trajanje:
 
-4 šolske ure
+* 4 šolske ure
 
 - - -
 
