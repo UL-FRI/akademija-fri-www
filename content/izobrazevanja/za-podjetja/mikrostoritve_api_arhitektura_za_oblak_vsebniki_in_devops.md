@@ -16,6 +16,7 @@ Udeleženci bodo spoznali najnovejše pristope pri razvoju sodobnih aplikacij in
 Razvoj kompetenc programske arhitekture, načrtovanja aplikacij, razvoja, programskega inženirstva, računalništva v oblaku.
 
 #### Vsebina:
+
 * Izzivi digitalizacije in digitalne preobrazbe.
 * Zahteve sodobnih digitalnih aplikacijskih rešitev.
 * Podrobna razlaga arhitekture za oblak in koncepti oblaka.
@@ -33,16 +34,19 @@ Razvoj kompetenc programske arhitekture, načrtovanja aplikacij, razvoja, progra
 Izobraževanje je primerno predvsem za CIO, vodje razvoja, načrtovalce in arhitekte informacijskih rešitev, razvijalce.
 
 #### Zakaj se udeležiti?
+
 V izdelavi.
 
 #### Predznanje:
+
 V izdelavi.
+
 #### Trajanje:
 
 2 x 4 šolske ure
 
 - - -
 
-#### Ključni izvajalci:
+#### Izvajalci:
 
 * [Matjaž Branko Jurič](https://akademijafri.si/izvajalci/matjaz-branko-juric/)
