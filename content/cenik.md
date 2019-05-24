@@ -27,7 +27,7 @@ bgImage: images/background/page-title.jpg
 
 **Oprema:**
 
-* projekcijsko platno - 1 kom
+* projekcijsko platno - 1 kom.
 * projektor - 1 kom
 * bela tabla
 * internet (hitrosti 1GB/s)
