@@ -21,7 +21,8 @@ Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje
 
 #### Za koga?
 V izdelavi.
-
+#### Zakaj se udeležiti?
+V izdelavi.
 #### Predznanje:
 V izdelavi.
 
