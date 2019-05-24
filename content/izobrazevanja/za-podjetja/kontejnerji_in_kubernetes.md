@@ -9,18 +9,26 @@ tagsIzobrazevanjaZaPodjetja:
   - Kontejnerji
   - DevOps
 ---
-Kontejnerji in Kubernetes sta najpopularnejši tehnologiji za izgradnjo t. i. oblačnih sistemov in aplikacij (_cloud native applications/systems_). Izobraževanje je primerno predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
+Kontejnerji in Kubernetes sta najpopularnejši tehnologiji za izgradnjo t. i. oblačnih sistemov in aplikacij (_cloud native applications/systems_). 
 
-#### Namen
+#### Namen:
 
 * Obvladovanje in razumevanje prednosti in slabosti tehnologije kontejnerjev.
 * Razumevanje delovanja in arhitekture gruče orkestratorja kontejnerjev Kubernetes.
 
-#### Vsebina
+#### Vsebina:
 
 Pregled arhitekture, tehnologij, orodij in pristopov za potrebe obvladovanja kontejnerjev z uporabo orkestratorja Kubernetes. 
 
-#### Trajanje
+#### Za koga?
+
+Izobraževanje je primerno predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
+
+#### Predznanja:
+
+Specifična predznanja niso potrebna.
+
+#### Trajanje:
 
 * 4 šolske ure - predstavitev tehnologije Kubernetes brez praktičnega dela delavnice.
 * 2 x 4 šolske ure - predstavitev tehnologije Kubernetes s praktično delavnico.
@@ -28,4 +36,7 @@ Pregled arhitekture, tehnologij, orodij in pristopov za potrebe obvladovanja kon
 
 - - -
 
-Ključni izvajalci: as. dr. Matjaž Pančur, as. Miha Grohar
+#### Ključni izvajalci:
+
+* [Matjaž Pančur](https://akademijafri.si/izvajalci/matjaz-pancur/)
+* [Miha Grohar](https://akademijafri.si/izvajalci/miha-grohar/)
