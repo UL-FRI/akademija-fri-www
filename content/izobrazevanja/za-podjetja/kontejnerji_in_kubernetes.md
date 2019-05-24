@@ -23,8 +23,11 @@ Pregled arhitekture, tehnologij, orodij in pristopov za potrebe obvladovanja kon
 #### Za koga?
 
 Izobraževanje je primerno predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
+
 #### Zakaj se udeležiti?
+
 V izdelavi.
+
 #### Predznanja:
 
 Specifična predznanja niso potrebna.
@@ -37,7 +40,7 @@ Specifična predznanja niso potrebna.
 
 - - -
 
-#### Ključni izvajalci:
+#### Izvajalci:
 
 * [Matjaž Pančur](https://akademijafri.si/izvajalci/matjaz-pancur/)
 * [Miha Grohar](https://akademijafri.si/izvajalci/miha-grohar/)
