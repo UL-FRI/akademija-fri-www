@@ -42,7 +42,7 @@ Predznanja niso potrebna.
 
 #### Trajanje:
 
-3-5 x 6 šolskih ur
+* 3-5 x 6 šolskih ur
 
 - - -
 
