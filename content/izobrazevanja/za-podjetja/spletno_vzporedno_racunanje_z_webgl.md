@@ -31,7 +31,7 @@ Po zaključenem izobraževanju bodo udeleženci natančno poznali zgradbo vmesni
 
   V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 * Poznavanje jezika Javascript.
 
