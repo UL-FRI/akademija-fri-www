@@ -25,16 +25,16 @@ V izdelavi.
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi.
 
-#### Trajanje: 
+#### Trajanje:
 
 * 3-5 x 6 šolskih ur
 
 - - -
 
-#### Izvajalci: 
+#### Izvajalci:
 
 * [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
