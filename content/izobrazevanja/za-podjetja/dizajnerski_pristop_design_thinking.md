@@ -31,7 +31,7 @@ Izobraževanje je namenjeno vsem, ki so novi v dizajnerskem pristopu in si želi
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 Predznanja niso potrebna.
 
