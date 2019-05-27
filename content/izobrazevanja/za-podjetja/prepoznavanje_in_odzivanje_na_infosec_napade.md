@@ -37,7 +37,7 @@ Izobraževanje je namenjeno tehničnemu osebju – sistemskim administratorjem, 
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi.
 
