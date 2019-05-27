@@ -37,7 +37,7 @@ Izobraževanje je primerno predvsem za CIO, vodje razvoja, načrtovalce in arhit
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi.
 
