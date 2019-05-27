@@ -18,6 +18,13 @@ Glavni namen je spoznati Bayesove mreže – razred probabilističnih grafičnih
 * Primeri analiz: ocenjevanje parametra, primerjava skupin, linearna regresija.
 * Praktični in računski vidiki Bayesove statistike.
 
+#### Za koga?
+V izdelavi.
+
+#### Zakaj se udeležiti?
+
+V izdelavi.
+
 #### Predznanje:
 
 * Dobro znanje programiranja, osnove verjetnosti in zanimanje za reševanje nalog s področja analize podatkov.
