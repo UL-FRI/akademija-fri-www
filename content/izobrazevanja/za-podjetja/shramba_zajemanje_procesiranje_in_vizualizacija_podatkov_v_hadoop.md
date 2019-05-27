@@ -8,7 +8,6 @@ tagsIzobrazevanjaZaPodjetja:
   - Hadoop
 ---
 Hadoop je platforma namenjena shranjevanju velike količine podatkov. 
-Izobraževanja so primerna predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
 
 #### Namen:
 
@@ -34,8 +33,26 @@ Namen izobraževanj je predstaviti konkretna orodja iz Hadoop ekosistema in njeg
 * orodje Apache Spark streaming in njegovo delovanje na konkretnem primeru;
 * orodje Apache Superset in njegovo delovanje na konkretnem primeru.
 
-Trajanje: vsako od izobraževanj traja 2 x 4 šolske ure.
+#### Za koga?
+
+Izobraževanja so primerna predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
+
+#### Zakaj se udeležiti?
+
+V izdelavi.
+
+#### Predznanje:
+
+V izdelavi
+
+#### Trajanje: 
+
+* Vsako od izobraževanj traja 2 x 4 šolske ure.
 
 - - -
 
-Ključni izvajalci: prof. dr. Marko Bajec, doc. dr. Dejan Lavbič, as. dr. Slavko Žitnik
+#### Izvajalci: 
+
+* Marko Bajec
+* Dejan Lavbič
+* Slavko Žitnik
