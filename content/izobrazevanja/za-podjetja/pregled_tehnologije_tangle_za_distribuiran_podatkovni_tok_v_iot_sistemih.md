@@ -35,7 +35,7 @@ Izobraževanje je primerno predvsem za razvijalce, sistemske administratorje, za
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi.
 
