@@ -25,11 +25,17 @@ Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni 
 * Uporaba globokega učenja na drugih področjih.
 
 #### Za koga?
+
 V izdelavi.
+
 #### Zakaj se udeležiti?
+
 V izdelavi.
-#### Predznanje:
+
+#### Predznanja:
+
 V izdelavi.
+
 #### Trajanje:
 
 * 2 x 4 šolske ure
