@@ -29,7 +29,7 @@ Izobraževanje je namenjeno vsem zaposlenim v srednjih in večjih podjetjih.
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi.
 
