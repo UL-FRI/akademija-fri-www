@@ -37,7 +37,7 @@ Osnovno predznanje iz programiranja (poljuben programski jezik).
 
 #### Trajanje:
 
-2x4 šolske ure
+* 2 x 4 šolske ure
 
 - - -
 
