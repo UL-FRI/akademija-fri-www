@@ -32,7 +32,7 @@ V izdelavi
 #### Trajanje:
 
 * 1-2 x 6 šolskih ur
-  Delavnica je lahko prilagojena za tiste, ki okolja Unity3D še ne poznajo (2 dni) ali tiste, ki že poznajo osnove okolja in si želijo znanje dodatno nadgraditi (1 dan).
+* Delavnica je lahko prilagojena za tiste, ki okolja Unity3D še ne poznajo (2 dni) ali tiste, ki že poznajo osnove okolja in si želijo znanje dodatno nadgraditi (1 dan).
 
 - - -
 
