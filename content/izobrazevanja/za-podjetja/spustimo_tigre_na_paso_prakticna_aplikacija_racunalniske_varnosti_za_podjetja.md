@@ -37,10 +37,11 @@ V izdelavi.
 
 V izdelavi.
 
-#### Trajanje: 
-
+#### Trajanje:
 * 4 x 5 šolskih ur
----
-#### Izvajalci: 
 
-* David Modic
+- - -
+
+#### Izvajalci:
+
+* [David Modic](https://akademijafri.si/izvajalci/david-modic/)
