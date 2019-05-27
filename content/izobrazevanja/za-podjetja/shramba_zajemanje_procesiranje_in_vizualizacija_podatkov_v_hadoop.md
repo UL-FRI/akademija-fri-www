@@ -43,7 +43,7 @@ V izdelavi.
 
 #### Predznanja:
 
-V izdelavi
+V izdelavi.
 
 #### Trajanje:
 
