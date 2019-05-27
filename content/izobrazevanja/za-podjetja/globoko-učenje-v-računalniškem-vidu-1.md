@@ -20,16 +20,23 @@ Udeleženci dobijo pravo sliko glede tovrstne tehnologije in boljše razumevanje
 Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje predvsem pa zmožnosti in aplikacije globokega učenja v računalniškem vidu. 
 
 #### Za koga?
+
 V izdelavi.
+
 #### Zakaj se udeležiti?
+
 V izdelavi.
-#### Predznanje:
+
+#### Predznanja:
+
 V izdelavi.
 
 #### Trajanje:
 
 * 4 šolske ure 
+
 - - -
+
 #### Izvajalci:
 
 * Danijel Skočaj 
