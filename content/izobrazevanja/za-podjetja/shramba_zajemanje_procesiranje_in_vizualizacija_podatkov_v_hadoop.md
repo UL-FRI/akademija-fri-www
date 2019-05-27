@@ -41,17 +41,17 @@ Izobraževanja so primerna predvsem za tehnično osebje (IT arhitekti, razvijalc
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi
 
-#### Trajanje: 
+#### Trajanje:
 
 * Vsako od izobraževanj traja 2 x 4 šolske ure.
 
 - - -
 
-#### Izvajalci: 
+#### Izvajalci:
 
 * Marko Bajec
 * Dejan Lavbič
