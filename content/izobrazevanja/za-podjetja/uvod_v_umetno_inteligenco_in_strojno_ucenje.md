@@ -38,7 +38,7 @@ V izdelavi.
 
 #### Trajanje:
 
-*3 x 3 šolske ure predavanj in 2 x 6 šolskih ur praktičnih vaj na računalnikih.
+* 3 x 3 šolske ure predavanj in 2 x 6 šolskih ur praktičnih vaj na računalnikih.
 
 - - -
 
