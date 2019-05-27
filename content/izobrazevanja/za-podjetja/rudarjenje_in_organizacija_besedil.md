@@ -31,7 +31,7 @@ V izdelavi.
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 Osnovno predznanje iz programiranja (poljuben programski jezik).
 
