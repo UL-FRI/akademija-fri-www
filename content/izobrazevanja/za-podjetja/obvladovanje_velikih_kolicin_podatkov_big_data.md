@@ -32,7 +32,7 @@ V izdelavi.
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi.
 
