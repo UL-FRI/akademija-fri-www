@@ -5,7 +5,7 @@ bgImage: images/background/page-title.jpg
 image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
-Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno.  S pomočjo RaspberryPi bomo na podlagi senzorjev premikanja prižigali in ugašali žarnice in to javljali na mobilne telefone. 
+Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno. S pomočjo RaspberryPi bomo na podlagi senzorjev premikanja prižigali in ugašali žarnice in to javljali na mobilne telefone. 
 
 #### Namen:
 
