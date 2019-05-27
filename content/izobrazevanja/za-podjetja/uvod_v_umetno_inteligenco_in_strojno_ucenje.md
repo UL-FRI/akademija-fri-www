@@ -32,13 +32,17 @@ V izdelavi.
 
 V izdelavi.
 
-#### Trajanje: 
+#### Predznanja:
+
+V izdelavi.
+
+#### Trajanje:
 
 * 3x3 šolske ure predavanj in 2x6 šolskih ur praktičnih vaj na računalnikih.
 
 - - -
 
-#### Izvajalci: 
+#### Izvajalci:
 
 * [Igor Kononenko](https://akademijafri.si/izvajalci/igor-kononenko/)
 * [Petar Vračar](https://akademijafri.si/izvajalci/petar-vracar/)
