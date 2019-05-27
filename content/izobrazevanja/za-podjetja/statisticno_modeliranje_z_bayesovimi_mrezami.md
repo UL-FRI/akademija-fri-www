@@ -19,13 +19,14 @@ Glavni namen je spoznati Bayesove mreže – razred probabilističnih grafičnih
 * Praktični in računski vidiki Bayesove statistike.
 
 #### Za koga?
+
 V izdelavi.
 
 #### Zakaj se udeležiti?
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 * Dobro znanje programiranja, osnove verjetnosti in zanimanje za reševanje nalog s področja analize podatkov.
 * Znanje programskega jezika R, strojnega učenja ali statistike je zaželeno, ni pa nujno.
