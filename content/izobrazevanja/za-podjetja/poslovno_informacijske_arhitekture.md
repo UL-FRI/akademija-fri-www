@@ -30,7 +30,7 @@ Izobraževanje je primerno predvsem za vodje projektov, IT arhitekte in poslovne
 
 V izdelavi.
 
-#### Predznanje:
+#### Predznanja:
 
 V izdelavi.
 
