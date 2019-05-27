@@ -1,30 +1,47 @@
 ---
-title: "Uporaba pametnih pogodb pri tehnologiji veriženja blokov"
-date: 2019-04-19T0:00:00+01:00
+title: Uporaba pametnih pogodb pri tehnologiji veriženja blokov
+date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja:
+  - Blockchain
 ---
 Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks.
-Izobraževanje je primerno predvsem za razvijalce, sistemske administratorje, za vse, ki bi želeli izvedeti več o digitalni alternativi klasičnih pogodb.
 
-#### Namen
+
+#### Namen:
+
 Predstaviti možnosti praktične uporabe bodisi kot razširitev obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med različnimi entitetami. 
 
-#### Vsebina
-- Osnovni pregled tehnologije veriženja blokov (blockchain).
-- Kaj so pametne pogodbe in za kaj se uporabljajo?
-- Življenjski cikel pametnih pogodb.
-- Sistematični pregled aktualnih kriptovalut, ki podpirajo pametne pogodbe.
-- Osnove priprave pametnih pogodb v Ethereum ekosistemu.
-- Orodja za pripravo, validacijo, testiranje in namestitev pametnih pogodb v testno omrežje.
-- Primeri dobrih in slabih praks pametnih pogodb v Ethereum ekosistemu.
+#### Vsebina:
 
-Predznanje:
-- Priporočljivo osnovno predznanje JavaScript programskega jezika.
+* Osnovni pregled tehnologije veriženja blokov (blockchain).
+* Kaj so pametne pogodbe in za kaj se uporabljajo?
+* Življenjski cikel pametnih pogodb.
+* Sistematični pregled aktualnih kriptovalut, ki podpirajo pametne pogodbe.
+* Osnove priprave pametnih pogodb v Ethereum ekosistemu.
+* Orodja za pripravo, validacijo, testiranje in namestitev pametnih pogodb v testno omrežje.
+* Primeri dobrih in slabih praks pametnih pogodb v Ethereum ekosistemu.
 
-Trajanje: 3 x 3 šolske ure
+#### Za koga?
 
----
+Izobraževanje je primerno predvsem za razvijalce in sistemske administratorje; za vse, ki bi želeli izvedeti več o digitalni alternativi klasičnih pogodb.
 
-Ključni izvajalci: as. Sandi Gec
+#### Zakaj se udeležiti?
+
+V izdelavi.
+
+#### Predznanja:
+
+Priporočljivo osnovno predznanje JavaScript programskega jezika.
+
+#### Trajanje:
+
+* 3 x 3 šolske ure
+
+- - -
+
+#### Izvajalci:
+
+* [Sandi Gec](https://akademijafri.si/izvajalci/sandi-gec/)
