@@ -53,6 +53,6 @@ V izdelavi.
 
 #### Izvajalci:
 
-* Marko Bajec
-* Dejan Lavbič
-* Slavko Žitnik
+* [Marko Bajec](https://akademijafri.si/izvajalci/marko-bajec/)
+* [Dejan Lavbič](https://akademijafri.si/izvajalci/dejan-lavbic/)
+* [Slavko Žitnik](https://akademijafri.si/izvajalci/slavko-zitnik/)
