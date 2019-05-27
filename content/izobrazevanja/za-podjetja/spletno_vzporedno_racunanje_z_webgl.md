@@ -33,7 +33,7 @@ Po zaključenem izobraževanju bodo udeleženci natančno poznali zgradbo vmesni
 
 #### Predznanja:
 
-* Poznavanje jezika Javascript.
+Poznavanje jezika Javascript.
 
 #### Trajanje:
 
@@ -43,4 +43,4 @@ Po zaključenem izobraževanju bodo udeleženci natančno poznali zgradbo vmesni
 
 #### Izvajalci:
 
-* Žiga Lesar
+* [Žiga Lesar](https://akademijafri.si/izvajalci/ziga-lesar/)
