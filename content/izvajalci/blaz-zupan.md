@@ -5,6 +5,7 @@ lastName: Zupan
 date: 2019-04-19T00:00:00.000Z
 bgImage: images/background/page-title.jpg
 image: uploads/team_blaz_zupan.jpg
+twitterURL: 'https://twitter.com/bzupan'
 linkedinURL: 'https://si.linkedin.com/in/bzupan'
 githubURL: ''
 phone: +386 1 479 8238
