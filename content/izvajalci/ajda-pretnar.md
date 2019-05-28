@@ -10,10 +10,12 @@ twitterURL: ''
 linkedinURL: 'https://si.linkedin.com/in/ajda-pretnar-4485928a'
 phone: +386 1 479 8209
 email: ajda.pretnar@fri.uni-lj.si
-website: ''
+website: 'https://orange.biolab.si/'
 ---
 Ajda Pretnar je raziskovalka na Fakulteti za računalništvo in informatiko in doktorska študentka na Filozofski fakulteti Univerze v Ljubljani. S povezovanjem antropologije in strojnega učenja razvija nove računalniško podprte metodologije za družboslovne vede. Poučuje podatkovno rudarjenje in strojno učenje z orodjem za podatkovno analitiko Orange.
 
-**V medijih**
+### V medijih:
 
-Delo - [Antropologinja, ki je programerka](https://www.delo.si/gospodarstvo/kariera/antropologinja-ki-je-programerka.html)
+* Metina Lista, Meta PHoDcast 92, Zarja Muršič: [Ajda Pretnar, antropologinja](https://metinalista.si/meta-phodcast-92-ajda-pretnar-antropologinja/) (7. 2. 2019)
+* Parallel Passion 7, Miha Rekar: [Ajda Pretnar](https://www.parallelpassion.com/7) (24. 5. 2018)
+* Delo, Andreja Žibert - [Antropologinja, ki je programerka](https://www.delo.si/gospodarstvo/kariera/antropologinja-ki-je-programerka.html) (18. 1. 2018)
