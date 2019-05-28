@@ -10,4 +10,18 @@ phone: +386 1 479 8225
 email: danijel.skocaj@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Danijel Skočaj je izredni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani in predstojnik Laboratorija za umetne vizualne spoznavne sisteme. Njegovi glavni raziskovalni interesi segajo na področje umetnega spoznavnega vida ter spoznavnih sistemov in vključujejo avtomatsko modeliranje predmetov iz vizualne informacije s poudarkom na robustnem in inkrementalnem vizualnem učenju in razpoznavanju na podlagi videza ter snovanju in razvoju umetnih spoznavnih sistemov s poudarkom na interaktivnem učenju.
+Dr. Danijel Skočaj je izredni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani in predstojnik Laboratorija za umetne vizualne spoznavne sisteme. 
+
+Njegovi glavni raziskovalni interesi segajo na področje umetnega spoznavnega vida ter spoznavnih sistemov in vključujejo avtomatsko modeliranje predmetov iz vizualne informacije s poudarkom na robustnem in inkrementalnem vizualnem učenju in razpoznavanju na podlagi videza ter snovanju in razvoju umetnih spoznavnih sistemov s poudarkom na interaktivnem učenju.
+
+#### V medijih:
+
+* Delo, Anja Intihar: [Lahko se kosamo z najbolj izobraženimi narodi sveta](https://www.delo.si/novice/slovenija/lahko-se-kosamo-z-najbolj-izobrazenimi-narodi-sveta-133042.html) (27. 12. 2018)
+* Siol.net, Srdjan Cvjetović: [Umetna inteligenca bo olajšala opravila, ki jih danes opravljamo z muko ali v nevarnosti](https://siol.net/digisvet/novice/umetna-inteligenca-bo-olajsala-opravila-ki-jih-danes-opravljamo-z-muko-ali-v-nevarnosti-478542) (25. 9. 2018)
+* ARS, Podobe znanja: [Profesor Danijel Skočaj](https://4d.rtvslo.si/arhiv/podobe-znanja/174277139) (23. 5. 2014)
+* Dnevnik, Uroš Škerl Kramberger: [George ne bo shodil brez države](https://www.dnevnik.si/1042582892) (28. 3. 2013)
+
+#### Izobraževanja:
+
+* [Globoko učenje v računalniškem vidu 1](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
+* [Globoko učenje v računalniškem vidu 2](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)
