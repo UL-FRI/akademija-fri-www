@@ -18,11 +18,9 @@ Kot asistent poučuje praktične vaje pri predmetih Osnove oblikovanje ter Multi
 
 Poleg izkušenj iz uporabe vizualnih orodij za izdelavo grafičnih vsebin, svoje znanje dopolnjuje s poznavanjem ogrodij za globoko učenje ter ostalih knjižnic za raziskovalno računanje v Pythonu (Numpy, Scipy, TensorFlow, Keras ...). Inženirsko znanje omenjenih orodij dopolnjuje s poznavanjem trenutnih napredkov in modelov na področju globokega učenja, ki se osredotočajo na obdelavo računalniških slik (npr. konvolucijske nevronske mreže, generativne nevronske mreže ter arhitekture tipa enkoder-dekoder).
 
-
-
 #### Izobraževanja:
 
 * [Globoko učenje v računalniškem vidu 1](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
-* Globoko učenje v računalniškem vidu 2
+* [Globoko učenje v računalniškem vidu 2](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)
 * [Pametno podjetje](https://akademijafri.si/izobrazevanja/za-podjetja/pametno_podjetje/)
 * [Osnove 3D modeliranja z orodjem Blender](https://akademijafri.si/izobrazevanja/za-podjetja/osnove_3d_modeliranja_v_orodju_blender/)
