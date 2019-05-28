@@ -19,3 +19,9 @@ Ajda Pretnar je raziskovalka na Fakulteti za računalništvo in informatiko in d
 * Metina Lista, Meta PHoDcast 92, Zarja Muršič: [Ajda Pretnar, antropologinja](https://metinalista.si/meta-phodcast-92-ajda-pretnar-antropologinja/) (7. 2. 2019)
 * Parallel Passion 7, Miha Rekar: [Ajda Pretnar](https://www.parallelpassion.com/7) (24. 5. 2018)
 * Delo, Andreja Žibert - [Antropologinja, ki je programerka](https://www.delo.si/gospodarstvo/kariera/antropologinja-ki-je-programerka.html) (18. 1. 2018)
+
+#### Izobraževanja:
+
+* [Uvod v odkrivanje znanj iz podatkov](https://akademijafri.si/izobrazevanja/za-podjetja/uvod-v-odkrivanje-znanj-iz-podatkov/)
+* [Znanost o podatkih za podjetja](https://akademijafri.si/izobrazevanja/za-podjetja/znanost-o-podatkih-za-podjetja/)
+* [Rudarjenje in organizacija besedil](https://akademijafri.si/izobrazevanja/za-podjetja/rudarjenje_in_organizacija_besedil/)
