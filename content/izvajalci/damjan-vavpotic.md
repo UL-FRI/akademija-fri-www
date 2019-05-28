@@ -17,12 +17,13 @@ Na raziskovalnem področju se ukvarja z metodologijami razvoja informacijskih si
 
 V okviru svoje strokovne dejavnosti je do danes vodil in sodeloval pri vrsti projektov, ki so med drugim obsegali: 
 
-•	pripravo razvojnih procesov, 
+* pripravo razvojnih procesov, 
+* vpeljevanje in evalvacijo metodologij razvoja informacijskih sistemov v organizacije, 
+* pripravo strateških načrtov informatike, 
+* analizo in načrtovanje informacijskih sistemov in relacijskih podatkovnih baz,
+* implementacijo in testiranje informacijskih sistemov.
 
-•	vpeljevanje in evalvacijo metodologij razvoja informacijskih sistemov v organizacije, 
+#### Izobraževanja:
 
-•	pripravo strateških načrtov informatike, 
-
-•	analizo in načrtovanje informacijskih sistemov in relacijskih podatkovnih baz,
-
-•	implementacijo in testiranje informacijskih sistemov.
+* [Iterativno in agilno vodenje projektov razvoja programske opreme](https://akademijafri.si/izobrazevanja/za-podjetja/iterativno_in_agilno_vodenje_projektov_razvoja_programske_opreme/)
+* [Poslovno informacijske arhitekture](https://akademijafri.si/izobrazevanja/za-podjetja/poslovno_informacijske_arhitekture/)
