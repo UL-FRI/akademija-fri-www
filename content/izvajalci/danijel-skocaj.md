@@ -18,6 +18,7 @@ Njegovi glavni raziskovalni interesi segajo na področje umetnega spoznavnega vi
 
 * Delo, Anja Intihar: [Lahko se kosamo z najbolj izobraženimi narodi sveta](https://www.delo.si/novice/slovenija/lahko-se-kosamo-z-najbolj-izobrazenimi-narodi-sveta-133042.html) (27. 12. 2018)
 * Siol.net, Srdjan Cvjetović: [Umetna inteligenca bo olajšala opravila, ki jih danes opravljamo z muko ali v nevarnosti](https://siol.net/digisvet/novice/umetna-inteligenca-bo-olajsala-opravila-ki-jih-danes-opravljamo-z-muko-ali-v-nevarnosti-478542) (25. 9. 2018)
+* TV SLovenija, Akcent: [Umetna inteligenca](https://4d.rtvslo.si/arhiv/akcent/174522855) (27. 2. 2018)
 * ARS, Podobe znanja: [Profesor Danijel Skočaj](https://4d.rtvslo.si/arhiv/podobe-znanja/174277139) (23. 5. 2014)
 * Dnevnik, Uroš Škerl Kramberger: [George ne bo shodil brez države](https://www.dnevnik.si/1042582892) (28. 3. 2013)
 
