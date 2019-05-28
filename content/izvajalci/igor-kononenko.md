@@ -9,6 +9,12 @@ phone: +386 1 479 8230
 email: igor.kononenko@fri.uni-lj.si
 redirect: ''
 ---
-Igor Kononenko je doktoriral leta 1990 iz računalništva in informatike na Univerzi v Ljubljani. Je redni profesor na Fakulteti za računalništvo in informatiko v Ljubljani ter predstojnik Laboratorija za kognitivno modeliranje. Njegova raziskovalna področja so umetna inteligenca, strojno učenje, nevronske mreže in kognitivno modeliranje. Je (so)avtor 210 člankov na teh področjih ter 10 učbenikov. Je član uredniškega odbora revij Applied Intelligence Journal (Kluwer Ac. Publ.) in Informatica Journal, dvakrat je bil predsednik programskega odbora Mednarodne kognitivne konference v Ljubljani.
+Dr. Igor Kononenko je redni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter predstojnik Laboratorija za kognitivno modeliranje.
 
-Je soavtor knjige (skupaj z Matjažem Kukarjem) MACHINE LEARNING AND DATA MINING: Introduction to Principles and Algorithms, ki je izšla pri angleški znanstveni založbi Horwood Publishing.
+Njegova raziskovalna področja so umetna inteligenca, strojno učenje, nevronske mreže in kognitivno modeliranje. Je (so)avtor 210 člankov na teh področjih ter 10 učbenikov. Je član uredniškega odbora revij Applied Intelligence Journal (Kluwer Ac. Publ.) in Informatica Journal.
+
+Je soavtor knjige [MACHINE LEARNING AND DATA MINING: Introduction to Principles and Algorithms](http://mldmbook.fri.uni-lj.si/), ki je izšla pri angleški znanstveni založbi Horwood Publishing.
+
+#### Izobraževanja:
+
+* [Uvod v umetno inteligenco in strojno učenje](https://akademijafri.si/izobrazevanja/za-podjetja/uvod_v_umetno_inteligenco_in_strojno_ucenje/)
