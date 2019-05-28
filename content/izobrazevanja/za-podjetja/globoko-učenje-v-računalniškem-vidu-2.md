@@ -18,10 +18,10 @@ Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni 
 * Osnove konvolucijskih nevronskih mrež.
 * Orodja za delo z globokimi nevronskimi mrežami.
 * Primeri aplikacij globokega učenja na področju računalniškega vida:
-* klasifikacija,
-* slikovno poizvedovanje,
-* segmentacija,
-* lokalizacija in detekcija.
+  * klasifikacija,
+  * slikovno poizvedovanje,
+  * segmentacija,
+  * lokalizacija in detekcija.
 * Uporaba globokega učenja na drugih področjih.
 
 #### Za koga?
