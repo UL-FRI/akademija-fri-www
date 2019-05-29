@@ -17,13 +17,11 @@ Predava več predmetov s področja informatike in podatkovnih baz. V okviru apli
 #### V medijih:
 
 * TV Slovenija, Prvi dnevnik ob 13.00: [Marko Bajec je postal mentor leta](https://4d.rtvslo.si/arhiv/prispevki-in-izjave-prvi-dnevnik/174308455) (8. 12. 2014)
-* Dnevnik, Uroš Škerl Kramberger
-  : [Marko Bajec](https://www.dnevnik.si/1042699276) (5. 12. 2014)
+* Dnevnik, Uroš Škerl Kramberger: [Marko Bajec](https://www.dnevnik.si/1042699276) (5. 12. 2014)
 * Delo, Ozadja, Tina Kristan:  [»Moramo se naučiti sodelovati!«](https://www.delo.si/novice/slovenija/marko-bajec-moramo-se-nauciti-sodelovati.html) (4. 12. 2014)
 
 #### Izobraževanja:
 
-* [Obvladovanje velikih količin podatkov
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/obvladovanje_velikih_kolicin_podatkov_big_data/)
+* [Obvladovanje velikih količin podatkov](https://akademijafri.si/izobrazevanja/za-podjetja/obvladovanje_velikih_kolicin_podatkov_big_data/)
 * [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop
   ](https://akademijafri.si/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)
