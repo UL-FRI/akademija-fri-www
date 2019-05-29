@@ -10,7 +10,7 @@ phone: +386 1 479 8275
 email: matjaz.juric@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Matjaž Branko Jurič je redni profesor in predstojnik Laboratorija za integracijo informacijskih sistemov na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter mentor start-up podjetij. 
+Dr. Matjaž Branko Jurič je redni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani, predstojnik Laboratorija za integracijo informacijskih sistemov ter mentor start-up podjetij. 
 
 Raziskovalno se ukvarja z digitalno transformacijo, računalništvom v oblaku in integracijo informacijskih sistemov. Je avtor 17 knjig, izdanih pri mednarodnih založbah ter več kot 600 drugih publikacij. Vodil je številne raziskovalne in aplikativne projekte, ponaša pa se tudi s prestižnimi nazivi Java Champion, IBM Champion in Oracle ACE Director. Prejel je več mednarodnih nagrad, med drugim nagrado za najboljšo SOA knjigo (New York), nagrado za najboljši SOA projekt v telekomunikacijah (Las Vegas), nagrado Java Duke's Choice Award Winner (San Francisco) za najboljšo inovacijo v Javi, nagrado za najboljši znanstveni članek s področja storitev, nagrado za najboljšega raziskovalca po mnenju industrije in Zlato plaketo za izjemne zasluge pri razvijanju znanstvenega ustvarjanja.
 
