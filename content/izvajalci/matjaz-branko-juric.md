@@ -16,10 +16,10 @@ Raziskovalno se ukvarja z digitalno transformacijo, računalništvom v oblaku in
 
 #### V medijih:
 
-* zurnal24.si, David Jug: [Država se bo kmalu preselila v oblak](https://www.zurnal24.si/slovenija/drzava-se-bo-kmalu-preselila-v-oblak-245225) (16. 2. 2015)
-* www.startup.si, Stanislava Vabšek: [Prebojna slovenska inovacija KumuluzEE nagrajena s prestižnim Java oskarjem!](https://www.startup.si/sl-si/novica/181/prebojna-slovenska-inovacija-kumuluzee-nagrajena-s-prestiznim-java-oskarjem-) (29. 10. 2015)
-* Finance, Blažej Kupec: [Slovenci v San Franciscu navdušili veliki Oracle](https://posel2030.finance.si/8837608) (28. 10. 2015)
 * Svet kapitala: [Velik potencial za Slovenijo v blockchain tehnologiji](https://svetkapitala.delo.si/aktualno/velik-potencial-za-slovenijo-v-blockchain-tehnologiji-128691) (12. 10. 2017)
+* startup.si, Stanislava Vabšek: [Prebojna slovenska inovacija KumuluzEE nagrajena s prestižnim Java oskarjem!](https://www.startup.si/sl-si/novica/181/prebojna-slovenska-inovacija-kumuluzee-nagrajena-s-prestiznim-java-oskarjem-) (29. 10. 2015)
+* Finance, Blažej Kupec: [Slovenci v San Franciscu navdušili veliki Oracle](https://posel2030.finance.si/8837608) (28. 10. 2015)
+* zurnal24.si, David Jug: [Država se bo kmalu preselila v oblak](https://www.zurnal24.si/slovenija/drzava-se-bo-kmalu-preselila-v-oblak-245225) (16. 2. 2015)
 
 #### Izobraževanja:
 
