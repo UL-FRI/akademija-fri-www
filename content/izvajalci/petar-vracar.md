@@ -11,3 +11,7 @@ email: petar.vracar@fri.uni-lj.si
 redirect: ''
 ---
 Dr. Petar Vračar je asistent na Fakulteti za računalništvo in informatiko ter član Laboratorija za kognitivno modeliranje.
+
+#### Izobraževanja:
+
+* [Uvod v umetno inteligenco in strojno učenje](https://akademijafri.si/izobrazevanja/za-podjetja/uvod_v_umetno_inteligenco_in_strojno_ucenje/)
