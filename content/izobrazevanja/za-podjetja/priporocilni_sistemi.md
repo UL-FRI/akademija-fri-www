@@ -45,15 +45,15 @@ V izdelavi.
 * Osnovno poznavanje relacijskih podatkovnih baz in strukturiranega povpraševalnega jezika za delo s podatkovnimi bazami (SQL).
 * Poznavanje povezljivosti Pythona in podatkovnih baz.
 
-#### Trajanje: 
+#### Trajanje:
 
 * Krajša izvedba: 9 ur predavanj, 6 ur praktičnega dela (3 dni).
 * Daljša izvedba: 15 ur predavanj, 10 ur praktičnega dela (5 dni).
 
 - - -
 
-#### Izvajalci: 
+#### Izvajalci:
 
 * [Marko Robnik Šikonja](https://akademijafri.si/izvajalci/marko-robnik-sikonja/)
-* Matjaž Kukar
+* [Matjaž Kukar](https://akademijafri.si/izvajalci/matja%C5%BE-kukar/)
 * [Slavko Žitnik](https://akademijafri.si/izvajalci/slavko-zitnik/)
