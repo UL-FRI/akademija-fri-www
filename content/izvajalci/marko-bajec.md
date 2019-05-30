@@ -10,7 +10,7 @@ phone: +386 1 479 8234
 email: marko.bajec@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Marko Bajec je redni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter vodja Laboratorija za podatkovne tehnologije in [IoT Demo Centra](http://iot.data-lab.si/). 
+Dr. Marko Bajec je redni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter vodja [Laboratorija za podatkovne tehnologije](https://www.fri.uni-lj.si/sl/laboratorij/lpt) in [IoT Demo Centra](http://iot.data-lab.si/). 
 
 Predava več predmetov s področja informatike in podatkovnih baz. V okviru aplikativnega in raziskovalnega dela se ukvarja z obvladovanjem informatike ter uporabo podatkovnih tehnologij v okviru različnih domen, kot so internet stvari, pametna mesta, pametni domovi, oskrbovana stanovanja, telemedicina ipd.
 
