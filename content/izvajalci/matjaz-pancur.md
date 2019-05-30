@@ -10,11 +10,12 @@ phone: +386 1 479 8208
 email: matjaz.pancur@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Matjaž Pančur je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član Laboratorija za računalniške komunikacije.
+Dr. Matjaž Pančur je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za računalniške komunikacije](https://www.fri.uni-lj.si/sl/laboratorij/lrk).
 
 #### V medijih:
 
-* Dnevnik, Peter Lovšin: ["Za dobro človeštva in sebi v zabavo"](https://www.dnevnik.si/1042459288) (16. 7. 2011)
+* Dnevnik, Peter Lovšin: ["Za dobro človeštva in sebi v zabavo"
+  ](https://www.dnevnik.si/1042459288) (16. 7. 2011)
 
 #### Izobraževanja:
 
