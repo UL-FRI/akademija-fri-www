@@ -43,4 +43,4 @@ Predznanja niso potrebna.
 
 #### Izvajalci:
 
-* Rok Stritar
+* [Rok Stritar](https://akademijafri.si/izvajalci/rok-stritar/)
