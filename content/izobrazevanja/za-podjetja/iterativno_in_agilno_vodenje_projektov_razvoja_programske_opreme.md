@@ -47,4 +47,4 @@ Specifična predznanja niso potrebna.
 #### Izvajalci:
 
 * [Damjan Vavpotič](https://akademijafri.si/izvajalci/damjan-vavpotic/)
-* Tomaž Hovelja
+* [Tomaž Hovelja](https://akademijafri.si/izvajalci/toma%C5%BE-hovelja/)
