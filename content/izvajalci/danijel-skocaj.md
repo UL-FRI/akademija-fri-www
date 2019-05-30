@@ -10,7 +10,7 @@ phone: +386 1 479 8225
 email: danijel.skocaj@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Danijel Skočaj je izredni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani in predstojnik Laboratorija za umetne vizualne spoznavne sisteme. 
+Dr. Danijel Skočaj je izredni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter predstojnik [Laboratorija za umetne vizualne spoznavne sisteme](https://www.fri.uni-lj.si/sl/laboratorij/luvss). 
 
 Njegovi glavni raziskovalni interesi segajo na področje umetnega spoznavnega vida ter spoznavnih sistemov in vključujejo avtomatsko modeliranje predmetov iz vizualne informacije s poudarkom na robustnem in inkrementalnem vizualnem učenju in razpoznavanju na podlagi videza ter snovanju in razvoju umetnih spoznavnih sistemov s poudarkom na interaktivnem učenju.
 
