@@ -12,7 +12,9 @@ phone: +386 1 479 8209
 email: ajda.pretnar@fri.uni-lj.si
 website: 'https://orange.biolab.si/'
 ---
-Ajda Pretnar je raziskovalka in asistentka na Fakulteti za računalništvo in informatiko ter doktorska študentka na Filozofski fakulteti Univerze v Ljubljani. S povezovanjem antropologije in strojnega učenja razvija nove računalniško podprte metodologije za družboslovne vede. Poučuje podatkovno rudarjenje in strojno učenje z orodjem za podatkovno analitiko Orange.
+Ajda Pretnar je raziskovalka in asistentka na Fakulteti za računalništvo in informatiko ter doktorska študentka na Filozofski fakulteti Univerze v Ljubljani. Je tudi članica [Laboratorija za Bioinformatiko](https://www.fri.uni-lj.si/sl/laboratorij/biolab).
+
+S povezovanjem antropologije in strojnega učenja razvija nove računalniško podprte metodologije za družboslovne vede. Poučuje podatkovno rudarjenje in strojno učenje z orodjem za podatkovno analitiko Orange.
 
 #### V medijih:
 
