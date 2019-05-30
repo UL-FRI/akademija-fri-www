@@ -43,4 +43,4 @@ V izdelavi.
 #### Izvajalci:
 
 * [Damjan Vavpotič](https://akademijafri.si/izvajalci/damjan-vavpotic/)
-* Tomaž Hovelja
+* [Tomaž Hovelja](https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/tomaz-hovelja)
