@@ -5,6 +5,7 @@ lastName: Žitnik
 date: 2019-04-19T00:00:00.000Z
 bgImage: images/background/page-title.jpg
 image: uploads/team_slavko_zitnik.jpg
+linkedinURL: 'https://si.linkedin.com/in/szitnik'
 phone: +386 1 476 8216
 email: slavko.zitnik@fri.uni-lj.si
 redirect: ''
