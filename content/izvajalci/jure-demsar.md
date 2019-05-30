@@ -9,7 +9,7 @@ linkedinURL: 'https://si.linkedin.com/in/jure-dem%C5%A1ar-b41a49138'
 email: jure.demsar@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Jure Demšar je raziskovalec in docent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član Laboratorija za računalniške strukture in sisteme.
+Dr. Jure Demšar je raziskovalec in docent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za računalniške strukture in sisteme](https://www.fri.uni-lj.si/sl/laboratorij/lrss).
 
 V zadnjem času se, kot aktivni član raziskovalne skupine za Bayesovo statistiko in računanje, ukvarja predvsem z razvojem orodij, ki bi tovrstno analizo podatkov olajšala ter jo tako približala širši populaciji. Na svoji poklicni poti je prejel fakultetni nagradi za izjemno pedagoško delo ter izjemne raziskovalne dosežke.
 
@@ -19,4 +19,5 @@ V zadnjem času se, kot aktivni član raziskovalne skupine za Bayesovo statistik
 
 #### Izobraževanja:
 
-* [Bayesova statistika s programskim jezikom Stan](https://akademijafri.si/izobrazevanja/za-podjetja/statisticno_modeliranje_z_bayesovimi_mrezami/)
+* [Bayesova statistika s programskim jezikom Stan
+  ](https://akademijafri.si/izobrazevanja/za-podjetja/statisticno_modeliranje_z_bayesovimi_mrezami/)
