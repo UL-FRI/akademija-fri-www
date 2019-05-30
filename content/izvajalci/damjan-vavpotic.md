@@ -11,7 +11,7 @@ email: damjan.vavpotic@fri.uni-lj.si
 website: ''
 redirect: ''
 ---
-Dr. Damjan Vavpotič je prodekan za kakovost in mednarodno dejavnost in izredni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter predstojnik Laboratorija za informatiko. 
+Dr. Damjan Vavpotič je prodekan za kakovost in mednarodno dejavnost in izredni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter predstojnik [Laboratorija za informatiko](https://www.fri.uni-lj.si/sl/laboratorij/li). 
 
 Na raziskovalnem področju se ukvarja z metodologijami razvoja informacijskih sistemov in programske opreme, v okviru tega še zlasti z agilnimi pristopi, objektnim razvojem ter pristopi k vpeljevanju in evalvaciji metodologij v organizacijah. Raziskovalno se ukvarja tudi z evalvacijo pedagoških procesov. 
 
@@ -26,4 +26,5 @@ V okviru svoje strokovne dejavnosti je do danes vodil in sodeloval pri vrsti pro
 #### Izobraževanja:
 
 * [Iterativno in agilno vodenje projektov razvoja programske opreme](https://akademijafri.si/izobrazevanja/za-podjetja/iterativno_in_agilno_vodenje_projektov_razvoja_programske_opreme/)
-* [Poslovno informacijske arhitekture](https://akademijafri.si/izobrazevanja/za-podjetja/poslovno_informacijske_arhitekture/)
+* [Poslovno informacijske arhitekture
+  ](https://akademijafri.si/izobrazevanja/za-podjetja/poslovno_informacijske_arhitekture/)
