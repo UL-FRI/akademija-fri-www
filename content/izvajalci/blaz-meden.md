@@ -10,7 +10,7 @@ phone: +386 1 479 8240
 email: blaz.meden@fri.uni-lj.si
 redirect: ''
 ---
-Blaž Meden je raziskovalec, asistent in doktorski kandidat na Fakulteti za računalništvo in informatiko Univerze v Ljubljani.
+Blaž Meden je asistent in doktorski kandidat na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter raziskovalec v [Laboratoriju za računalniški vid](https://www.fri.uni-lj.si/sl/laboratorij/lrv).
 
 V sklopu raziskovanja na doktorski disertaciji se ukvarja z globokim učenjem in slikovno biometrijo. Zanimajo ga predvsem aplikacije iz računalniškega vida in praktična uporaba globokih nevronskih mrež. Njegovo trenutno raziskovalno področje je osredotočeno na temo deidentifikacije oz. anonimizacije obraznih slik ter obrazov na video posnetkih. Motivacija za tovrstne raziskave izvira iz dejstva, da je področje varnosti in zasebnosti danes zelo aktualno, saj je uporaba video nadzornih sistemov zelo pogosta povsod okoli nas.
 
