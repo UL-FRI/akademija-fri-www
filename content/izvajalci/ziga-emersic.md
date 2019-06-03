@@ -10,7 +10,7 @@ email: ziga.emersic@fri.uni-lj.si
 website: 'http://lrv.fri.uni-lj.si/~zigae'
 redirect: ''
 ---
-Žiga Emeršič je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani in član Laboratorija za računalniški vid. 
+Žiga Emeršič je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani in član [Laboratorija za računalniški vid](https://www.fri.uni-lj.si/sl/laboratorij/lrv). 
 
 Je soavtor več kot 30 znanstvenih člankov, objavljenih v priznanih revijah, konferenčnih zbornikih in poglavjih v knjigah. Raziskovalno in pedagoško se ukvarja z biometrijo. Njegovo širše raziskovalno področje zajema računalniški vid in področja umetne inteligence, strojnega učenja in razpoznavanja vzorcev.
 
