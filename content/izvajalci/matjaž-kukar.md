@@ -4,7 +4,7 @@ firstName: Matjaž
 lastName: Kukar
 date: 2019-05-30T15:38:53.341Z
 bgImage: images/background/page-title.jpg
-image: /uploads/blank-profile-picture-973460_1280.png
+image: /uploads/blank-profile-picture.png
 linkedinURL: 'https://si.linkedin.com/in/matja%C5%BE-kukar-b25a727'
 phone: +386 1 479 8235
 email: matjaz.kukar@fri.uni-lj.si
