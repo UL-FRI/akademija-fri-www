@@ -9,7 +9,7 @@ phone: +386 1 479 8230
 email: igor.kononenko@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Igor Kononenko je redni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter predstojnik Laboratorija za kognitivno modeliranje.
+Dr. Igor Kononenko je redni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter predstojnik [Laboratorija za kognitivno modeliranje](https://www.fri.uni-lj.si/sl/laboratorij/lkm).
 
 Njegova raziskovalna področja so umetna inteligenca, strojno učenje, nevronske mreže in kognitivno modeliranje. Je (so)avtor 210 člankov na teh področjih ter 10 učbenikov. Je član uredniškega odbora revij Applied Intelligence Journal (Kluwer Ac. Publ.) in Informatica Journal.
 
