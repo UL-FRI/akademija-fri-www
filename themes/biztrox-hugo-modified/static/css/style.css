@@ -137,6 +137,14 @@ h6, .h6 {
   padding: 13px 40px !important;
 }
 
+.link-red:link, .link-red:visited, .link-red:active {
+  color: #e84444;
+}
+
+.link-red:hover {
+  color: #007bff;
+}
+
 /* 1.2 Common style */
 body {
   background-color: #fff;
