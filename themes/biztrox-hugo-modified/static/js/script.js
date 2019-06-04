@@ -122,4 +122,23 @@
             }
         ]
     });
+
+    // Disable newsletter send button until the user fills out something
+    // in the email field and agrees to the terms of service.
+    newsletter_set_button(true);
+    $("#gdpr_19317").change(function() {
+        if (this.checked &&
+            $('#mce-EMAIL').val().length > 0) {
+            // Enabled prijava
+            newsletter_set_button(false);
+        }  else {
+            newsletter_set_button(true);
+        }
+    });
+
 })(jQuery);
+
+function newsletter_set_button(disabled) {
+    // Disabled is a boolean value whether the button is disabled or not.
+    $("#mc-embedded-subscribe").prop("disabled", disabled);
+}
