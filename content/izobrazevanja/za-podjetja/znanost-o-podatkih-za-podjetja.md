@@ -2,7 +2,6 @@
 title: Znanost o podatkih za podjetja
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Napredno izobraževanje, na katerem se bomo poglobili v delovanje algoritmov strojnega učenja ter ugotovili, kako le-ti delujejo. Z uporabo intuicije in preprostih primerov bomo prikazali prednosti in slabosti posameznih pristopov. Vsaka lekcija se konča s praktičnim primerom, kjer udeleženci preizkusijo svoje znanje na novih podatkih.
@@ -44,5 +43,5 @@ V izdelavi.
 
 #### Izvajalci:
 
-* [Blaž Zupan](https://akademijafri.si/izvajalci/blaz-zupan/)
-* [Ajda Pretnar](https://akademijafri.si/izvajalci/ajda-pretnar/)
+* [Blaž Zupan](/izvajalci/blaz-zupan/)
+* [Ajda Pretnar](/izvajalci/ajda-pretnar/)

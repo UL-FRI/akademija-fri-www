@@ -8,4 +8,4 @@ image: /uploads/blank-profile-picture.png
 ---
 #### Izobraževanja:
 
-* [Dizajnerski pristop (Design Thinking)](https://akademijafri.si/izobrazevanja/za-podjetja/dizajnerski_pristop_design_thinking/)
+* [Dizajnerski pristop (Design Thinking)](/izobrazevanja/za-podjetja/dizajnerski_pristop_design_thinking/)

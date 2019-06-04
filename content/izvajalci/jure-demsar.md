@@ -19,5 +19,4 @@ V zadnjem času se, kot aktivni član raziskovalne skupine za Bayesovo statistik
 
 #### Izobraževanja:
 
-* [Bayesova statistika s programskim jezikom Stan
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/statisticno_modeliranje_z_bayesovimi_mrezami/)
+* [Bayesova statistika s programskim jezikom Stan](/izobrazevanja/za-podjetja/statisticno_modeliranje_z_bayesovimi_mrezami/)

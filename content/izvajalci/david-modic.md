@@ -27,6 +27,6 @@ David se z računalniško varnostjo in posebnostmi Medmrežja ukvarja že dvajse
 
 #### Izobraževanja:
 
-* [Prepoznavanje groženj, ki jih srečamo v okviru informacijske varnosti](https://akademijafri.si/izobrazevanja/za-podjetja/prepoznavanje_grozenj_ki_jih_srecamo_v_okviru_informacijske_varnosti/)
-* [Prepoznavanje in odzivanje na InfoSec napade](https://akademijafri.si/izobrazevanja/za-podjetja/prepoznavanje_in_odzivanje_na_infosec_napade/)
-* [Spustimo tigre na pašo! (Praktična aplikacija računalniške varnosti za podjetja)](https://akademijafri.si/izobrazevanja/za-podjetja/spustimo_tigre_na_paso_prakticna_aplikacija_racunalniske_varnosti_za_podjetja/)
+* [Prepoznavanje groženj, ki jih srečamo v okviru informacijske varnosti](/izobrazevanja/za-podjetja/prepoznavanje_grozenj_ki_jih_srecamo_v_okviru_informacijske_varnosti/)
+* [Prepoznavanje in odzivanje na InfoSec napade](/izobrazevanja/za-podjetja/prepoznavanje_in_odzivanje_na_infosec_napade/)
+* [Spustimo tigre na pašo! (Praktična aplikacija računalniške varnosti za podjetja)](/izobrazevanja/za-podjetja/spustimo_tigre_na_paso_prakticna_aplikacija_racunalniske_varnosti_za_podjetja/)

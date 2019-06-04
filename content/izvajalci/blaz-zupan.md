@@ -35,5 +35,5 @@ Dr. Blaž Zupan se je leta 2016 uvrstil na lestvico "[New Europe 100](https://ww
 
 #### Izobraževanja:
 
-* [Uvod v odkrivanje znanj iz podatkov](https://akademijafri.si/izobrazevanja/za-podjetja/uvod-v-odkrivanje-znanj-iz-podatkov/)
-* [Znanost o podatkih za podjetja](https://akademijafri.si/izobrazevanja/za-podjetja/znanost-o-podatkih-za-podjetja/)
+* [Uvod v odkrivanje znanj iz podatkov](/izobrazevanja/za-podjetja/uvod-v-odkrivanje-znanj-iz-podatkov/)
+* [Znanost o podatkih za podjetja](/izobrazevanja/za-podjetja/znanost-o-podatkih-za-podjetja/)

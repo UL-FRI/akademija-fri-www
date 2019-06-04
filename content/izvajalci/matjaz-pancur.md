@@ -19,4 +19,4 @@ Dr. Matjaž Pančur je asistent na Fakulteti za računalništvo in informatiko U
 
 #### Izobraževanja:
 
-* [Kontejnerji in Kubernetes](https://akademijafri.si/izobrazevanja/za-podjetja/kontejnerji_in_kubernetes/)
+* [Kontejnerji in Kubernetes](/izobrazevanja/za-podjetja/kontejnerji_in_kubernetes/)

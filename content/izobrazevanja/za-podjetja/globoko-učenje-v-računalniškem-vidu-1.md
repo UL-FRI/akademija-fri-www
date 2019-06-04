@@ -2,7 +2,6 @@
 title: Globoko učenje v računalniškem vidu 1
 date: 2019-05-24T12:56:57.175Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Globoko učenje
@@ -40,5 +39,5 @@ V izdelavi.
 #### Izvajalci:
 
 * Danijel Skočaj 
-* [Žiga Emeršič](https://akademijafri.si/izvajalci/ziga-emersic/) 
-* [Blaž Meden](https://akademijafri.si/izvajalci/blaz-meden/)
+* [Žiga Emeršič](/izvajalci/ziga-emersic/) 
+* [Blaž Meden](/izvajalci/blaz-meden/)

@@ -2,7 +2,6 @@
 title: Razvoj VR aplikacij v okolju Unity3D
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Kreativa
@@ -38,4 +37,4 @@ V izdelavi
 
 #### Izvajalci:
 
-* [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
+* [Ciril Bohak](/izvajalci/ciril-bohak/)

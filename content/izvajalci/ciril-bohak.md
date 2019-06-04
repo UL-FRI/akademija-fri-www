@@ -18,6 +18,6 @@ Raziskovalno deluje na področju računalniške grafike, vizualizacije podatkov,
 
 #### Izobraževanja:
 
-* [Razvoj spletnih in mobilnih 3D aplikacij](https://akademijafri.si/izobrazevanja/za-podjetja/razvoj_spletnih_in_mobilnih_3d_aplikacij/)
-* [Razvoj VR aplikacij v okolju Unity3D](https://akademijafri.si/izobrazevanja/za-podjetja/razvoj_vr_aplikacij_v_okolju_unity3d/)
-* [Osnove 3D modeliranja z orodjem Blender](https://akademijafri.si/izobrazevanja/za-podjetja/osnove_3d_modeliranja_v_orodju_blender/)
+* [Razvoj spletnih in mobilnih 3D aplikacij](/izobrazevanja/za-podjetja/razvoj_spletnih_in_mobilnih_3d_aplikacij/)
+* [Razvoj VR aplikacij v okolju Unity3D](/izobrazevanja/za-podjetja/razvoj_vr_aplikacij_v_okolju_unity3d/)
+* [Osnove 3D modeliranja z orodjem Blender](/izobrazevanja/za-podjetja/osnove_3d_modeliranja_v_orodju_blender/)

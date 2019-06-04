@@ -22,6 +22,5 @@ Predava več predmetov s področja informatike in podatkovnih baz. V okviru apli
 
 #### Izobraževanja:
 
-* [Obvladovanje velikih količin podatkov](https://akademijafri.si/izobrazevanja/za-podjetja/obvladovanje_velikih_kolicin_podatkov_big_data/)
-* [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)
+* [Obvladovanje velikih količin podatkov](/izobrazevanja/za-podjetja/obvladovanje_velikih_kolicin_podatkov_big_data/)
+* [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop](/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)

@@ -20,7 +20,7 @@ Poleg izkušenj iz uporabe vizualnih orodij za izdelavo grafičnih vsebin, svoje
 
 #### Izobraževanja:
 
-* [Globoko učenje v računalniškem vidu 1](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
-* [Globoko učenje v računalniškem vidu 2](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)
-* [Pametno podjetje](https://akademijafri.si/izobrazevanja/za-podjetja/pametno_podjetje/)
-* [Osnove 3D modeliranja z orodjem Blender](https://akademijafri.si/izobrazevanja/za-podjetja/osnove_3d_modeliranja_v_orodju_blender/)
+* [Globoko učenje v računalniškem vidu 1](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
+* [Globoko učenje v računalniškem vidu 2](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)
+* [Pametno podjetje](/izobrazevanja/za-podjetja/pametno_podjetje/)
+* [Osnove 3D modeliranja z orodjem Blender](/izobrazevanja/za-podjetja/osnove_3d_modeliranja_v_orodju_blender/)

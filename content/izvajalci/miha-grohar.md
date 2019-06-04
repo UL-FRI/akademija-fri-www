@@ -15,4 +15,4 @@ Njegovo raziskovalno področje zajema programsko definirana omrežja, porazdelje
 
 #### Izobraževanja:
 
-* [Kontejnerji in Kubernetes](https://akademijafri.si/izobrazevanja/za-podjetja/kontejnerji_in_kubernetes/)
+* [Kontejnerji in Kubernetes](/izobrazevanja/za-podjetja/kontejnerji_in_kubernetes/)

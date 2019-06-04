@@ -18,5 +18,4 @@ Je član [The Society of Digital Information and Wireless Communications (SDIWC)
 
 #### Izobraževanja:
 
-* [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)
+* [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop](/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)

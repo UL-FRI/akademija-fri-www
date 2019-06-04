@@ -2,7 +2,6 @@
 title: Pregled tehnologije tangle za distribuiran podatkovni tok v IoT sistemih
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - IoT
@@ -47,4 +46,4 @@ V izdelavi.
 
 #### Izvajalci:
 
-* [Sandi Gec](https://akademijafri.si/izvajalci/sandi-gec/)
+* [Sandi Gec](/izvajalci/sandi-gec/)

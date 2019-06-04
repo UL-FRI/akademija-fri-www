@@ -2,7 +2,6 @@
 title: Rudarjenje in organizacija besedil
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Podatkovno rudarjenje
@@ -43,5 +42,5 @@ Osnovno predznanje iz programiranja (poljuben programski jezik).
 
 #### Izvajalci:
 
-* [Slavko Žitnik](https://akademijafri.si/izvajalci/slavko-zitnik/)
-* [Ajda Pretnar](https://akademijafri.si/izvajalci/ajda-pretnar/)
+* [Slavko Žitnik](/izvajalci/slavko-zitnik/)
+* [Ajda Pretnar](/izvajalci/ajda-pretnar/)

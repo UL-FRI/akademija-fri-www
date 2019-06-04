@@ -17,4 +17,4 @@ Raziskovalno dela na področjih strojnega učenja, podatkovnega rudarjenja in an
 
 #### Izobraževanja:
 
-* [Priporočilni sistemi](https://akademijafri.si/izobrazevanja/za-podjetja/priporocilni_sistemi/)
+* [Priporočilni sistemi](/izobrazevanja/za-podjetja/priporocilni_sistemi/)

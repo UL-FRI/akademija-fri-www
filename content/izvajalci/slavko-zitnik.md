@@ -14,11 +14,7 @@ Dr. Slavko Žitnik je asistent na Fakulteti za računalništvo in informatiko Un
 
 #### Izobraževanja:
 
-* [Obvladovanje velikih količin podatkov
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/obvladovanje_velikih_kolicin_podatkov_big_data/)
-* [Priporočilni sistemi
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/priporocilni_sistemi/)
-* [Rudarjenje in organizacija besedil
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/rudarjenje_in_organizacija_besedil/)
-* [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)
+* [Obvladovanje velikih količin podatkov](/za-podjetja/obvladovanje_velikih_kolicin_podatkov_big_data/)
+* [Priporočilni sistemi](/izobrazevanja/za-podjetja/priporocilni_sistemi/)
+* [Rudarjenje in organizacija besedil](/izobrazevanja/za-podjetja/rudarjenje_in_organizacija_besedil/)
+* [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop](/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)

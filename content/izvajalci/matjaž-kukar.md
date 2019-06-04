@@ -15,4 +15,4 @@ Raziskovalno dela na področju umetne inteligence, predvsem strojnega učenja, p
 
 #### Izobraževanja:
 
-* [Priporočilni sistemi](https://akademijafri.si/izobrazevanja/za-podjetja/priporocilni_sistemi/)
+* [Priporočilni sistemi](/izobrazevanja/za-podjetja/priporocilni_sistemi/)

@@ -2,7 +2,6 @@
 title: Osnove 3D modeliranja z orodjem Blender
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Kreativa
@@ -48,5 +47,5 @@ Predznanja niso potrebna.
 
 #### Izvajalci:
 
-* [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
-* [Blaž Meden](https://akademijafri.si/izvajalci/blaz-meden/)
+* [Ciril Bohak](/izvajalci/ciril-bohak/)
+* [Blaž Meden](/izvajalci/blaz-meden/)

@@ -2,7 +2,6 @@
 title: Uvod v umetno inteligenco in strojno učenje
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Umetna inteligenca
@@ -44,5 +43,5 @@ V izdelavi.
 
 #### Izvajalci:
 
-* [Igor Kononenko](https://akademijafri.si/izvajalci/igor-kononenko/)
-* [Petar Vračar](https://akademijafri.si/izvajalci/petar-vracar/)
+* [Igor Kononenko](/izvajalci/igor-kononenko/)
+* [Petar Vračar](/izvajalci/petar-vracar/)

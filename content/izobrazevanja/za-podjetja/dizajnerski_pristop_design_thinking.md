@@ -2,7 +2,6 @@
 title: Dizajnerski pristop (Design Thinking)
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Dizajnerski pristop
@@ -43,4 +42,4 @@ Predznanja niso potrebna.
 
 #### Izvajalci:
 
-* [Rok Stritar](https://akademijafri.si/izvajalci/rok-stritar/)
+* [Rok Stritar](/izvajalci/rok-stritar/)

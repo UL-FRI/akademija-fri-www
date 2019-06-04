@@ -2,7 +2,6 @@
 title: 'Mikrostoritve, API, arhitektura za oblak, vsebniki in DevOps'
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Oblak
@@ -49,4 +48,4 @@ V izdelavi.
 
 #### Izvajalci:
 
-* [Matjaž Branko Jurič](https://akademijafri.si/izvajalci/matjaz-branko-juric/)
+* [Matjaž Branko Jurič](/izvajalci/matjaz-branko-juric/)

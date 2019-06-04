@@ -16,6 +16,5 @@ Raziskovalno dela na področju programskega inženiringa, bolj natančno se ukva
 
 #### Izobraževanja:
 
-* [Uporaba pametnih pogodb pri tehnologiji veriženja blokov
-  ](https://akademijafri.si/izobrazevanja/za-podjetja/uporaba_pametnih_pogodb_pri_tehnologiji_verizenja_blokov/)
-* [Pregled tehnologije tangle za distribuiran podatkovni tok v IoT sistemih](https://akademijafri.si/izobrazevanja/za-podjetja/pregled_tehnologije_tangle_za_distribuiran_podatkovni_tok_v_iot_sistemih/)
+* [Uporaba pametnih pogodb pri tehnologiji veriženja blokov](/izobrazevanja/za-podjetja/uporaba_pametnih_pogodb_pri_tehnologiji_verizenja_blokov/)
+* [Pregled tehnologije tangle za distribuiran podatkovni tok v IoT sistemih](/izobrazevanja/za-podjetja/pregled_tehnologije_tangle_za_distribuiran_podatkovni_tok_v_iot_sistemih/)

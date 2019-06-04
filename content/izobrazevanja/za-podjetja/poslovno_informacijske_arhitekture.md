@@ -2,7 +2,6 @@
 title: Poslovno informacijske arhitekture
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovnoinformacijske arhitekture Archimate. 
@@ -42,5 +41,5 @@ V izdelavi.
 
 #### Izvajalci:
 
-* [Damjan Vavpotič](https://akademijafri.si/izvajalci/damjan-vavpotic/)
+* [Damjan Vavpotič](/izvajalci/damjan-vavpotic/)
 * [Tomaž Hovelja](https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/tomaz-hovelja)

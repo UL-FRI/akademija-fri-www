@@ -14,4 +14,4 @@ Je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani 
 
 #### Izobraževanja:
 
-* [Spletno vzporedno računanje z WebGL](https://akademijafri.si/izobrazevanja/za-podjetja/spletno_vzporedno_racunanje_z_webgl/)
+* [Spletno vzporedno računanje z WebGL](/izobrazevanja/za-podjetja/spletno_vzporedno_racunanje_z_webgl/)

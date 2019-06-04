@@ -2,7 +2,6 @@
 title: Uvod v odkrivanje znanj iz podatkov
 date: 2019-03-18T11:21:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Uvod v odkrivanje znanj iz podatkov je prvi korak v svet podatkovne analitike. Izobraževanje je namenjeno popolnim začetnikom, ki želijo spoznati osnovne metode strojnega učenja s pomočjo vizualizacij ter interaktivne predstavitve algoritmov. Postopkov se bomo učili brez programiranja in matematike, po izobraževanju pa boste lahko samostojno zgradili in uporabili analitični delotok.
@@ -40,5 +39,5 @@ V izdelavi.
 
 #### Izvajalci:
 
-* [Blaž Zupan](https://akademijafri.si/izvajalci/blaz-zupan/)
-* [Ajda Pretnar](https://akademijafri.si/izvajalci/ajda-pretnar/)
+* [Blaž Zupan](/izvajalci/blaz-zupan/)
+* [Ajda Pretnar](/izvajalci/ajda-pretnar/)

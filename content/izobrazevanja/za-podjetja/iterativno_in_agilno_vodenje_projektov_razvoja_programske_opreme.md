@@ -2,7 +2,6 @@
 title: Iterativno in agilno vodenje projektov razvoja programske opreme
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Namen izobraževanja je predstaviti sodobne pristope vodenja projektov razvoja programske opreme. Prvi del tečaja je namenjen spoznavanju ključnih lastnosti in prednosti iterativnega pristopa. V tem delu udeleženci med drugim spoznajo, kako s pomočjo iterativnega pristopa učinkovito obvladovati tveganja in kako na podlagi ocenjevanja iteracij projekt sproti usmerjati.
@@ -46,5 +45,5 @@ Specifična predznanja niso potrebna.
 
 #### Izvajalci:
 
-* [Damjan Vavpotič](https://akademijafri.si/izvajalci/damjan-vavpotic/)
-* [Tomaž Hovelja](https://akademijafri.si/izvajalci/toma%C5%BE-hovelja/)
+* [Damjan Vavpotič](/izvajalci/damjan-vavpotic/)
+* [Tomaž Hovelja](/izvajalci/toma%C5%BE-hovelja/)

@@ -2,7 +2,6 @@
 title: Kontejnerji in Kubernetes
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Oblak
@@ -42,5 +41,5 @@ Specifična predznanja niso potrebna.
 
 #### Izvajalci:
 
-* [Matjaž Pančur](https://akademijafri.si/izvajalci/matjaz-pancur/)
-* [Miha Grohar](https://akademijafri.si/izvajalci/miha-grohar/)
+* [Matjaž Pančur](/izvajalci/matjaz-pancur/)
+* [Miha Grohar](/izvajalci/miha-grohar/)

@@ -24,6 +24,6 @@ S povezovanjem antropologije in strojnega učenja razvija nove računalniško po
 
 #### Izobraževanja:
 
-* [Uvod v odkrivanje znanj iz podatkov](https://akademijafri.si/izobrazevanja/za-podjetja/uvod-v-odkrivanje-znanj-iz-podatkov/)
-* [Znanost o podatkih za podjetja](https://akademijafri.si/izobrazevanja/za-podjetja/znanost-o-podatkih-za-podjetja/)
-* [Rudarjenje in organizacija besedil](https://akademijafri.si/izobrazevanja/za-podjetja/rudarjenje_in_organizacija_besedil/)
+* [Uvod v odkrivanje znanj iz podatkov](/izobrazevanja/za-podjetja/uvod-v-odkrivanje-znanj-iz-podatkov/)
+* [Znanost o podatkih za podjetja](/izobrazevanja/za-podjetja/znanost-o-podatkih-za-podjetja/)
+* [Rudarjenje in organizacija besedil](/izobrazevanja/za-podjetja/rudarjenje_in_organizacija_besedil/)

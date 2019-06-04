@@ -2,7 +2,6 @@
 title: Pametno podjetje
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno. S pomočjo RaspberryPi bomo na podlagi senzorjev premikanja prižigali in ugašali žarnice in to javljali na mobilne telefone. 
@@ -39,5 +38,5 @@ Osnovne programerske izkušnje.
 
 #### Izvajalci:
 
-* [Žiga Emeršič](https://akademijafri.si/izvajalci/ziga-emersic/)
-* [Blaž Meden](https://akademijafri.si/izvajalci/blaz-meden/)
+* [Žiga Emeršič](/izvajalci/ziga-emersic/)
+* [Blaž Meden](/izvajalci/blaz-meden/)

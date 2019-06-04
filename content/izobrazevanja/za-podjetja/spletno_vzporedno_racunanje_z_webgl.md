@@ -2,7 +2,6 @@
 title: Spletno vzporedno računanje z WebGL
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
-image: images/placeholder.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Kreativa
@@ -43,4 +42,4 @@ Poznavanje jezika Javascript.
 
 #### Izvajalci:
 
-* [Žiga Lesar](https://akademijafri.si/izvajalci/ziga-lesar/)
+* [Žiga Lesar](/izvajalci/ziga-lesar/)

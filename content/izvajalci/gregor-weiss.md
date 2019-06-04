@@ -13,4 +13,4 @@ Dr. Gregor Weiss je asistent na Fakulteti za računalništvo in informatiko Univ
 
 #### Izobraževanja:
 
-* [Uvod v nevronske mreže](https://akademijafri.si/izobrazevanja/za-podjetja/uvod_v_nevronske_mreze/)
+* [Uvod v nevronske mreže](/izobrazevanja/za-podjetja/uvod_v_nevronske_mreze/)

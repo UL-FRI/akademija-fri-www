@@ -23,4 +23,4 @@ Raziskovalno se ukvarja z digitalno transformacijo, računalništvom v oblaku in
 
 #### Izobraževanja:
 
-* [Mikrostoritve, API, arhitektura za oblak, vsebniki in DevOps](https://akademijafri.si/izobrazevanja/za-podjetja/mikrostoritve_api_arhitektura_za_oblak_vsebniki_in_devops/)
+* [Mikrostoritve, API, arhitektura za oblak, vsebniki in DevOps](/izobrazevanja/za-podjetja/mikrostoritve_api_arhitektura_za_oblak_vsebniki_in_devops/)

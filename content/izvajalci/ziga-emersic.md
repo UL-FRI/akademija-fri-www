@@ -26,6 +26,6 @@ Je soavtor več kot 30 znanstvenih člankov, objavljenih v priznanih revijah, ko
 
 #### Izobraževanja:
 
-* [Globoko učenje v računalniškem vidu 1](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
-* [Globoko učenje v računalniškem vidu 2](https://akademijafri.si/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)
-* [Pametno podjetje](https://akademijafri.si/izobrazevanja/za-podjetja/pametno_podjetje/)
+* [Globoko učenje v računalniškem vidu 1](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
+* [Globoko učenje v računalniškem vidu 2](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)
+* [Pametno podjetje](/izobrazevanja/za-podjetja/pametno_podjetje/)
