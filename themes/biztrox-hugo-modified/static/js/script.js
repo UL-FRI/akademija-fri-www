@@ -67,22 +67,36 @@
         }, 1500, 'easeInOutExpo');
     });
 
-    //Active changer
+    // Active changer
     $('.control').on('click', function () {
         $('.control').removeClass('active');
         $(this).addClass('active');
     });
 
-    // mixitup filter
+    // mixitup filter. Save the user's filter into a cookie so that when
+    // they visit the same page again the same filter is already applied.
     var containerEl = document.querySelector('[data-ref~="mixitup-container"]');
     var mixer;
     if (containerEl) {
         mixer = mixitup(containerEl, {
             selectors: {
                 target: '[data-ref~="mixitup-target"]'
+            },
+            callbacks : {
+                onMixStart: function(state, futureState) {
+                    let filterText = futureState.triggerElement.innerText;
+                    // Create a cookie for only this page that expires in 3 days
+                    Cookies.set("filterTextIzobrazevanja", filterText, { expires: 3, path: '' })
+                }
             }
         });
+
+        let filterTextIzobrazevanja = Cookies.get('filterTextIzobrazevanja')
+        if (filterTextIzobrazevanja) {
+            $(`li small:contains(${filterTextIzobrazevanja})`).parent().trigger("click");
+        }
     }
+
 
     // clients logo slider
     $('.client-logo-slider').slick({
@@ -135,6 +149,12 @@
             newsletter_set_button(true);
         }
     });
+
+
+
+
+
+
 
 })(jQuery);
 
