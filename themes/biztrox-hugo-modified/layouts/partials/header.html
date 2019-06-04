@@ -52,12 +52,24 @@
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+    {{ "<!-- jQuery -->" | safeHTML }}
+    <script src="{{ "plugins/jQuery/jquery.min.js" | absURL }}"></script>
+    {{ "<!-- Bootstrap JS -->" | safeHTML }}
+    <script src="{{ "plugins/bootstrap/bootstrap.min.js" | absURL }}"></script>
+    {{ "<!-- slick slider -->" | safeHTML }}
+    <script src="{{ "plugins/slick/slick.min.js" | absURL }}"></script>
+    {{ "<!-- mixitup -->" | safeHTML }}
+    <script src="{{ "plugins/mixitup/mixitup.min.js" | absURL }}"></script>
+
+
+    {{ "<!-- Main Script -->" | safeHTML }}
+    <script src="{{ "js/script.js" | absURL }}"></script>
+
+
     {{ "<!-- Created by: greenstatic -->" | safeHTML }}
 </head>
 
 <body>
-
-
     {{ "<!-- preloader start -->" | safeHTML }}
     <div class="preloader">
         <img src="{{ "images/preloader.gif" | absURL }} " alt="preloader">
