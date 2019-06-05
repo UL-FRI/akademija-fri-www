@@ -4,7 +4,7 @@ firstName: Tomaž
 lastName: Hovelja
 date: 2019-05-30T15:24:10.356Z
 bgImage: images/background/page-title.jpg
-image: /uploads/blank-profile-picture.png
+image: /images/blank-profile-picture.png
 linkedinURL: 'https://si.linkedin.com/in/hovelja-toma%C5%BE-b530464a'
 phone: +386 1 479 8228
 email: tomaz.hovelja@fri.uni-lj.si
