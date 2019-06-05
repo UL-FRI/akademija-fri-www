@@ -25,7 +25,7 @@
 }
 
 .post-img {
-    max-width: 250px;
+    max-height: 200px;
 }
 
 .post-single-img {
@@ -56,6 +56,15 @@ blockquote p {
 
 .card-title-text {
     margin-left: 15px;
+}
+
+.badge-weight-500 {
+    font-weight: 500;
+}
+
+.badge-gray-outline {
+    color: #666;
+    border: 1px solid #666;
 }
 
 /* Header */

@@ -4,7 +4,9 @@
         <div class="row">
             <div class="col-lg-8 py-100">
                 <div class="border rounded bg-white">
-                    <img class="img-fluid rounded-top mx-auto d-block post-single-img" src="{{ .Params.image | absURL }}" alt="blog-image">
+                    {{ if .Params.image }}
+                        <img class="img-fluid rounded-top mx-auto d-block" src="{{ .Params.image | absURL }}" alt="blog-image">
+                    {{ end }}
                     <div class="p-4">
                         <h3>{{ .Title }}</h3>
                         <ul class="list-inline d-block pb-4 border-bottom mb-3">
