@@ -21,7 +21,9 @@ bgImage: images/background/page-title.jpg
 
 \*_DDV ni vključen v ceno_.
 
-##### Najem prostora Akademije FRI
+---
+
+#### Najem prostora Akademije FRI
 
 **Kapaciteta:** 15-20 sedežev
 
@@ -32,8 +34,7 @@ bgImage: images/background/page-title.jpg
 * bela tabla
 * internet (hitrosti 1GB/s)
 
-**Cena
-:**
+**Cena:**
 
 * Najem do 5 ur med tednom 214,00 EUR.
 * Najem do 5 ur v soboto in nedeljo 128,00 EUR.
