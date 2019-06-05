@@ -1,11 +1,6 @@
 (function ($) {
     'use strict';
 
-    // Preloader js
-    $(window).on('load', function () {
-        $('.preloader').fadeOut(700);
-    });
-
     //Hero Slider
     $('.homepage-slider').slick({
         autoplay: true,
