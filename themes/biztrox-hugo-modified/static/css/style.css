@@ -55,9 +55,9 @@ h6, .h6 {
   font-weight: 500;
 }
 
-.badge-red {
-  color: white;
-  background-color: #e84444;
+.badge-gray-outline {
+  color: #666;
+  border: 1px solid #666;
 }
 
 /* 1.3 Button style */
