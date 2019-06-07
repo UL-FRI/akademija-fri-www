@@ -61,7 +61,7 @@
             {{ "<!-- contact info -->" | safeHTML }}
             <div class="col-md-6">
               <h4>Kontakt</h4>
-              <ul class="pl-0 mb-40" style="list-style:none;">
+              <ul class="pl-0 mb-10" style="list-style:none;">
                 {{ if .Params.Email }}
                 <li class="font-secondary text-color my-3">
                   <i class="mr-3 ti-email"></i>{{ .Params.Email }}
@@ -75,15 +75,20 @@
                 {{ end }}
 
                 {{ if .Params.Website }}
+                {{ $url := urls.Parse .Params.Website }}
                 <li class="font-secondary text-color my-3">
                   <i class="mr-3 ti-cloud"></i>
-                  <a href="{{ .Params.Website }}">{{ .Params.Website }}</a>
+                  <a href="{{ .Params.Website }}">{{ $url.Host }}</a>
                 </li>
                 {{ end }}
               </ul>
             </div>
+
+            <div class="col-12">
+              {{ .Content }}
+            </div>
+
           </div>
-          {{ .Content }}
         </div>
       </div>
     </div>
