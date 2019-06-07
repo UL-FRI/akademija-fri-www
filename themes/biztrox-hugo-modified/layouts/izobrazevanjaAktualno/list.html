@@ -13,8 +13,13 @@
           {{ .Content }}
         </div>
         <div class="post-content-extended">
-        {{ range .Pages }}
-        {{ if .Params.Aktualno }}
+          {{ $v1 := where .Site.RegularPages "Type" "izobrazevanje" }}
+          {{ $v2 := where $v1 ".Params.preteklo" true }}
+
+          {{ $paginator := .Paginate $v2 }}
+
+          {{ range $paginator.Pages }}
+          {{ if .Params.Aktualno }}
           {{ "<!---item -->" | safeHTML }}
           <div class="col-sm-6 mb-4">
             <a href="{{ .Permalink }}" class="h4 font-primary text-dark">

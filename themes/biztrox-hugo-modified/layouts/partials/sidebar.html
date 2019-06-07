@@ -2,11 +2,11 @@
 <div class="col-lg-4 sidebar-box-shadow">
     <div class="bg-white px-4 py-100">
 
-        {{ if (where (where .Site.RegularPages "Type" "izobrazevanjaAktualno") ".Params.aktualno" true) }}
+        {{ if (where (where .Site.RegularPages "Type" "izobrazevanje") ".Params.aktualno" true) }}
         {{ "<!-- Aktualno -->" | safeHTML }}
         <div class="mb-50">
             <h4 class="mb-3">Aktualna izobraževanja</h4>
-            {{ range first 3 (where (where .Site.RegularPages "Type" "izobrazevanjaAktualno") ".Params.aktualno" true) }}
+            {{ range first 3 (where (where .Site.RegularPages "Type" "izobrazevanje") ".Params.aktualno" true) }}
                 {{ "<!-- item -->" | safeHTML }}
                 <div class="d-flex py-3 border-bottom">
                     <div class="mr-4">

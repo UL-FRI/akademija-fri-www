@@ -16,10 +16,11 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Exposed", name: "exposed", widget: "boolean", default: true}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Aktualna izobrazevanja"
-    name: "izobrazevanjaAktualno"
+  - label: "Izobraževanje"
+    name: "izobrazevanje"
     folder: "content/izobrazevanja/aktualno"
     create: true
     fields:
@@ -27,7 +28,7 @@ collections:
       - {label: "Creation Date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaAktualno"}
+      - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
       - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime"}, default: []}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -51,8 +52,8 @@ collections:
         - {label: "Creation Date", name: "date", widget: "datetime"}
         - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
         - {label: "Image", name: "image", widget: "image"}
-        - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaAktualno"}
-        - {label: "Tags", name: "type", widget: "hidden", default: "izobrazevanjaAktualno"}
+        - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
+        - {label: "Tags", name: "type", widget: "hidden", default: "izobrazevanje"}
         - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izvajalci"
     name: "izvajalci"

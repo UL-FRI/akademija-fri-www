@@ -36,7 +36,7 @@
 </section>
 {{ "<!-- /main-->" | safeHTML }}
 
-{{ with (where .Site.RegularPages "Type" "izobrazevanjaAktualno") }}
+{{ with (where .Site.RegularPages "Type" "izobrazevanje") }}
 {{ if (len (where . ".Params.aktualno" true)) }}
 
 {{ "<!-- izobrazevanje aktualno -->" | safeHTML }}
@@ -47,7 +47,7 @@
                 <h2 class="section-title section-title-border-gray">Aktualna izobraževanja</h2>
             </div>
 
-            {{ range sort (where $.Site.RegularPages "Type" "izobrazevanjaAktualno") "Params.date" "asc" }}
+            {{ range sort (where $.Site.RegularPages "Type" "izobrazevanje") "Params.date" "asc" }}
             {{ if .Params.Aktualno }}
             <div class="col-lg-8">
                 {{ "<!-- izobrazevanje aktualno item -->" | safeHTML }}
