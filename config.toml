@@ -17,6 +17,12 @@ theme = "biztrox-hugo-modified"
 
         [[menu.nav]]
         parent = "Izobraževanja"
+        name = "Pretekla"
+        URL = "/izobrazevanja/pretekla"
+        weight = 1
+
+        [[menu.nav]]
+        parent = "Izobraževanja"
         name = "Za podjetja"
         URL = "/izobrazevanja/za-podjetja"
         weight = 2

@@ -1,0 +1,7 @@
+{{ $len := (len .Params.dates) }}
+{{ range $index, $elm := .Params.dates }}
+{{ $elm | dateFormat "2. 1. 2006" }}
+{{ if ne (add $index 1) $len }}
+, &nbsp;
+{{ end }}
+{{ end }}

@@ -2,11 +2,12 @@
 <div class="col-lg-4 sidebar-box-shadow">
     <div class="bg-white px-4 py-100">
 
-        {{ "<!-- Recent novice-->" | safeHTML }}
+        {{ if (where (where .Site.RegularPages "Type" "izobrazevanjaAktualno") ".Params.aktualno" true) }}
+        {{ "<!-- Aktualno -->" | safeHTML }}
         <div class="mb-50">
-            <h4 class="mb-3">Novice</h4>
-            {{ range first 3 (where .Site.RegularPages "Type" "novice") }}
-                {{ "<!-- novica -->" | safeHTML }}
+            <h4 class="mb-3">Aktualna izobraževanja</h4>
+            {{ range first 3 (where (where .Site.RegularPages "Type" "izobrazevanjaAktualno") ".Params.aktualno" true) }}
+                {{ "<!-- item -->" | safeHTML }}
                 <div class="d-flex py-3 border-bottom">
                     <div class="mr-4">
                         <a href="{{ .Permalink }}">
@@ -17,10 +18,36 @@
                         <h6 style="margin-bottom: 5px;">
                             <a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
                         </h6>
-                        <small class="meta">{{ .PublishDate.Format "2. 1. 2006" }}</small>
+                        <small class="meta">{{ partial "izobrazevanjaDisplayDates.html" . }}</small>
                     </div>
                 </div>
             {{ end }}
         </div>
+        {{ end }}
+
+
+        {{ if (where (where .Site.RegularPages "Type" "novice") ".Params.exposed" true) }}
+        {{ "<!-- Exposed novice-->" | safeHTML }}
+        <div class="mb-50">
+            <h4 class="mb-3">Novice</h4>
+            {{ range first 3 (where (where .Site.RegularPages "Type" "novice") ".Params.exposed" true) }}
+            {{ "<!-- item -->" | safeHTML }}
+            <div class="d-flex py-3 border-bottom">
+                <div class="mr-4">
+                    <a href="{{ .Permalink }}">
+                        <img class="rounded img-fluid recent-post-thumb" src="{{ .Params.image | absURL }}" alt="post-thumb">
+                    </a>
+                </div>
+                <div>
+                    <h6 style="margin-bottom: 5px;">
+                        <a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h6>
+                    <small class="meta">{{ .PublishDate.Format "2. 1. 2006" }}</small>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+
     </div>
 </div>

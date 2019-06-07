@@ -3,7 +3,7 @@ title: Bayesova statistika s programskim jezikom Stan
 date: 2019-05-17T11:35:36.407Z
 bgImage: images/background/page-title.jpg
 image: /uploads/bayesian-2889576_1280-–-kopija.jpg
-type: izobrazevanjaAktualno
+type: izobrazevanjaZaSole
 aktualno: true
 preteklo: true
 dates:
