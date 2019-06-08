@@ -7,7 +7,6 @@
     margin-bottom: 10px;
 }
 
-
 .post-content li {
     font-weight: 400;
     color: #666;
@@ -67,6 +66,46 @@ blockquote p {
     border: 1px solid #666;
 }
 
+.post-content img {
+    max-width: 100%;
+}
+
+/* Content list
+
+   Making lists look okay since netlify-cms when adding lists creates a sibling in the paragraph element
+   instead of a child. Thus an unnecessary margin is present that makes the document look weird.
+*/
+.post-content p {
+    margin-bottom: 0;
+}
+
+p + p, ul + p {
+    margin-top: 15px;
+}
+
+p + h1, p + h2, p + h3, p + h4, p + h5, p + h6 {
+    margin-top: 30px;
+}
+
+/* End content list */
+
+.link-red:link, .link-red:visited, .link-red:active {
+    color: #e84444;
+}
+
+.link-red:hover {
+    color: #007bff;
+}
+
+.bg-github {
+    background-color: #364145;
+}
+
+ol, ul {
+    list-style-type: disc;
+    margin: 0px;
+}
+
 /* Header */
 
 /* Ugly hacks for logo in header */
@@ -122,6 +161,11 @@ blockquote p {
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.homepage-slider.slick-slider {
+  margin-bottom: 0;
+}
+
 
 /* Koledar */
 #calendar {
@@ -182,4 +226,113 @@ blockquote p {
 
 .pagination .page-item.disabled .page-link a {
     color: grey;
+}
+
+/* Izobrazevanja za podjetja */
+.izobrazevanja-za-podjetja-filter ul li {
+    padding: 5px 20px;
+    border-radius: 35px;
+    color: #222;
+    font-size: 16px;
+    font-weight: 400;
+    border: 1px solid #e5e5e5;
+    cursor: pointer;
+    background: #f5f5f5;
+    margin: 0 8px 15px;
+}
+
+.izobrazevanja-za-podjetja-filter ul li.active {
+    background: #e84444;
+    color: #fff;
+}
+
+.izobrazevanja-za-podjetja-info {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    opacity: 0;
+    transition: .2s ease;
+}
+
+.izobrazevanja-za-podjetja-info a {
+    color: #fff;
+    position: absolute;
+    left: 30px;
+    bottom: 40px;
+    -webkit-transform: translateY(20px);
+    transform: translateY(20px);
+    opacity: 0;
+}
+
+.izobrazevanja-za-podjetja-info a:hover {
+    color: #e84444;
+}
+
+.izobrazevanja-za-podjetja-info p {
+    position: absolute;
+    left: 25px;
+    bottom: 0;
+    color: #fff;
+    transition: .2s ease;
+    -webkit-transform: translateY(20px);
+    transform: translateY(20px);
+    opacity: 0;
+    transition-delay: .1s;
+}
+
+.izobrazevanja-za-podjetja-info p i {
+    margin-right: 5px;
+}
+
+.izobrazevanja-za-podjetja-info:hover {
+    opacity: 1;
+}
+
+.izobrazevanja-za-podjetja-info:hover a {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.izobrazevanja-za-podjetja-info:hover p {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: .7;
+}
+
+/* 19.3 project single page start */
+
+.izobrazevanja-za-podjetja-content h3{
+    margin-bottom: 10px;
+}
+
+.izobrazevanja-za-podjetja-content p{
+    margin-bottom: 40px;
+}
+
+.izobrazevanja-za-podjetja-content img{
+    margin-bottom: 10px;
+    max-width: 100%;
+    height: auto
+}
+
+.izobrazevanja-za-podjetja-content h6{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #222;
+    margin-bottom: 25px;
+    position: relative;
+    margin-left: 20px;
+}
+.izobrazevanja-za-podjetja-content h6::before{
+    position: absolute;
+    content: "\e65d";
+    font-family: "themify";
+    top: 0;
+    left: -20px;
+    color: #e84444;
 }

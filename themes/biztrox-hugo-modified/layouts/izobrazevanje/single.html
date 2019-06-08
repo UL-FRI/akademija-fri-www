@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+{{ partial "navigation.html" . }}
+
+{{ partial "pageTitle.html" . }}
+
+{{ "<!-- izobrazevanje single -->" | safeHTML }}
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 py-100">
+        <h3>{{ .Title }}</h3>
+        <div class="post-content">
+          {{ .Content }}
+
+          {{ if (isset .Params "prijavnica") }}
+            <a href="{{ .Params.prijavnica }}" class="btn btn-primary translateY-25" target="_blank">Prijavnica</a>
+          {{ end }}
+        </div>
+      </div>
+
+      {{ partial "sidebar.html" . }}
+    </div>
+  </div>
+</section>
+{{ "<!-- /izobrazevanje single -->" | safeHTML }}
+
+{{ partial "footer.html" . }}

@@ -1,3 +1,37 @@
+// Returns the GET parameter if one exists otherwise null
+// https://stackoverflow.com/questions/19491336/get-url-parameter-jquery-or-how-to-get-query-string-values-in-js
+function urlParam(name){
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (results==null) {
+        return null;
+    }
+    return decodeURI(results[1]) || null;
+}
+
+function anchorize_sanatize(word) {
+    const regex = /[\wščžćđ]/gmi;
+
+    let res = '';
+    for (let i = 0; i < word.length; i++) {
+        if (word[i].match(regex) != null) {
+            res += word[i];
+        } else if (i > 0 && i !== word.length - 1 && res[res.length-1] !== '-') {
+            res += '-';
+        }
+    }
+
+    if (res[res.length - 1] === '-') {
+        res = res.slice(0, res.length - 1);
+    }
+
+    return res;
+}
+
+// Does what the hugo template anchorize function does.
+function anchorize(input) {
+    return anchorize_sanatize(input.toLowerCase())
+}
+
 (function ($) {
     'use strict';
 
@@ -8,20 +42,13 @@
         arrows: true,
         prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-arrow-left\'></i></button>',
         nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-arrow-right\'></i></button>',
-        // dots: true,
-        // customPaging: function (slider, i) {
-        //     var icon = $(slider.$slides[i]).data('icon');
-        //     var text = $(slider.$slides[i]).data('text');
-        //     return '<a><i class="' + icon + '"></i><span>' + text + '</span></a>';
-        // },
         responsive: [{
             breakpoint: 576,
             settings: {
                 arrows: false
             }
         }]
-    });
-    $('.homepage-slider').slickAnimation();
+    }).slickAnimation();
 
     // animation scroll js
     var html_body = $('html, body');
@@ -78,20 +105,28 @@
                 target: '[data-ref~="mixitup-target"]'
             },
             callbacks : {
-                onMixStart: function(state, futureState) {
-                    let filterText = futureState.triggerElement.innerText;
-                    // Create a cookie for only this page that expires in 3 days
-                    Cookies.set("filterTextIzobrazevanja", filterText, { expires: 3, path: '' })
+                onMixClick: function(state, originalEvent) {
+                    let filterText = originalEvent.target.innerText;
+
+                    console.log("Enabling list filter:", filterText);
+
+                    var param = "?izpfilter=" + filterText;
+                    window.history.replaceState(null, null, window.location.pathname + param);
                 }
             }
         });
 
-        let filterTextIzobrazevanja = Cookies.get('filterTextIzobrazevanja')
-        if (filterTextIzobrazevanja) {
-            $(`li small:contains(${filterTextIzobrazevanja})`).parent().trigger("click");
-        }
-    }
+        let filterTextIzobrazevanja = urlParam('izpfilter');
 
+        if (filterTextIzobrazevanja && filterTextIzobrazevanja != "Vsi") {
+            console.log("Enabling list filter:", filterTextIzobrazevanja);
+            $(`li small:contains(${filterTextIzobrazevanja})`).parent().trigger("click");
+        } else {
+            console.log("No list filter");
+        }
+
+
+    }
 
     // clients logo slider
     $('.client-logo-slider').slick({
@@ -132,28 +167,30 @@
         ]
     });
 
+
+    function newsletter_set_button(s) {
+        $("#mc-embedded-subscribe").prop("disabled", !s);
+    }
+
     // Disable newsletter send button until the user fills out something
     // in the email field and agrees to the terms of service.
-    newsletter_set_button(true);
-    $("#gdpr_19317").change(function() {
-        if (this.checked &&
-            $('#mce-EMAIL').val().length > 0) {
-            // Enabled prijava
-            newsletter_set_button(false);
-        }  else {
-            newsletter_set_button(true);
+    newsletter_set_button(false);
+
+    function newsletter_check(checkbox_selector, email_selector) {
+        if ($(checkbox_selector).length) {
+            if (!$(checkbox_selector)[0].checked) {
+                return false;
+            }
         }
-    });
 
+        return $(email_selector).val().length > 0;
+    }
 
+    function newsletter_form_check() {
+        newsletter_set_button(newsletter_check('#gdpr_19317', '#mce-EMAIL'));
+    }
 
-
-
-
+    $('#gdpr_19317').change(newsletter_form_check);
+    $('#mce-EMAIL').on('input', newsletter_form_check);
 
 })(jQuery);
-
-function newsletter_set_button(disabled) {
-    // Disabled is a boolean value whether the button is disabled or not.
-    $("#mc-embedded-subscribe").prop("disabled", disabled);
-}

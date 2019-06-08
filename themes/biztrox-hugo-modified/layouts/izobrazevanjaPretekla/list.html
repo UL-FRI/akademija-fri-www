@@ -13,6 +13,7 @@
           {{ .Content }}
         </div>
         <div class="post-content-extended">
+          <div class="row">
           {{ $v1 := where .Site.RegularPages "Type" "izobrazevanje" }}
           {{ $v2 := where $v1 ".Params.preteklo" true }}
 
@@ -48,6 +49,8 @@
             <div class="d-flex justify-content-center" style="margin-top: 30px;">
               {{ template "_internal/pagination.html" . }}
             </div>
+          </div>
+
           </div>
         </div>
       </div>

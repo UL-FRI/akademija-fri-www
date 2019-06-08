@@ -23,7 +23,7 @@
                   <small>Vsi</small>
                 </li>
                 {{ range .Site.Taxonomies.tagsIzobrazevanjaZaPodjetja }}
-                <li class="list-inline-item control" data-filter=".{{ anchorize .Page.Title }}">
+                <li class="list-inline-item control" data-filter=".izb-filter-tag-{{ anchorize .Page.Title }}">
                   <small>{{ .Page.Title }}</small>
                 </li>
                 {{ end }}
@@ -35,7 +35,7 @@
             <ul>
               {{ range .Pages }}
               {{ "<!-- item -->" | safeHTML }}
-              <div class="mb-4 {{ range .Params.tagsIzobrazevanjaZaPodjetja}} {{ anchorize . }}{{end}}" data-ref="mixitup-target">
+              <div class="mb-4 {{ range .Params.tagsIzobrazevanjaZaPodjetja}} izb-filter-tag-{{ anchorize . }}{{end}}" data-ref="mixitup-target">
                 <li class="pb-2">
                   <a href="{{ .Permalink }}" class="h5 font-primary text-dark">
                     {{ .Title }}

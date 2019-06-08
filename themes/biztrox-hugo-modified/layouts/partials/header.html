@@ -14,10 +14,9 @@
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
 
-
-    <!-- Hugo info -->
-    <!-- Build date: {{ .Hugo.BuildDate }} -->
-    {{ .Hugo.Generator }}
+    {{ "<!-- Hugo info -->" | safeHTML }}
+    {{ printf "<!-- Build Date: %s -->" (now.Format "2006-01-02T15:04:05Z07:00") | safeHTML }}
+    {{ hugo.Generator }}
 
     {{ "<!-- Bootstrap -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/bootstrap/bootstrap.min.css" | absURL }} ">
