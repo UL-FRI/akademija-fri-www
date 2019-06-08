@@ -1,14 +1,14 @@
 <li>
   {{ if (len .Children ) }}
-  <span style="color:white;">{{ .Name }}</span>
+  <span class="text-white footer-links-primary">{{ .Name }}</span>
   {{ else }}
-  <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+  <a href="{{ .URL | absURL }}" class="footer-links-primary">{{ .Name }}</a>
   {{ end }}
 
   <ul>
     {{ range .Children }}
     <li>
-      <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+      <a href="{{ .URL | absURL }}" class="footer-links-secondary">{{ .Name }}</a>
     </li>
     {{ end }}
   </ul>

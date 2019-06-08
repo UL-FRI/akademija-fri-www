@@ -141,6 +141,8 @@ ol, ul {
 /* Footer */
 .footer-links li a {
     margin-bottom: 10px;
+    font-size: unset;
+    display: unset;
 }
 
 .footer-links li {
@@ -153,6 +155,20 @@ ol, ul {
 
 .footer-links ul li ul {
     margin-top: 5px;
+}
+
+.footer-links-primary {
+    font-family: "Open Sans", sans-serif;
+}
+.footer-links-secondary {
+}
+
+.footer-links > li > ul > li::before {
+    font-size: x-small;
+    top: 5px;
+}
+.footer-links li a:hover {
+    text-decoration-line: unset;
 }
 
 /* Homepage */
