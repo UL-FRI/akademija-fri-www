@@ -48,7 +48,3 @@ _**Vsak udeleženec potrebuje svoj prenosni računalnik.**_
 
 * Dr. Erik Štrumbelj
 * Dr. Jure Demšar
-
-
-
-## [PRIJAVNICA](https://docs.google.com/forms/d/e/1FAIpQLSc8IAaFem2m6hp8hx5143Rna-FDDGu14m1Z_OzzjipR0JXDRA/viewform?usp=sf_link)
