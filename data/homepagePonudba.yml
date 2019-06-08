@@ -2,15 +2,27 @@ title: Ponudba
 description: 'Nudimo vam izobraževanja z aktualnih področij:'
 bgImage: images/background/about-bg.jpg
 list:
-  - Podatkovno rudarjenje
-  - Big Data
-  - Umetna inteligenca
-  - Globoko učenje
-  - Informacijska varnost
-  - Blockchain
-  - Strojno učenje
-  - Računalniški vid
-  - Kontejnerji
-  - DevOps
-  - Oblak
-  - Dizajn
+  - text: Podatkovno rudarjenje
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Podatkovno%20rudarjenje'
+  - text: Big Data
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Big%20Data'
+  - text: Umetna inteligenca
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Umetna%20inteligenca'
+  - text: Globoko učenje
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Globoko%20učenje'
+  - text: Informacijska varnost
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Informacijska%20varnost'
+  - text: Blockchain
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Blockchain'
+  - text: Strojno učenje
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Strojno%20učenje'
+  - text: Računalniški vid
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Računalniški%20vid'
+  - text: Kontejnerji
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Kontejnerji'
+  - text: DevOps
+    link: '/izobrazevanja/za-podjetja/?izpfilter=DevOps'
+  - text: Oblak
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Oblak'
+  - text: Dizajn
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Dizajnerski%20pristop'

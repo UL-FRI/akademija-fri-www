@@ -5,7 +5,7 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Globoko učenje
-  - računalniški vid
+  - Računalniški vid
 ---
 #### Namen:
 
