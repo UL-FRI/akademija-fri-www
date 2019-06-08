@@ -80,8 +80,6 @@ mailchimpFormAction = "https://uni-lj.us20.list-manage.com/subscribe/post?u=ad2b
 mailchimpFormName = "b_ad2bdda8ad23165330c877ca4_0990001b34"
 
   [params.homepage]
-  image = "images/banner.jpg"
-
     # footer
     [params.footer]
     logo = "images/unilj.png"

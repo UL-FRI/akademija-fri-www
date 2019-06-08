@@ -5,7 +5,7 @@
 {{ "<!-- image -->" | safeHTML }}
 <section>
     <div class="homepage-slider position-relative">
-        <div class="homepage-slider-item py-160" style="background-image: url('{{ .Site.Params.homepage.image| absURL }}')" data-icon="ti-comments"
+        <div class="homepage-slider-item py-160" style="background-image: url('{{ .Params.bgImage | absURL }}')" data-icon="ti-comments"
              data-text="{{ .Params.Title }}">
             <div class="container">
                 <div class="row">
@@ -152,19 +152,19 @@
 {{ end }}
 
 
-{{ if .Site.Data.zadovoljneStranke.enable }}
-{{ if .Site.Data.zadovoljneStranke.list }}
-{{ "<!-- zadovoljene stranke -->" | safeHTML}}
+{{ if .Site.Data.stranke.enable }}
+{{ if .Site.Data.stranke.list }}
+{{ "<!-- stranke -->" | safeHTML}}
 <section class="section">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-title section-title-border">{{ .Site.Data.zadovoljneStranke.title }}</h2>
+                <h2 class="section-title section-title-border">{{ .Site.Data.stranke.title }}</h2>
             </div>
 
             <div class="col-lg-12">
                 <div class="client-logo-slider align-self-center">
-                    {{ range .Site.Data.zadovoljneStranke.list }}
+                    {{ range .Site.Data.stranke.list }}
                     <a href="{{ .URL | absURL }}" class="text-center d-block outline-0 py-3 px-2">
                         <img class="d-unset" src="{{ .image | absURL }}" alt="client-logo">
                     </a>
@@ -174,7 +174,7 @@
         </div>
     </div>
 </section>
-{{ "<!-- /zadovoljene stranke -->" | safeHTML}}
+{{ "<!-- /stranke -->" | safeHTML}}
 {{ end }}
 {{ end }}
 

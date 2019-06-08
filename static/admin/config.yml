@@ -21,7 +21,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobraževanje"
     name: "izobrazevanje"
-    folder: "content/izobrazevanja/aktualno"
+    folder: "content/izobrazevanja/izobrazevanje"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -29,11 +29,14 @@ collections:
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
+      - {label: "Aktualno", name: "aktualno", widget: "boolean", default: true}
+      - {label: "Preteklo", name: "preteklo", widget: "boolean", default: false}
       - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime"}, default: []}
+      - {label: "Prijavnica", name: "prijavnica", widget: "string", required: false}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Izobrazevanja za podjetja (podstrani)"
-    name: "za-podjetja"
+  - label: "Izobrazevanje za podjetja"
+    name: "izobrazevanjaZaPodjetja"
     folder: "content/izobrazevanja/za-podjetja"
     create: true
     fields:
@@ -42,6 +45,7 @@ collections:
       - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
       - {label: "Image", name: "image", widget: "image", default: "images/placeholder.jpg"}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaZaPodjetja"}
+      - {label: "Tags", name: "tagsIzobrazevanjaZaPodjetja", widget: list}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobraževanja za šole"
       name: "izobrazevanjaZaSole"
@@ -53,7 +57,6 @@ collections:
         - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
         - {label: "Image", name: "image", widget: "image"}
         - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
-        - {label: "Tags", name: "type", widget: "hidden", default: "izobrazevanje"}
         - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izvajalci"
     name: "izvajalci"
@@ -84,6 +87,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/banner.jpg"}
       - file: "data/homepagePonudba.yml"
         label: "Ponudba"
         name: "ponudba"
@@ -95,14 +99,6 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "content/izobrazevanja/za-podjetja.md"
-        label: "Izobraževanja za podjetja"
-        name: "za-podjetja-main"
-        fields:
-          - {label: "Title", name: "title", widget: string}
-          - {label: "Creation Date", name: "date", widget: "datetime"}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-          - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/izobrazevanja/sofinanciranje.md"
         label: "Izobraževanja - Sofinanciranje"
         name: "sofinanciranje"
@@ -145,9 +141,9 @@ collections:
           - {label: "Description", name: "description", widget: string}
           - {label: "Keywords", name: "keywords", widget: string}
 
-      - file: "data/zadovoljneStranke.yml"
-        name: "zadovoljneStranke"
-        label: "Zadovoljne Stranke"
+      - file: "data/stranke.yml"
+        name: "stranke"
+        label: "Stranke"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Enable", name: "enable", widget: boolean}
