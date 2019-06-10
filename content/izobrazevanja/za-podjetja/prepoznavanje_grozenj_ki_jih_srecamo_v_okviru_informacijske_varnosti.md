@@ -4,7 +4,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Varnost
+  - Information Security
 ---
 Naučili vas bomo osnovnega izrazoslovja informacijske varnosti, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. Spoznali bomo tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. 
 

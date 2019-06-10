@@ -4,8 +4,8 @@ date: 2019-05-28T08:41:10.101Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Globoko učenje
-  - Računalniški vid
+  - Deep Learning
+  - Computer Vision
 ---
 #### Namen:
 

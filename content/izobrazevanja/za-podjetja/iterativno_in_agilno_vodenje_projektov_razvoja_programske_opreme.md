@@ -3,6 +3,8 @@ title: Iterativno in agilno vodenje projektov razvoja programske opreme
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja:
+  - Software Development & IT
 ---
 Namen izobraževanja je predstaviti sodobne pristope vodenja projektov razvoja programske opreme. Prvi del tečaja je namenjen spoznavanju ključnih lastnosti in prednosti iterativnega pristopa. V tem delu udeleženci med drugim spoznajo, kako s pomočjo iterativnega pristopa učinkovito obvladovati tveganja in kako na podlagi ocenjevanja iteracij projekt sproti usmerjati.
 

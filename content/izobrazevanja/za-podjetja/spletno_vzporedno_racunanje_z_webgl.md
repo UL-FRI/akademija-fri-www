@@ -4,7 +4,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Kreativa
+  - Computer Graphics
 ---
 Dandanes zahtevne grafične aplikacije delujejo tudi v spletnih brskalnikih predvsem po zaslugi vmesnika WebGL. Običajno se WebGL uporablja za 3D vizualizacije, primeren pa je tudi za bolj splošno vzporedno računanje. 
 Medtem ko se začetni tečaji v glavnem osredotočajo na osnove 3D grafike, je ta delavnica namenjena tistim, ki bi radi WebGL spoznali bolj podrobno in z njim pospešili računanje na končnih napravah.

@@ -4,7 +4,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Hadoop
+  - Big Data
 ---
 Hadoop je platforma namenjena shranjevanju velike količine podatkov. 
 

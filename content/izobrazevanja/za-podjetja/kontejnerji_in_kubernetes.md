@@ -4,9 +4,8 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Oblak
-  - Kontejnerji
-  - DevOps
+  - Cloud & DevOps
+  - Containers
 ---
 Kontejnerji in Kubernetes sta najpopularnejši tehnologiji za izgradnjo t. i. oblačnih sistemov in aplikacij (_cloud native applications/systems_). 
 

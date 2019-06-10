@@ -4,8 +4,8 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Umetna inteligenca
-  - Strojno učenje
+  - AI
+  - Machine Learning
 ---
 Na izobraževanju bomo razjasnili razliko med človeško in računalniško inteligenco ter spoznali strojno učenje kot temelj umetne inteligence. Poglobili se bomo tudi v delovanje algoritmov strojnega učenja ter prikazali prednosti in slabosti posameznih pristopov. Pri tem je dobrodošlo, da udeleženci na vaje prinesejo tudi svoje podatke, ki bi jih želeli analizirati z algoritmi strojnega učenja, sicer pa se praktične vaje izvajajo na javno dostopnih podatkih. 
 

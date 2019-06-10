@@ -4,7 +4,8 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Nevronske mreže
+  - AI
+  - Deep Learning
 ---
 Nevronske mreže so računalniški programi, ki delujejo po vzoru človeških nevronskih mrež v možganih. Njihov cilj je izvajanje kognitivnih funkcij kot sta reševanje problemov in strojno učenje.
 Izobraževanje je namenjeno predvsem podatkovnim analitikom in podatkovnim inženirjem ter vsem, ki bi želeli vedeti več o tehnologiji.

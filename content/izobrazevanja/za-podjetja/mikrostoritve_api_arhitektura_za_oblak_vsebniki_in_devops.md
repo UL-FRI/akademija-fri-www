@@ -4,9 +4,8 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Oblak
-  - Kontejnerji
-  - DevOps
+  - Cloud & DevOps
+  - Containers
 ---
 Udeleženci bodo spoznali najnovejše pristope pri razvoju sodobnih aplikacij in informacijskih rešitev ter arhitekturne vzorce in koncepte, na katerih temeljijo sodobne digitalne aplikacije in rešitve. Poseben poudarek bo na vpeljavi novih arhitekturnih konceptov v obstoječa okolja in postopen prehod s klasičnega monolitnega razvojnega modela na model uporabe mikrostoritev in ostalih konceptov arhitekture za oblak (cloud-native), na osnovi katere razvijajo rešitve najuspešnejša internetna podjetja. 
 

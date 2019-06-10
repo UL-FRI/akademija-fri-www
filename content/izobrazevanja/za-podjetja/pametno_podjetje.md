@@ -3,6 +3,8 @@ title: Pametno podjetje
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
+tagsIzobrazevanjaZaPodjetja:
+  - IoT
 ---
 Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno. S pomočjo RaspberryPi bomo na podlagi senzorjev premikanja prižigali in ugašali žarnice in to javljali na mobilne telefone. 
 

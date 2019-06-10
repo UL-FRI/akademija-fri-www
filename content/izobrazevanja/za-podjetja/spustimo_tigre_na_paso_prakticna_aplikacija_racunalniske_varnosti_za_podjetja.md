@@ -6,7 +6,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Varnost
+  - Information Security
 ---
 Naučili vas bomo osnovnih principov penetracijskega testiranja (i. e. preverjanja varnosti sistemov prek simuliranih napadov), s poudarkom na izrabi človeških virov in pasivnega zbiranja podatkov o pomanjkljivostih sistema in posameznikov. Program vsebuje teoretične in praktične elemente.
 

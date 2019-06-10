@@ -4,7 +4,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Dizajnerski pristop
+  - Design Thinking
 ---
 Na izobraževanju bo prek praktičnega primera predstavljen dizajnerski pristop za reševanje kompleksnih večplastnih problemov, ki v središče postavljajo potencialne uporabnike izdelkov in storitev.
 

@@ -4,7 +4,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Informacijska varnost
+  - Information Security
 ---
 Na tem izobraževanju se bomo poglobili v načine varovanja podjetja pred napadi in načine pravilnega odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi, ki skrbi za človeške vire, ter pravnim in PR službam.
 

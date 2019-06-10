@@ -4,7 +4,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Kreativa
+  - Computer Graphics
 ---
 Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. Z vse večjim krogom uporabnikov pa se veča tudi potreba po dobrih in smiselnih aplikacijah, ki s pomočjo navidezne resničnosti predstavijo izbrano vsebino. V okviru izobraževanja bomo spoznali čiste osnove razvoja aplikacij za navidezno resničnost v okolju Unity3D.
 

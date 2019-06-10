@@ -4,7 +4,7 @@ date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
-  - Podatkovno rudarjenje
+  - Data Mining
 ---
 Udeleženci bodo uporabili metode za predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene podatke se bodo naučili shranjevati v semantičnih podatkovnih zbirkah (kot je na primer DBPedia) in po njih tudi poizvedovati. Po izobraževanju bodo udeleženci sposobni sami s pomočjo programskega jezika izvesti izbrano analizo besedila od začetka do konca.
 
