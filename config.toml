@@ -17,12 +17,6 @@ theme = "biztrox-hugo-modified"
 
         [[menu.nav]]
         parent = "Izobraževanja"
-        name = "Pretekla"
-        URL = "/izobrazevanja/pretekla"
-        weight = 1
-
-        [[menu.nav]]
-        parent = "Izobraževanja"
         name = "Za podjetja"
         URL = "/izobrazevanja/za-podjetja"
         weight = 2
@@ -35,9 +29,15 @@ theme = "biztrox-hugo-modified"
 
         [[menu.nav]]
         parent = "Izobraževanja"
+        name = "Pretekla"
+        URL = "/izobrazevanja/pretekla"
+        weight = 4
+
+        [[menu.nav]]
+        parent = "Izobraževanja"
         name = "Sofinanciranje"
         URL = "/izobrazevanja/sofinanciranje"
-        weight = 4
+        weight = 5
 
     [[menu.nav]]
     name = "Izvajalci"

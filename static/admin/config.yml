@@ -54,7 +54,7 @@ collections:
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Izobrazevanje za podjetja"
+  - label: "Izobraževanje za podjetja"
     name: "izobrazevanjaZaPodjetja"
     folder: "content/izobrazevanja/za-podjetja"
     create: true
