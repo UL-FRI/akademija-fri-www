@@ -35,6 +35,22 @@ collections:
       - {label: "Prijavnica", name: "prijavnica", widget: "string", required: false}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - file: "content/izobrazevanja/aktualno/_index.md"
+    label: "Izobraževanja - Aktualno"
+    name: "izobrazevanjaAktualno"
+    fields:
+      - {label: "Title", name: "title", widget: string}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - file: "content/izobrazevanja/aktualno/_index.md"
+    label: "Izobraževanja - Pretekla"
+    name: "izobrazevanjaPretekla"
+    fields:
+      - {label: "Title", name: "title", widget: string}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobrazevanje za podjetja"
     name: "izobrazevanjaZaPodjetja"
     folder: "content/izobrazevanja/za-podjetja"
@@ -96,8 +112,26 @@ collections:
           - {label: "Description", name: "description", widget: string}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/about-bg.jpg"}
           - {label: "List", name: "list", widget: list, field: {label: "Element", name: "element", widget: string}}
+      - file: "data/meta.yml"
+        label: "Metadata"
+        name: "metadata"
+        fields:
+          - {label: "Description", name: "description", widget: string}
+          - {label: "Keywords", name: "keywords", widget: string}
+      - file: "data/stranke.yml"
+        name: "stranke"
+        label: "Stranke"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Enable", name: "enable", widget: boolean}
+          - label: "List"
+            name: "list"
+            widget: list
+            fields:
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "URL", name: "url", widget: "string"}
   - name: "pages"
-    label: "Pages"
+    label: "Ostale Strani"
     files:
       - file: "content/izobrazevanja/sofinanciranje.md"
         label: "Izobraževanja - Sofinanciranje"
@@ -131,25 +165,4 @@ collections:
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
-  - name: "other"
-    label: "Other"
-    files:
-      - file: "data/meta.yml"
-        label: "Metadata"
-        name: "metadata"
-        fields:
-          - {label: "Description", name: "description", widget: string}
-          - {label: "Keywords", name: "keywords", widget: string}
 
-      - file: "data/stranke.yml"
-        name: "stranke"
-        label: "Stranke"
-        fields:
-          - {label: "Title", name: "title", widget: string}
-          - {label: "Enable", name: "enable", widget: boolean}
-          - label: "List"
-            name: "list"
-            widget: list
-            fields:
-            - {label: "Image", name: "image", widget: "image"}
-            - {label: "URL", name: "url", widget: "string"}
