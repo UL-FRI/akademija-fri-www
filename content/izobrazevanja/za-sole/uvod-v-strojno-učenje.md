@@ -1,5 +1,7 @@
 ---
-title: Uvod v strojno učenje
+title: >-
+  Uvod v strojno
+  učenje                                                                      
 date: 2019-06-10T19:01:17.390Z
 bgImage: images/background/page-title.jpg
 image: /uploads/pixel-cells-3947912_1280.png
