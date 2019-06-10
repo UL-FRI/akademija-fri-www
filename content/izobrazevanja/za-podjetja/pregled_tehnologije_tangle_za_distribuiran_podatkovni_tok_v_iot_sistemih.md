@@ -5,7 +5,6 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - IoT
-  - Tangle
   - Blockchain
 ---
 Pregledali bomo podatkovni model, ki temelji na usmerjenem acikličnem grafu, metodologijo toka podatkov ter dovzetnost do potencialnih napadov. Na podlagi kriptovalute IOTA bomo spoznali možnosti namestitve vozlišča, priprave denarnice in funkcionalnosti ekosistema. 

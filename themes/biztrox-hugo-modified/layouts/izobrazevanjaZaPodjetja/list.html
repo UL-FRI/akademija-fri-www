@@ -9,53 +9,56 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 py-100">
-        <h3>{{ .Title }}</h3>
-        <div class="post-content">
-          {{ .Content }}
-        </div>
-        <div class="post-content-extended">
+        <div class="pr-4">
 
-          <div class="col-lg-12">
-            <div class="izobrazevanja-za-podjetja-filter text-center pt-3 pb-4">
-              <ul class="controls list-inline">
-                {{ "<!-- filter item list -->" | safeHTML }}
-                <li class="list-inline-item control active" data-filter="all">
-                  <small>Vsi</small>
-                </li>
-                {{ range .Site.Taxonomies.tagsIzobrazevanjaZaPodjetja }}
-                <li class="list-inline-item control" data-filter=".izb-filter-tag-{{ anchorize .Page.Title }}">
-                  <small>{{ .Page.Title }}</small>
-                </li>
-                {{ end }}
-              </ul>
-            </div>
+          <h3>{{ .Title }}</h3>
+          <div class="post-content">
+            {{ .Content }}
           </div>
+          <div class="post-content-extended">
 
-          <div class="row" data-ref="mixitup-container">
-            <ul>
-              {{ range .Pages }}
-              {{ "<!-- item -->" | safeHTML }}
-              <div class="mb-4 {{ range .Params.tagsIzobrazevanjaZaPodjetja}} izb-filter-tag-{{ anchorize . }}{{end}}" data-ref="mixitup-target">
-                <li class="pb-2">
-                  <a href="{{ .Permalink }}" class="h5 font-primary text-dark">
-                    {{ .Title }}
-                  </a>
-                  <br>
-                  <div class="pt-1">
-                    {{ range .Params.tagsIzobrazevanjaZaPodjetja }}
-                    <span class="badge badge-pill badge-gray-outline badge-weight-500">
-                                        {{ . }}
-                                    </span>
-                    {{ end }}
-                  </div>
-                </li>
+            <div class="col-lg-12">
+              <div class="izobrazevanja-za-podjetja-filter text-center pt-3 pb-4">
+                <ul class="controls list-inline">
+                  {{ "<!-- filter item list -->" | safeHTML }}
+                  <li class="list-inline-item control active" data-filter="all">
+                    <small>Vsi</small>
+                  </li>
+                  {{ range .Site.Taxonomies.tagsIzobrazevanjaZaPodjetja }}
+                  <li class="list-inline-item control" data-filter=".izb-filter-tag-{{ anchorize .Page.Title }}">
+                    <small>{{ .Page.Title }}</small>
+                  </li>
+                  {{ end }}
+                </ul>
               </div>
-              {{ end }}
+            </div>
 
-            </ul>
+            <div class="row" data-ref="mixitup-container">
+              <ul>
+                {{ range .Pages }}
+                {{ "<!-- item -->" | safeHTML }}
+                <div class="mb-4 {{ range .Params.tagsIzobrazevanjaZaPodjetja}} izb-filter-tag-{{ anchorize . }}{{end}}" data-ref="mixitup-target">
+                  <li class="pb-2">
+                    <a href="{{ .Permalink }}" class="h5 font-primary text-dark">
+                      {{ .Title }}
+                    </a>
+                    <br>
+                    <div class="pt-1">
+                      {{ range .Params.tagsIzobrazevanjaZaPodjetja }}
+                      <span class="badge badge-pill badge-gray-outline badge-weight-500">
+                                          {{ . }}
+                                      </span>
+                      {{ end }}
+                    </div>
+                  </li>
+                </div>
+                {{ end }}
+
+              </ul>
+
+            </div>
 
           </div>
-
         </div>
       </div>
 

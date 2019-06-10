@@ -1,5 +1,5 @@
 title: Zaupajo nam
-enable: false
+enable: true
 list:
   - image: images/client-logo/client-logo-1.png
     url: '#'
