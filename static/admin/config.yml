@@ -48,16 +48,16 @@ collections:
       - {label: "Tags", name: "tagsIzobrazevanjaZaPodjetja", widget: list}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobraževanja za šole"
-      name: "izobrazevanjaZaSole"
-      folder: "content/izobrazevanja/za-sole"
-      create: true
-      fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Creation Date", name: "date", widget: "datetime"}
-        - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-        - {label: "Image", name: "image", widget: "image"}
-        - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
-        - {label: "Body", name: "body", widget: "markdown"}
+    name: "izobrazevanjaZaSole"
+    folder: "content/izobrazevanja/za-sole"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izvajalci"
     name: "izvajalci"
     folder: "content/izvajalci"
