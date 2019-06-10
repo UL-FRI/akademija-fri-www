@@ -44,10 +44,10 @@
                     </a>
                     <br>
                     <div class="pt-1">
-                      {{ range .Params.tagsIzobrazevanjaZaPodjetja }}
+                      {{ range sort .Params.tagsIzobrazevanjaZaPodjetja }}
                       <span class="badge badge-pill badge-gray-outline badge-weight-500">
-                                          {{ . }}
-                                      </span>
+                          {{ . }}
+                      </span>
                       {{ end }}
                     </div>
                   </li>

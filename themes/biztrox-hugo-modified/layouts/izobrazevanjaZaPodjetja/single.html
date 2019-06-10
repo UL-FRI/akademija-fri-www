@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+
+{{ partial "navigation.html" . }}
+
+{{ partial "pageTitle.html" . }}
+
+{{ "<!-- izobrazevanje za podjetje -->" | safeHTML }}
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 py-100">
+                <div class="pr-4">
+                    <h3>{{ .Title }}</h3>
+                    {{ range sort .Params.tagsIzobrazevanjaZaPodjetja }}
+                    <span class="badge badge-pill badge-gray-outline badge-weight-500">
+                        {{ . }}
+                    </span>
+                    {{ end }}
+                    <hr>
+                    <div class="post-content">
+                        {{ .Content }}
+                    </div>
+                </div>
+            </div>
+
+            {{ partial "sidebar.html" . }}
+        </div>
+    </div>
+</section>
+{{ "<!-- /izobrazevanje za podjetje -->" | safeHTML }}
+
+{{ partial "footer.html" . }}
