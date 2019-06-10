@@ -35,8 +35,8 @@ collections:
       - {label: "Prijavnica", name: "prijavnica", widget: "string", required: false}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "izobrazevanjaPages"
-    label: "Izobraževanja aktualno & preteklo"
+  - label: "Izobraževanja aktualno & preteklo"
+    name: "izobrazevanjaPages"
     files:
       - file: "content/izobrazevanja/aktualno/_index.md"
         label: "Aktualno"
@@ -46,7 +46,7 @@ collections:
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/izobrazevanja/aktualno/_index.md"
+      - file: "content/izobrazevanja/pretekla/_index.md"
         label: "Pretekla"
         name: "izobrazevanjaPretekla"
         fields:
@@ -97,33 +97,33 @@ collections:
       - {label: "Website", name: "website", widget: "string", required: false}
       - {label: "Redirect page", name: "redirect", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "homepage"
-    label: "Home Page"
+  - label: "Home Page"
+    name: "homepage"
     files:
-      - file: "content/_index.md"
-        label: "Main"
+      - label: "Main"
+        file: "content/_index.md"
         name: "main"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/banner.jpg"}
-      - file: "data/homepagePonudba.yml"
-        label: "Ponudba"
+      - label: "Ponudba"
+        file: "data/homepagePonudba.yml"
         name: "ponudba"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Description", name: "description", widget: string}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/about-bg.jpg"}
           - {label: "List", name: "list", widget: list, field: {label: "Element", name: "element", widget: string}}
-      - file: "data/meta.yml"
-        label: "Metadata"
+      - label: "Metadata"
+        file: "data/meta.yml"
         name: "metadata"
         fields:
           - {label: "Description", name: "description", widget: string}
           - {label: "Keywords", name: "keywords", widget: string}
-      - file: "data/stranke.yml"
+      - label: "Stranke"
+        file: "data/stranke.yml"
         name: "stranke"
-        label: "Stranke"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Enable", name: "enable", widget: boolean}
@@ -133,39 +133,38 @@ collections:
             fields:
               - {label: "Image", name: "image", widget: "image"}
               - {label: "URL", name: "url", widget: "string"}
-  - name: "pages"
-    label: "Ostale Strani"
+  - label: "Ostale strani"
+    name: "pages"
     files:
-      - file: "content/izobrazevanja/sofinanciranje.md"
-        label: "Izobraževanja - Sofinanciranje"
+      - label: "Izobraževanja - Sofinanciranje"
+        file: "content/izobrazevanja/sofinanciranje.md"
         name: "sofinanciranje"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/cenik.md"
-        label: "Cenik"
+      - label: "Cenik"
+        file: "content/cenik.md"
         name: "cenik"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/kontakt.md"
-        label: "Kontakt"
+      - label: "Kontakt"
+        file: "content/kontakt.md"
         name: "kontakt"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/pogoji.md"
-        label: "Pogoji"
+      - label: "Pogoji"
+        file: "content/pogoji.md"
         name: "pogoji"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
-
