@@ -35,22 +35,25 @@ collections:
       - {label: "Prijavnica", name: "prijavnica", widget: "string", required: false}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - file: "content/izobrazevanja/aktualno/_index.md"
-    label: "Izobraževanja - Aktualno"
-    name: "izobrazevanjaAktualno"
-    fields:
-      - {label: "Title", name: "title", widget: string}
-      - {label: "Creation Date", name: "date", widget: "datetime"}
-      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - file: "content/izobrazevanja/aktualno/_index.md"
-    label: "Izobraževanja - Pretekla"
-    name: "izobrazevanjaPretekla"
-    fields:
-      - {label: "Title", name: "title", widget: string}
-      - {label: "Creation Date", name: "date", widget: "datetime"}
-      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "izobrazevanjaPages"
+    label: "Izobraževanja aktualno & preteklo"
+    files:
+      - file: "content/izobrazevanja/aktualno/_index.md"
+        label: "Aktualno"
+        name: "izobrazevanjaAktualno"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/izobrazevanja/aktualno/_index.md"
+        label: "Pretekla"
+        name: "izobrazevanjaPretekla"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobrazevanje za podjetja"
     name: "izobrazevanjaZaPodjetja"
     folder: "content/izobrazevanja/za-podjetja"
