@@ -35,7 +35,7 @@
 
             <div class="row" data-ref="mixitup-container">
               <ul>
-                {{ range .Pages }}
+                {{ range sort .Pages ".Title" }}
                 {{ "<!-- item -->" | safeHTML }}
                 <div class="mb-4 {{ range .Params.tagsIzobrazevanjaZaPodjetja}} izb-filter-tag-{{ anchorize . }}{{end}}" data-ref="mixitup-target">
                   <li class="pb-2">

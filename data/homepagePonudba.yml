@@ -3,26 +3,26 @@ description: 'Nudimo vam izobraževanja z aktualnih področij:'
 bgImage: images/background/about-bg.jpg
 list:
   - text: Podatkovno rudarjenje
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Podatkovno%20rudarjenje'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Data%20Mining'
   - text: Big Data
     link: '/izobrazevanja/za-podjetja/?izpfilter=Big%20Data'
   - text: Umetna inteligenca
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Umetna%20inteligenca'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=AI'
   - text: Globoko učenje
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Globoko%20učenje'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Deep%20Learning'
   - text: Informacijska varnost
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Informacijska%20varnost'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Information%20Security'
   - text: Blockchain
     link: '/izobrazevanja/za-podjetja/?izpfilter=Blockchain'
   - text: Strojno učenje
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Strojno%20učenje'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Machine%20Learning'
   - text: Računalniški vid
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Računalniški%20vid'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Computer%20Vision'
   - text: Kontejnerji
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Kontejnerji'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Containers'
   - text: DevOps
-    link: '/izobrazevanja/za-podjetja/?izpfilter=DevOps'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Cloud%20&%20DevOps'
   - text: Oblak
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Oblak'
-  - text: Dizajn
-    link: '/izobrazevanja/za-podjetja/?izpfilter=Dizajnerski%20pristop'
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Cloud%20&%20DevOps'
+  - text: Dizajnerski pristop
+    link: '/izobrazevanja/za-podjetja/?izpfilter=Design%20Thinking'
