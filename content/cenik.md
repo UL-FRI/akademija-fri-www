@@ -21,7 +21,7 @@ bgImage: images/background/page-title.jpg
 
 \*_DDV ni vključen v ceno_.
 
----
+- - -
 
 #### Najem prostora Akademije FRI
 
@@ -31,7 +31,7 @@ bgImage: images/background/page-title.jpg
 
 * projekcijsko platno - 1 kom
 * projektor - 1 kom
-* bela tabla
+* bela tabla - 2 kom
 * internet (hitrosti 1GB/s)
 
 **Cena:**
