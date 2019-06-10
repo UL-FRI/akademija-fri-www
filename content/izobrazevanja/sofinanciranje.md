@@ -17,13 +17,12 @@ Usposabljanja si lahko izberete izključno iz Kataloga usposabljanj, ki je objav
 
 #### Osnovne informacije o poteku prijave
 
-**PRIJAVA**
-
+##### PRIJAVA
 Oddate vlogo na naslov: **Slovenski podjetniški sklad, Ulica kneza Koclja 22, 2000 Maribor**. Vloga mora biti poslana priporočeno po pošti ali osebno dostavljena na sedež Slovenskega podjetniškega sklada. Glede na datum in čas oddaje priporočene pošte oz. osebne oddaje, bo Slovenski podjetniški sklad vlogi dodelil ustrezno zaporedno številko vloge.
 
 Vloga mora biti oddana v zaprti pisemski ovojnici z navedbo na sprednji strani pisemske ovojnice, dobesedno in brez okrajšav: »NE ODPIRAJ - VLOGA - Javni poziv za »Vavčer – dvig digitalnih kompetenc« in z nazivom in naslovom prijavitelja.
 
-**Vloga mora vsebovati:**
+##### Vloga mora vsebovati:
 
 •	[prijavni obrazec](https://podjetniskisklad.si/sl/razpisi?view=tender&id=84),
 
@@ -31,19 +30,19 @@ Vloga mora biti oddana v zaprti pisemski ovojnici z navedbo na sprednji strani p
 
 •	FURS potrdili o plačanih prispevkih in plačanih davkih.
 
-**ODOBRITEV**
 
+##### ODOBRITEV
 Prijavitelji bodo o odločitvi o dodelitvi sredstev praviloma obveščeni najkasneje **v roku 15 delovnih dni** od prejema posamezne vloge na Slovenski podjetniški sklad. Izbrani prijavitelji bodo pozvani k podpisu pogodbe.
 
-**PODPIS POGODBE**
+##### PODPIS POGODBE
 
 Prijavitelj mora Slovenskemu podjetniškemu skladu **v roku 8 dni** od prejema poziva k podpisu pogodbe o sofinanciranju, podpisano pogodbo o sofinanciranju vrniti (poslati priporočeno po pošti ali dostaviti fizično) na naslov Slovenskega podjetniškega sklada. V kolikor se prijavitelj v 8 dneh ne odzove na podpis pogodbe, se šteje, da je odstopil od podpisa pogodbe o sofinanciranju.
 
-**PO PODPISU POGODBE**
+##### PO PODPISU POGODBE
 
 Upravičenec ima največ **6 mesecev** (od dneva podpisa pogodbe) časa, da **izvede vse zahtevane aktivnosti** in Slovenskemu podjetniškemu skladu posreduje **zahtevek za izplačilo** z vsemi potrebnimi prilogami.
 
-**Dokazila k zahtevku za izplačilo:**
+##### Dokazila k zahtevku za izplačilo:
 
 * račun(i) zunanjega/iz izvajalca/ev,
 * dokazila o plačilu računa/ov,
@@ -55,7 +54,7 @@ Upravičenec se strinja, da mu bo DIH Slovenija po končanem usposabljanju, posr
 
 Izbrani zunanji izvajalec usposabljanja je zavezan po vsakem izvedenem usposabljanju pripraviti poročilo o izvedenem usposabljanju in ga v roku 5 delovnih dni po končanem usposabljanju posredovati na elektronski naslov DIH Slovenija: info@dihslovenia.si.
 
-**POMOČ IN DODATNE INFORMACIJE**
+##### POMOČ IN DODATNE INFORMACIJE
 
 Dodatne informacije v zvezi s pripravo vlog in pojasnila k pozivni dokumentaciji so prijavitelju dosegljive na podlagi pisnega zaprosila, posredovanega na elektronski naslov vavcer@podjetniskisklad.si. 
 
