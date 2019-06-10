@@ -1,7 +1,7 @@
 # Akademija FRI Website
 Build with ❤️ using [hugo](https://gohugo.io/).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/19095399-4ec8-4364-bc2e-f2ac4d3ac411/deploy-status)](https://app.netlify.com/sites/akademija-fri-beta/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9bfc7cc9-c2f2-4918-820d-4ccc5b5942c8/deploy-status)](https://app.netlify.com/sites/akademija-fri/deploys)
 
 Link: [akademijafri.si](https://akademijafri.si)
 
