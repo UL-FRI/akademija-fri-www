@@ -27,9 +27,15 @@
 {{ "<!-- main -->" | safeHTML }}
 <section class="section" style="padding: 100px 0 100px;">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="homepage-main-content">
-                {{ .Content }}
+        <div class="row">
+            <div class="col-lg-7 align-self-center">
+                <h2 class="section-title section-title-border-half">{{ .Params.subtitle }}</h2>
+                <div class="homepage-main-content">
+                    {{ .Content }}
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <img class="img-fluid w-100" src="http://demo.themefisher.com/themefisher/biztrox-hugo/images/about/philosophy.jpg" alt="philosophy-image">
             </div>
         </div>
     </div>

@@ -104,6 +104,7 @@ collections:
         name: "main"
         fields:
           - {label: "Title", name: "title", widget: string}
+          - {label: "Subtitle", name: "subtitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Background image", name: "bgImage", default: "images/banner.jpg"}
       - label: "Ponudba"
