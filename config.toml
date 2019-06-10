@@ -3,6 +3,9 @@ languageCode = "sl-si"
 title = "Akademija FRI"
 theme = "biztrox-hugo-modified"
 
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
 [menu]
     [[menu.nav]]
     name = "Izobraževanja"

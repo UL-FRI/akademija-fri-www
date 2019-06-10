@@ -23,13 +23,9 @@ Oddate vlogo na naslov: **Slovenski podjetniški sklad, Ulica kneza Koclja 22, 2
 Vloga mora biti oddana v zaprti pisemski ovojnici z navedbo na sprednji strani pisemske ovojnice, dobesedno in brez okrajšav: »NE ODPIRAJ - VLOGA - Javni poziv za »Vavčer – dvig digitalnih kompetenc« in z nazivom in naslovom prijavitelja.
 
 ##### Vloga mora vsebovati:
-
-•	[prijavni obrazec](https://podjetniskisklad.si/sl/razpisi?view=tender&id=84),
-
-•	[izjavo prijavitelja](https://podjetniskisklad.si/sl/razpisi?view=tender&id=84),
-
-•	FURS potrdili o plačanih prispevkih in plačanih davkih.
-
+* [prijavni obrazec](https://podjetniskisklad.si/sl/razpisi?view=tender&id=84),
+* [izjavo prijavitelja](https://podjetniskisklad.si/sl/razpisi?view=tender&id=84),
+* FURS potrdili o plačanih prispevkih in plačanih davkih.
 
 ##### ODOBRITEV
 Prijavitelji bodo o odločitvi o dodelitvi sredstev praviloma obveščeni najkasneje **v roku 15 delovnih dni** od prejema posamezne vloge na Slovenski podjetniški sklad. Izbrani prijavitelji bodo pozvani k podpisu pogodbe.
