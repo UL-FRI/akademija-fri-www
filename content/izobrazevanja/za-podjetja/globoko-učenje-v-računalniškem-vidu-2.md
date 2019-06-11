@@ -7,9 +7,7 @@ tagsIzobrazevanjaZaPodjetja:
   - Deep Learning
   - Computer Vision
 ---
-#### Namen:
-
-Namen izobraževanja je predstaviti osnovne koncepte na katerih temelji moderni računalniški vid, predvsem pa skozi vrsto primerov dobrih praks predstaviti zmožnosti, ki jih ta tehnologija ponuja.
+Na izobraževanju vam bomo predstavili osnovne koncepte na katerih temelji moderni računalniški vid, in vam skozi vrsto primerov dobrih praks prikazali zmožnosti, ki jih ta tehnologija ponuja.
 
 #### Vsebina:
 
@@ -41,6 +39,6 @@ V izdelavi.
 
 - - -
 
-* Danijel Skočaj
+* [Danijel Skočaj](https://akademijafri.si/izvajalci/danijel-skocaj/)
 * [Žiga Emeršič](/izvajalci/ziga-emersic/)
 * [Blaž Meden](/izvajalci/blaz-meden/)
