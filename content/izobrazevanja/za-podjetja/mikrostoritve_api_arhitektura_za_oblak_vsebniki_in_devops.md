@@ -27,9 +27,9 @@ Udeleženci bodo spoznali najnovejše pristope pri razvoju sodobnih aplikacij in
 
 Izobraževanje je primerno predvsem za CIO, vodje razvoja, načrtovalce in arhitekte informacijskih rešitev, razvijalce.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-Na izobraževanju boste razvili kompetence programske arhitekture, načrtovanja aplikacij, razvoja, programskega inženirstva, računalništva v oblaku.
+V izdelavi.
 
 #### Predznanja:
 
