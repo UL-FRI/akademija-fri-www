@@ -8,15 +8,6 @@ tagsIzobrazevanjaZaPodjetja:
 ---
 Na tem izobraževanju se bomo poglobili v načine varovanja podjetja pred napadi in načine pravilnega odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi, ki skrbi za človeške vire, ter pravnim in PR službam.
 
-#### Namen:
-
-* Kako prepoznati vektor napada in model grožnje na tehničnem nivoju?
-* Izvedba preventivnih ukrepov.
-* Poznavanje pooblastil, dolžnosti in odgovornosti, ki jih ima posameznik, ki skrbi za informacijsko varnost.
-* Boljša seznanjenost s komunikacijskimi prvinami, ko poročamo o napadih svojim nadrejenim.
-* Poznavanje postopkov, ki bodo z večjo verjetnostjo zagotovili, da nam bodo zaposleni še kdaj poročali o incidentih.
-* Prepoznavanje etične odgovornosti o razkrivanju incidentov
-
 #### Vsebina:
 
 * Osvežitev izrazoslovja.
@@ -32,9 +23,14 @@ Na tem izobraževanju se bomo poglobili v načine varovanja podjetja pred napadi
 
 Izobraževanje je namenjeno tehničnemu osebju – sistemskim administratorjem, CISO, CTO, vodjem in članom skupin, ki se v podjetju odzivajo na incidente, torej CERT v generičnem smislu besede.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-V izdelavi.
+* ... znali prepoznati vektor napada in model grožnje na tehničnem nivoju.
+* ... znali izvajati preventivne ukrepe.
+* ... poznali pooblastila, dolžnosti in odgovornosti, ki jih ima posameznik, ki skrbi za informacijsko varnost.
+* ... seznanjeni s komunikacijskimi prvinami, ko poročamo o napadih svojim nadrejenim.
+* ... poznali postopke, ki bodo z večjo verjetnostjo zagotovili, da nam bodo zaposleni še kdaj poročali o incidentih.
+* ... prepoznali etične odgovornosti o razkrivanju incidentov.
 
 #### Predznanja:
 
