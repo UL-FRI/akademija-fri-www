@@ -9,10 +9,6 @@ tagsIzobrazevanjaZaPodjetja:
 ---
 Udeleženci bodo spoznali najnovejše pristope pri razvoju sodobnih aplikacij in informacijskih rešitev ter arhitekturne vzorce in koncepte, na katerih temeljijo sodobne digitalne aplikacije in rešitve. Poseben poudarek bo na vpeljavi novih arhitekturnih konceptov v obstoječa okolja in postopen prehod s klasičnega monolitnega razvojnega modela na model uporabe mikrostoritev in ostalih konceptov arhitekture za oblak (cloud-native), na osnovi katere razvijajo rešitve najuspešnejša internetna podjetja. 
 
-#### Namen:
-
-Razvoj kompetenc programske arhitekture, načrtovanja aplikacij, razvoja, programskega inženirstva, računalništva v oblaku.
-
 #### Vsebina:
 
 * Izzivi digitalizacije in digitalne preobrazbe.
@@ -33,7 +29,7 @@ Izobraževanje je primerno predvsem za CIO, vodje razvoja, načrtovalce in arhit
 
 #### Zakaj se udeležiti?
 
-V izdelavi.
+Na izobraževanju boste razvili kompetence programske arhitekture, načrtovanja aplikacij, razvoja, programskega inženirstva, računalništva v oblaku.
 
 #### Predznanja:
 
