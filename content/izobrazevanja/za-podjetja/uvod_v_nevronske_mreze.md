@@ -7,12 +7,7 @@ tagsIzobrazevanjaZaPodjetja:
   - AI
   - Deep Learning
 ---
-Nevronske mreže so računalniški programi, ki delujejo po vzoru človeških nevronskih mrež v možganih. Njihov cilj je izvajanje kognitivnih funkcij kot sta reševanje problemov in strojno učenje.
-Izobraževanje je namenjeno predvsem podatkovnim analitikom in podatkovnim inženirjem ter vsem, ki bi želeli vedeti več o tehnologiji.
-
-#### Namen:
-
-Udeležencem predstaviti osnove nevronskih mrež in njihovo uporabo s knjižnico TensorFlow v programskem jeziku Python 3.
+Nevronske mreže so računalniški programi, ki delujejo po vzoru človeških nevronskih mrež v možganih. Njihov cilj je izvajanje kognitivnih funkcij kot sta reševanje problemov in strojno učenje. Udeležencem bomo predstavili osnove nevronskih mrež in njihovo uporabo s knjižnico TensorFlow v programskem jeziku Python 3.
 
 #### Vsebina:
 
@@ -29,9 +24,9 @@ Udeležencem predstaviti osnove nevronskih mrež in njihovo uporabo s knjižnico
 
 #### Za koga?
 
-V izdelavi.
+Izobraževanje je namenjeno predvsem podatkovnim analitikom in podatkovnim inženirjem ter vsem, ki bi želeli vedeti več o tehnologiji.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
