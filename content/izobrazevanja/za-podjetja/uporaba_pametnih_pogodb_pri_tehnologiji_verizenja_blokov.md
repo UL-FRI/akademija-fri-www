@@ -6,12 +6,7 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Blockchain
 ---
-Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks.
-
-
-#### Namen:
-
-Predstaviti možnosti praktične uporabe bodisi kot razširitev obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med različnimi entitetami. 
+Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks. Spoznali boste možnosti praktične uporabe bodisi kot razširitev obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med različnimi entitetami. 
 
 #### Vsebina:
 
@@ -27,7 +22,7 @@ Predstaviti možnosti praktične uporabe bodisi kot razširitev obstoječih arhi
 
 Izobraževanje je primerno predvsem za razvijalce in sistemske administratorje; za vse, ki bi želeli izvedeti več o digitalni alternativi klasičnih pogodb.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
