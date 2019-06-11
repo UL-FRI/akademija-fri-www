@@ -7,6 +7,8 @@ type: izobrazevanjeZaSole
 ---
 S pomočjo programskega jezika Processing se bomo podali v svet kreativnega kodiranja (angl. Creative Coding) in ustvarjali svoje generativne umetnine. Skozi elemente računalniške grafike bomo spoznali osnovne koncepte programiranja. S pomočjo svoje kreativnosti pa boste lahko ustvarili svoje interaktivne in dinamične računalniške umetnine. Vaša pravila bodo naredila programe avtonomne, da bodo lahko sami ustvarjali in zavladali, v našem primeru samo grafični površini na računalniku.
 
-Trajanje: 3 šolske ure
+**Trajanje:** 3 šolske ure
 
-Cena: 150 EUR
+**Cena:** 150 EUR + DDV
+
+**Izvajalec:** Borut Batagelj
