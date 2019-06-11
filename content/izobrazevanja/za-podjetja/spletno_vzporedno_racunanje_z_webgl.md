@@ -11,7 +11,7 @@ Medtem ko se začetni tečaji v glavnem osredotočajo na osnove 3D grafike, je t
 
 #### Namen:
 
-Po zaključenem izobraževanju bodo udeleženci natančno poznali zgradbo vmesnika WebGL, kar jim bo omogočalo strojno pospeševanje poljubnih računskih nalog.
+Po z
 
 #### Vsebina:
 
@@ -26,9 +26,9 @@ Po zaključenem izobraževanju bodo udeleženci natančno poznali zgradbo vmesni
 
   V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-  V izdelavi.
+... poznali natančno zgradbo vmesnika WebGL, kar vam bo omogočalo strojno pospeševanje poljubnih računskih nalog.
 
 #### Predznanja:
 
