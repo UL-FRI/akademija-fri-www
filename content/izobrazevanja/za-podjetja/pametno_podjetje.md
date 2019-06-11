@@ -20,7 +20,7 @@ Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno. S pomoč
 
 Izobraževanje je primerno predvsem za podatkovne inženirje in podatkovne analitike ter za vse, ki bi želeli izvedeti več o tehnologiji.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
