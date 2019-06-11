@@ -21,9 +21,9 @@ Količina podatkov, ki jih zajamemo dnevno, se je v zadnjih desetih letih poveč
 
 V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-V okviru izobraževanja boste spoznali, kako se spoprijeti z velikimi količinami podatkov, ki jih prinašajo sodobni trendi na področju IKT, kot so internet stvari, pametne tovarne, digitalizacija ipd. Predstavili vam bomo, kaj so ključne omejitve tradicionalnih sistemov in kako te omejitve rešujemo s sodobnimi, podatkovno intenzivnimi sistemi. 
+... vedeli, kako se spoprijeti z velikimi količinami podatkov, ki jih prinašajo sodobni trendi na področju IKT, kot so internet stvari, pametne tovarne, digitalizacija ipd. Predstavili vam bomo, kaj so ključne omejitve tradicionalnih sistemov in kako te omejitve rešujemo s sodobnimi, podatkovno intenzivnimi sistemi. 
 
 #### Predznanja:
 
