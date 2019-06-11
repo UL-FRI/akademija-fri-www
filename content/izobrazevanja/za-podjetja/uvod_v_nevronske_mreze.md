@@ -20,7 +20,7 @@ Nevronske mreže so računalniški programi, ki delujejo po vzoru človeških ne
 * Sestavljanje nevronskih mrež.
 * Primer večslojnega perceptrona za klasifikacijo.
 * Sestavni deli modernih nevronskih mrež.
-* Primer sodobne globoke nevronske mreže
+* Primer sodobne globoke nevronske mreže.
 
 #### Za koga?
 
