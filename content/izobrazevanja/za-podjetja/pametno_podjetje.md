@@ -6,11 +6,7 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - IoT
 ---
-Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno. S pomočjo RaspberryPi bomo na podlagi senzorjev premikanja prižigali in ugašali žarnice in to javljali na mobilne telefone. 
-
-#### Namen:
-
-Priprava udeležencev na implementacijo kompleksnejših pravil in aparatov v podjetju.
+Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno. S pomočjo RaspberryPi bomo na podlagi senzorjev premikanja prižigali in ugašali žarnice in to javljali na mobilne telefone. Pripravili vas bomo na implementacijo kompleksnejših pravil in aparatov v podjetju.
 
 #### Vsebina:
 
