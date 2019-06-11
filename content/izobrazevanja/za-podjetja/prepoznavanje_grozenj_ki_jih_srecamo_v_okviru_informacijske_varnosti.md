@@ -8,10 +8,6 @@ tagsIzobrazevanjaZaPodjetja:
 ---
 Naučili vas bomo osnovnega izrazoslovja informacijske varnosti, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. Spoznali bomo tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. 
 
-#### Namen:
-
-Izboljšano prepoznavanje napadov, boljši odziv na incidente, poročanje o incidentih, ki ima rep in glavo.
-
 #### Vsebina:
 
 * Osnovno izrazoslovje (INFOSEC, OSINT, modeli groženj, vektorji napada ...).
@@ -26,7 +22,7 @@ Izobraževanje je namenjeno vsem zaposlenim v srednjih in večjih podjetjih.
 
 #### Zakaj se udeležiti?
 
-V izdelavi.
+Z udeležbo na izobraževanju boste znali prepoznati napade in imeli boljši odziv na incidente. Naučili vas bomo poročati o incidentih, da bo imelo rep in glavo.
 
 #### Predznanja:
 
