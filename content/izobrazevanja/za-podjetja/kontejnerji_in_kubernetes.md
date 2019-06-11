@@ -7,12 +7,7 @@ tagsIzobrazevanjaZaPodjetja:
   - Cloud & DevOps
   - Containers
 ---
-Kontejnerji in Kubernetes sta najpopularnejši tehnologiji za izgradnjo t. i. oblačnih sistemov in aplikacij (_cloud native applications/systems_). 
-
-#### Namen:
-
-* Obvladovanje in razumevanje prednosti in slabosti tehnologije kontejnerjev.
-* Razumevanje delovanja in arhitekture gruče orkestratorja kontejnerjev Kubernetes.
+Kontejnerji in Kubernetes sta najpopularnejši tehnologiji za izgradnjo t. i. oblačnih sistemov in aplikacij (_cloud native applications/systems_). Naučili vas bomo obvladovati in razumeti prednosti in slabosti tehnologije kontejnerjev ter  delovanja in arhitekture gruče orkestratorja kontejnerjev Kubernetes.
 
 #### Vsebina:
 
@@ -20,7 +15,7 @@ Pregled arhitekture, tehnologij, orodij in pristopov za potrebe obvladovanja kon
 
 #### Za koga?
 
-Izobraževanje je primerno predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
+V izdelavi.
 
 #### Zakaj se udeležiti?
 
