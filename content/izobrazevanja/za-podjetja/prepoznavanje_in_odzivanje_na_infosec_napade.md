@@ -25,12 +25,12 @@ Izobraževanje je namenjeno tehničnemu osebju – sistemskim administratorjem, 
 
 #### Po izobraževanju boste ...
 
-* ... znali prepoznati vektor napada in model grožnje na tehničnem nivoju.
-* ... znali izvajati preventivne ukrepe.
-* ... poznali pooblastila, dolžnosti in odgovornosti, ki jih ima posameznik, ki skrbi za informacijsko varnost.
-* ... seznanjeni s komunikacijskimi prvinami, ko poročamo o napadih svojim nadrejenim.
-* ... poznali postopke, ki bodo z večjo verjetnostjo zagotovili, da nam bodo zaposleni še kdaj poročali o incidentih.
-* ... prepoznali etične odgovornosti o razkrivanju incidentov.
+* znali prepoznati vektor napada in model grožnje na tehničnem nivoju.
+* znali izvajati preventivne ukrepe.
+* poznali pooblastila, dolžnosti in odgovornosti, ki jih ima posameznik, ki skrbi za informacijsko varnost.
+* seznanjeni s komunikacijskimi prvinami, ko poročamo o napadih svojim nadrejenim.
+* poznali postopke, ki bodo z večjo verjetnostjo zagotovili, da nam bodo zaposleni še kdaj poročali o incidentih.
+* prepoznali etične odgovornosti o razkrivanju incidentov.
 
 #### Predznanja:
 
