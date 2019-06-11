@@ -1,5 +1,5 @@
 ---
-title: Osnove programiranja v pythonu
+title: Programiranje v pythonu
 date: 2019-06-10T18:58:20.228Z
 bgImage: images/background/page-title.jpg
 image: /uploads/snake-312561_640.png
