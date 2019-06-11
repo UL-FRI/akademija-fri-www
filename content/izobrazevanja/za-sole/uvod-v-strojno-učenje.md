@@ -9,6 +9,8 @@ type: izobrazevanjeZaSole
 ---
 Strojno učenje predstavlja skupek metod, ki se ukvarjajo s pridobivanjem znanja iz podatkov. Namen delavnice je tečajnikom približati pojem strojnega učenja s poudarkom na praktični uporabi. Udeleženci tečaja bodo spoznali osnovne tehnike strojnega učenja: pripravo učnih podatkov, gradnjo modela in vrednotenje rezultatov učenja. Tečaj ne zahteva naprednega znanja iz matematike, statistike ali programiranja.
 
-Trajanje: 3 šolske ure
+**Trajanje:** 3 šolske ure
 
-Cena: 150 EUR
+**Cena:** 150 EUR + DDV
+
+**Izvajalec:** [Petar Vračar](https://akademijafri.si/izvajalci/petar-vracar/)
