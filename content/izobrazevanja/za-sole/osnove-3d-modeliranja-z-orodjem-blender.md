@@ -7,6 +7,8 @@ type: izobrazevanjeZaSole
 ---
 Blender je brezplačno odprtokodno orodje za izdelavo 3D modelov, animacij in svetov ter njihovih upodobitev. V okviru delavnice bomo spoznali osnove izdelave 3D modelov in končnih upodobitev.
 
-Trajanje: 3 šolske ure
+**Trajanje:** 3 šolske ure
 
-Cena: 150 EUR
+**Cena:** 150 EUR + DDV
+
+**Izvajalec:** [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
