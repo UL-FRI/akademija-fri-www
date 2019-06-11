@@ -6,11 +6,7 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Big Data
 ---
-Hadoop je platforma namenjena shranjevanju velike količine podatkov. 
-
-#### Namen:
-
-Namen izobraževanj je predstaviti konkretna orodja iz Hadoop ekosistema in njegove komponente, ki služijo za shrambo, zajem, procesiranje in vizualizacijo masovnih podatkov. 
+Hadoop je platforma namenjena shranjevanju velike količine podatkov. Na izobraževanju vam bomo predstavili konkretna orodja iz Hadoop ekosistema in njegove komponente, ki služijo za shrambo, zajem, procesiranje in vizualizacijo masovnih podatkov. 
 
 #### Vsebina:
 
@@ -36,7 +32,7 @@ Namen izobraževanj je predstaviti konkretna orodja iz Hadoop ekosistema in njeg
 
 Izobraževanja so primerna predvsem za tehnično osebje (IT arhitekti, razvijalci, administratorji, ...).
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
