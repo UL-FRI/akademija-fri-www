@@ -17,7 +17,7 @@ Pregled arhitekture, tehnologij, orodij in pristopov za potrebe obvladovanja kon
 
 V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
