@@ -9,6 +9,6 @@ email: gregor.pirs@fri.uni-lj.si
 ---
 Gregor Pirš je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za kognitivno modeliranje](https://fri.uni-lj.si/sl/laboratorij/lkm).
 
-### Izobraževanja:
+#### Izobraževanja:
 
 * [Bayesova statistika s programskim jezikom Stan](https://akademijafri.si/izobrazevanja/za-podjetja/statisticno_modeliranje_z_bayesovimi_mrezami/)
