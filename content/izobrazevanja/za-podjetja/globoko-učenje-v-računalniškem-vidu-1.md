@@ -18,7 +18,7 @@ Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje
 
 V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
