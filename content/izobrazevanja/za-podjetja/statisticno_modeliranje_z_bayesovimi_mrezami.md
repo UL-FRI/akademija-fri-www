@@ -43,4 +43,4 @@ V izdelavi.
 
 * [Erik Štrumbelj](/izvajalci/erik-strumbelj/)
 * [Jure Demšar](/izvajalci/jure-demsar/)
-* Gregor Pirš
+* [Gregor Pirš](https://akademijafri.si/izvajalci/gregor-pir%C5%A1/)
