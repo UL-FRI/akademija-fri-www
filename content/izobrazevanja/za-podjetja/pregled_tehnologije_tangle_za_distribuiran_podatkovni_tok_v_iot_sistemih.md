@@ -25,7 +25,7 @@ Pregledali bomo podatkovni model, ki temelji na usmerjenem acikličnem grafu, me
 
 Izobraževanje je primerno predvsem za razvijalce, sistemske administratorje, za vse, ki bi želeli izvedeti več o distribuirani tehnologiji tangle za IoT domeno.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
