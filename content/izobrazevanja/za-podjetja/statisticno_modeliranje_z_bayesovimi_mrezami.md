@@ -20,7 +20,7 @@ Glavni namen izobraževanja je spoznati Bayesove mreže – razred probabilisti�
 
 Izobraževanje je namenjeno udeležencem, ki so vešči programiranja in bi radi svoje znanje razširili še na analizo podatkov. Primerno je tudi za raziskovalce in strokovnjake, ki pri svojem delu že uporabljajo statistične metode in bi se radi spoznali še s sodobnim bayesovskim pogledom na statistično analizo.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
