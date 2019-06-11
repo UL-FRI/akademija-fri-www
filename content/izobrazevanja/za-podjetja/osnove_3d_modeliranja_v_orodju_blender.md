@@ -27,7 +27,7 @@ Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je 
 
 Izobraževanje je namenjeno vsem, ki se želijo naučiti 3D modeliranja z brezplačnim odprtokodnim orodjem Blender - začetnikom in izkušenim uporabnikom za hobi ali profesionalno delo.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
