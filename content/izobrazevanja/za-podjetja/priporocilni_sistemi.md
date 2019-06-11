@@ -10,10 +10,6 @@ tagsIzobrazevanjaZaPodjetja:
 ---
 Sodobni splet si je nemogoče zamisliti brez priporočilnih sistemov, saj zmanjšujejo informacijsko preobremenitev in uporabniku omogočajo ogled/uporabo/nakup izdelkov/storitev, ki bi mu utegnili biti všeč, vendar jih sicer zaradi preobilne izbire skoraj gotovo ne bi našel. Pri tem za učinkovito delovanje uporabljajo različne tehnike s področja podatkovnih tehnologij, umetne inteligence in strojnega učenja. 
 
-#### Namen:
-
-Znali boste uporabiti najpomembnejše pristope k priporočanju, ter kako se na podlagi konkretnega poslovnega problema odločiti, katerega uporabiti.
-
 #### Vsebina:
 
 * Splošna motivacija in ideja priporočanja.
@@ -33,9 +29,11 @@ Znali boste uporabiti najpomembnejše pristope k priporočanju, ter kako se na p
 
 Izobraževanje je primerno predvsem za vodstvo in zaposlene, ki določajo strategijo podjetja, za odločevalce, podatkovne analitike in podatkovne inženirje in zaposlene v marketingu. Za vse, ki imajo opravka s podatki.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-V izdelavi.
+... znali uporabiti najpomembnejše pristope k priporočanju. 
+
+... vedeli, kako se na podlagi konkretnega poslovnega problema odločiti, katerega uporabiti.
 
 #### Predznanje:
 
