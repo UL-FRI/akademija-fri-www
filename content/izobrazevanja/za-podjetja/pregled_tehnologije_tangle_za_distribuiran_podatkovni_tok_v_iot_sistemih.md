@@ -7,11 +7,7 @@ tagsIzobrazevanjaZaPodjetja:
   - IoT
   - Blockchain
 ---
-Pregledali bomo podatkovni model, ki temelji na usmerjenem acikličnem grafu, metodologijo toka podatkov ter dovzetnost do potencialnih napadov. Na podlagi kriptovalute IOTA bomo spoznali možnosti namestitve vozlišča, priprave denarnice in funkcionalnosti ekosistema. 
-
-#### Namen:
-
-Namen izobraževanja je predstaviti tehnologijo tangle kot alternativo tehnologiji veriženja blokov v IoT domeni. 
+Pregledali bomo podatkovni model, ki temelji na usmerjenem acikličnem grafu, metodologijo toka podatkov ter dovzetnost do potencialnih napadov. Na podlagi kriptovalute IOTA bomo spoznali možnosti namestitve vozlišča, priprave denarnice in funkcionalnosti ekosistema. Predstavili vam tehnologijo tangle kot alternativo tehnologiji veriženja blokov v IoT domeni. 
 
 #### Vsebina:
 
