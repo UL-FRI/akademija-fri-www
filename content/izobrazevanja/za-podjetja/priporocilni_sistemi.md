@@ -27,7 +27,7 @@ Sodobni splet si je nemogoče zamisliti brez priporočilnih sistemov, saj zmanj�
 
 #### Za koga?
 
-Izobraževanje je primerno predvsem za vodstvo in zaposlene, ki določajo strategijo podjetja, za odločevalce, podatkovne analitike in podatkovne inženirje in zaposlene v marketingu. Za vse, ki imajo opravka s podatki.
+Izobraževanje je primerno predvsem za vodstvo in zaposlene, ki določajo strategijo podjetja, za odločevalce, podatkovne analitike in podatkovne inženirje ter zaposlene v marketingu. Za vse, ki imajo opravka s podatki.
 
 #### Po izobraževanju boste ...
 
