@@ -20,9 +20,11 @@ Naučili vas bomo osnovnega izrazoslovja informacijske varnosti, se poglobili v 
 
 Izobraževanje je namenjeno vsem zaposlenim v srednjih in večjih podjetjih.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-Z udeležbo na izobraževanju boste znali prepoznati napade in imeli boljši odziv na incidente. Naučili vas bomo poročati o incidentih, da bo imelo rep in glavo.
+... znali prepoznati napade in imeli boljši odziv na incidente. 
+
+... znali poročati o incidentih tako, da bo imelo rep in glavo.
 
 #### Predznanja:
 
