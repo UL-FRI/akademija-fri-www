@@ -27,7 +27,7 @@ V okviru izobraževanja bo izvedena tudi praktična vaja »Simulacija projekta«
 
 Vodje projektov, razvijalci, analitiki in drugi vključeni v projekte razvoja programske opreme, ki želijo spoznati ključne elemente iterativnega razvoja programske opreme v velikih skupinah in projektih kot tudi agilne pristope, ki so bolj primerni za delo v manjših skupinah. 
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
