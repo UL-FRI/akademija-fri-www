@@ -10,10 +10,6 @@ tagsIzobrazevanjaZaPodjetja:
 V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krilih globokega učenja dosega odlične rezultate in v obliki raznih aplikacij in robotskih sistemov vstopa na najrazličnejša področja našega življenja. Izobraževanji sta namenjeni predvsem podatkovnim analitikom in
 podatkovnim inženirjem ter vsem, ki bi želeli izvedeti več o tehnologiji.
 
-#### Namen:
-
-Udeleženci dobijo pravo sliko glede tovrstne tehnologije in boljše razumevanje, ali je uporabna na njihovi problemski domeni. 
-
 #### Vsebina:
 
 Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje predvsem pa zmožnosti in aplikacije globokega učenja v računalniškem vidu. 
