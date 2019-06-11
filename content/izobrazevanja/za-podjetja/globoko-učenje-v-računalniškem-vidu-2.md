@@ -25,7 +25,7 @@ Na izobraževanju vam bomo predstavili osnovne koncepte na katerih temelji moder
 
 V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
 V izdelavi.
 
