@@ -6,11 +6,7 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Data Mining
 ---
-Udeleženci bodo uporabili metode za predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene podatke se bodo naučili shranjevati v semantičnih podatkovnih zbirkah (kot je na primer DBPedia) in po njih tudi poizvedovati. Po izobraževanju bodo udeleženci sposobni sami s pomočjo programskega jezika izvesti izbrano analizo besedila od začetka do konca.
-
-#### Namen:
-
-Namen izobraževanja je, predstaviti in uporabiti glavne tehnike rudarjenja besedil, predvsem na semantičnem nivoju. 
+Namen izobraževanja je, predstaviti in uporabiti glavne tehnike rudarjenja besedil, predvsem na semantičnem nivoju. Udeleženci bodo uporabili metode za predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene podatke se bodo naučili shranjevati v semantičnih podatkovnih zbirkah (kot je na primer DBPedia) in po njih tudi poizvedovati. 
 
 #### Vsebina:
 
@@ -26,9 +22,9 @@ Namen izobraževanja je, predstaviti in uporabiti glavne tehnike rudarjenja bese
 
 V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-V izdelavi.
+... sposobni sami s pomočjo programskega jezika izvesti izbrano analizo besedila od začetka do konca.
 
 #### Predznanja:
 
