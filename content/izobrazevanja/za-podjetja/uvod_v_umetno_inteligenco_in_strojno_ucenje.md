@@ -9,13 +9,6 @@ tagsIzobrazevanjaZaPodjetja:
 ---
 Na izobraževanju bomo razjasnili razliko med človeško in računalniško inteligenco ter spoznali strojno učenje kot temelj umetne inteligence. Poglobili se bomo tudi v delovanje algoritmov strojnega učenja ter prikazali prednosti in slabosti posameznih pristopov. Pri tem je dobrodošlo, da udeleženci na vaje prinesejo tudi svoje podatke, ki bi jih želeli analizirati z algoritmi strojnega učenja, sicer pa se praktične vaje izvajajo na javno dostopnih podatkih. 
 
-#### Namen:
-
-* Spoznati, kaj nam umetna inteligenca lahko nudi pri reševanju težkih problemov.
-* Seznaniti se z osnovami strojnega učenja za analizo podatkov.
-* Razumeti temeljne principe in zmožnosti, ki jih nudi strojno učenje.
-* Praktično preizkusiti orodja za analizo podatkov na konkretnih problemih iz prakse.
-
 #### Vsebina:
 
 * UVOD IN PREGLED PODROČJA - kaj je (umetna) inteligenca in kaj je (strojno) učenje; razlika med človekom in strojem; odkrivanje zakonitosti iz podatkov; nadzorovano učenje: klasifikacija in regresija; pregled aplikacij; osnovni principi in ocenjevanje strojnega učenja.
@@ -27,9 +20,11 @@ Na izobraževanju bomo razjasnili razliko med človeško in računalniško intel
 
 V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-V izdelavi.
+... poznali temeljne principe in zmožnosti, ki jih nudi strojno učenje.
+
+... vedeli, kako umetno inteligenco uporabiti pri reševanju težkih problemov.
 
 #### Predznanja:
 
