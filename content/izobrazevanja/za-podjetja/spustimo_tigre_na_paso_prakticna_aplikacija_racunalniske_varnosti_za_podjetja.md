@@ -10,12 +10,6 @@ tagsIzobrazevanjaZaPodjetja:
 ---
 Naučili vas bomo osnovnih principov penetracijskega testiranja (i. e. preverjanja varnosti sistemov prek simuliranih napadov), s poudarkom na izrabi človeških virov in pasivnega zbiranja podatkov o pomanjkljivostih sistema in posameznikov. Program vsebuje teoretične in praktične elemente.
 
-#### Namen:
-
-* Skozi praktično delo prepoznavati šibke točke tarč in načinov izrabe le-teh.
-* V praksi prepoznati šibke točke delovnih organizacij.
-* Usvojiti tehnike prepričevanja, ki bodo olajšale inercijo podjetja pri doseganju sprememb varnostnih politik.
-
 #### Vsebina:
 
 * Usvojili boste temelje varnostne etike in razumeli, v kateri točki bi nadaljevanje njihovega početja brez dovoljenja pomenilo kršenje zakona in imelo neprijetne posledice zanje in njihovega zaposlovalca.
@@ -28,9 +22,13 @@ Naučili vas bomo osnovnih principov penetracijskega testiranja (i. e. preverjan
 
 V izdelavi.
 
-#### Zakaj se udeležiti?
+#### Po izobraževanju boste ...
 
-V izdelavi.
+... znali prepoznavati šibke točke tarč in načinov izrabe le-teh.
+
+... znali v praksi prepoznati šibke točke delovnih organizacij.
+
+... poznali tehnike prepričevanja, ki bodo olajšale inercijo podjetja pri doseganju sprememb varnostnih politik.
 
 #### Predznanja:
 
