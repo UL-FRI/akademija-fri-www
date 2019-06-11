@@ -6,13 +6,7 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Software Development & IT
 ---
-Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovnoinformacijske arhitekture Archimate. 
-
-#### Namen:
-
-* Na praktičnih primerih ugotoviti, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo).
-* Identificirati poslovne procese, ki bi jih bilo smiselno avtomatizirati, informatizirati ali digitalizirati.
-* Znati ovrednotiti strateške in druge koristi ter pravilno oceniti stroške informatizacije, avtomatizacije in digitalizacije poslovnih procesov.
+Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovnoinformacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo). Identificirali bomo poslovne procese, ki bi jih bilo smiselno avtomatizirati, informatizirati ali digitalizirati in se naučili ovrednotiti strateške in druge koristi ter pravilno oceniti stroške informatizacije, avtomatizacije in digitalizacije poslovnih procesov.
 
 #### Vsebina:
 
