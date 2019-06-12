@@ -1,15 +1,5 @@
 title: Zaupajo nam
 enable: true
 list:
-  - image: images/client-logo/client-logo-1.png
-    url: '#'
-  - image: images/client-logo/client-logo-2.png
-    url: '#'
-  - image: images/client-logo/client-logo-3.png
-    url: '#'
-  - image: images/client-logo/client-logo-4.png
-    url: '#'
-  - image: images/client-logo/client-logo-5.png
-    url: '#'
   - image: /uploads/asist_logo_2015_glava.jpg-revhead.svn001.tmp.jpg
     url: 'https://www.asist.si/sl/domov'
