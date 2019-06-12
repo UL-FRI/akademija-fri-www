@@ -9,6 +9,14 @@ Akademija FRI, ki spada pod Fakulteto za računalništvo in informatiko Univerze
 
 Navedba osebnih podatkov je potrebna, če se naročite na obveščanje ali prijavite na izobraževanje. Osebne podatke zbiramo le takrat, ko nam jih pošljete s prijavo, izpolnjenimi obrazci ali elektronsko pošto kot naročilo na obveščanje ali storitev.
 
+Vaše osebne informacije bo Univerza v Ljubljani, Kongresni trg 12, Ljubljana (pooblaščena oseba za varstvo podatkov: dpo@...) na podlagi zakonitega interesa obdelovala za namen komuniciranja z vami. Vaših osebnih podatkov ne bomo posredovali tretjim osebam, razen v primeru, ko imamo s temi osebami sklenjeno ustrezno pogodbo v Skladu z GDPR (obdelovalci, kot so ...). V okviru obdelave osebnih podatkov imate pravico dostopa do svojih osebnih podatkov, njihov popravek, omejitev obdelave, ugovor in pravico do prenosljivosti podatkov. Če boste ocenili, da vaših pravic ne izvršujemo ustrezno, se lahko pritožite Informacijskemu pooblaščencu RS (ip-rs.si).
+
+#### Kako dolgo hranimo vaše osebne podatke?
+
+Na Univerzi v Ljubljani hranimo vaše osebne podatke toliko časa, kolikor je to potrebno za dosego posameznega namena, zaradi katerega smo jih zbirali ali nadalje obdelovali. Obdobje hrambe je odvisno od pravne podlage, zaradi katere osebne podatke obdelujemo, in namena obdelave. 
+
+
+
 Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanjih fotografira. S prijavo na izobraževanje se strinjate s fotografiranjem in objavo fotografij na spletnem mestu akademijafri.si, na spletnem mestu www.fri.uni-lj.si ter v medijih.
 
 #### **PRAVNO OBVESTILO**
