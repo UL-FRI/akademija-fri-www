@@ -15,7 +15,7 @@
         <div class="post-content-extended pt-3">
           <div class="row">
             {{ $v1 := where .Site.RegularPages "Type" "izobrazevanje" }}
-            {{ $v2 := where $v1 ".Params.preteklo" true }}
+            {{ $v2 := where $v1 ".Params.aktualno" true }}
 
             {{/*
             TODO
