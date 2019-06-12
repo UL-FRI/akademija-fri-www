@@ -15,13 +15,32 @@ Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanji
 
 Za pošiljanje Novičnika (e-novice) uporabljamo ponudnika Mailchimp, kjer so shranjeni naslednji podatki: naslov elektronske pošte, ime in priimek, naziv podjetja ali ustanove. Ta seznam je shranjen pri ponudniku Mailchimp zato, da lahko pošiljamo novice.
 
-Ob prijavi na Novičnik se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
+Ob prijavi na Novičnik se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
 
 Fakulteta za računalništvo in informatiko Univerze v Ljubljani se obvezuje, da e-naslova ne bo na noben način zlorabila ali posredovala tretji osebi. Od prejemanja novic se lahko kadarkoli odjavite.
 
 #### Kako dolgo hranimo vaše osebne podatke?
 
-Na Univerzi v Ljubljani hranimo vaše osebne podatke toliko časa, kolikor je to potrebno za dosego posameznega namena, zaradi katerega smo jih zbirali ali nadalje obdelovali. Obdobje hrambe je odvisno od pravne podlage, zaradi katere osebne podatke obdelujemo, in namena obdelave. 
+Na Univerzi v Ljubljani hranimo vaše osebne podatke toliko časa, kolikor je to potrebno za dosego posameznega namena, zaradi katerega smo jih zbirali ali nadalje obdelovali. Obdobje hrambe je odvisno od pravne podlage, zaradi katere osebne podatke obdelujemo in namena obdelave. 
+
+ČE STE NAŠ KUPEC:
+
+Ob prijavi na izobraževanje morate izpolniti prijavnico, kjer želimo naslednje osebne podatke:
+Obvezno:
+
+* ime in priimek,
+* letnica rojstva,
+* naslov stalnega prebivališča, pošta, kraj,
+* elektronski naslov,
+* telefonska številka,
+* študent/ka, zaposlen/a upokojenec/ka.
+
+Neobvezno:
+
+* podjetje, delovno mesto,
+* članstvo pri Alumni klubu UL,
+* naslov podjetja,
+* fakulteta in področje študija, potrdilo o vpisu.
 
 #### **PRAVICA INTELEKTUALNE LASTNINE**
 
