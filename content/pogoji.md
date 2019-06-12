@@ -13,9 +13,11 @@ Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanji
 
 **OBVEŠČANJE PREK E-NOVIC**
 
-Ob prijavi na Novičnik (e-novice) se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
+Za pošiljanje Novičnika (e-novice) uporabljamo ponudnika Mailchimp, kjer so shranjeni naslednji podatki: naslov elektronske pošte, ime in priimek, naziv podjetja ali ustanove. Ta seznam je shranjen pri ponudniku Mailchimp zato, da lahko pošiljamo novice.
 
-Fakulteta za računalništvo in informatiko Univerze v Ljubljani se obvezuje, da e-naslova ne bo na noben način zlorabila ali posredovala tretji osebi. Od prejemanja novic se lahko kadarkoli odjavite. na spletnem mestu www.fri.uni-lj.si ter v medijih.
+Ob prijavi na Novičnik se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
+
+Fakulteta za računalništvo in informatiko Univerze v Ljubljani se obvezuje, da e-naslova ne bo na noben način zlorabila ali posredovala tretji osebi. Od prejemanja novic se lahko kadarkoli odjavite.
 
 #### Kako dolgo hranimo vaše osebne podatke?
 
