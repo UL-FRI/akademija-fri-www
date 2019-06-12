@@ -46,7 +46,8 @@ collections:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaAktualno"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
       - file: "content/izobrazevanja/pretekla/_index.md"
         label: "Pretekla"
         name: "izobrazevanjaPretekla"
@@ -54,7 +55,8 @@ collections:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaPretekla"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
   - label: "Izobraževanje za podjetja"
     name: "izobrazevanjaZaPodjetja"
     folder: "content/izobrazevanja/za-podjetja"

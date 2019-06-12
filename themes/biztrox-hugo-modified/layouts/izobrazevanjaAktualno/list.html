@@ -12,7 +12,7 @@
         <div class="post-content">
           {{ .Content }}
         </div>
-        <div class="post-content-extended">
+        <div class="post-content-extended pt-3">
           <div class="row">
             {{ $v1 := where .Site.RegularPages "Type" "izobrazevanje" }}
             {{ $v2 := where $v1 ".Params.preteklo" true }}
