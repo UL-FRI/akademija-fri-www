@@ -70,6 +70,10 @@ blockquote p {
     max-width: 100%;
 }
 
+#mce-responses {
+    color: white;
+}
+
 /* Content list
 
    Making lists look okay since netlify-cms when adding lists creates a sibling in the paragraph element
