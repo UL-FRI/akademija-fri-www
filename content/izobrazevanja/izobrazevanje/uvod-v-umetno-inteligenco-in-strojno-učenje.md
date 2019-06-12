@@ -59,5 +59,5 @@ Vsak udeleženec potrebuje svoj prenosni računalnik.
 
 **IZVAJALCA:**
 
-* \*\*\*\*[Igor Kononenko](https://akademijafri.si/izvajalci/igor-kononenko/) 
+* [Igor Kononenko](https://akademijafri.si/izvajalci/igor-kononenko/) 
 * [Petar Vračar](https://akademijafri.si/izvajalci/petar-vracar/)
