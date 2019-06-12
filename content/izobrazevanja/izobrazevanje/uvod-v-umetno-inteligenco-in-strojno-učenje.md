@@ -14,12 +14,12 @@ prijavnica: >-
 summary: >-
   Na izobraževanju bomo razjasnili razliko med človeško in računalniško
   inteligenco ter spoznali osnove strojnega učenja kot temelj umetne
-  inteligence. Spoznali bomo, kaj nam umetna inteligenca lahko nudi pri
+  inteligence. Izvedeli boste, kaj nam umetna inteligenca lahko nudi pri
   reševanju težkih problemov, se seznanili z osnovami strojnega učenja za
   analizo podatkov ter praktično preizkusili orodja za analizo podatkov na
   konkretnih problemih.
 ---
-**Na izobraževanju bomo razjasnili razliko med človeško in računalniško inteligenco ter spoznali osnove strojnega učenja kot temelj umetne inteligence. Spoznali bomo, kaj nam umetna inteligenca lahko nudi pri reševanju težkih problemov, se seznanili z osnovami strojnega učenja za analizo podatkov ter praktično preizkusili orodja za analizo podatkov na konkretnih problemih.**
+**Na izobraževanju bomo razjasnili razliko med človeško in računalniško inteligenco ter spoznali osnove strojnega učenja kot temelj umetne inteligence. Izvedeli boste, kaj nam umetna inteligenca lahko nudi pri reševanju težkih problemov, se seznanili z osnovami strojnega učenja za analizo podatkov ter praktično preizkusili orodja za analizo podatkov na konkretnih problemih.**
 
 Izobraževanje bo potekalo v torek in sredo, **18. in 19. junija 2019, od 9.00 do 13.00 ure** v Akademiji FRI. Zajemalo bo 4 šolske ure predavanj in 4 šolske ure praktičnih vaj na računalnikih.
 
@@ -59,5 +59,5 @@ Vsak udeleženec potrebuje svoj prenosni računalnik.
 
 **IZVAJALCA:**
 
-* ****[Igor Kononenko](https://akademijafri.si/izvajalci/igor-kononenko/) 
+* \*\*\*\*[Igor Kononenko](https://akademijafri.si/izvajalci/igor-kononenko/) 
 * [Petar Vračar](https://akademijafri.si/izvajalci/petar-vracar/)
