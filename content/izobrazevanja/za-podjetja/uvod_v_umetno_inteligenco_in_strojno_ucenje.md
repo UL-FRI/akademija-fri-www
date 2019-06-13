@@ -11,10 +11,29 @@ Na izobraževanju bomo razjasnili razliko med človeško in računalniško intel
 
 #### Vsebina:
 
-* UVOD IN PREGLED PODROČJA - kaj je (umetna) inteligenca in kaj je (strojno) učenje; razlika med človekom in strojem; odkrivanje zakonitosti iz podatkov; nadzorovano učenje: klasifikacija in regresija; pregled aplikacij; osnovni principi in ocenjevanje strojnega učenja.
-* OSNOVNE METODE STROJNEGA UČENJA: predprocesiranje in vizualizacija podatkov; odločitvena in regresijska drevesa; K najbližjih sosedov, lokalno utežena regresija, Naivni Bayesov klasifikator, linearna regresija.
-* NAPREDNE METODE STROJNEGA UČENJA: učenje ansamblov: bagging, boosting, naključni gozdovi; umetne nevronske mreže; predstavitev znanja; bayesovsko učenje, Bayesove verjetnostne mreže; nenadzorovano učenje: asociacije, gručenje, povezovalna pravila.
-* VSEBINA VAJ: uvod v statistični paket R, ki je namenjen analizi podatkov z različnimi metodami strojnega učenja; priprava učne množice; Klasifikacija; učenje z ansambli; regresija, nenadzorovano učenje.
+* UVOD IN PREGLED PODROČJA
+  * kaj je (umetna) inteligenca in kaj je (strojno) učenje; 
+  * razlika med človekom in strojem; odkrivanje zakonitosti iz podatkov; 
+  * nadzorovano učenje: klasifikacija in regresija; 
+  * pregled aplikacij;
+  * osnovni principi in ocenjevanje strojnega učenja.
+* OSNOVNE METODE STROJNEGA UČENJA
+  * predprocesiranje in vizualizacija podatkov; 
+  * odločitvena in regresijska drevesa; 
+  * K najbližjih sosedov, lokalno utežena regresija, Naivni Bayesov klasifikator, linearna regresija.
+* NAPREDNE METODE STROJNEGA UČENJA
+  * učenje ansamblov,
+  * bagging, boosting, naključni gozdovi,
+  * umetne nevronske mreže,
+  * predstavitev znanja,
+  * bayesovsko učenje, Bayesove verjetnostne mreže,
+  * nenadzorovano učenje: asociacije, gručenje, povezovalna pravila.
+* VSEBINA VAJ
+  * uvod v statistični paket R, ki je namenjen analizi podatkov z različnimi metodami strojnega učenja,
+  * priprava učne množice,
+  * Klasifikacija.
+  * učenje z ansambli.
+  * regresija, nenadzorovano učenje.
 
 #### Za koga?
 
