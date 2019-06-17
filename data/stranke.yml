@@ -3,5 +3,5 @@ enable: true
 list:
   - image: /uploads/asist_logo_2015_glava.jpg-revhead.svn001.tmp.jpg
     url: 'https://www.asist.si/sl/domov'
-  - image: /uploads/celtra.jpg
+  - image: /uploads/celtra_logo_rgb-blk-mgnta.png
     url: 'https://www.celtra.com/'
