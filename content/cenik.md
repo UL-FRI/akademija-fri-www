@@ -32,7 +32,7 @@ bgImage: images/background/page-title.jpg
 * projekcijsko platno - 1 kom
 * projektor - 1 kom
 * bela tabla - 2 kom
-* internet (hitrosti 1GB/s)
+* internet (hitrosti 1 Gbit/s)
 
 **Cena:**
 
