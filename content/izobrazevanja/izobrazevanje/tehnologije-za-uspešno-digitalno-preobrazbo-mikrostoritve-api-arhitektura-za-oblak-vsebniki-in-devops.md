@@ -11,4 +11,4 @@ preteklo: true
 ---
 Izobraževanje je bilo izvedeno za GZS.
 
-Predavatelj Je bil Matjaž Branko Jurič.
+Predavatelj je bil Matjaž Branko Jurič.
