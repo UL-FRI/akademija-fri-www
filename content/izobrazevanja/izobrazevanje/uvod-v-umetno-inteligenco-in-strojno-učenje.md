@@ -4,8 +4,8 @@ date: 2019-06-12T13:21:34.985Z
 bgImage: images/background/page-title.jpg
 image: /uploads/technology-4205276_1920.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dates:
   - 2019-06-18T07:00:00.000Z
   - 2019-06-19T07:00:00.000Z
