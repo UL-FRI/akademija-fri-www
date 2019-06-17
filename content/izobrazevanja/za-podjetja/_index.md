@@ -10,4 +10,5 @@ Izobraževanja za podjetja lahko prilagodimo željam in potrebam udeleženih. Pr
 
 **Izbrano izobraževanje lahko prijavite tudi na sofinanciranje. Več o tem si preberite na** [**povezavi**](https://akademijafri.si/izobrazevanja/sofinanciranje/)**.**
 
+---
 #### Primeri izobraževanj
