@@ -5,3 +5,5 @@ list:
     url: 'https://www.asist.si/sl/domov'
   - image: /uploads/celtra_logo_rgb-blk-mgnta.png
     url: 'https://www.celtra.com/'
+  - image: /uploads/iprom-logo-200x160.png
+    url: 'https://iprom.si/'
