@@ -4,7 +4,9 @@ date: 2019-03-18T11:21:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaAktualno
 ---
-Na izobraževanja z odprtimi termini se lahko prijavi prav vsak, ki ga določena tematika zanima in ima ustrezno predznanje.
+Na izobraževanja z odprtimi termini se lahko prijavi prav vsak, ki ga določena tematika zanima in ima ustrezno predznanje. Priložnost se še posebej splača izkoristiti, če imate v podjetju posameznike, ki bi radi nadgradili svoje znanje.
+
+Nudimo posebne cene za študente in člane Kluba alumnov UL in Kluba alumnov UL FRI.
 
 Izobraževanja se bodo izvedla ob zadostnem številu prijav. Pridržujemo si pravico do odpovedi in vam v tem primeru prijavnino v celoti povrnemo. 
 
