@@ -11,9 +11,9 @@ list:
     url: ' https://www.eles.si/'
   - image: /uploads/fkkt.png
     url: 'https://www.fkkt.uni-lj.si/sl/o-fakulteti/'
+  - image: /uploads/ikthm.jpg
+    url: 'https://ikthm.gzs.si/'
   - image: /uploads/inea_blue_txt_h_si_rgb.png
     url: 'http://www.inea.si/'
   - image: /uploads/iprom-logo-200x160.png
     url: 'https://iprom.si/'
-  - image: /uploads/ikthm.jpg
-    url: 'https://ikthm.gzs.si/'
