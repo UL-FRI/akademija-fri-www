@@ -17,3 +17,5 @@ list:
     url: 'http://www.inea.si/'
   - image: /uploads/iprom-logo-200x160.png
     url: 'https://iprom.si/'
+  - image: /uploads/irnas_logotip.png
+    url: 'http://www.irnas.eu/'
