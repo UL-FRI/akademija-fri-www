@@ -15,3 +15,5 @@ list:
     url: 'http://www.inea.si/'
   - image: /uploads/iprom-logo-200x160.png
     url: 'https://iprom.si/'
+  - image: /uploads/ikthm.jpg
+    url: 'https://ikthm.gzs.si/'
