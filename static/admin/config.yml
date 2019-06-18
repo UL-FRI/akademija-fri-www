@@ -16,7 +16,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
-      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Exposed", name: "exposed", widget: "boolean", default: true}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -27,7 +27,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
-      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
       - {label: "Aktualno", name: "aktualno", widget: "boolean", default: true}
@@ -45,7 +45,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaAktualno"}
           - {label: "Body", name: "body", widget: "markdown", required: false}
       - file: "content/izobrazevanja/pretekla/_index.md"
@@ -54,7 +54,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaPretekla"}
           - {label: "Body", name: "body", widget: "markdown", required: false}
   - label: "Izobraževanje za podjetja"
@@ -64,7 +64,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
-      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaZaPodjetja"}
       - {label: "Tags", name: "tagsIzobrazevanjaZaPodjetja", widget: list}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -75,7 +75,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Creation Date", name: "date", widget: "datetime"}
-      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjeZaSole"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -88,7 +88,7 @@ collections:
       - {label: "First name", name: "firstName", widget: "string"}
       - {label: "Last name", name: "lastName", widget: "string"}
       - {label: "Creation date", name: "date", widget: "datetime"}
-      - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+      - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Image", name: "image", widget: "image", default: "images/blank-profile-picture.png" }
       - {label: "Facebook URL", name: "facebookURL", widget: "string", required: false}
       - {label: "Twitter URL", name: "twitterURL", widget: "string", required: false}
@@ -116,7 +116,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Description", name: "description", widget: string}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/about-bg.jpg"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "List", name: "list", widget: list, field: {label: "Element", name: "element", widget: string}}
       - label: "Metadata"
         file: "data/meta.yml"
@@ -145,7 +145,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Cenik"
         file: "content/cenik.md"
@@ -153,7 +153,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Kontakt"
         file: "content/kontakt.md"
@@ -161,7 +161,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Pogoji"
         file: "content/pogoji.md"
@@ -169,5 +169,5 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
-          - {label: "Background image", name: "bgImage", widget: "hidden", default: "images/background/page-title.jpg"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
