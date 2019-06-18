@@ -5,9 +5,11 @@ list:
     url: 'https://www.asist.si/sl/domov'
   - image: /uploads/celtra_logo_rgb-blk-mgnta.png
     url: 'https://www.celtra.com/'
-  - image: /uploads/iprom-logo-200x160.png
-    url: 'https://iprom.si/'
   - image: /uploads/logo_efos_vektorji-1.png
     url: 'http://www.efos.si/sl/'
   - image: /uploads/inea_blue_txt_h_si_rgb.png
     url: 'http://www.inea.si/'
+  - image: /uploads/iprom-logo-200x160.png
+    url: 'https://iprom.si/'
+  - image: /uploads/fkkt.png
+    url: 'https://www.fkkt.uni-lj.si/sl/o-fakulteti/'
