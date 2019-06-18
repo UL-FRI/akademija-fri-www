@@ -8,6 +8,8 @@ image: /uploads/cloud-computing-2001090_1920.jpg
 type: izobrazevanje
 aktualno: false
 preteklo: true
+dates:
+  - 2019-04-11T09:00:00.000Z
 ---
 Izobraževanje je bilo izvedeno za GZS.
 

@@ -32,7 +32,7 @@ collections:
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanje"}
       - {label: "Aktualno", name: "aktualno", widget: "boolean", default: true}
       - {label: "Preteklo", name: "preteklo", widget: "boolean", default: false}
-      - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime"}, default: []}
+      - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime"}}
       - {label: "Prijavnica", name: "prijavnica", widget: "string", required: false}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
