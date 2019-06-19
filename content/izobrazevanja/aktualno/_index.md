@@ -1,7 +1,7 @@
 ---
 title: Aktualna izobraževanja
 date: 2019-03-18T11:21:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaAktualno
 ---
 Na aktualna izobraževanja se lahko prijavi prav vsak, ki ga določena tematika zanima in ima ustrezno predznanje. Priložnost se še posebej splača izkoristiti, če imate v podjetju posameznike, ki si želijo nadgraditi svoje znanje.
