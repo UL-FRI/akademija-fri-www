@@ -1,7 +1,7 @@
 ---
 title: Sofinanciranje izobraževanj
 date: 2019-05-21T11:21:00.000Z
-bgImage: /uploads/business-2703167_1920.jpg
+bgImage: /uploads/agreement-3489902_1920.jpg
 ---
 Javni sklad RS za podjetništvo je objavil poziv za sofinanciranje (vavčerje) stroškov usposabljanja za dvig digitalnih kompetenc. S tem želijo mikro, mala in srednje velika podjetja spodbuditi, da bi za svoje zaposlene in vodstvene kadre zagotovila ustrezna znanja s področij digitalizacije. 
 
