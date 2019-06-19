@@ -19,3 +19,5 @@ list:
     url: 'https://iprom.si/'
   - image: /uploads/irnas_logotip.png
     url: 'http://www.irnas.eu/'
+  - image: /uploads/informatika.png
+    url: 'https://www.informatika.si/'
