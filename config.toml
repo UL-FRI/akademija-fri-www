@@ -9,62 +9,61 @@ theme = "biztrox-hugo-modified"
 [menu]
     [[menu.nav]]
     name = "Izobraževanja"
-    weight = 2
+    weight = 1
     hasChildren = true
-
-        [[menu.nav]]
-        parent = "Izobraževanja"
-        name = "Aktualna"
-        URL = "/izobrazevanja/aktualno"
-        weight = 1
 
         [[menu.nav]]
         parent = "Izobraževanja"
         name = "Za podjetja"
         URL = "/izobrazevanja/za-podjetja"
-        weight = 2
+        weight = 1
 
         [[menu.nav]]
         parent = "Izobraževanja"
         name = "Za šole"
         URL = "/izobrazevanja/za-sole"
-        weight = 3
+        weight = 2
 
         [[menu.nav]]
         parent = "Izobraževanja"
         name = "Pretekla"
         URL = "/izobrazevanja/pretekla"
-        weight = 4
+        weight = 3
 
         [[menu.nav]]
         parent = "Izobraževanja"
         name = "Sofinanciranje"
         URL = "/izobrazevanja/sofinanciranje"
-        weight = 5
+        weight = 4
 
     [[menu.nav]]
     name = "Izvajalci"
     URL = "/izvajalci"
-    weight = 3
+    weight = 2
     
     [[menu.nav]]
     name = "Cenik"
     URL = "/cenik"
-    weight = 4
+    weight = 3
     
     [[menu.nav]]
     name = "Koledar"
     URL = "/koledar"
-    weight = 5
+    weight = 4
     
     [[menu.nav]]
     name = "Kontakt"
     URL = "/kontakt"
-    weight = 6
+    weight = 5
     
     [[menu.nav]]
     name = "Novice"
     URL = "/novice"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Klub Akademije FRI"
+    URL = "/klub"
     weight = 7
 
 [taxonomies]
