@@ -176,6 +176,12 @@ ol, ul {
 }
 
 /* Homepage */
+
+.homepage-slider h1, .homepage-slider h4 {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
 .homepage-main-content p {
     font-size: larger;
     margin-left: 20px;
