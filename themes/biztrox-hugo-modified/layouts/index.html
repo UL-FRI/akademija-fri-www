@@ -28,14 +28,18 @@
 <section class="section" style="padding: 100px 0 100px;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-7 align-self-center">
+            <div class="col-12">
                 <h2 class="section-title section-title-border-half">{{ .Params.subtitle }}</h2>
-                <div class="homepage-main-content">
-                    {{ .Content }}
-                </div>
             </div>
-            <div class="col-lg-5">
-                <img class="img-fluid w-100" src="{{ .Params.mainImage | absURL }}" alt="philosophy-image">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="homepage-main-content">
+                        {{ .Content }}
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <img class="img-fluid w-100" src="{{ .Params.mainImage | absURL }}" alt="philosophy-image">
+                </div>
             </div>
         </div>
     </div>
