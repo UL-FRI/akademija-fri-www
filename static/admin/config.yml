@@ -117,7 +117,16 @@ collections:
           - {label: "Title", name: "title", widget: string}
           - {label: "Description", name: "description", widget: string}
           - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
-          - {label: "List", name: "list", widget: list, field: {label: "Element", name: "element", widget: string}}
+          - label: "List"
+            name: "list"
+            widget: list
+            fields:
+            - label: "Text"
+              name: "text"
+              widget: string
+            - label: "Link"
+              name: "link"
+              widget: string
       - label: "Metadata"
         file: "data/meta.yml"
         name: "metadata"
