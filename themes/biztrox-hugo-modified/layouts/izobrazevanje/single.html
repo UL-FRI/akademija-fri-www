@@ -17,7 +17,13 @@
               {{ .Content }}
 
               {{ if (isset .Params "prijavnica") }}
-                <a href="{{ .Params.prijavnica }}" class="btn btn-primary translateY-25" target="_blank" style="font-size: larger;">Prijavnica</a>
+                <div class="mt-4">
+                  <a href="{{ .Params.prijavnica }}" class="btn btn-primary" target="_blank" style="font-size: larger;">Prijavnica</a>
+                </div>
+
+                <div class="mt-2">
+                  <a href="/pogoji/" class="ml-2">Pogoji</a>
+                </div>
               {{ end }}
             </div>
           </div>
