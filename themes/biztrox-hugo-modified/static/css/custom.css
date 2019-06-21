@@ -192,6 +192,27 @@ ol, ul {
   margin-bottom: 0;
 }
 
+.stranke-button {
+    position: absolute;
+    top: 43%;
+}
+
+.stranke-button button{
+    padding: 10px 15px !important;
+}
+
+.stranke-button-left {
+    left: 0%;
+}
+
+.stranke-button-right {
+    right: 0%;
+}
+
+.slick-list {
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
 /* Koledar */
 #calendar {

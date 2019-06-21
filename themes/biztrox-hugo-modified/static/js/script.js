@@ -131,11 +131,14 @@ function anchorize(input) {
     // clients logo slider
     $('.client-logo-slider').slick({
         infinite: true,
-        slidesToShow: 5,
+        slidesToShow: 4,
         slidesToScroll: 1,
         autoplay: true,
         dots: false,
-        arrows: false,
+        arrows: true,
+        draggable: false,
+        prevArrow: "<div class=\"stranke-button stranke-button-left\"><button type=\"button\" class=\"btn btn-primary btn-sm\"><i class=\"fa fa-chevron-left\" aria-hidden=\"true\"></i></button></div>",
+        nextArrow: "<div class=\"stranke-button stranke-button-right\"><button type=\"button\" class=\"btn btn-primary btn-sm\"><i class=\"fa fa-chevron-right\" aria-hidden=\"true\"></i></button></div>",
         responsive: [{
             breakpoint: 1024,
             settings: {
