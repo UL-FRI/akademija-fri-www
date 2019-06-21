@@ -3,6 +3,8 @@ enable: true
 list:
   - image: /uploads/asist_logo_2015_glava.jpg-revhead.svn001.tmp.jpg
     url: 'https://www.asist.si/sl/domov'
+  - image: /uploads/ul-biotehniska-fakulteta.jpg
+    url: 'http://www.bf.uni-lj.si'
   - image: /uploads/celtra_logo_rgb-blk-mgnta.png
     url: 'https://www.celtra.com/'
   - image: /uploads/logo_efos_vektorji-1.png
@@ -15,8 +17,6 @@ list:
     url: 'https://ikthm.gzs.si/'
   - image: /uploads/inea_blue_txt_h_si_rgb.png
     url: 'http://www.inea.si/'
-  - image: /uploads/ul-biotehniska-fakulteta.jpg
-    url: 'http://www.bf.uni-lj.si'
   - image: /uploads/informatika.png
     url: 'https://www.informatika.si/'
   - image: /uploads/iprom-logo-200x160.png
