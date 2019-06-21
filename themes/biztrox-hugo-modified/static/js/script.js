@@ -37,11 +37,9 @@ function anchorize(input) {
 
     //Hero Slider
     $('.homepage-slider').slick({
-        autoplay: true,
-        infinite: true,
-        arrows: true,
-        prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-arrow-left\'></i></button>',
-        nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-arrow-right\'></i></button>',
+        autoplay: false,
+        infinite: false,
+        arrows: false,
         responsive: [{
             breakpoint: 576,
             settings: {
