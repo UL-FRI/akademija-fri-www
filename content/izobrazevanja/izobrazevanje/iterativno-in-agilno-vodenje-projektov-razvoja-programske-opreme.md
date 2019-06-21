@@ -42,8 +42,9 @@ Cena zajema:
 * certifikat Akademije FRI,
 * malico.
 
-Vsak udeleženec potrebuje svoj prenosni računalnik. 
+Vsak udeleženec potrebuje svoj prenosni računalnik.
+ 
 
 IZVAJALEC:
 
-* [Damjan Vavpotič](https://akademijafri.si/izvajalci/damjan-vavpotic/)
+* [Damjan Vavpotič](/izvajalci/damjan-vavpotic/)

@@ -34,6 +34,6 @@ V izdelavi.
 
 #### Izvajalci:
 
-* [Danijel Skočaj ](https://akademijafri.si/izvajalci/danijel-skocaj/)
+* [Danijel Skočaj ](/izvajalci/danijel-skocaj/)
 * [Žiga Emeršič](/izvajalci/ziga-emersic/) 
 * [Blaž Meden](/izvajalci/blaz-meden/)

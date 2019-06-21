@@ -11,4 +11,4 @@ Orodje AppInventor omogoča zelo preprost razvoj mobilnih aplikacij za Android k
 
 **Cena:** 150 EUR + DDV
 
-**Izvajalec:** [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
+**Izvajalec:** [Ciril Bohak](/izvajalci/ciril-bohak/)

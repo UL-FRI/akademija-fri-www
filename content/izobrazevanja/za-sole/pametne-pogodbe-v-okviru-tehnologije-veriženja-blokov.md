@@ -11,4 +11,4 @@ Delavnica je namenjena dijakom višjih letnikov, ki imajo predznanje osnovnih ko
 
 **Cena:** 150 EUR + DDV
 
-**Izvajalec:** [Sandi Gec](https://akademijafri.si/izvajalci/sandi-gec/)
+**Izvajalec:** [Sandi Gec](/izvajalci/sandi-gec/)

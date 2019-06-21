@@ -11,4 +11,4 @@ Napredna računalniška grafika zadnja leta prodira tudi v spletne brskalnike. S
 
 **Cena:** 150 EUR + DDV
 
-**Izvajalec:** [Žiga Lesar](https://akademijafri.si/izvajalci/ziga-lesar/)
+**Izvajalec:** [Žiga Lesar](/izvajalci/ziga-lesar/)

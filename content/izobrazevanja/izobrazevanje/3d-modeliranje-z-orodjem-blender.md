@@ -56,4 +56,4 @@ Vsak udeleženec potrebuje svoj prenosni računalnik.
 
 **IZVAJALEC:**
 
-* [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
+* [Ciril Bohak](/izvajalci/ciril-bohak/)

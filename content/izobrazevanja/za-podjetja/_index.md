@@ -8,7 +8,7 @@ Izobraževanja za podjetja lahko prilagodimo željam in potrebam udeleženih. Pr
 
 * Če se želite od izobraževanja odjaviti, vas prosimo, da to storite najkasneje dva tedna pred začetkom. V nasprotnem vam prijavnine NE povrnemo.
 
-**Izbrano izobraževanje lahko prijavite tudi na sofinanciranje. Več o tem si preberite na** [**povezavi**](https://akademijafri.si/izobrazevanja/sofinanciranje/)**.**
+**Izbrano izobraževanje lahko prijavite tudi na sofinanciranje. Več o tem si preberite na** [**povezavi**](/izobrazevanja/sofinanciranje/)**.**
 
 ---
 #### Primeri izobraževanj

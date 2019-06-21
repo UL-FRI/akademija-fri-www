@@ -11,4 +11,4 @@ Udeleženci delavnice bodo spoznali popolne osnove razvoja iger v okolju Unity 3
 
 **Cena:** 150 EUR + DDV
 
-**Izvajalec:** [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
+**Izvajalec:** [Ciril Bohak](/izvajalci/ciril-bohak/)

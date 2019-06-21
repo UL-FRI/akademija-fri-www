@@ -55,4 +55,4 @@ Vsak udeleženec potrebuje svoj prenosni računalnik.
 
 **IZVAJALEC:**
 
-* [Sandi Gec](https://akademijafri.si/izvajalci/sandi-gec/)
+* [Sandi Gec](/izvajalci/sandi-gec/)

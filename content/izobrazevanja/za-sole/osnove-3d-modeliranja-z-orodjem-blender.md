@@ -11,4 +11,4 @@ Blender je brezplačno odprtokodno orodje za izdelavo 3D modelov, animacij in sv
 
 **Cena:** 150 EUR + DDV
 
-**Izvajalec:** [Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/)
+**Izvajalec:** [Ciril Bohak](/izvajalci/ciril-bohak/)

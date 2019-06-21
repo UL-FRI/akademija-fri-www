@@ -13,4 +13,4 @@ Strojno učenje predstavlja skupek metod, ki se ukvarjajo s pridobivanjem znanja
 
 **Cena:** 150 EUR + DDV
 
-**Izvajalec:** [Petar Vračar](https://akademijafri.si/izvajalci/petar-vracar/)
+**Izvajalec:** [Petar Vračar](/izvajalci/petar-vracar/)

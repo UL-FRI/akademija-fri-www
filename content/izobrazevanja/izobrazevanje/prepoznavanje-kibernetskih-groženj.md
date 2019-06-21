@@ -37,4 +37,4 @@ Cena zajema:
 
 **IZVAJALEC:**
 
-* [David Modic](https://akademijafri.si/izvajalci/david-modic/)
+* [David Modic](/izvajalci/david-modic/)
