@@ -173,6 +173,14 @@ collections:
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Klub"
+        file: "content/klub.md"
+        name: "kontakt"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - label: "Pogoji"
         file: "content/pogoji.md"
         name: "pogoji"
