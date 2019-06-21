@@ -3,8 +3,8 @@
     list-style-type: none;
 }
 .post-content h4, .post-content h5 {
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 25px;
+    margin-bottom: 0px;
 }
 
 .post-content li {
