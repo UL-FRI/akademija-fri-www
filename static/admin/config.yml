@@ -175,7 +175,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Klub"
         file: "content/klub.md"
-        name: "kontakt"
+        name: "klub"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
