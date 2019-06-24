@@ -9,7 +9,7 @@ Javni sklad RS za podjetništvo je objavil poziv za sofinanciranje (vavčerje) s
 
 Usposabljanja si lahko izberete izključno iz Kataloga usposabljanj, ki je objavljen na [spletni strani DIHS](https://dihslovenia.si/usposabljanja/) (Digitalno inovacijsko stičišče Slovenije).
 
-* Prijavitelj mora v usposabljanje vključiti **najmanj 20% zaposlenih**. V kolikor ima podjetje 5 ali manj kot 5 zaposlenih, mora zagotoviti usposabljanje za vsaj 1 zaposlenega.
+* Prijavitelj mora v usposabljanje vključiti **najmanj 20 % zaposlenih**. V kolikor ima podjetje 5 ali manj kot 5 zaposlenih, mora zagotoviti usposabljanje za vsaj 1 zaposlenega.
 * Upravičeni stroški: stroški usposabljanj (stroški zunanjega izvajalca). **Strošek DDV ni upravičen strošek.**
 * Prijavitelju se do leta 2023 lahko izplača največ 20.000 EUR po tem javnem pozivu; pri čemer lahko pridobi prijavitelj največ 1 vavčer na leto do 10.000 EUR.
 * Subvencija: **minimalna 1.000 EUR, maksimalna 9999,99 EUR**.
