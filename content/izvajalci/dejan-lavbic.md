@@ -3,7 +3,7 @@ title: Dejan Lavbič
 firstName: Dejan
 lastName: Lavbič
 date: 2019-04-19T00:00:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/c75t9135.jpg
 image: uploads/team_dejan_lavbic.jpg
 linkedinURL: 'https://si.linkedin.com/in/dejan'
 phone: +386 1 479 8233
