@@ -3,7 +3,7 @@ title: Erik Štrumbelj
 firstName: Erik
 lastName: Štrumbelj
 date: 2019-04-19T00:00:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/c75t9135.jpg
 image: uploads/team_erik_strumbelj.jpg
 phone: +386 1 479 8235
 email: erik.strumbelj@fri.uni-lj.si
