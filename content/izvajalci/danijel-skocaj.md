@@ -3,7 +3,7 @@ title: Danijel Skočaj
 firstName: Danijel
 lastName: Skočaj
 date: 2019-04-19T00:00:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/c75t9135.jpg
 image: uploads/team_danijel_skocaj.jpg
 linkedinURL: 'https://si.linkedin.com/in/danijel-sko%C4%8Daj-59a40b13'
 phone: +386 1 479 8225
