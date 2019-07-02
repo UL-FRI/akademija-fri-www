@@ -3,7 +3,7 @@ title: Matjaž Kukar
 firstName: Matjaž
 lastName: Kukar
 date: 2019-05-30T15:38:53.341Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/c75t9135.jpg
 image: /images/blank-profile-picture.png
 linkedinURL: 'https://si.linkedin.com/in/matja%C5%BE-kukar-b25a727'
 phone: +386 1 479 8235
