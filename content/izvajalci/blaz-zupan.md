@@ -3,7 +3,7 @@ title: Blaž Zupan
 firstName: Blaž
 lastName: Zupan
 date: 2019-04-19T00:00:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/c75t9135.jpg
 image: uploads/team_blaz_zupan.jpg
 twitterURL: 'https://twitter.com/bzupan'
 linkedinURL: 'https://si.linkedin.com/in/bzupan'
