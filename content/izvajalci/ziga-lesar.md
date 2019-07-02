@@ -3,7 +3,7 @@ title: Žiga Lesar
 firstName: Žiga
 lastName: Lesar
 date: 2019-04-19T00:00:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/c75t9135.jpg
 image: uploads/team_ziga_lesar.jpg
 linkedinURL: 'https://si.linkedin.com/in/%C5%BEiga-lesar-14b01498'
 phone: +386 1 479 8259
