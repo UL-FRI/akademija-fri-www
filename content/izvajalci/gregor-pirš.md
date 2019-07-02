@@ -3,7 +3,7 @@ title: Gregor Pirš
 firstName: Gregor
 lastName: Pirš
 date: 2019-06-11T06:58:46.612Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/c75t9135.jpg
 image: images/blank-profile-picture.png
 email: gregor.pirs@fri.uni-lj.si
 ---
