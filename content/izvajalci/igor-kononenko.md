@@ -13,7 +13,7 @@ Dr. Igor Kononenko je redni profesor na Fakulteti za računalništvo in informat
 
 Njegova raziskovalna področja so umetna inteligenca, strojno učenje, nevronske mreže in kognitivno modeliranje. Je (so)avtor 210 člankov na teh področjih ter 10 učbenikov. Je član uredniškega odbora revij Applied Intelligence Journal (Kluwer Ac. Publ.) in Informatica Journal.
 
-Je soavtor knjige [MACHINE LEARNING AND DATA MINING: Introduction to Principles and Algorithms](http://mldmbook.fri.uni-lj.si/), ki je izšla pri angleški znanstveni založbi Horwood Publishing.
+Je soavtor knjige [Machine Learning and Data Mining: Introduction to Principles and Algorithms](http://mldmbook.fri.uni-lj.si/), ki je izšla pri angleški znanstveni založbi Horwood Publishing.
 
 #### Izobraževanja:
 
