@@ -25,3 +25,5 @@ list:
     url: 'http://www.irnas.eu/'
   - image: /uploads/iskraemeco_logo_ee-01.png
     url: 'https://www.iskraemeco.com/si/'
+  - image: /uploads/mzz.png
+    url: 'http://www.mzz.gov.si/'
