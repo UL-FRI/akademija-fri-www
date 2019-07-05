@@ -6,6 +6,7 @@ image: /uploads/laptop-2557586_1920.jpg
 type: izobrazevanje
 aktualno: false
 preteklo: true
+dateStart: 2019-05-10T07:00:00.000Z
 dates:
   - 2019-05-10T07:00:00.000Z
 ---

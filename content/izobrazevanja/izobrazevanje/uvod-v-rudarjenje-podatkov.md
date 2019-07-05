@@ -6,6 +6,7 @@ image: /uploads/50751048_386872588746839_5785289757659496448_n.png
 type: izobrazevanje
 aktualno: false
 preteklo: true
+dateStart: 2019-02-05T15:30:00.000Z
 dates:
   - 2019-02-05T15:30:00.000Z
 ---

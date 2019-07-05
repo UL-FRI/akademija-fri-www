@@ -6,6 +6,7 @@ image: /uploads/58372592_431533537614077_7744501315216080896_o.png
 type: izobrazevanje
 aktualno: false
 preteklo: true
+dateStart: 2019-04-25T14:30:00.000Z
 dates:
   - 2019-04-25T14:30:00.000Z
 ---

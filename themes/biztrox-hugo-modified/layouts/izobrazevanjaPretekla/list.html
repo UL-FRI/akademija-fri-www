@@ -16,8 +16,9 @@
           <div class="row">
           {{ $v1 := where .Site.RegularPages "Type" "izobrazevanje" }}
           {{ $v2 := where $v1 ".Params.preteklo" true }}
+          {{ $v3 := ($v2.ByParam "dateStart").Reverse }}
 
-          {{ $paginator := .Paginate $v2 }}
+          {{ $paginator := .Paginate $v3 }}
 
           {{ range $paginator.Pages }}
           {{ "<!-- item -->" | safeHTML }}

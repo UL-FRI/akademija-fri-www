@@ -6,6 +6,7 @@ image: /uploads/bayesian-2889576_1280.jpg
 type: izobrazevanje
 aktualno: false
 preteklo: true
+dateStart: 2019-05-30T14:30:00.000Z
 dates:
   - 2019-05-30T14:30:00.000Z
 prijavnica: >-

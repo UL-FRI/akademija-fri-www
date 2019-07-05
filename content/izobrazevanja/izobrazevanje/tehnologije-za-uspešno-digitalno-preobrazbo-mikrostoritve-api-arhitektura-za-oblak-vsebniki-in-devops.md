@@ -8,6 +8,7 @@ image: /uploads/cloud-computing-2001090_1920.jpg
 type: izobrazevanje
 aktualno: false
 preteklo: true
+dateStart: 2019-04-11T09:00:00.000Z
 dates:
   - 2019-04-11T09:00:00.000Z
 ---

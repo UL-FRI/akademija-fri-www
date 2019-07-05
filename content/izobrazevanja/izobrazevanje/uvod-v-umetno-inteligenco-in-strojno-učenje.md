@@ -6,6 +6,7 @@ image: /uploads/technology-4205276_1920.jpg
 type: izobrazevanje
 aktualno: false
 preteklo: true
+dateStart: 2019-06-18T07:00:00.000Z
 dates:
   - 2019-06-18T07:00:00.000Z
   - 2019-06-19T07:00:00.000Z

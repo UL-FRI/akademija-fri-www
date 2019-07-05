@@ -6,6 +6,7 @@ image: /uploads/hands-2088954_960_720.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
+dateStart: 2019-06-26T08:00:00.000Z
 dates:
   - 2019-06-26T08:00:00.000Z
   - 2019-06-27T08:00:00.000Z
