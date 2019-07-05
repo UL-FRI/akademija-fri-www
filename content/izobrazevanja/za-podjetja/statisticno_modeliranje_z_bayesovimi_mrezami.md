@@ -6,6 +6,10 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Data Mining
   - Machine Learning
+izvajalci:
+  - Erik Štrumbelj
+  - Jure Demšar
+  - Gregor Pirš
 ---
 Glavni namen izobraževanja je spoznati Bayesove mreže – razred probabilističnih grafičnih modelov, ki zajema večino statističnih modelov, ki jih tipično uporabljamo. Probabilistično programiranje namreč statistiko približa programerjem in jim omogoči, da hitro in kvalitetno analizirajo podatke v večini tipičnih praktičnih scenarijev. Probabilistično razmišljanje pa je ključno tudi pri razumevanju sodobnih metod statistike in strojnega učenja. 
 
@@ -32,11 +36,3 @@ V izdelavi.
 #### Trajanje:
 
 * 4 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [Erik Štrumbelj](/izvajalci/erik-strumbelj/)
-* [Jure Demšar](/izvajalci/jure-demsar/)
-* [Gregor Pirš](/izvajalci/gregor-pir%C5%A1/)

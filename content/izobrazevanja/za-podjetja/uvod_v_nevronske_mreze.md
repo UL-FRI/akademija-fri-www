@@ -6,6 +6,8 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - AI
   - Deep Learning
+izvajalci:
+  - Gregor Weiss
 ---
 Nevronske mreže so računalniški programi, ki delujejo po vzoru človeških nevronskih mrež v možganih. Njihov cilj je izvajanje kognitivnih funkcij kot sta reševanje problemov in strojno učenje. Udeležencem bomo predstavili osnove nevronskih mrež in njihovo uporabo s knjižnico TensorFlow v programskem jeziku Python 3.
 
@@ -37,9 +39,3 @@ Osnovne programerske izkušnje.
 #### Trajanje:
 
 * 2 x 4 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [Gregor Weiss](/izvajalci/gregor-weiss/)

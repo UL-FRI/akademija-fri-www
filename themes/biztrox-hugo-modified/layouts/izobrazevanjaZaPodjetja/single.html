@@ -19,6 +19,25 @@
                     <hr>
                     <div class="post-content">
                         {{ .Content }}
+
+                        <hr>
+
+                        <h4>Izvajalci:</h4>
+                        <ul>
+                            {{ range .Params.izvajalci }}
+                            <li>
+                                {{ $izvajalec := where $.Site.RegularPages "Type" "izvajalci" }}
+                                {{ $izvajalec := $izvajalec | intersect (where $.Site.RegularPages "Title" .) }}
+                                {{ if (gt (len $izvajalec) 0) }}
+                                    <a href="{{ (index $izvajalec 0).URL | absURL }}">
+                                        {{ . }}
+                                    </a>
+                                {{ else }}
+                                    {{ . }}
+                                {{ end }}
+                            </li>
+                            {{ end }}
+                        </ul>
                     </div>
                 </div>
             </div>

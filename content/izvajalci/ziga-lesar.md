@@ -11,7 +11,3 @@ email: ziga.lesar@fri.uni-lj.si
 redirect: ''
 ---
 Je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za računalniško grafiko in multimedije](https://www.fri.uni-lj.si/sl/laboratorij/lgm).
-
-#### Izobraževanja:
-
-* [Spletno vzporedno računanje z WebGL](/izobrazevanja/za-podjetja/spletno_vzporedno_racunanje_z_webgl/)

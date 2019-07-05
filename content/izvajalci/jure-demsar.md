@@ -16,7 +16,3 @@ V zadnjem času se, kot aktivni član raziskovalne skupine za Bayesovo statistik
 #### V medijih:
 
 * Delo, Panorama, Simona Bandur: [Umetni boj za obstanek](https://www.delo.si/prosti-cas/potovanja/umetni-boj-za-obstanek.html) (2. 11. 2015)
-
-#### Izobraževanja:
-
-* [Bayesova statistika s programskim jezikom Stan](/izobrazevanja/za-podjetja/statisticno_modeliranje_z_bayesovimi_mrezami/)

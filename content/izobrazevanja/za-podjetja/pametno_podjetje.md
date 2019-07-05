@@ -5,6 +5,9 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - IoT
+izvajalci:
+  - Žiga Emeršič
+  - Blaž Meden
 ---
 Na izobraževanju boste spoznali, kako narediti svoje podjetje pametno. S pomočjo RaspberryPi bomo na podlagi senzorjev premikanja prižigali in ugašali žarnice in to javljali na mobilne telefone. Pripravili vas bomo na implementacijo kompleksnejših pravil in aparatov v podjetju.
 
@@ -31,10 +34,3 @@ Osnovne programerske izkušnje.
 #### Trajanje:
 
 * 5 šolskih ur
-
-- - -
-
-#### Izvajalci:
-
-* [Žiga Emeršič](/izvajalci/ziga-emersic/)
-* [Blaž Meden](/izvajalci/blaz-meden/)

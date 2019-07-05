@@ -32,8 +32,3 @@ Dr. Blaž Zupan se je leta 2016 uvrstil na lestvico "[New Europe 100](https://ww
 * MQ revija, Edita Krajnović: [Podatki so nova nafta: izvrtajte vrtino](https://issuu.com/mq_magazine2007/docs/zm_-_mq38_-_2017_lowres/24) (julij 2017)
 * Radio Slovenija, Studio ob 17.00: [Nam bodo roboti ukradli delovna mesta?](https://4d.rtvslo.si/arhiv/studio-ob-17h/174469060) (2. 5. 2017)
 * Večer: [Šest Slovencev med najboljšimi inovatorji srednje in vzhodne Evrope ](https://www.vecer.com/sest-slovencev-med-najboljsimi-inovatorji-srednje-in-vzhodne-evrope-6240382)(16. 11. 2016)
-
-#### Izobraževanja:
-
-* [Uvod v odkrivanje znanj iz podatkov](/izobrazevanja/za-podjetja/uvod-v-odkrivanje-znanj-iz-podatkov/)
-* [Znanost o podatkih za podjetja](/izobrazevanja/za-podjetja/znanost-o-podatkih-za-podjetja/)

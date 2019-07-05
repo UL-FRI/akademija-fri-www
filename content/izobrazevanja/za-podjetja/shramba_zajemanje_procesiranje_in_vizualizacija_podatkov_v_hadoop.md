@@ -5,6 +5,10 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Big Data
+izvajalci:
+  - Marko Bajec
+  - Dejan Lavbič
+  - Slavko Žitnik
 ---
 Hadoop je platforma namenjena shranjevanju velike količine podatkov. Na izobraževanju vam bomo predstavili konkretna orodja iz Hadoop ekosistema in njegove komponente, ki služijo za shrambo, zajem, procesiranje in vizualizacijo masovnih podatkov. 
 
@@ -43,11 +47,3 @@ V izdelavi.
 #### Trajanje:
 
 * Vsako od izobraževanj traja 2 x 4 šolske ure.
-
-- - -
-
-#### Izvajalci:
-
-* [Marko Bajec](/izvajalci/marko-bajec/)
-* [Dejan Lavbič](/izvajalci/dejan-lavbic/)
-* [Slavko Žitnik](/izvajalci/slavko-zitnik/)

@@ -5,6 +5,9 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Software Development & IT
+izvajalci:
+  - Damjan Vavpotič
+  - Tomaž Hovelja
 ---
 Na izobraževanju vam bomo predstavili sodobne pristope vodenja projektov razvoja programske opreme. Prvi del tečaja je namenjen spoznavanju ključnih lastnosti in prednosti iterativnega pristopa. V tem delu udeleženci med drugim spoznajo, kako s pomočjo iterativnega pristopa učinkovito obvladovati tveganja in kako na podlagi ocenjevanja iteracij projekt sproti usmerjati.
 
@@ -38,10 +41,3 @@ Specifična predznanja niso potrebna.
 #### Trajanje:
 
 * 2 x 4 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [Damjan Vavpotič](/izvajalci/damjan-vavpotic/)
-* [Tomaž Hovelja](/izvajalci/toma%C5%BE-hovelja/)

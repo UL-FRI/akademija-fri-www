@@ -5,6 +5,8 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Design Thinking
+izvajalci:
+  - Rok Stritar
 ---
 Na izobraževanju bo prek praktičnega primera predstavljen dizajnerski pristop za reševanje kompleksnih večplastnih problemov, ki v središče postavljajo potencialne uporabnike izdelkov in storitev. 
 
@@ -31,9 +33,3 @@ Predznanja niso potrebna.
 #### Trajanje:
 
 * 4 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [Rok Stritar](/izvajalci/rok-stritar/)

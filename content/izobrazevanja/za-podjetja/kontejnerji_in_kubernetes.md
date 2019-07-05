@@ -6,6 +6,9 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Cloud & DevOps
   - Containers
+izvajalci:
+  - Matjaž Pančur
+  - Miha Grohar
 ---
 Kontejnerji in Kubernetes sta najpopularnejši tehnologiji za izgradnjo t. i. oblačnih sistemov in aplikacij (_cloud native applications/systems_). Naučili vas bomo obvladovati in razumeti prednosti in slabosti tehnologije kontejnerjev ter  delovanja in arhitekture gruče orkestratorja kontejnerjev Kubernetes.
 
@@ -31,9 +34,3 @@ Specifična predznanja niso potrebna.
 * 2 x 4 šolske ure - predstavitev tehnologije Kubernetes s praktično delavnico.
 * 2 x 4 šolske ure - poglobljena predstavitev za IT strokovnjake, ki že poznajo osnove dela s kontejnerji.
 
-- - -
-
-#### Izvajalci:
-
-* [Matjaž Pančur](/izvajalci/matjaz-pancur/)
-* [Miha Grohar](/izvajalci/miha-grohar/)

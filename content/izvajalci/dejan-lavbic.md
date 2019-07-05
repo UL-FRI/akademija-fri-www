@@ -15,7 +15,3 @@ Dr. Dejan Lavbič je asistent na Fakulteti za računalništvo in informatiko na 
 Na raziskovalnem področju se ukvarja z inteligentnimi agenti, večagentnimi sistemi, odkrivanjem zakonitosti v podatkih, ontologijami in semantičnim spletom.
 
 Je član [The Society of Digital Information and Wireless Communications (SDIWC)](https://sdiwc.net/) in [Slovenskega društva Informatika (SDI)](https://www.drustvo-informatika.si/).
-
-#### Izobraževanja:
-
-* [Shramba, zajemanje, procesiranje in vizualizacija podatkov v Hadoop](/izobrazevanja/za-podjetja/shramba_zajemanje_procesiranje_in_vizualizacija_podatkov_v_hadoop/)

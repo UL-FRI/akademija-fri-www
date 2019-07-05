@@ -16,7 +16,3 @@ Dr. Matjaž Pančur je asistent na Fakulteti za računalništvo in informatiko U
 
 * Dnevnik, Peter Lovšin: ["Za dobro človeštva in sebi v zabavo"
   ](https://www.dnevnik.si/1042459288) (16. 7. 2011)
-
-#### Izobraževanja:
-
-* [Kontejnerji in Kubernetes](/izobrazevanja/za-podjetja/kontejnerji_in_kubernetes/)

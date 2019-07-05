@@ -12,7 +12,3 @@ redirect: ''
 Miha Grohar je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za računalniške komunikacije](https://www.fri.uni-lj.si/sl/laboratorij/lrk).
 
 Njegovo raziskovalno področje zajema programsko definirana omrežja, porazdeljene sisteme, računalništvo v oblaku, virtualizacijo in kontejnerizacijo. 
-
-#### Izobraževanja:
-
-* [Kontejnerji in Kubernetes](/izobrazevanja/za-podjetja/kontejnerji_in_kubernetes/)

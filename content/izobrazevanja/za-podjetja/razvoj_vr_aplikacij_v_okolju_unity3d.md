@@ -5,6 +5,8 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Computer Graphics
+izvajalci:
+  - Ciril Bohak
 ---
 Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. Z vse večjim krogom uporabnikov pa se veča tudi potreba po dobrih in smiselnih aplikacijah, ki s pomočjo navidezne resničnosti predstavijo izbrano vsebino. V okviru izobraževanja bomo spoznali čiste osnove razvoja aplikacij za navidezno resničnost v okolju Unity3D.
 
@@ -32,9 +34,3 @@ V izdelavi
 
 * 1-2 x 6 šolskih ur
 * Delavnica je lahko prilagojena za tiste, ki okolja Unity3D še ne poznajo (2 dni) ali tiste, ki že poznajo osnove okolja in si želijo znanje dodatno nadgraditi (1 dan).
-
-- - -
-
-#### Izvajalci:
-
-* [Ciril Bohak](/izvajalci/ciril-bohak/)

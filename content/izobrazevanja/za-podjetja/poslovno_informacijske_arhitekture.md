@@ -5,6 +5,9 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Software Development & IT
+izvajalci:
+  - Damjan Vavpotič
+  - Tomaž Hovelja
 ---
 Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovnoinformacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo). 
 
@@ -34,10 +37,3 @@ V izdelavi.
 #### Trajanje:
 
 * 2 x 4 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [Damjan Vavpotič](/izvajalci/damjan-vavpotic/)
-* [Tomaž Hovelja](https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/tomaz-hovelja)

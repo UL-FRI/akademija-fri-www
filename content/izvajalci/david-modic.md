@@ -24,9 +24,3 @@ David se z računalniško varnostjo in posebnostmi Medmrežja ukvarja že dvajse
 * Delo, Brane Maselj: [Nove prevare so v bistvu enake kot stare](https://www.delo.si/nedelo/nove-prevare-so-v-bistvu-enake-kot-stare.html) (15. 3. 2018)
 * Revija Zarja, Simona Iskra: [Če so vam všeč reklame, boste hitreje nasedli](https://novice.svet24.si/clanek/novice/slovenija/598da97eedc10/ce-so-vam-vsec-reklame-boste-hitreje-nasedli) (1. 8. 2017)
 * Delo, Sobotna priloga, Lenart J. Kučić: [»Osamljena srca« so priljubljeno lovišče spletnih prevarantov](https://www.delo.si/zgodbe/sobotnapriloga/osamljena-srca-so-priljubljeno-lovisce-spletnih-prevarantov.html) (11. 1. 2013)
-
-#### Izobraževanja:
-
-* [Prepoznavanje groženj, ki jih srečamo v okviru informacijske varnosti](/izobrazevanja/za-podjetja/prepoznavanje_grozenj_ki_jih_srecamo_v_okviru_informacijske_varnosti/)
-* [Prepoznavanje in odzivanje na InfoSec napade](/izobrazevanja/za-podjetja/prepoznavanje_in_odzivanje_na_infosec_napade/)
-* [Spustimo tigre na pašo! (Praktična aplikacija računalniške varnosti za podjetja)](/izobrazevanja/za-podjetja/spustimo_tigre_na_paso_prakticna_aplikacija_racunalniske_varnosti_za_podjetja/)

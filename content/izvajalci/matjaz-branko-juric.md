@@ -20,7 +20,3 @@ Raziskovalno se ukvarja z digitalno transformacijo, računalništvom v oblaku in
 * startup.si, Stanislava Vabšek: [Prebojna slovenska inovacija KumuluzEE nagrajena s prestižnim Java oskarjem!](https://www.startup.si/sl-si/novica/181/prebojna-slovenska-inovacija-kumuluzee-nagrajena-s-prestiznim-java-oskarjem-) (29. 10. 2015)
 * Finance, Blažej Kupec: [Slovenci v San Franciscu navdušili veliki Oracle](https://posel2030.finance.si/8837608) (28. 10. 2015)
 * zurnal24.si, David Jug: [Država se bo kmalu preselila v oblak](https://www.zurnal24.si/slovenija/drzava-se-bo-kmalu-preselila-v-oblak-245225) (16. 2. 2015)
-
-#### Izobraževanja:
-
-* [Mikrostoritve, API, arhitektura za oblak, vsebniki in DevOps](/izobrazevanja/za-podjetja/mikrostoritve_api_arhitektura_za_oblak_vsebniki_in_devops/)

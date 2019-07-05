@@ -6,6 +6,8 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Cloud & DevOps
   - Containers
+izvajalci:
+  - Matjaž Branko Jurič
 ---
 Udeleženci bodo spoznali najnovejše pristope pri razvoju sodobnih aplikacij in informacijskih rešitev ter arhitekturne vzorce in koncepte, na katerih temeljijo sodobne digitalne aplikacije in rešitve. Poseben poudarek bo na vpeljavi novih arhitekturnih konceptov v obstoječa okolja in postopen prehod s klasičnega monolitnega razvojnega modela na model uporabe mikrostoritev in ostalih konceptov arhitekture za oblak (cloud-native), na osnovi katere razvijajo rešitve najuspešnejša internetna podjetja. 
 
@@ -38,9 +40,3 @@ V izdelavi.
 #### Trajanje:
 
 * 2 x 4 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [Matjaž Branko Jurič](/izvajalci/matjaz-branko-juric/)

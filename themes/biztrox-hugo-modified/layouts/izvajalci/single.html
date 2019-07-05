@@ -86,6 +86,24 @@
 
             <div class="col-12 post-content">
               {{ .Content }}
+
+
+              {{ $izo := where .Site.RegularPages "Type" "izobrazevanjaZaPodjetja" }}
+              {{ $izobrazevanja := where $izo ".Params.izvajalci" "intersect" (slice $.Title) }}
+
+              {{ if (gt (len $izobrazevanja) 0) }}
+              <h4>Izobraževanja:</h4>
+              <ul>
+                {{ range (sort $izobrazevanja "Title") }}
+                  <li>
+                    <a href="{{ .Permalink }}">
+                      {{ .Title }}
+                    </a>
+                  </li>
+                {{ end }}
+              </ul>
+              {{ end }}
+
             </div>
 
           </div>

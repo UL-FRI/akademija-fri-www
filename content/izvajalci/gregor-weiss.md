@@ -10,7 +10,3 @@ email: gregor.weiss@fri.uni-lj.si
 redirect: ''
 ---
 Dr. Gregor Weiss je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za podatkovne tehnologije](https://www.fri.uni-lj.si/sl/laboratorij/lpt).
-
-#### Izobraževanja:
-
-* [Uvod v nevronske mreže](/izobrazevanja/za-podjetja/uvod_v_nevronske_mreze/)

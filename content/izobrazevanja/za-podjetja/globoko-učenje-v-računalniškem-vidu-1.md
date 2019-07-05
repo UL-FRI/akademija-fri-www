@@ -6,6 +6,10 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Deep Learning
   - Computer Vision
+izvajalci:
+  - Danijel Skočaj
+  - Žiga Emeršič
+  - Blaž Meden
 ---
 V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krilih globokega učenja dosega odlične rezultate in v obliki raznih aplikacij in robotskih sistemov vstopa na najrazličnejša področja našega življenja. Izobraževanji sta namenjeni predvsem podatkovnim analitikom in
 podatkovnim inženirjem ter vsem, ki bi želeli izvedeti več o tehnologiji.
@@ -29,11 +33,3 @@ V izdelavi.
 #### Trajanje:
 
 * 4 šolske ure 
-
-- - -
-
-#### Izvajalci:
-
-* [Danijel Skočaj ](/izvajalci/danijel-skocaj/)
-* [Žiga Emeršič](/izvajalci/ziga-emersic/) 
-* [Blaž Meden](/izvajalci/blaz-meden/)

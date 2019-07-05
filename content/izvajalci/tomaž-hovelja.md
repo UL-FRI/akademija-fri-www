@@ -10,8 +10,3 @@ phone: +386 1 479 8228
 email: tomaz.hovelja@fri.uni-lj.si
 ---
 Dr. Tomaž Hovelja je izredni profesor na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za informatiko](https://www.fri.uni-lj.si/sl/laboratorij/li).
-
-#### Izobraževanja:
-
-* [Iterativno in agilno vodenje projektov razvoja programske opreme](/izobrazevanja/za-podjetja/iterativno_in_agilno_vodenje_projektov_razvoja_programske_opreme/)
-* [Poslovno informacijske arhitekture](/izobrazevanja/za-podjetja/poslovno_informacijske_arhitekture/)

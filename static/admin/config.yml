@@ -68,6 +68,7 @@ collections:
       - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaZaPodjetja"}
       - {label: "Tags", name: "tagsIzobrazevanjaZaPodjetja", widget: list}
+      - {label: "Izvajalci", name: "izvajalci", widget: "list", field: {label: "Izvajalec", widget: "string"}}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobraževanja za šole"
     name: "izobrazevanjaZaSole"

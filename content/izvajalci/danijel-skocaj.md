@@ -22,8 +22,3 @@ Njegovi glavni raziskovalni interesi segajo na področje umetnega spoznavnega vi
 * TV Slovenija, Prvi dnevnik: [Skokovit tehnološki razvoj](https://4d.rtvslo.si/arhiv/prispevki-in-izjave-prvi-dnevnik/174343388) (25. 6. 2015)
 * ARS, Podobe znanja: [Profesor Danijel Skočaj](https://4d.rtvslo.si/arhiv/podobe-znanja/174277139) (23. 5. 2014)
 * Dnevnik, Uroš Škerl Kramberger: [George ne bo shodil brez države](https://www.dnevnik.si/1042582892) (28. 3. 2013)
-
-#### Izobraževanja:
-
-* [Globoko učenje v računalniškem vidu 1](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
-* [Globoko učenje v računalniškem vidu 2](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)

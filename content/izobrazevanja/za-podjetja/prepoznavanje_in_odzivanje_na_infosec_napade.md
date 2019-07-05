@@ -5,6 +5,8 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Information Security
+izvajalci:
+  - David Modic
 ---
 Na tem izobraževanju se bomo poglobili v načine varovanja podjetja pred napadi in načine pravilnega odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi, ki skrbi za človeške vire, ter pravnim in PR službam.
 
@@ -44,9 +46,3 @@ V izdelavi.
 #### Trajanje:
 
 * 8 šolskih ur
-
-- - -
-
-#### Izvajalci:
-
-* [David Modic](/izvajalci/david-modic/)

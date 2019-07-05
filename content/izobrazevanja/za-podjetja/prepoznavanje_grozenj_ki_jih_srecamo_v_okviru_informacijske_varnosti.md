@@ -5,6 +5,8 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Information Security
+izvajalci:
+  - David Modic
 ---
 Naučili vas bomo osnovnega izrazoslovja informacijske varnosti, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. Spoznali bomo tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. 
 
@@ -33,9 +35,3 @@ V izdelavi.
 #### Trajanje:
 
 * 4 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [David Modic](/izvajalci/david-modic/)

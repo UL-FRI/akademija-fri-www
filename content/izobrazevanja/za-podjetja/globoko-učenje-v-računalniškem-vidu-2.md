@@ -6,6 +6,10 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Deep Learning
   - Computer Vision
+izvajalci:
+  - Danijel Skočaj
+  - Žiga Emeršič
+  - Blaž Meden
 ---
 Na izobraževanju vam bomo predstavili osnovne koncepte na katerih temelji moderni računalniški vid, in vam skozi vrsto primerov dobrih praks prikazali zmožnosti, ki jih ta tehnologija ponuja.
 
@@ -36,9 +40,3 @@ V izdelavi.
 #### Trajanje:
 
 * 2 x 4 šolske ure
-
-- - -
-
-* [Danijel Skočaj](/izvajalci/danijel-skocaj/)
-* [Žiga Emeršič](/izvajalci/ziga-emersic/)
-* [Blaž Meden](/izvajalci/blaz-meden/)

@@ -5,6 +5,8 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Blockchain
+izvajalci:
+  - Sandi Gec
 ---
 Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks. Spoznali boste možnosti praktične uporabe bodisi kot razširitev obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med različnimi entitetami. 
 
@@ -33,9 +35,3 @@ Priporočljivo osnovno predznanje JavaScript programskega jezika.
 #### Trajanje:
 
 * 3 x 3 šolske ure
-
-- - -
-
-#### Izvajalci:
-
-* [Sandi Gec](/izvajalci/sandi-gec/)

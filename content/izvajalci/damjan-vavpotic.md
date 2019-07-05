@@ -22,8 +22,3 @@ V okviru svoje strokovne dejavnosti je do danes vodil in sodeloval pri vrsti pro
 * pripravo strateških načrtov informatike, 
 * analizo in načrtovanje informacijskih sistemov in relacijskih podatkovnih baz,
 * implementacijo in testiranje informacijskih sistemov.
-
-#### Izobraževanja:
-
-* [Iterativno in agilno vodenje projektov razvoja programske opreme](/izobrazevanja/za-podjetja/iterativno_in_agilno_vodenje_projektov_razvoja_programske_opreme/)
-* [Poslovno informacijske arhitekture](/izobrazevanja/za-podjetja/poslovno_informacijske_arhitekture/)

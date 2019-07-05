@@ -6,6 +6,9 @@ type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - AI
   - Machine Learning
+izvajalci:
+  - Igor Kononenko
+  - Petar Vračar
 ---
 Na izobraževanju bomo razjasnili razliko med človeško in računalniško inteligenco ter spoznali strojno učenje kot temelj umetne inteligence. Poglobili se bomo tudi v delovanje algoritmov strojnega učenja ter prikazali prednosti in slabosti posameznih pristopov. Pri tem je dobrodošlo, da udeleženci na vaje prinesejo tudi svoje podatke, ki bi jih želeli analizirati z algoritmi strojnega učenja, sicer pa se praktične vaje izvajajo na javno dostopnih podatkih. 
 
@@ -52,10 +55,3 @@ V izdelavi.
 #### Trajanje:
 
 * 3 x 3 šolske ure predavanj in 2 x 6 šolskih ur praktičnih vaj na računalnikih.
-
-- - -
-
-#### Izvajalci:
-
-* [Igor Kononenko](/izvajalci/igor-kononenko/)
-* [Petar Vračar](/izvajalci/petar-vracar/)

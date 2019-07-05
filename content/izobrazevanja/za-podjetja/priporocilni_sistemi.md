@@ -7,6 +7,10 @@ tagsIzobrazevanjaZaPodjetja:
   - AI
   - Data Mining
   - Machine Learning
+izvajalci:
+  - Marko Robnik Šikonja
+  - Matjaž Kukar
+  - Slavko Žitnik
 ---
 Sodobni splet si je nemogoče zamisliti brez priporočilnih sistemov, saj zmanjšujejo informacijsko preobremenitev in uporabniku omogočajo ogled/uporabo/nakup izdelkov/storitev, ki bi mu utegnili biti všeč, vendar jih sicer zaradi preobilne izbire skoraj gotovo ne bi našel. Pri tem za učinkovito delovanje uporabljajo različne tehnike s področja podatkovnih tehnologij, umetne inteligence in strojnega učenja. 
 
@@ -46,11 +50,3 @@ Izobraževanje je primerno predvsem za vodstvo in zaposlene, ki določajo strate
 
 * Krajša izvedba: 9 ur predavanj, 6 ur praktičnega dela (3 dni).
 * Daljša izvedba: 15 ur predavanj, 10 ur praktičnega dela (5 dni).
-
-- - -
-
-#### Izvajalci:
-
-* [Marko Robnik Šikonja](/izvajalci/marko-robnik-sikonja/)
-* [Matjaž Kukar](/izvajalci/matja%C5%BE-kukar/)
-* [Slavko Žitnik](/izvajalci/slavko-zitnik/)

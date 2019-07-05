@@ -7,6 +7,8 @@ bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Information Security
+izvajalci:
+  - David Modic
 ---
 Naučili vas bomo osnovnih principov penetracijskega testiranja (i. e. preverjanja varnosti sistemov prek simuliranih napadov), s poudarkom na izrabi človeških virov in pasivnega zbiranja podatkov o pomanjkljivostih sistema in posameznikov. Program vsebuje teoretične in praktične elemente.
 
@@ -37,9 +39,3 @@ V izdelavi.
 #### Trajanje:
 
 * 4 x 5 šolskih ur
-
-- - -
-
-#### Izvajalci:
-
-* [David Modic](/izvajalci/david-modic/)

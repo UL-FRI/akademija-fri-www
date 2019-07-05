@@ -23,9 +23,3 @@ Je soavtor več kot 30 znanstvenih člankov, objavljenih v priznanih revijah, ko
 * Dnevnik, Anže Lebinger: [Uhlji boljši od prstnih odtisov](https://www.dnevnik.si/1042833348) (17. 7. 2018)
 * Večer, Gr. G.: [Uhlji so kot prstni odtisi, različni so tudi pri dvojčkih](https://www.vecer.com/uhlji-so-kot-prstni-odtisi-razlicni-so-tudi-pri-dvojckih-6523668) (17. 7. 2018)
 * Računalniške novice, Alenka Bone: [Prepoznava ljudi na podlagi uhljev](https://www.racunalniske-novice.com/novice/sporocila-za-javnost/prepoznava-ljudi-na-podlagi-uhljev.html) (11. 7. 2018)
-
-#### Izobraževanja:
-
-* [Globoko učenje v računalniškem vidu 1](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-1/)
-* [Globoko učenje v računalniškem vidu 2](/izobrazevanja/za-podjetja/globoko-u%C4%8Denje-v-ra%C4%8Dunalni%C5%A1kem-vidu-2/)
-* [Pametno podjetje](/izobrazevanja/za-podjetja/pametno_podjetje/)
