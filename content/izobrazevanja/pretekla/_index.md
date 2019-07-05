@@ -5,3 +5,4 @@ bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaPretekla
 ---
 
+### Pretekla izobraževanja
