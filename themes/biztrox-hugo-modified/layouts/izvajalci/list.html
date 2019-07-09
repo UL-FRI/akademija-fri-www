@@ -8,10 +8,10 @@
 {{ "<!-- izvajalci -->" | safeHTML }}
 <section class="section">
   <div class="container">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center izvajalci">
       {{ range .Data.Pages.ByParam "LastName" }}
       {{ "<!-- member -->" | safeHTML }}
-      <div class="col-lg-3 col-sm-6 mb-4">
+      <div class="col-lg-3 col-sm-6 mb-4 izvajalci-member" first-name="{{ .Params.FirstName }}" last-name="{{ .Params.LastName }}">
         <a href="{{ if .Params.redirect }}{{ .Params.redirect }}{{ else }}{{ .Permalink }}{{ end }}">
           <div class="card text-center">
             <img class="card-img-top" src="{{ .Params.Image | absURL }}" alt="team-member">
@@ -24,6 +24,28 @@
       {{ end }}
     </div>
   </div>
+
+  <script>
+
+    {{/*
+      TODO - do this in Hugo directly, without jQuery (Javascript)
+      Sort izvajalci again since Hugo does not sort with accents (ščž) in mind.
+      There is an issue which when resolved can move this functionality into hugo
+      directly.
+
+      https://github.com/gohugoio/hugo/issues/2180
+    */}}
+
+    window.onload = function () {
+      $(".izvajalci-member").sort(function(a, b) {
+        const aName = a.attributes["last-name"].value;
+        const bName = b.attributes["last-name"].value;
+        return aName.localeCompare(bName, "sl");
+      }).appendTo('.izvajalci');
+    }
+  </script>
+
+
 </section>
 {{ "<!-- /izvajalci -->" | safeHTML }}
 
