@@ -18,8 +18,7 @@ Link: [akademijafri.si](https://akademijafri.si)
 * [ImageMagick](https://imagemagick.org/index.php) - required for production builds
 
 ### Commands
-#### Local
-Local development server:
+#### Local development server
 ```bash
 make
 ```
