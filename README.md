@@ -1,13 +1,46 @@
 # Akademija FRI Website
-Build with ❤️ using [hugo](https://gohugo.io/).
+Build with ❤️ using [Hugo](https://gohugo.io/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9bfc7cc9-c2f2-4918-820d-4ccc5b5942c8/deploy-status)](https://app.netlify.com/sites/akademija-fri/deploys)
 
 Link: [akademijafri.si](https://akademijafri.si)
 
+## How to Contribute
+1. [Install dependencies](#dependencies)
+2. Make changes check them out locally (Run `make` and visit `http://localhost:1313`)
+3. Once satisfied create a pull request
+
 
 ## Development
-1. Install [hugo](https://gohugo.io/)
-2. Run `hugo server` in the root of the repository
-3. Make changes and check them out locally (`http://localhost:1313`)
-4. Once satisfied create a pull request
+### Dependencies
+* [Hugo](https://gohugo.io/)
+* [GNU Make](https://www.gnu.org/software/make/)
+* [ImageMagick](https://imagemagick.org/index.php) - required for production builds
+
+### Commands
+#### Local
+Local development server:
+```bash
+make
+```
+
+#### Builds
+##### Development
+```bash
+make build-dev
+```
+
+##### Production
+Production build will resize all build artifact .jpg images from `static/uploads` to a width of 1920px, preserving the aspect ratio. 
+[ImageMagick](https://imagemagick.org/index.php) is required for this process.
+
+```bash
+# Set $URL to the base url of the page (e.g. "https://akademija.si")
+# export URL="https://akademija.si"
+make build-prod
+```
+
+#### Other
+```bash
+make clean  # run after "make build-dev" or "make build-prod"
+```
