@@ -7,7 +7,7 @@ hugo-dev-server:
 
 .PHONY: hugo-build-prod
 hugo-build-prod:
-	hugo --minify -b $(URL)
+	hugo --minify -b $(url)
 
 .PHONY: build-prod
 build-prod: hugo-build-prod uploaded-images-resize

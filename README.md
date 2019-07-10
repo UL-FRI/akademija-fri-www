@@ -35,9 +35,8 @@ Production build will resize all build artifact .jpg images from `static/uploads
 [ImageMagick](https://imagemagick.org/index.php) is required for this process.
 
 ```bash
-# Set $URL to the base url of the page (e.g. "https://akademija.si")
-# export URL="https://akademija.si"
-make build-prod
+# Replace "http://example.com" with the base url of the site
+make build-prod url=http://example.com 
 ```
 
 #### Other
