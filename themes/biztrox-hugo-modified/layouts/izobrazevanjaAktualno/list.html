@@ -28,27 +28,29 @@
             {{ range $v3 }}
             {{ if .Params.Aktualno }}
             {{ "<!---item -->" | safeHTML }}
-            <div class="col-sm-6 mb-4">
-              <a href="{{ .Permalink }}" class="h4 font-primary text-dark">
-                <article class="card">
-                  <div class="card-img-wrapper overlay-rounded-top">
-                    <img class="card-img-top mx-auto d-block post-img" src="{{ .Params.image | absURL }}" alt="blog-thumbnail">
-                  </div>
-                  <div class="card-body p-0">
-                    <div class="d-flex border-top">
-                      <div class="py-3 px-4 border-right text-center">
-                        <h3 class="text-primary mb-0">{{ with (index .Params.Dates 0)}} {{ . | dateFormat "2"}} {{end}}</h3>
-                        <p class="mb-0" style="white-space: nowrap;">
-                          {{ index $.Site.Data.meseci (dateFormat "1" (index .Params.Dates 0)) }}
-                        </p>
-                      </div>
-                      <div class="d-flex align-items-center card-title-text">
-                        {{ .Title }}
-                      </div>
+            <div class="col-12 mb-2">
+              <article class="mb-2">
+                <div class="row align-items-center">
+                  <div class="col-2 text-center" style="border-right: 1px solid rgba(0,0,0,.1);">
+                    <div>
+                      <span class="h4 text-primary">
+                        {{ with (index .Params.Dates 0)}} {{ . | dateFormat "2"}}. {{end}}
+                        {{ (dateFormat "1" (index .Params.Dates 0)) }}.
+                      </span>
+                    </div>
+                    <div>
+                      {{ with (index .Params.Dates 0)}} {{ . | dateFormat "2006"}} {{end}}
                     </div>
                   </div>
-                </article>
-              </a>
+
+                  <div class="col-10">
+                    <a href="{{ .Permalink }}" class="h4 font-primary text-dark">
+                      {{ .Title }}
+                    </a>
+                  </div>
+                </div>
+              </article>
+              <hr>
             </div>
             {{ end }}
             {{ end }}
