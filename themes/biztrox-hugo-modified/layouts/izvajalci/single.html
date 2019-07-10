@@ -92,7 +92,7 @@
               {{ $izobrazevanja := where $izo ".Params.izvajalci" "intersect" (slice $.Title) }}
 
               {{ if (gt (len $izobrazevanja) 0) }}
-              <h4>Izobraževanja:</h4>
+              <h4>Izobraževanja</h4>
               <ul>
                 {{ range (sort $izobrazevanja "Title") }}
                   <li>
