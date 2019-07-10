@@ -14,7 +14,7 @@ redirect: ''
 
 Je soavtor več kot 30 znanstvenih člankov, objavljenih v priznanih revijah, konferenčnih zbornikih in poglavjih v knjigah. Raziskovalno in pedagoško se ukvarja z biometrijo. Njegovo širše raziskovalno področje zajema računalniški vid in področja umetne inteligence, strojnega učenja in razpoznavanja vzorcev.
 
-#### V medijih:
+#### V medijih
 
 * 24UR, Miha Krajnc: [Tehnologija prepoznave uhljev](https://www.24ur.com/video?video=62121936) (22. 8. 2018)
 * Delo, Simona Bandur: [Pokaži mi uhelj in povem ti, kdo si](https://www.delo.si/magazin/zanimivosti/pokazi-mi-uhelj-in-povem-ti-kdo-si-83181.html) (21. 8. 2018)

@@ -12,7 +12,7 @@ redirect: ''
 ---
 Dr. Matjaž Pančur je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za računalniške komunikacije](https://www.fri.uni-lj.si/sl/laboratorij/lrk).
 
-#### V medijih:
+#### V medijih
 
 * Dnevnik, Peter Lovšin: ["Za dobro človeštva in sebi v zabavo"
   ](https://www.dnevnik.si/1042459288) (16. 7. 2011)

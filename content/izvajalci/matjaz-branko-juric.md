@@ -14,7 +14,7 @@ Dr. Matjaž Branko Jurič je redni profesor na Fakulteti za računalništvo in i
 
 Raziskovalno se ukvarja z digitalno transformacijo, računalništvom v oblaku in integracijo informacijskih sistemov. Je avtor 17 knjig, izdanih pri mednarodnih založbah ter več kot 600 drugih publikacij. Vodil je številne raziskovalne in aplikativne projekte, ponaša pa se tudi s prestižnimi nazivi Java Champion, IBM Champion in Oracle ACE Director. Prejel je več mednarodnih nagrad, med drugim nagrado za najboljšo SOA knjigo (New York), nagrado za najboljši SOA projekt v telekomunikacijah (Las Vegas), nagrado Java Duke's Choice Award Winner (San Francisco) za najboljšo inovacijo v Javi, nagrado za najboljši znanstveni članek s področja storitev, nagrado za najboljšega raziskovalca po mnenju industrije in Zlato plaketo za izjemne zasluge pri razvijanju znanstvenega ustvarjanja.
 
-#### V medijih:
+#### V medijih
 
 * Svet kapitala: [Velik potencial za Slovenijo v blockchain tehnologiji](https://svetkapitala.delo.si/aktualno/velik-potencial-za-slovenijo-v-blockchain-tehnologiji-128691) (12. 10. 2017)
 * startup.si, Stanislava Vabšek: [Prebojna slovenska inovacija KumuluzEE nagrajena s prestižnim Java oskarjem!](https://www.startup.si/sl-si/novica/181/prebojna-slovenska-inovacija-kumuluzee-nagrajena-s-prestiznim-java-oskarjem-) (29. 10. 2015)

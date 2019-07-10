@@ -21,7 +21,7 @@ Blaž uživa v načrtovanju aplikacij in programiranju. Je soavtor programa za p
 
 Dr. Blaž Zupan se je leta 2016 uvrstil na lestvico "[New Europe 100](https://www.ft.com/content/ece06f66-90a7-11e6-a72e-b428cb934b78)". To je projekt, ki so ga izvedli Res Publica, Google, Mednarodni višegrajski sklad in Financial Times v sodelovanju s številnimi institucijami, izpostavlja pa 100 najboljših inovatorjev Srednje in Vzhodne Evrope.
 
-#### V medijih:
+#### V medijih
 
 * ARS, Podobe znanja, Nina Slaček: [Za sodobno družbo je demokratizacija analize velikih podatkov nujna](https://ars.rtvslo.si/2018/03/podobe-znanja-90/) (16. 3. 2018)
 * MQ revija, Tonja Blatnik: [UI: Kako daleč naj gremo?](https://issuu.com/mq_magazine2007/docs/mq40?ff=true) (marec 2018)

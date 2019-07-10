@@ -14,7 +14,7 @@ Dr. Marko Bajec je redni profesor na Fakulteti za računalništvo in informatiko
 
 Predava več predmetov s področja informatike in podatkovnih baz. V okviru aplikativnega in raziskovalnega dela se ukvarja z obvladovanjem informatike ter uporabo podatkovnih tehnologij v okviru različnih domen, kot so internet stvari, pametna mesta, pametni domovi, oskrbovana stanovanja, telemedicina ipd.
 
-#### V medijih:
+#### V medijih
 
 * TV Slovenija, Prvi dnevnik ob 13.00: [Marko Bajec je postal mentor leta](https://4d.rtvslo.si/arhiv/prispevki-in-izjave-prvi-dnevnik/174308455) (8. 12. 2014)
 * Dnevnik, Uroš Škerl Kramberger: [Marko Bajec](https://www.dnevnik.si/1042699276) (5. 12. 2014)

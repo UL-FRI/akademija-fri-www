@@ -14,7 +14,7 @@ Dr. Danijel Skočaj je izredni profesor na Fakulteti za računalništvo in infor
 
 Njegovi glavni raziskovalni interesi segajo na področje umetnega spoznavnega vida ter spoznavnih sistemov in vključujejo avtomatsko modeliranje predmetov iz vizualne informacije s poudarkom na robustnem in inkrementalnem vizualnem učenju in razpoznavanju na podlagi videza ter snovanju in razvoju umetnih spoznavnih sistemov s poudarkom na interaktivnem učenju.
 
-#### V medijih:
+#### V medijih
 
 * Delo, Anja Intihar: [Lahko se kosamo z najbolj izobraženimi narodi sveta](https://www.delo.si/novice/slovenija/lahko-se-kosamo-z-najbolj-izobrazenimi-narodi-sveta-133042.html) (27. 12. 2018)
 * Siol.net, Srdjan Cvjetović: [Umetna inteligenca bo olajšala opravila, ki jih danes opravljamo z muko ali v nevarnosti](https://siol.net/digisvet/novice/umetna-inteligenca-bo-olajsala-opravila-ki-jih-danes-opravljamo-z-muko-ali-v-nevarnosti-478542) (25. 9. 2018)
