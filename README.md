@@ -3,7 +3,7 @@ Build with ❤️ using [Hugo](https://gohugo.io/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9bfc7cc9-c2f2-4918-820d-4ccc5b5942c8/deploy-status)](https://app.netlify.com/sites/akademija-fri/deploys)
 
-Link: [akademijafri.si](https://akademijafri.si)
+Link: [https://akademijafri.si](https://akademijafri.si)
 
 ## How to Contribute
 1. [Install dependencies](#dependencies)
