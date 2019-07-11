@@ -1,5 +1,5 @@
 # Akademija FRI Website
-Link: [https://akademijafri.si](https://akademijafri.si)
+Content from the `master` branch is [automatically built](https://app.netlify.com/sites/akademija-fri/deploys) and published to the website [https://akademijafri.si](https://akademijafri.si).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9bfc7cc9-c2f2-4918-820d-4ccc5b5942c8/deploy-status)](https://app.netlify.com/sites/akademija-fri/deploys)
 
@@ -15,7 +15,7 @@ Build with ❤️ using [Hugo](https://gohugo.io/).
 ### Dependencies
 * [Hugo](https://gohugo.io/)
 * [GNU Make](https://www.gnu.org/software/make/)
-* [ImageMagick](https://imagemagick.org/index.php) - required for production builds
+* [ImageMagick](https://imagemagick.org/index.php) - required only for production builds
 
 ### Commands
 #### Local development server
