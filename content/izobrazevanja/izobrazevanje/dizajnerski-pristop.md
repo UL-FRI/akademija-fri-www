@@ -12,6 +12,6 @@ dates:
   - 2019-03-12T20:38:39.961Z
   - 2019-03-18T20:38:50.142Z
 ---
-Za podjetje Informatika d. d. smo izvedli izobraževanje Dizajnerski pristop.
+Za podjetje smo izvedli 3-dnevno izobraževanje Dizajnerski pristop.
 
-Predaval je Rok Stritar.
+Predaval je dr. Rok Stritar.
