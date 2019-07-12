@@ -91,7 +91,7 @@ collections:
       - {label: "Last name", name: "lastName", widget: "string"}
       - {label: "Creation date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
-      - {label: "Image", name: "image", widget: "image", default: "images/blank-profile-picture.png" }
+      - {label: "Image", name: "image", widget: "image", default: "uploads/blank-profile-picture.png" }
       - {label: "Facebook URL", name: "facebookURL", widget: "string", required: false}
       - {label: "Twitter URL", name: "twitterURL", widget: "string", required: false}
       - {label: "LinkedIn URL", name: "linkedinURL", widget: "string", required: false}
