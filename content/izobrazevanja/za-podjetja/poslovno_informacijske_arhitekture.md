@@ -1,5 +1,5 @@
 ---
-title: Poslovno informacijske arhitekture
+title: Poslovno-informacijske arhitekture
 date: 2019-04-18T23:00:00.000Z
 bgImage: images/background/page-title.jpg
 type: izobrazevanjaZaPodjetja
@@ -9,11 +9,11 @@ izvajalci:
   - Damjan Vavpotič
   - Tomaž Hovelja
 ---
-Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovnoinformacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo). 
+Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno-informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovno-informacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo). 
 
 #### Vsebina:
 
-* Spoznavanje ključnih vsebin, konceptov in metod na področju priprave poslovno informacijske arhitekture podjetij.
+* Spoznavanje ključnih vsebin, konceptov in metod na področju priprave poslovno-informacijske arhitekture podjetij.
 * Spoznavanje delovanja arhitekturnega programa za modeliranje ArchiMate.
 * Popis konkretnih poslovnih procesov podjetij v programu ArchiMate.
 * Identifikacija priložnosti za izboljšavo obstoječih poslovnih procesov.
