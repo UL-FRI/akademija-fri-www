@@ -12,6 +12,4 @@ dateStart: 2019-04-11T09:00:00.000Z
 dates:
   - 2019-04-11T09:00:00.000Z
 ---
-Izobraževanje je bilo izvedeno za GZS.
-
-Predavatelj je bil Matjaž Branko Jurič.
+Izobraževanje je bilo izvedeno v okviru GZS. Predavatelj je bil prof. dr. Matjaž Branko Jurič.
