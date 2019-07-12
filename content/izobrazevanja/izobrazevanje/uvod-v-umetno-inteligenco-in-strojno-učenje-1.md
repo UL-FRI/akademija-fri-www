@@ -12,4 +12,4 @@ dates:
   - 2018-12-14T20:53:50.500Z
   - 2018-12-17T20:53:59.066Z
 ---
-Izobraževanje smo izvedli za ZZZS. Predaval je Igor Kononenko.
+Izobraževanje smo izvedli za podjetje. Predaval je prof. dr. Igor Kononenko.
