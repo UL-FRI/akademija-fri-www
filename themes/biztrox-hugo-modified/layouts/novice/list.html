@@ -9,41 +9,46 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 py-100">
-        <div class="row">
-          {{ range .Paginator.Pages }}
-          {{ "<!--item -->" | safeHTML }}
-          <div class="col-12 mb-2">
-            <article class="mb-2">
-              <div class="row align-items-center">
-                <div class="col-2 text-center" style="border-right: 1px solid rgba(0,0,0,.1);">
-                  <div>
-                      <span class="h4 text-primary">
-                        {{ .PublishDate.Format "2. 1."}}
-                      </span>
+        <div class="post-content">
+          {{ .Content }}
+        </div>
+        <div class="post-content-extended pt-3">
+          <div class="row">
+            {{ range .Paginator.Pages }}
+            {{ "<!--item -->" | safeHTML }}
+            <div class="col-12 mb-2">
+              <article class="mb-2">
+                <div class="row align-items-center">
+                  <div class="col-2 text-center" style="border-right: 1px solid rgba(0,0,0,.1);">
+                    <div>
+                        <span class="h4 text-primary">
+                          {{ .PublishDate.Format "2. 1."}}
+                        </span>
+                    </div>
+                    <div>
+                      {{ .PublishDate.Format "2006" }}
+                    </div>
                   </div>
-                  <div>
-                    {{ .PublishDate.Format "2006" }}
+
+                  <div class="col-10">
+                    <a href="{{ .Permalink }}" class="h4 font-primary text-dark">
+                      {{ .Title }}
+                    </a>
                   </div>
                 </div>
-
-                <div class="col-10">
-                  <a href="{{ .Permalink }}" class="h4 font-primary text-dark">
-                    {{ .Title }}
-                  </a>
-                </div>
-              </div>
-            </article>
-            <hr>
-          </div>
-
-          {{ end }}
-
-          <div class="col-12">
-            <div class="d-flex justify-content-center" style="margin-top: 30px;">
-              {{ template "_internal/pagination.html" . }}
+              </article>
+              <hr>
             </div>
-          </div>
 
+            {{ end }}
+
+            <div class="col-12">
+              <div class="d-flex justify-content-center" style="margin-top: 30px;">
+                {{ template "_internal/pagination.html" . }}
+              </div>
+            </div>
+
+          </div>
         </div>
       </div>
       {{ partial "sidebar.html" . }}

@@ -18,7 +18,7 @@ collections:
       - {label: "Creation Date", name: "date", widget: "datetime"}
       - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Exposed", name: "exposed", widget: "boolean", default: true}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobraževanje"
     name: "izobrazevanje"
