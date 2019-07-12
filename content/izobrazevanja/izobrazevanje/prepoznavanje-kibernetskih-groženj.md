@@ -14,20 +14,6 @@ dates:
 
 Izobraževanje bo potekalo v četrtek, 25. aprila 2019, od 16.30 do 20.30 ure v Akademiji FRI.
 
-**PRIJAVNINA:**
-
-* posamezniki: 160 € + DDV 
-  * Članom Kluba alumnov UL priznamo 20% popust.
-  * Članom Kluba alumnov FRI priznamo 25% popust.
-* študenti: 60 € + DDV
-
-Cena zajema:
-
-* izvedbo izobraževanja,
-* zapiske z dodatno razlago, ilustracijami in primeri,
-* certifikat Akademije FRI,
-* malico.
-
 **VSEBINA:**
 
 * Osnovno izrazoslovje (INFOSEC, OSINT, modeli groženj, vektorji napada, ...).
