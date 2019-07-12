@@ -4,8 +4,8 @@ date: 2019-06-12T13:28:45.830Z
 bgImage: images/background/page-title.jpg
 image: /uploads/hands-2088954_960_720.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-06-26T08:00:00.000Z
 dates:
   - 2019-06-26T08:00:00.000Z
