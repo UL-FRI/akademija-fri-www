@@ -12,22 +12,22 @@ Usposabljanja si lahko izberete izključno iz Kataloga usposabljanj, ki je objav
 * Prijavitelj mora v usposabljanje vključiti **najmanj 20 % zaposlenih**. V kolikor ima podjetje 5 ali manj kot 5 zaposlenih, mora zagotoviti usposabljanje za vsaj 1 zaposlenega.
 * Upravičeni stroški: stroški usposabljanj (stroški zunanjega izvajalca). **Strošek DDV ni upravičen strošek.**
 * Prijavitelju se do leta 2023 lahko izplača največ 20.000 EUR po tem javnem pozivu; pri čemer lahko pridobi prijavitelj največ 1 vavčer na leto do 10.000 EUR.
-* Subvencija: **minimalna 1.000 EUR, maksimalna 9999,99 EUR**.
+* Subvencija: **minimalna 1.000 EUR, maksimalna 9999,99 EUR (oz. do 60 %)**.
 * Upravičenost stroškov in izdatkov traja od 5. 4. 2019 do 30. 9. 2023.
 
 #### Osnovne informacije o poteku prijave
+
 ##### PRIJAVA
 
 Oddate vlogo na naslov: **Slovenski podjetniški sklad, Ulica kneza Koclja 22, 2000 Maribor**. Vloga mora biti poslana priporočeno po pošti ali osebno dostavljena na sedež Slovenskega podjetniškega sklada. Glede na datum in čas oddaje priporočene pošte oz. osebne oddaje, bo Slovenski podjetniški sklad vlogi dodelil ustrezno zaporedno številko vloge.
 
 Vloga mora biti oddana v zaprti pisemski ovojnici z navedbo na sprednji strani pisemske ovojnice, dobesedno in brez okrajšav: »NE ODPIRAJ - VLOGA - Javni poziv za »Vavčer – dvig digitalnih kompetenc« in z nazivom in naslovom prijavitelja.
 
-
 ##### Vloga mora vsebovati:
 
 * [prijavni obrazec](https://podjetniskisklad.si/sl/razpisi?view=tender&id=84),
 * [izjavo prijavitelja](https://podjetniskisklad.si/sl/razpisi?view=tender&id=84),
-* FURS potrdili o plačanih prispevkih in plačanih davkih.
+* 2x FURS potrdili o plačanih prispevkih in plačanih davkih.
 
 ##### ODOBRITEV
 
