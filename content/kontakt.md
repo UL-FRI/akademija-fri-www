@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 date: 2019-03-18T11:21:00.000Z
-bgImage: /uploads/email-2056028_1920.jpg
+bgImage: /uploads/mobile-phone-1419275_1920a.jpg
 ---
 **_Univerza v Ljubljani_** \
 **Fakulteta za računalništvo in informatiko** \
