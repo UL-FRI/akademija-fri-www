@@ -14,8 +14,4 @@ dates:
 
 Če tudi sami delate s kupi podatkov, iz katerih želite razbrati koristne informacije, se prijavite na naše izobraževanje, ki bo v **torek, 5. februarja 2019, od 16.30 do 20.30 ure** v Akademiji FRI na Fakulteti za računalništvo in informatiko Univerze v Ljubljani, Večna pot 113, 1000 Ljubljana.
 
-
-
-Prijavnina za udeležence znaša 300 evrov, za člane Alumni kluba UL nudimo 20% popust, za študente pa 25% popust. Po prijavi vam pošljemo podatke za plačilo, prijavnino pa poravnajte v roku treh dni od prijave.
-
 Izobraževanje se bo izvedlo ob zadostnem številu prijav. Pridržujemo si pravico do odpovedi in v tem primeru prijavnino v celoti povrnemo.
