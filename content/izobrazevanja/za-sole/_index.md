@@ -6,6 +6,6 @@ type: izobrazevanjaZaSole
 ---
 V Akademiji FRI nudimo tudi delavnice za srednje šole. Oblikujemo jih lahko glede na želje učiteljev in jih prilagodimo predznanju srednješolcev. Izvedba je zaželena na šoli, po dogovoru pa je možna tudi na fakulteti.
 
-Dodatna vprašanja lahko naslovite na [akademija@fri.uni-lj.si](akademija@fri.uni-lj.si).
+Dodatna vprašanja lahko naslovite na akademija@fri.uni-lj.si.
 
 #### Primeri delavnic
