@@ -42,20 +42,6 @@ Izobraževanje bo potekalo v torek in sredo, **18. in 19. junija 2019, od 9.00 d
   * priprava učne množice; 
   * Klasifikacija.
 
-**PRIJAVNINA:**
-
-* Cena za posameznike: **400 € + DDV**
-* Člani Kluba alumnov UL: **350 € + DDV**
-* Člani Kluba alumnov UL FRI: **330 € + DDV**
-* Študenti: **90 € + DDV**
-
-Cena zajema:
-
-* izvedbo izobraževanja,
-* zapiske z dodatno razlago, ilustracijami in primeri,
-* certifikat Akademije FRI,
-* malico.
-
 Vsak udeleženec potrebuje svoj prenosni računalnik.
 
 **IZVAJALCA:**
