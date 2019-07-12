@@ -17,8 +17,7 @@ summary: >-
   metode strojnega učenja s pomočjo vizualizacij ter interaktivne predstavitve
   algoritmov. Postopkov se bomo učili brez programiranja in matematike, po
   izobraževanju pa boste lahko samostojno zgradili in uporabili analitični
-  delotok. Izobraževanje je praktično, z delom na konkretnih primerih. Sami se
-  boste preizkusili v analizi na novih podatkih. Brez dolgočasnih PowerPointov.
+  delotok.
 ---
 Uvod v rudarjenje podatkov je prvi korak v svet podatkovne analitike. Izobraževanje je namenjeno popolnim začetnikom, ki želijo spoznati osnovne metode strojnega učenja s pomočjo vizualizacij ter interaktivne predstavitve algoritmov. Postopkov se bomo učili brez programiranja in matematike, po izobraževanju pa boste lahko samostojno zgradili in uporabili analitični delotok. Izobraževanje je praktično, z delom na konkretnih primerih. Sami se boste preizkusili v analizi na novih podatkih. Brez dolgočasnih PowerPointov.
 
