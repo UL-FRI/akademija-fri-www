@@ -38,20 +38,6 @@ Izobraževanje bo potekalo v **četrtek in petek, 26. in 27. junija 2019, od 10.
 
 Izobraževanje je primerno predvsem za razvijalce in sistemske administratorje; za vse, ki bi želeli izvedeti več o digitalni alternativi klasičnih pogodb.
 
-**PRIJAVNINA:**
-
-* Cena za posameznike: **350 € + DDV**
-* Člani Kluba alumnov UL: **250 € + DDV**
-* Člani Kluba alumnov UL FRI: **240 € + DDV**
-* Študenti: **80 € + DDV**
-
-Cena zajema:
-
-* izvedbo izobraževanja,
-* zapiske z dodatno razlago, ilustracijami in primeri,
-* certifikat Akademije FRI,
-* malico.
-
 Vsak udeleženec potrebuje svoj prenosni računalnik.
 
 **IZVAJALEC:**
