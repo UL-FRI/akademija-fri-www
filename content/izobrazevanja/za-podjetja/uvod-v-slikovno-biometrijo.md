@@ -55,5 +55,3 @@ Ciljna skupina so vsi, ki jih zanima visoko-tehnološki razvoj, raziskave in pro
 ### Trajanje:
 
 * 6 šolskih ur (oziroma več po dogovoru)
-
-- - -
