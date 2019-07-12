@@ -16,20 +16,6 @@ dates:
 
 Izobraževanje je namenjeno vsem, ki se želijo naučiti 3D modeliranja z brezplačnim odprtokodnim orodjem Blender - začetnikom in izkušenim uporabnikom za hobi ali profesionalno delo. Izvedli ga bomo v treh delih, potekalo bo v **sredo, 10., 17. in 24. aprila, od 16.30 do 20.30 ure v Akademiji FRI** na Fakulteti za računalništvo in informatiko, Večna pot 113, Ljubljana.
 
-**PRIJAVNINA:**
-
-* 240 € + ddv na osebo
-  * Članom Kluba alumnov UL priznamo 20% popust.
-  * Članom Kluba alumnov FRI priznamo 25% popust.
-* za študente: 150 € + ddv
-
-Cena zajema:
-
-* izvedbo izobraževanja,
-* zapiske z dodatno razlago, ilustracijami in primeri,
-* certifikat Akademije FRI,
-* malico.
-
 **VSEBINA:**
 
 1. srečanje: 10. april 2019, od 16.30 do 20.30 ure:
