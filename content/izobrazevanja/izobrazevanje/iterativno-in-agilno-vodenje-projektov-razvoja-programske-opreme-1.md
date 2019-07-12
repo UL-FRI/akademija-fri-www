@@ -10,6 +10,4 @@ dateStart: 2019-05-10T07:00:00.000Z
 dates:
   - 2019-05-10T07:00:00.000Z
 ---
-Izobraževanje je bilo izvedeno v okviru GZS.
-
-Predaval je Damjan Vavpotič.
+Izobraževanje je bilo izvedeno v okviru GZS. Predaval je izr. prof. dr. Damjan Vavpotič.
