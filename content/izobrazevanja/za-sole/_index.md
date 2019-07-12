@@ -1,11 +1,11 @@
 ---
-title: Delavnice za šole
+title: Delavnice za srednje šole
 date: 2019-03-18T11:21:00.000Z
 bgImage: /uploads/student-3038994_1920.jpg
 type: izobrazevanjaZaSole
 ---
-Nudimo delavnice za srednje šole, ki jih prilagodimo predznanju srednješolcev. 
+V Akademiji FRI nudimo tudi delavnice za srednje šole. Oblikujemo jih lahko glede na želje učiteljev in jih prilagodimo predznanju srednješolcev. Izvedba je zaželena na šoli, po dogovoru pa je možna tudi na fakulteti.
 
-Možnost oblikovanja posebnih delavnic glede na želje srednjih šol.
+Dodatna vprašanja lahko naslovite na [akademija@fri.uni-lj.si](akademija@fri.uni-lj.si).
 
 #### Primeri delavnic
