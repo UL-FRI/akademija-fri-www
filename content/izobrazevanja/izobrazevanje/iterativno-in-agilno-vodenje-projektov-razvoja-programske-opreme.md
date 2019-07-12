@@ -29,22 +29,7 @@ Izobraževanje bo potekalo v petek, 14. junija 2019, od 9.00 do 15.00 ure v Akad
 
 Vodje projektov, razvijalci, analitiki in drugi vključeni v projekte razvoja programske opreme, ki želijo spoznati ključne elemente iterativnega razvoja programske opreme v velikih skupinah in projektih kot tudi agilne pristope, ki so bolj primerni za delo v manjših skupinah.
 
-**PRIJAVNINA:**
-
-* Cena za posameznike: 300 € + DDV
-* Člani Kluba alumnov UL: 240 € + DDV
-* Člani Kluba alumnov UL FRI: 225 € + DDV
-* Študenti: 70 € + DDV
-
-Cena zajema:
-
-* izvedbo izobraževanja,
-* zapiske z dodatno razlago, ilustracijami in primeri,
-* certifikat Akademije FRI,
-* malico.
-
-Vsak udeleženec potrebuje svoj prenosni računalnik.
- 
+**Vsak udeleženec potrebuje svoj prenosni računalnik.**
 
 IZVAJALEC:
 
