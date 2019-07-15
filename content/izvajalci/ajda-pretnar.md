@@ -3,7 +3,7 @@ title: Ajda Pretnar
 firstName: Ajda
 lastName: Pretnar
 date: 2019-04-19T00:00:00.000Z
-bgImage: /uploads/c75t9135.jpg
+bgImage: /uploads/c75t9133.jpg
 image: uploads/team_ajda_pretnar.jpg
 facebookURL: ''
 twitterURL: ''
