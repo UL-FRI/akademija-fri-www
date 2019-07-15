@@ -3,7 +3,7 @@ title: Žiga Emeršič
 firstName: Žiga
 lastName: Emeršič
 date: 2019-04-19T00:00:00.000Z
-bgImage: /uploads/c75t9135.jpg
+bgImage: /uploads/c75t9175.jpg
 image: uploads/team_ziga_emersic.jpg
 phone: +386 40 461 991
 email: ziga.emersic@fri.uni-lj.si
