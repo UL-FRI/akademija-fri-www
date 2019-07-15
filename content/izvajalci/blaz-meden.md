@@ -3,7 +3,7 @@ title: Blaž Meden
 firstName: Blaž
 lastName: Meden
 date: 2019-04-19T00:00:00.000Z
-bgImage: /uploads/technology-785742_1920.jpg
+bgImage: /uploads/c75t9205.jpg
 image: uploads/team_blaz_meden.jpg
 linkedinURL: 'https://si.linkedin.com/in/bla%C5%BE-meden-17793aa5'
 phone: +386 1 479 8240
