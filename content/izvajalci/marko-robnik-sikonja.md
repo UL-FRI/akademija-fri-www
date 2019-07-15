@@ -3,7 +3,7 @@ title: Marko Robnik Šikonja
 firstName: Marko
 lastName: Robnik Šikonja
 date: 2019-04-19T00:00:00.000Z
-bgImage: /uploads/c75t9135.jpg
+bgImage: /uploads/c75t9175.jpg
 image: uploads/team_marko_robnik_sikonja.jpg
 twitterURL: 'https://twitter.com/MarkoRobnikS'
 linkedinURL: 'https://si.linkedin.com/in/marko-robnik-sikonja-430a5'
