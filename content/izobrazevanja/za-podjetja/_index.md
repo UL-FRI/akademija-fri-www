@@ -1,7 +1,7 @@
 ---
 title: Izobraževanja za podjetja
 date: 2019-03-18T11:21:00.000Z
-bgImage: /uploads/a2.png
+bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaZaPodjetja
 ---
 Nudimo izobraževanja za podjetja, ki jih lahko lahko prilagodimo željam in potrebam udeleženih. Prilagodimo torej lahko trajanje, vsebino in stopnjo poglobljenosti izobraževanja - na primer osnovna znanja za študente in karierne začetnike ali napredna za zaposlene, ki želijo nadgraditi svoje znanje. Po dogovoru lahko izobraževanja izvedemo tudi na sedežu podjetja. 
