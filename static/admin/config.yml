@@ -177,11 +177,12 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Koledar"
         file: "content/koledar.md"
-        name: "kontakt"
+        name: "koledar"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - label: "Klub"
         file: "content/klub.md"
         name: "klub"
