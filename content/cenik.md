@@ -1,7 +1,7 @@
 ---
 title: Cenik
 date: 2019-03-18T11:21:00.000Z
-bgImage: /uploads/c75t9175.jpg
+bgImage: /uploads/c75t9216.jpg
 ---
 ##### Frontalno predavanje (do 15 oseb)
 
