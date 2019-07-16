@@ -7,25 +7,13 @@ bgImage: images/background/page-title.jpg
 
 Akademija FRI, ki spada pod Fakulteto za računalništvo in informatiko Univerze v Ljubljani, in ki upravlja s spletnim mestom akademijafri.si, se zaveda pomembnosti varovanja osebnih podatkov in zasebnosti, zato z vsako posredovano informacijo ravna skrbno, v skladu z veljavno zakonodajo o varstvu osebnih podatkov v Republiki Sloveniji in uredbo GDPR. Zavezuje se k trajnemu varovanju vseh osebnih podatkov, ki v nobenem primeru ne bodo predani nepooblaščenim osebam. 
 
-Navedba osebnih podatkov je potrebna, če se naročite na obveščanje ali prijavite na izobraževanje. Osebne podatke zbiramo le takrat, ko nam jih pošljete s prijavo, izpolnjenimi obrazci ali elektronsko pošto, kot naročilo na obveščanje ali storitev.
-
-Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanjih fotografira. S prijavo na izobraževanje se strinjate s fotografiranjem in objavo fotografij na spletnem mestu akademijafri.si, 
-
-**OBVEŠČANJE PREK E-NOVIC**
-
-Za pošiljanje Novičnika (e-novice) uporabljamo ponudnika Mailchimp, kjer so shranjeni naslednji podatki: naslov elektronske pošte, ime in priimek, naziv podjetja ali ustanove. Ta seznam je shranjen pri ponudniku Mailchimp zato, da lahko pošiljamo novice.
-
-Ob prijavi na Novičnik se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
-
-Fakulteta za računalništvo in informatiko Univerze v Ljubljani se obvezuje, da e-naslova ne bo na noben način zlorabila ali posredovala tretji osebi. Od prejemanja novic se lahko kadarkoli odjavite.
-
 #### Kako dolgo hranimo vaše osebne podatke?
 
 Na Univerzi v Ljubljani hranimo vaše osebne podatke toliko časa, kolikor je to potrebno za dosego posameznega namena, zaradi katerega smo jih zbirali ali nadalje obdelovali. Obdobje hrambe je odvisno od pravne podlage, zaradi katere osebne podatke obdelujemo in namena obdelave. 
 
 ČE STE NAŠ KUPEC:
 
-Ob prijavi na izobraževanje morate izpolniti prijavnico, kjer želimo naslednje osebne podatke:
+Ob prijavi na izobraževanje morate izpolniti prijavnico Google Forms, kjer želimo naslednje osebne podatke:
 Obvezno:
 
 * ime in priimek,
@@ -41,6 +29,18 @@ Neobvezno:
 * članstvo pri Alumni klubu UL,
 * naslov podjetja,
 * fakulteta in področje študija, potrdilo o vpisu.
+
+**FOTOGRAFIRANJE**
+
+Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanjih fotografira. S prijavo na izobraževanje se strinjate s fotografiranjem in objavo fotografij na spletnem mestu akademijafri.si.
+
+**OBVEŠČANJE PREK E-NOVIC**
+
+Za pošiljanje Novičnika (e-novice) uporabljamo ponudnika Mailchimp, kjer so shranjeni naslednji podatki: naslov elektronske pošte, ime in priimek, naziv podjetja ali ustanove. Teh osebnih podatkov ne shranjujemo neposredno. S klikom na 'Prijava' potrjujete, da bodo vaši podatki preneseni v Mailchimp za obdelavo. Pravilnik o zasebnosti za Mailchimp si lahko preberete na [povezavi](https://mailchimp.com/legal/).
+
+Ob prijavi na Novičnik se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
+
+Fakulteta za računalništvo in informatiko Univerze v Ljubljani se obvezuje, da e-naslova ne bo na noben način zlorabila ali posredovala tretji osebi. Od prejemanja novic se lahko kadarkoli odjavite na dnu vsake novice.
 
 #### **PRAVICA INTELEKTUALNE LASTNINE**
 
@@ -59,3 +59,7 @@ Pridržuje si pravico do napak v besedilih oziroma tekstovnih napak.
 #### **SPREMEMBE**
 
 Fakulteta za računalništvo in informatiko Univerze v Ljubljani ima pravico, da kadar koli spremeni pogoje teh Pogojev. Vaša nadaljnja uporaba spletnega mesta se šteje za sprejem teh spremenjenih pogojev.
+
+**PIŠKOTKI**
+
+Na spletni strani akademijafri.si ne uporabljamo piškotkov.
