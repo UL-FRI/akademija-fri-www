@@ -60,6 +60,6 @@ Pridržuje si pravico do napak v besedilih oziroma tekstovnih napak.
 
 Fakulteta za računalništvo in informatiko Univerze v Ljubljani ima pravico, da kadar koli spremeni pogoje teh Pogojev. Vaša nadaljnja uporaba spletnega mesta se šteje za sprejem teh spremenjenih pogojev.
 
-**PIŠKOTKI**
+#### **PIŠKOTKI**
 
-Na spletni strani akademijafri.si ne uporabljamo piškotkov.
+Ob prijavi na Novičnik se shrani tehnični piškotek, ki se izbriše ob osvežitvi strani. Spletno mesto akademijafri.si sicer ne uporablja piškotkov.
