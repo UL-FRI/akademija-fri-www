@@ -230,6 +230,21 @@ ol, ul {
     margin-right: 5%;
 }
 
+.background-img-no-repeat {
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.homepage-slider-item {
+    background-position: top center;
+}
+
+.py-200 {
+    padding: 200px 0px;
+}
+
 /* Koledar */
 #calendar {
     max-width: 900px;

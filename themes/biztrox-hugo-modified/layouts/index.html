@@ -5,7 +5,7 @@
 {{ "<!-- image -->" | safeHTML }}
 <section>
     <div class="homepage-slider position-relative">
-        <div class="homepage-slider-item py-160" style="background-image: url('{{ .Params.bgImage | absURL }}')" data-icon="ti-comments"
+        <div class="homepage-slider-item py-200" style="background-image: url('{{ .Params.bgImage | absURL }}')" data-icon="ti-comments"
              data-text="{{ .Params.Title }}">
             <div class="container">
                 <div class="row">
@@ -93,7 +93,7 @@
 
 
 {{ "<!-- ponudba -->" | safeHTML }}
-<section class="section-sm overlay" style="background-image: url('{{ .Site.Data.homepagePonudba.bgImage | absURL }}');">
+<section class="section-sm overlay background-img-no-repeat" style="background-image: url('{{ .Site.Data.homepagePonudba.bgImage | absURL }}');">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 ml-auto">
