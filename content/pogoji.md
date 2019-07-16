@@ -3,8 +3,6 @@ title: Pogoji
 date: 2019-03-18T11:21:00.000Z
 bgImage: images/background/page-title.jpg
 ---
-#### **POLITIKA ZASEBNOSTI**
-
 Akademija FRI, ki spada pod Fakulteto za računalništvo in informatiko Univerze v Ljubljani, in ki upravlja s spletnim mestom akademijafri.si, se zaveda pomembnosti varovanja osebnih podatkov in zasebnosti, zato z vsako posredovano informacijo ravna skrbno, v skladu z veljavno zakonodajo o varstvu osebnih podatkov v Republiki Sloveniji in uredbo GDPR. Zavezuje se k trajnemu varovanju vseh osebnih podatkov, ki v nobenem primeru ne bodo predani nepooblaščenim osebam. 
 
 #### Kako dolgo hranimo vaše osebne podatke?
