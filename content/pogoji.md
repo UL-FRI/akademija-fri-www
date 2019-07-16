@@ -5,11 +5,11 @@ bgImage: images/background/page-title.jpg
 ---
 Akademija FRI, ki spada pod Fakulteto za računalništvo in informatiko Univerze v Ljubljani, in ki upravlja s spletnim mestom akademijafri.si, se zaveda pomembnosti varovanja osebnih podatkov in zasebnosti, zato z vsako posredovano informacijo ravna skrbno, v skladu z veljavno zakonodajo o varstvu osebnih podatkov v Republiki Sloveniji in uredbo GDPR. Zavezuje se k trajnemu varovanju vseh osebnih podatkov, ki v nobenem primeru ne bodo predani nepooblaščenim osebam. 
 
-#### Kako dolgo hranimo vaše osebne podatke?
+#### KAKO DOLGO HRANIMO VAŠE OSEBNE PODATKE?
 
 Na Univerzi v Ljubljani hranimo vaše osebne podatke toliko časa, kolikor je to potrebno za dosego posameznega namena, zaradi katerega smo jih zbirali ali nadalje obdelovali. Obdobje hrambe je odvisno od pravne podlage, zaradi katere osebne podatke obdelujemo in namena obdelave. 
 
-ČE STE NAŠ KUPEC:
+#### PRIJAVA NA IZOBRAŽEVANJE
 
 Ob prijavi na izobraževanje morate izpolniti prijavnico Google Forms, kjer želimo naslednje osebne podatke:
 **Obvezno**
@@ -30,11 +30,11 @@ Ob prijavi na izobraževanje morate izpolniti prijavnico Google Forms, kjer žel
 
 #### **FOTOGRAFIRANJE**
 
-Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanjih fotografira. S prijavo na izobraževanje se strinjate s fotografiranjem in objavo fotografij na spletnem mestu akademijafri.si.
+Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanjih fotografira. S prijavo na izobraževanje se strinjate s fotografiranjem in objavo fotografij na spletnem mestu akademijafri.si in družbenih omrežjih Facebook ter LinkedIn.
 
 #### **OBVEŠČANJE PREK E-NOVIC**
 
-Za pošiljanje Novičnika (e-novice) uporabljamo ponudnika Mailchimp, kjer so shranjeni naslednji podatki: naslov elektronske pošte, ime in priimek, naziv podjetja ali ustanove. Teh osebnih podatkov ne shranjujemo neposredno. S klikom na 'Prijava' potrjujete, da bodo vaši podatki preneseni v Mailchimp za obdelavo. Pravilnik o zasebnosti za Mailchimp si lahko preberete na [povezavi](https://mailchimp.com/legal/).
+Za pošiljanje Novičnika (e-novice) uporabljamo ponudnik Mailchimp, kjer so shranjeni naslednji podatki: naslov elektronske pošte, ime in priimek, naziv podjetja ali ustanove. Teh osebnih podatkov ne shranjujemo neposredno. S klikom na 'Prijava' potrjujete, da bodo vaši podatki preneseni v Mailchimp za obdelavo. Pravilnik o zasebnosti za Mailchimp si lahko preberete na [povezavi](https://mailchimp.com/legal/).
 
 Ob prijavi na Novičnik se strinjate, da vas občasno obveščamo o aktualnih terminih izobraževanj, novostih na strani, novostih v ponudbi in promocijskih akcijah. Privolitev na obveščanje pomeni, da bomo shranili samo vaš e-poštni naslov. Če želite, lahko neobvezno izpolnite tudi »Podjetje (delovno mesto)« ali »Fakulteta in področje študija«. 
 
