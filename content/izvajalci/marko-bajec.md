@@ -3,7 +3,7 @@ title: Marko Bajec
 firstName: Marko
 lastName: Bajec
 date: 2019-04-19T00:00:00.000Z
-bgImage: /uploads/c75t9135.jpg
+bgImage: /uploads/c75t9175.jpg
 image: uploads/team_marko_bajec.jpg
 linkedinURL: 'https://si.linkedin.com/in/marko-bajec-a846a12'
 phone: +386 1 479 8234

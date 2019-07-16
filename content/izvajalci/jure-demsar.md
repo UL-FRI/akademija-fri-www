@@ -3,7 +3,7 @@ title: Jure Demšar
 firstName: Jure
 lastName: Demšar
 date: 2019-04-19T00:00:00.000Z
-bgImage: /uploads/c75t9135.jpg
+bgImage: /uploads/c75t9175.jpg
 image: uploads/team_jure_demsar.jpg
 linkedinURL: 'https://si.linkedin.com/in/jure-dem%C5%A1ar-b41a49138'
 email: jure.demsar@fri.uni-lj.si

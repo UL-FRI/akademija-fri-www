@@ -3,7 +3,7 @@ title: Igor Kononenko
 firstName: Igor
 lastName: Kononenko
 date: 2019-04-19T00:00:00.000Z
-bgImage: /uploads/c75t9135.jpg
+bgImage: /uploads/c75t9175.jpg
 image: uploads/team_igor_kononenko.jpg
 phone: +386 1 479 8230
 email: igor.kononenko@fri.uni-lj.si

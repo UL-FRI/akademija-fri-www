@@ -3,7 +3,7 @@ title: Peter Peer
 firstName: Peter
 lastName: Peer
 date: 2019-07-12T18:07:13.206Z
-bgImage: /uploads/c75t9135.jpg
+bgImage: /uploads/c75t9175.jpg
 image: uploads/blank-profile-picture.png
 linkedinURL: 'https://si.linkedin.com/in/peterpeer'
 phone: +386 1 479 8248
