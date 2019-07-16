@@ -182,6 +182,7 @@ collections:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
+          - {label: "Type", name: "type", widget: "hidden", default: "koledar"}
           - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Klub"
         file: "content/klub.md"
