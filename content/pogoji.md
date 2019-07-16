@@ -12,7 +12,7 @@ Na Univerzi v Ljubljani hranimo vaše osebne podatke toliko časa, kolikor je to
 ČE STE NAŠ KUPEC:
 
 Ob prijavi na izobraževanje morate izpolniti prijavnico Google Forms, kjer želimo naslednje osebne podatke:
-Obvezno:
+**Obvezno**
 
 * ime in priimek,
 * letnica rojstva,
@@ -21,7 +21,7 @@ Obvezno:
 * telefonska številka,
 * študent/ka, zaposlen/a upokojenec/ka.
 
-Neobvezno:
+**Neobvezno**
 
 * podjetje, delovno mesto,
 * članstvo pri Alumni klubu UL,
