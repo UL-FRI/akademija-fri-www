@@ -234,7 +234,10 @@ ol, ul {
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
+}
 
+.background-img-position-center {
+    background-position: center center;
 }
 
 .homepage-slider-item {
