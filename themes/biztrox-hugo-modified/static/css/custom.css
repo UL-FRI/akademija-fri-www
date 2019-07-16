@@ -39,6 +39,10 @@ blockquote p {
     font-family: "Poppins", sans-serif;
 }
 
+.no-line-break-for-space {
+    white-space: nowrap;
+}
+
 /* General */
 .btn-slim {
     padding: 10px 25px 10px 25px;
