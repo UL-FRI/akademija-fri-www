@@ -30,11 +30,11 @@ Neobvezno:
 * naslov podjetja,
 * fakulteta in področje študija, potrdilo o vpisu.
 
-**FOTOGRAFIRANJE**
+#### **FOTOGRAFIRANJE**
 
 Za potrebe promocije Akademije FRI se udeležence in izvajalce na izobraževanjih fotografira. S prijavo na izobraževanje se strinjate s fotografiranjem in objavo fotografij na spletnem mestu akademijafri.si.
 
-**OBVEŠČANJE PREK E-NOVIC**
+#### **OBVEŠČANJE PREK E-NOVIC**
 
 Za pošiljanje Novičnika (e-novice) uporabljamo ponudnika Mailchimp, kjer so shranjeni naslednji podatki: naslov elektronske pošte, ime in priimek, naziv podjetja ali ustanove. Teh osebnih podatkov ne shranjujemo neposredno. S klikom na 'Prijava' potrjujete, da bodo vaši podatki preneseni v Mailchimp za obdelavo. Pravilnik o zasebnosti za Mailchimp si lahko preberete na [povezavi](https://mailchimp.com/legal/).
 
