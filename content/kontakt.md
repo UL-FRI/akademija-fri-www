@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 date: 2019-03-18T11:21:00.000Z
-bgImage: /uploads/c75t2902.jpg
+bgImage: /uploads/c75t2860.jpg
 ---
 **_Univerza v Ljubljani_** \
 **Fakulteta za računalništvo in informatiko** \
