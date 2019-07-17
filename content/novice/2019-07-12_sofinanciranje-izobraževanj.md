@@ -1,7 +1,7 @@
 ---
 title: Sofinanciranje izobraževanj
 date: 2019-07-12T16:17:15.644Z
-bgImage: /uploads/student-3038994_1920.jpg
+bgImage: /uploads/agreement-3489902_1920.jpg
 exposed: true
 image: /uploads/agreement-3489902_1920.jpg
 ---
