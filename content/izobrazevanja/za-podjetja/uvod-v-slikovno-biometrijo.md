@@ -12,7 +12,7 @@ izvajalci:
 ---
 Vsebina izobraževanja temelji na postopkih računalniškega vida, ki predstavljajo izhodišče večine biometričnih sistemov, ki imajo za vhod sliko. V okviru izobraževanja bodo vsebine predstavljene teoretično in praktično skozi dejanske primere in najnovejše implementacije, tudi globokega učenja. Modalnosti, ki bodo obdelane, se lahko določi skupaj s podjetjem.
 
-### Vsebina:
+#### Vsebina:
 
 * Biometrične modalnosti.
 * Zgradba tipičnega biometričnega sistema.
@@ -20,17 +20,17 @@ Vsebina izobraževanja temelji na postopkih računalniškega vida, ki predstavlj
 * Pogoji za korektno primerjanje sistemov (metrike, baze, protokoli, ogrodja).
 * Uspešnost in uporabnost sistemov.
 * Ključne modalnosti in delovanje sistemov:
-  * **prstni odti**s in/ali 
+  * **prstni odtis** in/ali 
   * **šarenica** in/ali 
-  * **obra**z in/ali ...
+  * **obraz** in/ali ...
 * Večbiometrični sistemi/večmodalnost/fuzija.
 * Ključni izzivi modalnosti/sistemov.
 
-### Za koga?
+#### Za koga?
 
 Ciljna skupina so vsi, ki jih zanima visoko-tehnološki razvoj, raziskave in produkti na področju biometrije. Primarno je izobraževanje tako namenjeno tehničnemu kadru, ki želi razumeti delovanje in uspešnost biometričnih sistemov, so recimo njihovi uporabniki, integratorji ali razvijalci.
 
-### Po izobraževanju boste …
+#### Po izobraževanju boste …
 
 … poznali ključne lastnosti posameznih biometričnih modalnosti.
 
@@ -48,10 +48,10 @@ Ciljna skupina so vsi, ki jih zanima visoko-tehnološki razvoj, raziskave in pro
 
 … poznali ključne algoritme računalniškega vida v biometriji.
 
-### Predznanja:
+#### Predznanja:
 
 Če je izobraževanje večdnevno in vsebuje tudi samostojno razvojno delo na pripravljenih nalogah, potem je zahtevano predznanje programiranja. Za enodnevno izobraževanje predznanje ni potrebno.
 
-### Trajanje:
+#### Trajanje:
 
 * 6 šolskih ur (oziroma več po dogovoru)
