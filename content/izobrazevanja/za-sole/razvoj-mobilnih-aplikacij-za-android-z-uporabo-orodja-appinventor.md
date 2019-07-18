@@ -9,6 +9,6 @@ Orodje AppInventor omogoča zelo preprost razvoj mobilnih aplikacij za Android k
 
 **Trajanje:** 3 šolske ure
 
-**Cena:** 150 EUR + DDV
+**Cena:** 150,00 EUR + DDV
 
 **Izvajalec:** [Ciril Bohak](/izvajalci/ciril-bohak/)
