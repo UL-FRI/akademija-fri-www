@@ -9,6 +9,6 @@ Na delavnici bomo na osnovi  NodeMCU z ESP8266 sestavili vremensko postajo z uro
 
 **Trajanje:** 3 šolske ure
 
-**Cena:** 150 EUR + DDV
+**Cena:** 150,00 EUR + DDV
 
 **Izvajalec:** Aleš Jaklič
