@@ -9,6 +9,6 @@ Napredna računalniška grafika zadnja leta prodira tudi v spletne brskalnike. S
 
 **Trajanje:** 3 šolske ure
 
-**Cena:** 150 EUR + DDV
+**Cena:** 150,00 EUR + DDV
 
 **Izvajalec:** [Žiga Lesar](/izvajalci/ziga-lesar/)
