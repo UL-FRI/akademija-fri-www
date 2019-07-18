@@ -9,6 +9,6 @@ Blender je brezplačno odprtokodno orodje za izdelavo 3D modelov, animacij in sv
 
 **Trajanje:** 3 šolske ure
 
-**Cena:** 150 EUR + DDV
+**Cena:** 150,00 EUR + DDV
 
 **Izvajalec:** [Ciril Bohak](/izvajalci/ciril-bohak/)
