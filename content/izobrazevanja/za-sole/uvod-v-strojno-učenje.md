@@ -11,6 +11,6 @@ Strojno učenje predstavlja skupek metod, ki se ukvarjajo s pridobivanjem znanja
 
 **Trajanje:** 3 šolske ure
 
-**Cena:** 150 EUR + DDV
+**Cena:** 150,00 EUR + DDV
 
 **Izvajalec:** [Petar Vračar](/izvajalci/petar-vracar/)
