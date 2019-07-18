@@ -8,4 +8,6 @@ V Akademiji FRI nudimo tudi delavnice za srednje šole. Oblikujemo jih lahko gle
 
 Dodatna vprašanja lahko naslovite na akademija@fri.uni-lj.si.
 
+---
+
 #### Primeri delavnic
