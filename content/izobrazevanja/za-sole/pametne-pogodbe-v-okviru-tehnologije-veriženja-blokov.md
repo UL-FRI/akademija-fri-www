@@ -9,6 +9,6 @@ Delavnica je namenjena dijakom višjih letnikov, ki imajo predznanje osnovnih ko
 
 **Trajanje:** 3 šolske ure
 
-**Cena:** 150 EUR + DDV
+**Cena:** 150,00 EUR + DDV
 
 **Izvajalec:** [Sandi Gec](/izvajalci/sandi-gec/)
