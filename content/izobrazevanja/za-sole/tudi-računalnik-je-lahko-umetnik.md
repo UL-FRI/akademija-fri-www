@@ -9,6 +9,6 @@ S pomočjo programskega jezika Processing se bomo podali v svet kreativnega kodi
 
 **Trajanje:** 3 šolske ure
 
-**Cena:** 150 EUR + DDV
+**Cena:** 150,00 EUR + DDV
 
 **Izvajalec:** Borut Batagelj
