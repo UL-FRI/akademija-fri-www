@@ -1,7 +1,7 @@
 ---
 title: Globoko učenje v računalniškem vidu 1
 date: 2019-05-24T12:56:57.175Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Deep Learning
