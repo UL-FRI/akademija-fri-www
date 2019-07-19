@@ -3,7 +3,7 @@ title: >-
   Spustimo tigre na pašo! (Praktična aplikacija računalniške varnosti za
   podjetja)
 date: 2019-04-18T23:00:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Information Security
