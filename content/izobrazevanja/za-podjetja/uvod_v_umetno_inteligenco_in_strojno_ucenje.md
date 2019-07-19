@@ -40,7 +40,12 @@ Na izobraževanju bomo razjasnili razliko med človeško in računalniško intel
 
 #### Za koga?
 
-V izdelavi.
+Izobraževanje je namenjeno vsem, ki:
+
+* jih zanima, kako se lahko računalniki učijo in ali so računalniki inteligentni, kakšna je razlika med človekom in strojem.
+* bi radi zvedeli, kaj zmore danes strojno učenje in umetna inteligenca.
+* bi želeli spoznati, kako iz podatkov potegniti koristno znanje.
+* bi radi naredili prvi korak k uporabi podatkov za napovedovanje/odločanje.
 
 #### Po izobraževanju boste ...
 
@@ -50,7 +55,7 @@ V izdelavi.
 
 #### Predznanja:
 
-V izdelavi.
+Posebna predznanja niso potrebna.
 
 #### Trajanje:
 
