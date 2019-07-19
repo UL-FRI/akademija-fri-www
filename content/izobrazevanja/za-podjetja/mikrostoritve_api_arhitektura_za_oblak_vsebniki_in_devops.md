@@ -1,7 +1,7 @@
 ---
 title: 'Mikrostoritve, API, arhitektura za oblak, vsebniki in DevOps'
 date: 2019-04-18T23:00:00.000Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Cloud & DevOps
