@@ -10,10 +10,6 @@ izvajalci:
 ---
 Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. Z vse večjim krogom uporabnikov pa se veča tudi potreba po dobrih in smiselnih aplikacijah, ki s pomočjo navidezne resničnosti predstavijo izbrano vsebino. V okviru izobraževanja bomo spoznali čiste osnove razvoja aplikacij za navidezno resničnost v okolju Unity3D. Glavni cilj izobraževanja je tako udeležence seznaniti s tehnologijo navidezne resničnosti in z osnovami razvoja ustreznih aplikacij. Spoznali se bomo s sistemom HTC Vive, enega izmed bolj popularnih sistemov za navidezno resničnost. Tekom delavnice bomo spoznali na kaj moramo paziti pri razvoju VR aplikacij.
 
-#### Namen:
-
-V izdelavi.
-
 #### Vsebina:
 
 Razvoj aplikacij za VR bomo spoznavali v navezavi z orodjem Unity3D:
