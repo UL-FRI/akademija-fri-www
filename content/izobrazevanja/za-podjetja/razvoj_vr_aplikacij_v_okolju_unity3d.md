@@ -8,7 +8,7 @@ tagsIzobrazevanjaZaPodjetja:
 izvajalci:
   - Ciril Bohak
 ---
-Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. Z vse večjim krogom uporabnikov pa se veča tudi potreba po dobrih in smiselnih aplikacijah, ki s pomočjo navidezne resničnosti predstavijo izbrano vsebino. V okviru izobraževanja bomo spoznali čiste osnove razvoja aplikacij za navidezno resničnost v okolju Unity3D.
+Navidezna resničnost (VR) se vse bolj vključuje v naš vsakdan, še posebej s prihodom samostojnih naprav VR, ki niso vezane na uporabo telefona ali računalnika. Z vse večjim krogom uporabnikov pa se veča tudi potreba po dobrih in smiselnih aplikacijah, ki s pomočjo navidezne resničnosti predstavijo izbrano vsebino. V okviru izobraževanja bomo spoznali čiste osnove razvoja aplikacij za navidezno resničnost v okolju Unity3D. Glavni cilj izobraževanja je tako udeležence seznaniti s tehnologijo navidezne resničnosti in z osnovami razvoja ustreznih aplikacij. Spoznali se bomo s sistemom HTC Vive, enega izmed bolj popularnih sistemov za navidezno resničnost. Tekom delavnice bomo spoznali na kaj moramo paziti pri razvoju VR aplikacij.
 
 #### Namen:
 
@@ -16,19 +16,31 @@ V izdelavi.
 
 #### Vsebina:
 
-V izdelavi.
+Razvoj aplikacij za VR bomo spoznavali v navezavi z orodjem Unity3D:
+
+* pregled osnov uporabe orodja Unity3D,
+* spoznavanje z navidezno resničnostjo,
+* osnove delovanja sistemov za navidezno resničnost,
+* enostavna aplikacija za navidezno resničnost,
+* interakcija v navidezni resničnosti,
+* načrtovanje prostora in akcij v navidezni resničnosti,
+* omejitve pri implementaciji.
 
 #### Za koga?
 
-V izdelavi.
+Izobraževanje je namenjeno tistim, ki še niso razvijali aplikacij za VR in si želijo pridobiti takšne izkušnje.
 
 #### Po izobraževanju boste ...
 
-V izdelavi.
+... razumeli osnove delovanja sistemov za navidezno resničnost.
+... znali razviti lastno VR aplikacijo za različne sisteme navidezne resničnosti.
+... znali načrtovati ustrezne ideje za realizacijo v navidezni resničnosti.
+... poznali možne načine interakcije v sistemih za navidezno resničnost.
+... poznali omejitve na katere je potrebno paziti pri razvoju aplikacij za VR.
 
 #### Predznanja:
 
-V izdelavi
+Za udeležbo je pričakovano osnovno poznavanje okolja Unity3D (po dogovoru, se lahko delavnica razširi in zajame tudi potrebno predznanje).
 
 #### Trajanje:
 
