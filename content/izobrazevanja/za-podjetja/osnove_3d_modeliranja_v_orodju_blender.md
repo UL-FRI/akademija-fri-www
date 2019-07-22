@@ -32,7 +32,21 @@ Izobraževanje je namenjeno vsem, ki se želijo naučiti 3D modeliranja z brezpl
 
 #### Po izobraževanju boste ...
 
-V izdelavi.
+... seznanjeni z uporabniškim vmesnikom orodja Blender.
+
+... seznanjeni z osnovnimi funkcionalnostmi orodja.
+
+... poznali osnovne pristope k 3D modeliranju.
+
+... razumeli razlike med različnimi načini predstavitve 3D objektov.
+
+... znali izdelati poljubne 3D modele z uporabo osnovnih orodij.
+
+... razumeli razlike med različnimi materiali objektov.
+
+... razločevali med različnimi svetlobnimi viri.
+
+... poznali osnove animiranja v 3D prostoru.
 
 #### Predznanja:
 
