@@ -15,23 +15,25 @@ Uvod v odkrivanje znanj iz podatkov je prvi korak v svet podatkovne analitike. I
 #### Vsebina:
 
 * Raziskovanje podatkov in vizualizacije.
-* Gručenje, odkrivanje skupin v podatkih.
-* Klasifikacija in gradnja napovednih modelov.
-* Analiza vprašalnikov, podatkov iz marketinga in glasovalnih vzorcev.
+* Hierarhično razvrščanje v skupine.
+* Razlaganje skupin, odkrivanje osamelcev.
+* Metoda k-voditeljev.
+* Projekcije, MDS.
+* Segmentacija strank.
 
 #### Za koga?
 
-V izdelavi.
+Za vse, ki jih veseli delo s podatki in bi radi naredili korak dlje od preprostih statistik.
 
-#### Po izobraževanju boste ...
+#### Po izobraževanju boste:
 
-... poznali tehnike vizualizacije podatkov in strojnega učenja.
-
-... sposobni sami analizirati podatke in jih uporabiti za gradnjo napovednih modelov.
+* Poznali dve metodi za odkrivanje skupin v podatkih.
+* Bili sposobni sami gručiti nove podatke in odkrite gruče razložiti.
+* Znali odkriti osamelce v podatkih in preveriti kvaliteto gručenja.
 
 #### Predznanja:
 
-V izdelavi.
+Ni potrebnih predznanj.
 
 #### Trajanje:
 
