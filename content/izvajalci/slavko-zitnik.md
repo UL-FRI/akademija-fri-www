@@ -10,4 +10,4 @@ phone: +386 1 476 8216
 email: slavko.zitnik@fri.uni-lj.si
 redirect: ''
 ---
-Dr. Slavko Žitnik je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za podatkovne tehnologije](https://www.fri.uni-lj.si/sl/laboratorij/lpt).
+Dr. Slavko Žitnik je docent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za podatkovne tehnologije](https://www.fri.uni-lj.si/sl/laboratorij/lpt).
