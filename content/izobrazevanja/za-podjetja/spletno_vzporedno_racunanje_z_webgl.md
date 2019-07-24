@@ -8,8 +8,7 @@ tagsIzobrazevanjaZaPodjetja:
 izvajalci:
   - Žiga Lesar
 ---
-Dandanes zahtevne grafične aplikacije delujejo tudi v spletnih brskalnikih predvsem po zaslugi vmesnika WebGL. Običajno se WebGL uporablja za 3D vizualizacije, primeren pa je tudi za bolj splošno vzporedno računanje. 
-Medtem ko se začetni tečaji v glavnem osredotočajo na osnove 3D grafike, je ta delavnica namenjena tistim, ki bi radi WebGL spoznali bolj podrobno in z njim pospešili računanje na končnih napravah.
+Dandanes zahtevne grafične aplikacije delujejo tudi v spletnih brskalnikih predvsem po zaslugi vmesnika WebGL. Običajno se WebGL uporablja za 3D vizualizacije, primeren pa je tudi za bolj splošno vzporedno računanje. Medtem ko se začetni tečaji v glavnem osredotočajo na osnove 3D grafike, je to izobraževanje namenjeno tistim, ki bi radi WebGL spoznali bolj podrobno in z njim pospešili računanje na končnih napravah.
 
 #### Vsebina:
 
