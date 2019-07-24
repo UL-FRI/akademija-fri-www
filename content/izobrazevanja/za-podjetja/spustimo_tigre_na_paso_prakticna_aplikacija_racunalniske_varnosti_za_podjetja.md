@@ -10,7 +10,7 @@ tagsIzobrazevanjaZaPodjetja:
 izvajalci:
   - David Modic
 ---
-Naučili vas bomo osnovnih principov penetracijskega testiranja (i. e. preverjanja varnosti sistemov prek simuliranih napadov), s poudarkom na izrabi človeških virov in pasivnega zbiranja podatkov o pomanjkljivostih sistema in posameznikov. Program vsebuje teoretične in praktične elemente.
+Naučili vas bomo osnovnih principov penetracijskega testiranja (i. e. preverjanja varnosti sistemov prek simuliranih napadov), s poudarkom na izrabi človeških virov in pasivnega zbiranja podatkov o pomanjkljivostih sistema in posameznikov. Izobraževanje vsebuje teoretične in praktične elemente.
 
 #### Vsebina:
 
