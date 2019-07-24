@@ -12,7 +12,7 @@ V zadnjem času se pojavlja vse večja potreba po 3D vsebinah in vizualizacijah,
 
 #### Vsebina:
 
-V okviru delavnice bomo spoznali ogrodje Three.js (ali orodje Unity3D), ki nam močno olajša razvoj 3D aplikacij na spletu. Preko osnovnih primerov bomo spoznali kako lahko na spletu prikažemo tudi lastne vsebine:
+V okviru delavnice vam bomo predstavili ogrodje Three.js (ali orodje Unity3D), ki nam močno olajša razvoj 3D aplikacij na spletu. Preko osnovnih primerov bomo spoznali kako lahko na spletu prikažemo tudi lastne vsebine:
 
 * osnove 3D izrisa,
 * spoznavna aplikacija,
