@@ -28,7 +28,9 @@ V izdelavi
 #### Po izobraževanju boste ...
 
 ... poznali ključne pristope rudarjenja besedil za obdelavo tekstovnih dokumentov, vizualizacije ter raziskovalno analizo podatkov. 
+
 ... sposobni sami rudariti besedila in identificirati najprimernejše metode za analizo vašega problema.
+
 ... lahko samostojno izvedli osnovno analizo besedil. 
 
 #### Predznanja:
