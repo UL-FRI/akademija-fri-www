@@ -11,7 +11,7 @@ izvajalci:
   - Žiga Emeršič
   - Blaž Meden
 ---
-Na izobraževanju vam bomo predstavili osnovne koncepte na katerih temelji moderni računalniški vid, in vam skozi vrsto primerov dobrih praks prikazali zmožnosti, ki jih ta tehnologija ponuja.
+Na izobraževanju vam bomo predstavili osnovne koncepte na katerih temelji moderni računalniški vid in vam skozi vrsto primerov dobrih praks prikazali zmožnosti, ki jih ta tehnologija ponuja.
 
 #### Vsebina:
 
