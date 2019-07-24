@@ -9,7 +9,7 @@ tagsIzobrazevanjaZaPodjetja:
 izvajalci:
   - Matjaž Branko Jurič
 ---
-Udeleženci bodo spoznali najnovejše pristope pri razvoju sodobnih aplikacij in informacijskih rešitev ter arhitekturne vzorce in koncepte, na katerih temeljijo sodobne digitalne aplikacije in rešitve. Poseben poudarek bo na vpeljavi novih arhitekturnih konceptov v obstoječa okolja in postopen prehod s klasičnega monolitnega razvojnega modela na model uporabe mikrostoritev in ostalih konceptov arhitekture za oblak (cloud-native), na osnovi katere razvijajo rešitve najuspešnejša internetna podjetja. 
+Na izobraževanju boste spoznali najnovejše pristope pri razvoju sodobnih aplikacij in informacijskih rešitev ter arhitekturne vzorce in koncepte, na katerih temeljijo sodobne digitalne aplikacije in rešitve. Poseben poudarek bo na vpeljavi novih arhitekturnih konceptov v obstoječa okolja in postopen prehod s klasičnega monolitnega razvojnega modela na model uporabe mikrostoritev in ostalih konceptov arhitekture za oblak (cloud-native), na osnovi katere razvijajo rešitve najuspešnejša internetna podjetja. 
 
 #### Vsebina:
 
