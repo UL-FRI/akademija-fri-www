@@ -7,7 +7,6 @@ tagsIzobrazevanjaZaPodjetja:
   - Data Mining
 izvajalci:
   - Slavko Žitnik
-  - Ajda Pretnar
 ---
 Namen izobraževanja je, predstaviti in uporabiti glavne tehnike rudarjenja besedil, predvsem na semantičnem nivoju. Udeleženci bodo uporabili metode za predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene podatke se bodo naučili shranjevati v semantičnih podatkovnih zbirkah (kot je na primer DBPedia) in po njih tudi poizvedovati. 
 
