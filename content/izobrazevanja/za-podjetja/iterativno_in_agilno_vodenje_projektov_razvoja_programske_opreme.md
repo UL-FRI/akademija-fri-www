@@ -9,7 +9,7 @@ izvajalci:
   - Damjan Vavpotič
   - Tomaž Hovelja
 ---
-Na izobraževanju vam bomo predstavili sodobne pristope vodenja projektov razvoja programske opreme. Prvi del tečaja je namenjen spoznavanju ključnih lastnosti in prednosti iterativnega pristopa. V tem delu udeleženci med drugim spoznajo, kako s pomočjo iterativnega pristopa učinkovito obvladovati tveganja in kako na podlagi ocenjevanja iteracij projekt sproti usmerjati.
+Na izobraževanju vam bomo predstavili sodobne pristope vodenja projektov razvoja programske opreme. Prvi del je namenjen spoznavanju ključnih lastnosti in prednosti iterativnega pristopa. V tem delu udeleženci med drugim spoznajo, kako s pomočjo iterativnega pristopa učinkovito obvladovati tveganja in kako na podlagi ocenjevanja iteracij projekt sproti usmerjati.
 
 V drugem delu udeležencem podrobneje predstavimo dva popularna agilna pristopa za vodenje projektov – SCRUM in Kanban. Seznanimo vas tudi z dvema metodama za ocenjevanje napora pri agilnih projektih – Planning Poker in The Bucket System.
 
