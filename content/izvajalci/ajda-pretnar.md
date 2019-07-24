@@ -16,6 +16,8 @@ Ajda Pretnar je raziskovalka in asistentka na Fakulteti za računalništvo in in
 
 S povezovanjem antropologije in strojnega učenja razvija nove računalniško podprte metodologije za družboslovne vede. Poučuje podatkovno rudarjenje in strojno učenje z orodjem za podatkovno analitiko Orange.
 
+Ajda je do sedaj izvedla že več kot 20 tečajev podatkovne analitike za študente, dijake, podjetja in zaposlene v javnem sektorju. Pretekli dve leti kot asistentka pomaga pri predmetu Data Mining na moskovski Higher School of Economics. Občasno organizira izobraževanja za družboslovce in humaniste, med drugim je leta 2018 izvedla delavnico Podatkovno rudarjenje za punce, namenjeno širitvi tehničnih in analitičnih znanj med ženskami.
+
 #### V medijih
 
 * Metina Lista, Meta PHoDcast 92, Zarja Muršič: [Ajda Pretnar, antropologinja](https://metinalista.si/meta-phodcast-92-ajda-pretnar-antropologinja/) (7. 2. 2019)
