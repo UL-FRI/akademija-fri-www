@@ -11,8 +11,7 @@ izvajalci:
   - Žiga Emeršič
   - Blaž Meden
 ---
-V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krilih globokega učenja dosega odlične rezultate in v obliki raznih aplikacij in robotskih sistemov vstopa na najrazličnejša področja našega življenja. Izobraževanji sta namenjeni predvsem podatkovnim analitikom in
-podatkovnim inženirjem ter vsem, ki bi želeli izvedeti več o tehnologiji.
+V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krilih globokega učenja dosega odlične rezultate in v obliki raznih aplikacij in robotskih sistemov vstopa na najrazličnejša področja našega življenja. 
 
 #### Vsebina:
 
@@ -20,7 +19,7 @@ Pregledno predavanje brez praktičnega dela, kjer vam bomo predstavili delovanje
 
 #### Za koga?
 
-V izdelavi.
+Izobraževanje je namenjeno predvsem podatkovnim analitikom in podatkovnim inženirjem ter vsem, ki bi želeli izvedeti več o tehnologiji.
 
 #### Po izobraževanju boste ...
 
@@ -32,4 +31,4 @@ V izdelavi.
 
 #### Trajanje:
 
-* 4 šolske ure 
+* 4 šolske ure
