@@ -9,7 +9,7 @@ izvajalci:
   - Damjan Vavpotič
   - Tomaž Hovelja
 ---
-Udeležence izobraževanja bomo seznanili s ključnimi koncepti poslovno-informacijske arhitekture ter modeliranja poslovnih procesov ter jih naučili uporabljati odprtokodni program za pripravo poslovno-informacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo). 
+Na izobraževanju vas bomo seznanili s ključnimi koncepti poslovno-informacijske arhitekture ter modeliranja poslovnih procesov in vas naučili uporabljati odprtokodni program za pripravo poslovno-informacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo). 
 
 #### Vsebina:
 
