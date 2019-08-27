@@ -26,7 +26,7 @@ Izobraževanje je namenjeno udeležencem, ki so vešči programiranja in bi radi
 
 #### Po izobraževanju boste ...
 
-V izdelavi.
+... poznali osnove probabilističnega razmišljanja in programiranja, kar vam bo omogočilo statistično modeliranje v večini tipičnih scenarijev, ki jih srečamo v praksi.
 
 #### Predznanja:
 
