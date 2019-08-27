@@ -5,6 +5,7 @@ bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Data Mining
+  - Text Mining
 izvajalci:
   - Slavko Žitnik
 ---
@@ -22,7 +23,7 @@ Namen izobraževanja je predstaviti in uporabiti glavne tehnike rudarjenja besed
 
 #### Za koga?
 
-V izdelavi.
+Za vse, ki že poznate osnove programiranja in bi želeli avtomatsko obdelovati tudi besedilne podatke.
 
 #### Po izobraževanju boste ...
 
