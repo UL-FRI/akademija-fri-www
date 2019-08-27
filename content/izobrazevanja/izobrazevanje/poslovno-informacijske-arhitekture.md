@@ -4,8 +4,8 @@ date: 2019-07-12T18:24:39.816Z
 bgImage: uploads/page-title.jpg
 image: /uploads/classroom-2386288_1920.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-07-12T18:24:39.862Z
 dates:
   - 2019-07-24T14:00:00.000Z
