@@ -4,8 +4,8 @@ date: 2019-07-12T18:30:54.546Z
 bgImage: uploads/page-title.jpg
 image: /uploads/50751048_386872588746839_5785289757659496448_n.png
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-07-12T18:30:54.572Z
 dates:
   - 2019-07-22T19:00:00.000Z
