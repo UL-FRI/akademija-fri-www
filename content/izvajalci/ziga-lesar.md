@@ -10,4 +10,4 @@ phone: +386 1 479 8259
 email: ziga.lesar@fri.uni-lj.si
 redirect: ''
 ---
-Je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za računalniško grafiko in multimedije](https://www.fri.uni-lj.si/sl/laboratorij/lgm).
+Je asistent na Fakulteti za računalništvo in informatiko Univerze v Ljubljani ter član [Laboratorija za računalniško grafiko in multimedije](https://www.fri.uni-lj.si/sl/laboratorij/lgm). Raziskovalno deluje na področju realistične računalniške grafike in upodabljanja volumetričnih podatkov, kjer se osredotoča na razvoj platformno agnostičnih spletnih aplikacij (WebGL). Na Fakulteti za računalništvo in informatiko Univerze v Ljubljani poučuje računalniško grafiko in tehnologije iger.
