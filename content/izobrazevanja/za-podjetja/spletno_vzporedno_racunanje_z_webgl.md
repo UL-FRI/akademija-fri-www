@@ -1,5 +1,5 @@
 ---
-title: Spletno vzporedno računanje z WebGL
+title: WebGL od začetka
 date: 2019-04-18T23:00:00.000Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaZaPodjetja
