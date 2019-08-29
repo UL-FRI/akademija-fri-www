@@ -31,7 +31,7 @@ Izobraževanje je primerno predvsem za vodje projektov, IT arhitekte in poslovne
 
 #### Predznanja:
 
-V izdelavi.
+Niso potrebna.
 
 #### Trajanje:
 
