@@ -9,32 +9,36 @@ tagsIzobrazevanjaZaPodjetja:
 izvajalci:
   - Gregor Weiss
 ---
-Nevronske mreže so računalniški programi, ki delujejo po vzoru človeških nevronskih mrež v možganih. Njihov cilj je izvajanje kognitivnih funkcij kot sta reševanje problemov in strojno učenje. Udeležencem bomo predstavili osnove nevronskih mrež in njihovo uporabo s knjižnico TensorFlow v programskem jeziku Python 3.
+Globoke nevronske mreže so računalniški programi, ki se zadnja leta izjemno uspešno spopadajo z izzivi umetne inteligence. Ogledali si bomo zanimive probleme iz različnih disciplin, ki obsegajo preprosto klasifikacijo, regresijo, generiranje besedil in razpoznavanje fotografij. Udeležencem bomo predstavili osnove nevronskih mrež in se skozi praktične primere naučili uporabljati knjižnico TensorFlow 2.0 v programskem jeziku Python 3.
 
 #### Vsebina:
 
-* Motivacija, kratka zgodovina, nadzorovano učenje.
-* Prvi koraki s TensorFlow, vzpostavitev okolja.
-* Primer linearne regresije.
-* Funkcija izgube, učenje z metodo vzvratnega razširjanja napake.
+* Prvi koraki s TensorFlow 2.0.
+* Osnove nevronskih mrež.
+* Predstavitev vhodnih podatkov.
+* Usmerjene nevronske mreže (FFNN).
+* Rekurentne nevronske mreže (RNN).
+* Konvolucijske nevronske mreže (CNN).
+* Tehnike regularizacije.
+* Tehnike učenja in pred-učenja.
+* Mehanizmi pozornosti.
 * Vizualizacija s TensorBoard.
-* Matematični model nevrona.
-* Sestavljanje nevronskih mrež.
-* Primer večslojnega perceptrona za klasifikacijo.
-* Sestavni deli modernih nevronskih mrež.
-* Primer sodobne globoke nevronske mreže.
 
 #### Za koga?
 
-Izobraževanje je namenjeno predvsem podatkovnim analitikom in podatkovnim inženirjem ter vsem, ki bi želeli vedeti več o tehnologiji.
+Izobraževanje je namenjeno vsem, ki jih zanima visoko-tehnološki razvoj in bi želeli vedeti več o tehnologiji. Predvsem pa podatkovnim inženirjem in razvijalcem naprednih rešitev, ki zahtevajo strojno učenje.
 
 #### Po izobraževanju boste ...
 
-V izdelavi.
+... znali sestaviti lastno nevronsko mrežo s knjižnico TensorFlow.
+
+... poznali tipične oblike nevronskih mrež.
+
+... imeli navdih, da vgradite umetno inteligenco v vaše produkte.
 
 #### Predznanja:
 
-Osnovne programerske izkušnje.
+Osnovne programerske izkušnje. Zaželjeno je osnovno poznavanje nevronskih mrež in jezika Python 3.
 
 #### Trajanje:
 
