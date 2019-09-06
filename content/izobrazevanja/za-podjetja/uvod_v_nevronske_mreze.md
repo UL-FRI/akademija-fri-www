@@ -38,7 +38,7 @@ Izobraževanje je namenjeno vsem, ki jih zanima visoko-tehnološki razvoj in bi 
 
 #### Predznanja:
 
-Osnovne programerske izkušnje. Zaželjeno je osnovno poznavanje nevronskih mrež in jezika Python 3.
+Osnovne programerske izkušnje. Zaželeno je osnovno poznavanje nevronskih mrež in jezika Python 3.
 
 #### Trajanje:
 
