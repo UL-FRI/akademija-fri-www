@@ -12,7 +12,7 @@ izvajalci:
 ---
 V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krilih globokega učenja dosega odlične rezultate in v obliki raznih aplikacij in robotskih sistemov vstopa na najrazličnejša področja našega življenja. Z razvojem metod globokega učenja se je namreč uspešnost in robustnost pristopov računalniškega vida izredno izboljšala. To omogoča uporabo te tehnologije ne samo v omejenih predvidljiv pogojih, temveč tudi v vse bolj raznovrstnih okoljih. Področja uporabe so se razširila tako v industrijskem okolju, kot tudi na različna področja vsakdanjega življenja. Namen izobraževanja je tako predstaviti globoko učenje in računalniški vid kot omogočitveno tehnologijo za razvoj novih produktov in reševanje mnogih izzivov na različnih področjih. Na kratko bomo udeležence seznanili z osnovnimi koncepti in delovanjem globokega učenja v računalniškem vidu, poudarek pa bo na predstavitvi konkretnih primerov uporabe in predaji praktičnih izkušenj pri razvoju tovrstnih rešitev.
 
-### Vsebina:
+#### Vsebina:
 
 * Uvod v računalniški vid in globoko učenje:
   * Kaj je to računalniški vid, globoko učenje oz. umetna inteligenca: seznanitev z glavnimi koncepti in osnovami delovanja
@@ -27,12 +27,11 @@ V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krili
   * Interaktivna diskusija o konkretnih problemih in morebitnih rešitvah
   * Praktični nasveti za uvedbo rešitev računalniškega vida in globokega učenja
 
-### Za koga?
+#### Za koga?
 
 Izobraževanje je namenjeno vsem, ki jih zanimajo potenciali globokega učenja in računalniškega vida ter bi radi spoznali zmogljivosti te tehnologije in probleme, ki jih rešujejo. Izobraževanje je torej namenjeno vodstvenemu kadru, vodjem razvoja, projektov, proizvodnje, informatike, marketinga, tehničnim direktorjem, vodjem digitalizacije, načrtovalcem rešitev, oz. vsem, ki sodelujejo pri snovanju in odločanju o uvedbi novih tehnologij v poslovanje podjetja.
 
-### Po izobraževanju boste ...
-
+#### Po izobraževanju boste ...
 ... vedeli, kaj je globoko učenje (oz. strojno učenje, oz. umetna inteligenca) in kaj je računalniški vid.
 ... vedeli, kakšne probleme se rešuje z globokim učenjem in računalniškim vidom.
 ... poznali prednosti in omejitve ter koristi, ki jih prinaša ta tehnologija.
@@ -40,11 +39,9 @@ Izobraževanje je namenjeno vsem, ki jih zanimajo potenciali globokega učenja i
 ... prepoznali potencialno uporabo te tehnologije podjetju.
 ... poizkušali oceniti koristi, ki jih takšna uporaba prinese.
 
-### Predznanja:
-
+#### Predznanja:
 Posebno predznanje ni potrebno, saj bodo predavanja nudila vse potrebne informacije. 
 
-### Trajanje:
-
+#### Trajanje:
 * 6 šolskih ur
 * Po dogovoru pripravimo tudi obsežnejše in tehnično bolj poglobljeno izobraževanje.
