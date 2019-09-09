@@ -18,19 +18,19 @@ Količina podatkov, ki jih zajamemo dnevno, se je v zadnjih desetih letih poveč
 * Primerjava podatkovnih modelov (relacijski, dokumentni, graf) njihovih prednosti in slabosti.
 * Primerjava tradicionalnih relacijskih in noSQL podatkovnih baz.
 * Primeri noSQL podatkovnih baz.
-* Osnove Hadoop ekosistema za delo z velikimi količinami podatkov.
+* Osnove Hadoop ekosistema (Spark, Nifi, Kafka, HBase, Solr, …) za delo z velikimi količinami podatkov.
 
 #### Za koga?
 
-V izdelavi.
+Izobraževanje je primerno za vse, ki se ukvarjate z razvojem informacijskih sistemov, hranjenjem in obdelavo podatkov ter vodstvenim delavcem, ki sprejemate odločitve o tehnologijah in arhitekturah informacijskih sistemov.
 
 #### Po izobraževanju boste ...
 
-... vedeli, kako se spoprijeti z velikimi količinami podatkov, ki jih prinašajo sodobni trendi na področju IKT, kot so internet stvari, pametne tovarne, digitalizacija ipd. 
+... vedeli, kako se spoprijeti z velikimi količinami podatkov, kako zagotoviti, da bodo vaše rešitve razširljive in ne bodo omejene s količino podatkov in številom uporabnikov, kako izbirati med vrstami sistemov za upravljanje s podatkovnimi bazami, kako se odločiti za najbolj ustrezen podatkovni model, kako razvijati podatkovno intenzivne sisteme ipd.
 
 #### Predznanja:
 
-V izdelavi.
+Zaželeno je poznavanje osnov razvoja informacijskih sistemov ter sistemov za upravljanje s podatkovnimi bazami. Kot nadaljevanje priporočamo izobraževanja iz skupine “Uporaba Hadoop ekosistema za zajem, hrambo, procesiranje in vizualizacijo velikih količin podatkov”, v okviru katerih lahko spoznate konkretna orodja, kot so Druid, Lucene/Solr, Neo4j, Kafka, Nifi, HiveMQ, Spark, Superset in Grafana. 
 
 #### Trajanje:
 
