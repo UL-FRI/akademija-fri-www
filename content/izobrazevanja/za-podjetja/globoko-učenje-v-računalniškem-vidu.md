@@ -1,7 +1,7 @@
 ---
 title: Globoko učenje v računalniškem vidu
 date: 2019-09-09T10:05:37.441Z
-bgImage: uploads/page-title.jpg
+bgImage: /uploads/agreement-2642610_1920.jpg
 type: izobrazevanjaZaPodjetja
 tagsIzobrazevanjaZaPodjetja:
   - Computer Vision
