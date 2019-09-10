@@ -13,7 +13,7 @@ dates:
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdr14IM3_Xq2hRb4XZffz8MvMdQZBxkp15zXPGWEU8tsX6RbA/viewform?usp=sf_link
 summary: >-
-  Seznanili vas bomo s ključnimi koncepti poslovno informacijske-arhitekture ter
+  Seznanili vas bomo s ključnimi koncepti poslovno-informacijske arhitekture ter
   modeliranja poslovnih procesov in vas naučili uporabljati odprtokodni program
   za pripravo poslovno-informacijske arhitekture Archimate. Na praktičnih
   primerih bomo ugotavljali, kako popisati poslovne procese v podjetju
