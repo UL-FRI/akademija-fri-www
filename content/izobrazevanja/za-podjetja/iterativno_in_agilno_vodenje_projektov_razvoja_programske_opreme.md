@@ -34,7 +34,7 @@ Vodje projektov, razvijalci, analitiki in drugi vključeni v projekte razvoja pr
 
 … znali načrtovati projekte na iterativen način z upoštevanjem projektnih tveganj.
 
-… razumeli kako projekt v izvesti na agilen način z uporabo Scrum ali Kanban.
+… razumeli, kako projekt v izvesti na agilen način z uporabo Scrum ali Kanban.
 
 #### Predznanja:
 
