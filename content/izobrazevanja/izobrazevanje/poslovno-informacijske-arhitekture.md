@@ -25,7 +25,7 @@ Dvodnevno izobraževanje bo potekalo v torek in sredo, 24. in 25. julija, od 15.
 
 Prijave potekajo do 20. 9. 2019.
 
-\###Prijavnina: 
+#### Prijavnina: 
 
 * Posamezniki: 400 € + DDV
 * Člani Kluba alumnov UL: 320 € + DDV
@@ -41,7 +41,7 @@ Cena zajema:
 
 **Vsak udeleženec potrebuje svoj prenosni računalnik.**
 
-### Vsebina:
+#### Vsebina:
 
 * Spoznavanje ključnih vsebin, konceptov in metod na področju priprave poslovno-informacijske arhitekture podjetij.
 * Spoznavanje delovanja arhitekturnega programa za modeliranje ArchiMate.
@@ -50,11 +50,11 @@ Cena zajema:
 * Vrednotenje koristi potencialnih izboljšav poslovnih procesov (avtomatizacija, informatizacija, digitalizacija).
 * Ocenjevanje stroškov izboljšav poslovnih procesov.
 
-### Za koga?
+#### Za koga?
 
 Izobraževanje je primerno predvsem za vodje projektov, IT arhitekte in poslovne analitike.
 
-### Po izobraževanju boste …
+#### Po izobraževanju boste …
 
 … znali identificirati poslovne procese, ki bi jih bilo smiselno avtomatizirati, informatizirati ali digitalizirati.
 
