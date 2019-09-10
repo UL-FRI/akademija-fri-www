@@ -21,7 +21,7 @@ summary: >-
 ---
 Seznanili vas bomo s ključnimi koncepti poslovno-informacijske arhitekture ter modeliranja poslovnih procesov in vas naučili uporabljati odprtokodni program za pripravo poslovno-informacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo).
 
-Dvodnevno izobraževanje bo potekalo v torek in sredo, 24. in 25. julija, od 15.30 do 19.30 v Akademiji FRI (Večna pot 113, Ljubljana). Z nami bo [izr. prof. dr. Tomaž Hovelja](https://akademijafri.si/izvajalci/toma%C5%BE-hovelja/).
+Dvodnevno izobraževanje bo potekalo v torek in sredo, 24. in 25. septembra, od 15.30 do 19.30 v Akademiji FRI (Večna pot 113, Ljubljana). Z nami bo [izr. prof. dr. Tomaž Hovelja](https://akademijafri.si/izvajalci/toma%C5%BE-hovelja/).
 
 Prijave potekajo do 20. 9. 2019.
 
