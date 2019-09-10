@@ -32,7 +32,9 @@ Vodje projektov, razvijalci, analitiki in drugi vključeni v projekte razvoja pr
 
 #### Po izobraževanju boste ...
 
-V izdelavi.
+… znali načrtovati projekte na iterativen način z upoštevanjem projektnih tveganj.
+
+… razumeli kako projekt v izvesti na agilen način z uporabo Scrum ali Kanban.
 
 #### Predznanja:
 
