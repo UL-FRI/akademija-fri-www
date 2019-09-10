@@ -1,15 +1,15 @@
 ---
 title: Poslovno-informacijske arhitekture
-date: 2019-07-12T18:24:39.816Z
-bgImage: uploads/page-title.jpg
+date: 2019-09-10T18:24:39.816Z
+bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/classroom-2386288_1920.jpg
 type: izobrazevanje
-aktualno: false
-preteklo: true
-dateStart: 2019-07-12T18:24:39.862Z
+aktualno: true
+preteklo: false
+dateStart: 2019-09-23T13:30:00.000Z
 dates:
-  - 2019-07-24T14:00:00.000Z
-  - 2019-07-25T14:00:00.000Z
+  - 2019-09-23T13:30:00.000Z
+  - 2019-09-24T13:30:00.000Z
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdr14IM3_Xq2hRb4XZffz8MvMdQZBxkp15zXPGWEU8tsX6RbA/viewform?usp=sf_link
 summary: >-
@@ -21,9 +21,9 @@ summary: >-
 ---
 Seznanili vas bomo s ključnimi koncepti poslovno informacijske-arhitekture ter modeliranja poslovnih procesov in vas naučili uporabljati odprtokodni program za pripravo poslovno-informacijske arhitekture Archimate. Na praktičnih primerih bomo ugotavljali, kako popisati poslovne procese v podjetju (poslovni, aplikativni in tehnološki nivo).
 
-Dvodnevno izobraževanje bo potekalo v sredo in četrtek, 24. in 25. julija, od 16.00 do 20.00 v Akademiji FRI (Večna pot 113, Ljubljana). Z nami bo [izr. prof. dr. Tomaž Hovelja](https://akademijafri.si/izvajalci/toma%C5%BE-hovelja/).
+Dvodnevno izobraževanje bo potekalo v torek in sredo, 24. in 25. julija, od 15.30 do 19.30 v Akademiji FRI (Večna pot 113, Ljubljana). Z nami bo [izr. prof. dr. Tomaž Hovelja](https://akademijafri.si/izvajalci/toma%C5%BE-hovelja/).
 
-Prijave potekajo do 19. 7. 2019.
+Prijave potekajo do 20. 9. 2019.
 
 \###Prijavnina: 
 
