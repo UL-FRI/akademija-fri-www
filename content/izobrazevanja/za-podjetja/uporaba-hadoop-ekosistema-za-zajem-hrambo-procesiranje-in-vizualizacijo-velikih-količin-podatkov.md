@@ -14,7 +14,7 @@ izvajalci:
 ---
 Hadoop je odprto-kodna platforma, ki temelji na porazdeljenem datotečnem sistemu HDFS in je osnova za številna orodja za zajem, hrambo, procesiranje in vizualizacijo velikih količin podatkov. Izobraževanje je namenjeno predstavitvi konkretnih orodij ter primerov uporabe. Razdeljeno je v tri sklope, hramba podatkov, zajem podatkov in procesiranje ter vizualizacija podatkov.
 
-####Vsebina:
+#### Vsebina:
 
 **1. izobraževanje: Shramba podatkov v Hadoop**
 
