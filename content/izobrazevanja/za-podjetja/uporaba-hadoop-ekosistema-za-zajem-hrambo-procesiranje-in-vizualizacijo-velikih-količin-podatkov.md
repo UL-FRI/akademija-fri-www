@@ -14,7 +14,7 @@ izvajalci:
 ---
 Hadoop je odprto-kodna platforma, ki temelji na porazdeljenem datotečnem sistemu HDFS in je osnova za številna orodja za zajem, hrambo, procesiranje in vizualizacijo velikih količin podatkov. Izobraževanje je namenjeno predstavitvi konkretnih orodij ter primerov uporabe. Razdeljeno je v tri sklope, hramba podatkov, zajem podatkov in procesiranje ter vizualizacija podatkov.
 
-\####Vsebina:
+####Vsebina:
 
 **1. izobraževanje: Shramba podatkov v Hadoop**
 
@@ -40,18 +40,18 @@ Tretji sklop izobraževanj je namenjen predstavitvi izbranih orodij za procesira
 * Superset kot primer orodja za poslovno analitiko, ki omogoča učinkovito raziskovanje in vizualizacijo podatkov.
 * Grafana kot orodje za hiter razvoj nadzornih plošč, monitoriranje in alarmiranje.
 
-\#### Za koga?
+#### Za koga?
 
 Izobraževanja so primerna predvsem za tehnično osebje, ki se ukvarja z zajemom, analizo in procesiranjem večjih količin podatkov ter za razvijalce podatkovno intenzivnih informacijskih sistemov. 
 
-\#### Po izobraževanju boste …
+#### Po izobraževanju boste …
 
 … poznali osnove ključnih orodij za zajem, hrambo, procesiranje in vizualizacijo podatkov v porazdeljenem, razširljivem in visoko-razpoložljivem okolju.
 
-\#### Predznanja:
+#### Predznanja:
 
 Zaželeno je osnovno poznavanje okolja Hadoop ter porazdeljenih sistemov za zajem, hrambo, procesiranje in vizualizacijo podatkov. Priporočamo izobraževanje "Obvladovanje velikih količin podatkov”.
 
-\#### Trajanje:
+#### Trajanje:
 
 * Izobraževanja so samostojna. Vsako od izobraževanj traja 2 x 4 šolske ure.
