@@ -29,9 +29,13 @@ Izobraževanje je namenjeno tistim, ki še niso razvijali aplikacij za VR in si 
 #### Po izobraževanju boste ...
 
 ... razumeli osnove delovanja sistemov za navidezno resničnost.
+
 ... znali razviti lastno VR aplikacijo za različne sisteme navidezne resničnosti.
+
 ... znali načrtovati ustrezne ideje za realizacijo v navidezni resničnosti.
+
 ... poznali možne načine interakcije v sistemih za navidezno resničnost.
+
 ... poznali omejitve na katere je potrebno paziti pri razvoju aplikacij za VR.
 
 #### Predznanja:
