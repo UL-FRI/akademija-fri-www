@@ -27,6 +27,7 @@ Izobraževanje je primerno predvsem za vodje projektov, IT arhitekte in poslovne
 #### Po izobraževanju boste ...
 
 ... znali identificirati poslovne procese, ki bi jih bilo smiselno avtomatizirati, informatizirati ali digitalizirati.
+
 ... znali ovrednotiti strateške in druge koristi ter pravilno oceniti stroške informatizacije, avtomatizacije in digitalizacije poslovnih procesov.
 
 #### Predznanja:
