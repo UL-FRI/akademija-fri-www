@@ -1,0 +1,66 @@
+---
+title: Prepoznavanje in odzivanje na InfoSec napade
+date: 2019-10-03T12:49:51.677Z
+bgImage: /uploads/c75t9175.jpg
+image: /uploads/security-3728124_1920.jpg
+type: izobrazevanje
+aktualno: true
+preteklo: false
+dateStart: 2019-10-03T12:49:51.701Z
+dates:
+  - 2019-10-24T13:09:26.007Z
+  - 2019-10-25T13:09:40.415Z
+prijavnica: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSceGaOPEneT-kWGjZqWcmRGLcBPCr3qLEHBWhuCpLprFrIrCQ/viewform?usp=sf_link
+summary: >
+  Poglobili se bomo v načine varovanja podjetja pred napadi in načine pravilnega
+  odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi
+  komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi,
+  ki skrbi za človeške vire, ter pravnim in PR službam.
+---
+**Dvodnevno izobraževanje bo potekalo v sredo in četrtek, 24. in 25. oktobra, od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113, Ljubljana).** 
+
+Prijave potekajo do **20. 10. 2019**.
+
+PRIJAVNINA: 
+
+* Posamezniki: 400,00 € + DDV
+* Člani Kluba alumnov UL: 350,00 € + DDV
+* Člani Kluba alumnov FRI: 300,00 € + DDV
+* Študenti: 100,00 € + DDV
+
+Cena zajema:
+
+* izvedbo izobraževanja,
+* zapiske z dodatno razlago, ilustracijami in primeri,
+* certifikat Akademije FRI,
+* malico.
+
+**Vsebina:**
+
+* Osvežitev izrazoslovja.
+* Varovanje podjetja pred napadom (OSINT, penetracijsko testiranje lastne infrastrukture, baze podatkov o vdorih, sodelovanje s CERTi, stalno posodabljanje znanja, posodabljanje strojne in programske opreme, razvoj varnostnih politik, primeri dobre prakse …).
+* Prepoznavanje incidentov (pregled netflow dnevnikov, etično sledenje napadu, uporaba namenskih spletnih strani, ki analizirajo napade …).
+* Odzivi na napade znotraj pravnih okvirjev - kako zaustaviti napadalce in pri tem ne končati v ječi, ker smo mi kršili zakonodajo?
+* Komunikacija z nadrejenimi o incidentu in njegovih posledicah.
+* Svetovanje pravnim in PR službam ter službi, ki skrbi za človeške vire.
+* Komunikacija s prijaviteljem napada.
+* Odgovorno razkrivanje napadov (i. e. Responsible disclosure).
+
+
+**Za koga?**
+Izobraževanje je namenjeno tehničnemu osebju – sistemskim administratorjem, CISO, CTO, vodjem in članom skupin, ki se v podjetju odzivajo na incidente, torej CERT v generičnem smislu besede.
+
+**Po izobraževanju boste …**
+
+… znali prepoznati vektor napada in model grožnje na tehničnem nivoju.
+
+… znali izvajati preventivne ukrepe.
+
+… poznali pooblastila, dolžnosti in odgovornosti, ki jih ima posameznik, ki skrbi za informacijsko varnost.
+
+… seznanjeni s komunikacijskimi prvinami, ko poročamo o napadih svojim nadrejenim.
+
+… poznali postopke, ki bodo z večjo verjetnostjo zagotovili, da nam bodo zaposleni še kdaj poročali o incidentih.
+
+… prepoznali etične odgovornosti o razkrivanju incidentov.
