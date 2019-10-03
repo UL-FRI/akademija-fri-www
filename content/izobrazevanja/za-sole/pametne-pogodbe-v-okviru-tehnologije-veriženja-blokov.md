@@ -1,7 +1,7 @@
 ---
 title: Pametne pogodbe v okviru tehnologije veriženja blokov
 date: 2019-06-10T19:01:48.380Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/student-3038994_1920.jpg
 image: /uploads/blockchain.jpg
 type: izobrazevanjeZaSole
 ---
