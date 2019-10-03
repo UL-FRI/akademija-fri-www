@@ -1,7 +1,7 @@
 ---
 title: Razvoj mobilnih aplikacij za Android
 date: 2019-06-10T18:56:55.119Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/student-3038994_1920.jpg
 image: /uploads/icon-1971128_1920.png
 type: izobrazevanjeZaSole
 ---
