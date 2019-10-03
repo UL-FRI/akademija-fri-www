@@ -1,7 +1,7 @@
 ---
 title: Osnove 3D modeliranja z orodjem Blender
 date: 2019-06-10T18:57:49.228Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/student-3038994_1920.jpg
 image: /uploads/blender.jpg
 type: izobrazevanjeZaSole
 ---
