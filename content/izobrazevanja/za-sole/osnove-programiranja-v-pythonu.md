@@ -1,7 +1,7 @@
 ---
 title: Programiranje v pythonu
 date: 2019-06-10T18:58:20.228Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/student-3038994_1920.jpg
 image: /uploads/animal-161424_640.png
 type: izobrazevanjeZaSole
 ---
