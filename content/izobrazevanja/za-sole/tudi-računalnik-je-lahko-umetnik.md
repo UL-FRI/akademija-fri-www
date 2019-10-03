@@ -1,7 +1,7 @@
 ---
 title: Tudi računalnik je lahko umetnik
 date: 2019-06-10T18:59:59.631Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/student-3038994_1920.jpg
 image: /uploads/brushes-3129361_1280.jpg
 type: izobrazevanjeZaSole
 ---
