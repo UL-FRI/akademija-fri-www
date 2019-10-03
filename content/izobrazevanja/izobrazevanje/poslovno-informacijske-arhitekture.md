@@ -4,8 +4,8 @@ date: 2019-09-09T18:24:39.816Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/classroom-2386288_1920.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-09-10T08:50:00.000Z
 dates:
   - 2019-09-24T13:30:00.000Z
