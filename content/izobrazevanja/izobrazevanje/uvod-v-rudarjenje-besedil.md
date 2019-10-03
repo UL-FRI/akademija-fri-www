@@ -14,10 +14,7 @@ prijavnica: >-
 summary: >-
   Izobraževanje predstavi glavne tehnike podatkovnega rudarjenja in dela z
   besedili. Udeleženci bodo spoznali ključne postopke za rudarjenje besedil ter
-  pripravo tekstovnih podatkov za analizo. Izobraževanje je praktično in bo
-  predstavilo koncepte ter metode znanosti o podatkih z analizo podatkov iz
-  resničnega življenja, na koncu pa bodo udeleženci lahko samostojno izvedli
-  osnovno analizo besedil. Z nami bo [Ajda
+  pripravo tekstovnih podatkov za analizo. Z nami bo [Ajda
   Pretnar](https://akademijafri.si/izvajalci/ajda-pretnar/), raziskovalka in
   asistentka na Fakulteti za računalništvo in informatiko ter doktorska
   študentka na Filozofski fakulteti Univerze v Ljubljani. Je tudi članica
