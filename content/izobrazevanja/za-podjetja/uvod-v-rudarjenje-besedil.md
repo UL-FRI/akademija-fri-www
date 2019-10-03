@@ -9,7 +9,6 @@ tagsIzobrazevanjaZaPodjetja:
 izvajalci:
   - Ajda Pretnar
 ---
-
 Izobraževanje predstavi glavne tehnike podatkovnega rudarjenja in dela z besedili. Udeleženci bodo spoznali ključne postopke za rudarjenje besedil ter pripravo tekstovnih podatkov za analizo. Izobraževanje je praktično in bo predstavilo koncepte ter metode znanosti o podatkih z analizo podatkov iz resničnega življenja, na koncu pa bodo udeleženci lahko samostojno izvedli osnovno analizo besedil. 
 
 #### Vsebina:
@@ -24,11 +23,13 @@ Izobraževanje predstavi glavne tehnike podatkovnega rudarjenja in dela z besedi
 
 Za vse, ki jih veseli delo s podatki in bi radi naredili korak dlje od preprostih statistik.
 
-#### Po izobraževanju boste:
+#### Po izobraževanju boste ...
 
-* poznali ključne pristope rudarjenja besedil, vizualizacije in raziskovalno analizo podatkov 
-* sposobni sami rudariti besedila in identificirati najprimernejše metode za analizo vašega problema
-* lahko samostojno izvedli osnovno analizo besedil.
+... poznali ključne pristope rudarjenja besedil, vizualizacije in raziskovalno analizo podatkov.
+
+... sposobni sami rudariti besedila in identificirati najprimernejše metode za analizo vašega problema.
+
+... lahko samostojno izvedli osnovno analizo besedil.
 
 #### Predznanja:
 
