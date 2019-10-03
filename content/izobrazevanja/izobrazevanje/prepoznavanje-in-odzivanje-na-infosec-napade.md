@@ -33,7 +33,7 @@ PRIJAVNINA:
 * Posamezniki: 400,00 € + DDV
 * Člani Kluba alumnov UL: 350,00 € + DDV
 * Člani Kluba alumnov FRI: 300,00 € + DDV
-* Študenti: 100,00 € + DDV
+* Študenti: 150,00 € + DDV
 
 Cena zajema:
 
