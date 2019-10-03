@@ -1,7 +1,7 @@
 ---
 title: Izdelava iger s Three.js
 date: 2019-06-10T19:00:38.847Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/student-3038994_1920.jpg
 image: /uploads/game-over-3862774_1920.jpg
 type: izobrazevanjeZaSole
 ---
