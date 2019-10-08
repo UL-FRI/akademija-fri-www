@@ -8,8 +8,8 @@ aktualno: true
 preteklo: false
 dateStart: 2019-10-03T12:49:51.701Z
 dates:
-  - 2019-10-24T13:09:26.007Z
-  - 2019-10-25T13:09:40.415Z
+  - 2019-10-23T14:30:00.000Z
+  - 2019-10-24T14:30:00.000Z
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSceGaOPEneT-kWGjZqWcmRGLcBPCr3qLEHBWhuCpLprFrIrCQ/viewform?usp=sf_link
 summary: >-
