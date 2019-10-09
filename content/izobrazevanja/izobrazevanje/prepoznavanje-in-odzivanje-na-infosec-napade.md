@@ -8,8 +8,8 @@ aktualno: true
 preteklo: false
 dateStart: 2019-10-03T12:49:51.701Z
 dates:
-  - 2019-10-23T14:30:00.000Z
   - 2019-10-24T14:30:00.000Z
+  - 2019-10-25T14:30:00.000Z
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSceGaOPEneT-kWGjZqWcmRGLcBPCr3qLEHBWhuCpLprFrIrCQ/viewform?usp=sf_link
 summary: >-
@@ -22,7 +22,7 @@ summary: >-
 ---
 Poglobili se bomo v načine varovanja podjetja pred napadi in načine pravilnega odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi, ki skrbi za človeške vire, ter pravnim in PR službam. 
 
-**Dvodnevno izobraževanje bo potekalo v sredo in četrtek, 23. in 24. oktobra, od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113, Ljubljana).** 
+**Dvodnevno izobraževanje bo potekalo v četrtek in petek, 24. in 25. oktobra, od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113, Ljubljana).** 
 
 Prijave potekajo do **20. 10. 2019**.
 
