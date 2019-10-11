@@ -8,7 +8,7 @@ tagsIzobrazevanjaZaPodjetja:
   - Data Mining
   - Machine Learning
 izvajalci:
-  - Marko Robnik Šikonja
+  - Marko Robnik-Šikonja
   - Matjaž Kukar
   - Slavko Žitnik
 ---
