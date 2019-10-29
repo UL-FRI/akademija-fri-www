@@ -16,9 +16,7 @@ summary: >-
   Poglobili se bomo v načine varovanja podjetja pred napadi in načine pravilnega
   odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi
   komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi,
-  ki skrbi za človeške vire, ter pravnim in PR službam. Z nami bo dr. David
-  Modic, ki se z računalniško varnostjo in posebnostmi Medmrežja ukvarja že
-  dvajset let.
+  ki skrbi za človeške vire, ter pravnim in PR službam.
 ---
 Poglobili se bomo v načine varovanja podjetja pred napadi in načine pravilnega odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi, ki skrbi za človeške vire, ter pravnim in PR službam. 
 
