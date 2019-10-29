@@ -4,8 +4,8 @@ date: 2019-10-03T17:06:54.998Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/text-mining-icon-2793702_1280.png
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-10-03T17:06:55.016Z
 dates:
   - 2019-10-17T18:14:13.557Z
