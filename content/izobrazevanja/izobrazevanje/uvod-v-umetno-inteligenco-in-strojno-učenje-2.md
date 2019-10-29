@@ -1,6 +1,6 @@
 ---
 title: Uvod v umetno inteligenco in strojno učenje
-date: 2019-10-29T10:12:51.101Z
+date: 2019-10-29T10:08:00.000Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/artificial-intelligence-4389372_1920.jpg
 type: izobrazevanje
