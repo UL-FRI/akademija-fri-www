@@ -1,6 +1,6 @@
 ---
 title: Uporaba pametnih pogodb pri tehnologiji veriženja blokov
-date: 2019-10-29T22:15:00.000Z
+date: 2019-10-29T10:25:00.000Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/hands-2088954_960_720.jpg
 type: izobrazevanje
