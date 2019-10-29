@@ -20,7 +20,7 @@ summary: >-
 ---
 Poglobili se bomo v načine varovanja podjetja pred napadi in načine pravilnega odzivanja na napade znotraj pravnih okvirjev. Zanimala nas bo tudi komunikacija z nadrejenimi in prijavitelji napada, kot tudi svetovanje službi, ki skrbi za človeške vire, ter pravnim in PR službam. 
 
-**Dvodnevno izobraževanje bo potekalo v četrtek in petek, 25. in 26. novembra, od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113, Ljubljana).** 
+**Dvodnevno izobraževanje bo potekalo v ponedeljek in torek, 25. in 26. novembra, od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113, Ljubljana).** 
 
 Z nami bo [dr. David Modic](https://akademijafri.si/izvajalci/david-modic/), ki se z računalniško varnostjo in posebnostmi Medmrežja ukvarja že dvajset let. Na Univerzi v Cambridgeu je opravil usposabljanje za vodenje CERT (Computer Emergency Response Team), kjer je do pred kratkim opravljal funkcijo namestnika direktorja CamCERT, zadolženega za človeške vire. V računalniškem laboratoriju Univerze v Cambridgeu je bil tudi zaposlen kot raziskovalec, raziskoval pa je spletne prevare in psihološke mehanizme informacijske varnosti. V zadnjih letih je svetoval brazilski finančni policiji, japonski policiji, litvanskemu ministrstvu za obrambo in britanski vladi. 
 
