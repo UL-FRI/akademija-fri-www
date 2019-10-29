@@ -27,10 +27,10 @@ Prijave potekajo do 18. 11. 2019.
 
 #### Prijavnina:
 
-* Posamezniki: 300 € + DDV
-* Člani Kluba alumnov UL: 250 € + DDV
-* Člani Kluba alumnov FRI: 220 € + DDV
-* Študenti: 100 € + DDV
+* Posamezniki: **300 €** + DDV
+* Člani Kluba alumnov UL: **250 €** + DDV
+* Člani Kluba alumnov FRI: **220 €** + DDV
+* Študenti: **100 €** + DDV
 
 Cena zajema:
 
@@ -38,8 +38,6 @@ Cena zajema:
 * zapiske z dodatno razlago, ilustracijami in primeri,
 * certifikat Akademije FRI,
 * malico.
-
-**Vsak udeleženec potrebuje svoj prenosni računalnik.**
 
 #### Vsebina:
 
