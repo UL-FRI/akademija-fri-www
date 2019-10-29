@@ -4,12 +4,12 @@ date: 2019-06-12T13:28:45.830Z
 bgImage: images/background/page-title.jpg
 image: /uploads/hands-2088954_960_720.jpg
 type: izobrazevanje
-aktualno: false
-preteklo: true
+aktualno: true
+preteklo: false
 dateStart: 2019-06-26T08:00:00.000Z
 dates:
-  - 2019-06-26T08:00:00.000Z
-  - 2019-06-27T08:00:00.000Z
+  - 2019-11-27T15:30:00.000Z
+  - 2019-11-28T15:30:00.000Z
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSet7no-TvWyHvVD6q86Y6cZEKtEh80ImEWfanv6rTbGzUdN6w/viewform
 summary: >-
@@ -21,7 +21,7 @@ summary: >-
 ---
 **Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks. Spoznali boste možnosti praktične uporabe bodisi kot razširitev obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med različnimi entitetami.**
 
-Izobraževanje bo potekalo v **četrtek in petek, 26. in 27. junija 2019, od 10.00 do 14.00 ure** v Akademiji FRI.
+Izobraževanje bo potekalo v **sredo in četrtek, 27. in 28. novembra 2019, od 16.30 do 20.30 ure** v Akademiji FRI.
 
 **VSEBINA:**
 
