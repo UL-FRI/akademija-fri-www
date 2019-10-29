@@ -1,6 +1,6 @@
 ---
 title: Poslovno-informacijske arhitekture
-date: 2019-10-29T22:13:00.000Z
+date: 2019-10-29T22:10:00.000Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/classroom-2386288_1920.jpg
 type: izobrazevanje
