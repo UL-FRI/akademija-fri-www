@@ -1,7 +1,7 @@
 ---
 title: Prepoznavanje in odzivanje na InfoSec napade
 date: 2019-10-03T12:49:51.677Z
-bgImage: /uploads/c75t9175.jpg
+bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/security-3728124_1920.jpg
 type: izobrazevanje
 aktualno: true
