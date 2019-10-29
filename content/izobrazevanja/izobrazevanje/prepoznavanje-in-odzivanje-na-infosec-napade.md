@@ -26,10 +26,10 @@ Z nami bo [dr. David Modic](https://akademijafri.si/izvajalci/david-modic/), ki 
 
 PRIJAVNINA: 
 
-* Posamezniki: 300,00 € + DDV
-* Člani Kluba alumnov UL: 250,00 € + DDV
-* Člani Kluba alumnov FRI: 220,00 € + DDV
-* Študenti: 100,00 € + DDV
+* Posamezniki: **300,00 €** + DDV
+* Člani Kluba alumnov UL: **250,00 €** + DDV
+* Člani Kluba alumnov FRI: **220,00 €** + DDV
+* Študenti: **100,00 €** + DDV
 
 Cena zajema:
 
