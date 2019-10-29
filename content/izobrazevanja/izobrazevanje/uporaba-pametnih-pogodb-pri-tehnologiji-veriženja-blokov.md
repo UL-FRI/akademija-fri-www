@@ -1,7 +1,7 @@
 ---
 title: Uporaba pametnih pogodb pri tehnologiji veriženja blokov
 date: 2019-06-12T13:28:45.830Z
-bgImage: images/background/page-title.jpg
+bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/hands-2088954_960_720.jpg
 type: izobrazevanje
 aktualno: true
@@ -19,11 +19,20 @@ summary: >-
   obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med
   različnimi entitetami.
 ---
-**Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks. Spoznali boste možnosti praktične uporabe bodisi kot razširitev obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med različnimi entitetami.**
+Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih tehnologij, trendov in orodij, do pristopov in primerov dobrih ter slabih praks. Spoznali boste možnosti praktične uporabe bodisi kot razširitev obstoječih arhitektur bodisi kot mehanizem za sklepanje dogovorov med različnimi entitetami.
 
-Izobraževanje bo potekalo v **sredo in četrtek, 27. in 28. novembra 2019, od 16.30 do 20.30 ure** v Akademiji FRI.
+**Izobraževanje bo potekalo v sredo in četrtek, 27. in 28. novembra 2019, od 16.30 do 20.30 ure v Akademiji FRI.** Predaval bo as. [Sandi Gec](/izvajalci/sandi-gec/).
 
-**VSEBINA:**
+Prijave potekajo do 25. 11. 2019.
+
+PRIJAVNINA:
+
+* Posamezniki: **300,00 €** + DDV
+* Člani Kluba alumnov UL: **250,00 €** + DDV
+* Člani Kluba alumnov FRI: **220,00 €** + DDV
+* Študenti: **100,00** € + DDV
+
+**Vsebina:**
 
 * Osnovni pregled tehnologije veriženja blokov (blockchain).
 * Kaj so pametne pogodbe in za kaj se uporabljajo?
@@ -34,12 +43,6 @@ Izobraževanje bo potekalo v **sredo in četrtek, 27. in 28. novembra 2019, od 1
 * Orodja za pripravo, validacijo, testiranje in namestitev pametnih pogodb v testno omrežje.
 * Primeri dobrih in slabih praks pametnih pogodb v Ethereum ekosistemu.
 
-**ZA KOGA?**
+**Za koga?**
 
 Izobraževanje je primerno predvsem za razvijalce in sistemske administratorje; za vse, ki bi želeli izvedeti več o digitalni alternativi klasičnih pogodb.
-
-Vsak udeleženec potrebuje svoj prenosni računalnik.
-
-**IZVAJALEC:**
-
-* [Sandi Gec](/izvajalci/sandi-gec/)
