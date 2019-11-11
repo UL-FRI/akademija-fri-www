@@ -40,5 +40,3 @@ bgImage: /uploads/c75t1206.jpg
 * Najem do 5 ur v soboto in nedeljo 128,00 EUR.
 * Celodnevni najem med tednom 324,00 EUR.
 * Celodnevni najem v soboto in nedeljo 194,00 EUR.
-
-Za najem prostora kontaktirajte maja.kerkez@fri.uni-lj.si.
