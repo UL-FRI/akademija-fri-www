@@ -8,7 +8,7 @@ aktualno: true
 preteklo: false
 dateStart: 2019-11-11T10:48:10.531Z
 dates:
-  - 2020-02-13T03:30:00.000Z
+  - 2020-02-13T13:30:00.000Z
 summary: >-
   Vsebina izobraževanja temelji na postopkih računalniškega vida, ki
   predstavljajo izhodišče večine biometričnih sistemov, ki imajo za vhod sliko.
@@ -18,14 +18,14 @@ summary: >-
 ---
 Vsebina izobraževanja temelji na postopkih računalniškega vida, ki predstavljajo izhodišče večine biometričnih sistemov, ki imajo za vhod sliko. V okviru izobraževanja bodo vsebine predstavljene teoretično in praktično skozi dejanske primere in najnovejše implementacije, tudi globokega učenja. Modalnosti, ki bodo obdelane, se lahko določi skupaj s podjetjem.
 
-**Izobraževanje bo potekalo v četrtek, 13. februarja 2020, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta dr. Peter Peer in Žiga Emeršič, mag.
+**Izobraževanje bo potekalo v četrtek, 13. februarja 2020, od 14.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta dr. Peter Peer in Žiga Emeršič, mag.
 
 **Prijavnina:**
 
-* Posamezniki: **200,00 €** + DDV
-* Člani Kluba alumnov UL: **180,00 €** + DDV
-* Člani Kluba alumnov FRI: **160,00 €** + DDV
-* Študenti: **60,00 €**+ DDV
+* Posamezniki: **300,00 €** + DDV
+* Člani Kluba alumnov UL: **250,00 €** + DDV
+* Člani Kluba alumnov FRI: **220,00 €** + DDV
+* Študenti: **100,00 €**+ DDV
 
 Cena zajema:
 
