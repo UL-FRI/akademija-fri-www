@@ -6,7 +6,7 @@
         {{ "<!-- Aktualno -->" | safeHTML }}
         <div class="mb-50">
             <h4 class="mb-3">Aktualna izobraževanja</h4>
-            {{ range first 3 (where (where .Site.RegularPages "Type" "izobrazevanje") ".Params.aktualno" true) }}
+            {{ range last 3 (where (where .Site.RegularPages "Type" "izobrazevanje") ".Params.aktualno" true) }}
                 {{ "<!-- item -->" | safeHTML }}
                 <div class="d-flex py-3 border-bottom">
                     <div class="mr-4">
