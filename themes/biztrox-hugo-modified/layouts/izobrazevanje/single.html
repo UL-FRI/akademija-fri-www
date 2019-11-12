@@ -9,23 +9,20 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 py-50">
-        <div class="border rounded bg-white">
-          <div class="p-4">
-            <h3>{{ .Title }}</h3>
-            <hr>
-            <div class="post-content">
-              {{ .Content }}
+        <div class="p-4">
+          <h3>{{ .Title }}</h3>
+          <div class="post-content">
+            {{ .Content }}
 
-              {{ if (isset .Params "prijavnica") }}
-                <div class="mt-4">
-                  <a href="{{ .Params.prijavnica }}" class="btn btn-primary" target="_blank" style="font-size: larger;">Prijavnica</a>
-                </div>
+            {{ if (isset .Params "prijavnica") }}
+              <div class="mt-4">
+                <a href="{{ .Params.prijavnica }}" class="btn btn-primary" target="_blank" style="font-size: larger;">Prijavnica</a>
+              </div>
 
-                <div class="mt-2">
-                  <a href="/pogoji/" class="ml-2">Pogoji</a>
-                </div>
-              {{ end }}
-            </div>
+              <div class="mt-2">
+                <a href="/pogoji/" class="ml-2">Pogoji</a>
+              </div>
+            {{ end }}
           </div>
         </div>
       </div>
