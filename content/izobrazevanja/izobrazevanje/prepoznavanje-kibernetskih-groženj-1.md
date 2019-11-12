@@ -6,7 +6,7 @@ image: /uploads/hacker-3081816_1920.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2019-11-11T10:19:04.657Z
+dateStart: 2020-01-23T03:30:00.000Z
 dates:
   - 2020-01-23T03:30:00.000Z
 summary: >-

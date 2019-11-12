@@ -6,7 +6,7 @@ image: /uploads/52688609_400179727416125_4125091173255610368_o.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2019-11-11T10:48:00.000Z
+dateStart: 2020-02-05T15:30:00.000Z
 dates:
   - 2020-02-05T15:30:00.000Z
   - 2020-02-12T15:30:00.000Z
@@ -17,7 +17,8 @@ Dandanes zahtevne grafične aplikacije delujejo tudi v spletnih brskalnikih pred
 
 **Izobraževanje bo potekalo v sredah, 5., 12. in 19 februarja, od 16.30 do 20.30 ure v Akademiji FRI** (Večna pot 113). Z nami bo Žiga Lesar, mag.
 
-_Prijave potekajo do 3. 2. 2020._
+
+_Prijave potekajo do 3. 2. 2020._
 
 **Prijavnina:**
 
@@ -70,6 +71,7 @@ Izobraževanje je namenjeno predvsem (toda ne izključno) tistim, ki:
 
 … lahko izdelovali hitre vzporedne aplikacije, ki delujejo v vseh sodobnih spletnih brskalnikih.
 
-**Predznanja:**
+
+**Predznanja:**
 
 Poznavanje jezika Javascript.

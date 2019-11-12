@@ -6,7 +6,7 @@ image: /uploads/artificial-neural-network-3501528_1920.png
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2019-11-11T09:01:45.951Z
+dateStart: 2019-12-04T15:30:00.000Z
 dates:
   - 2019-12-04T15:30:00.000Z
   - 2019-12-05T15:30:00.000Z

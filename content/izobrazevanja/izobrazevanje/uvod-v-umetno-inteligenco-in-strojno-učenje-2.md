@@ -6,7 +6,7 @@ image: /uploads/artificial-intelligence-4389372_1920.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2019-10-29T10:12:51.308Z
+dateStart: 2019-11-16T08:00:00.000Z
 dates:
   - 2019-11-16T08:00:00.000Z
 prijavnica: >-

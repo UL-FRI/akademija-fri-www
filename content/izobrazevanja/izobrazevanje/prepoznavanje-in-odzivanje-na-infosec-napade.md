@@ -6,7 +6,7 @@ image: /uploads/security-3728124_1920.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2019-10-03T12:49:51.701Z
+dateStart: 2019-11-25T15:30:00.000Z
 dates:
   - 2019-11-25T15:30:00.000Z
   - 2019-11-26T15:30:00.000Z

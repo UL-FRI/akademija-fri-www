@@ -6,7 +6,7 @@ image: /uploads/hands-2088954_960_720.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2019-06-26T08:00:00.000Z
+dateStart: 2019-11-27T15:30:00.000Z
 dates:
   - 2019-11-27T15:30:00.000Z
   - 2019-11-28T15:30:00.000Z
@@ -25,7 +25,8 @@ Predstavili vam bomo celovit pregled t. i. pametnih pogodb, od razpoložljivih t
 
 Prijave potekajo do 25. 11. 2019.
 
-PRIJAVNINA:
+
+PRIJAVNINA:
 
 * Posamezniki: **300,00 €** + DDV
 * Člani Kluba alumnov UL: **250,00 €** + DDV

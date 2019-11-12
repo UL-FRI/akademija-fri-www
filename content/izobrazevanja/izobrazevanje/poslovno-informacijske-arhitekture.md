@@ -6,7 +6,7 @@ image: /uploads/classroom-2386288_1920.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2019-09-10T08:50:00.000Z
+dateStart: 2019-11-20T15:30:00.000Z
 dates:
   - 2019-11-20T15:30:00.000Z
   - 2019-11-21T15:30:00.000Z
