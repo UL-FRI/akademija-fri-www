@@ -3,7 +3,7 @@ title: Pametne pogodbe v okviru tehnologije veriženja blokov
 date: 2019-06-10T19:01:48.380Z
 bgImage: /uploads/student-3038994_1920.jpg
 image: /uploads/blockchain.jpg
-type: izobrazevanjeZaSole
+type: izobrazevanjaZaSole
 ---
 Delavnica je namenjena dijakom višjih letnikov, ki imajo predznanje osnovnih konceptov programskih jezikov (podatkovni tipi, pogojni stavki, zanke, itd.). V okviru delavnice se bo v prvem delu pregledalo osnovne značilnosti tehnologije veriženja blokov, transakcije in ostale poglavitne lastnosti. V drugem delu delavnice bo poudarek na pametnih pogodbah, njihov življenjski cikel in pripravi preproste pametne pogodbe vključno z objavo v javnem testnem omrežju.
 
