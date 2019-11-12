@@ -16,7 +16,7 @@
           <div class="row">
             {{ $v1 := where .Site.RegularPages "Type" "izobrazevanje" }}
             {{ $v2 := where $v1 ".Params.aktualno" true }}
-            {{ $v3 := ($v2.ByParam "dateStart").Reverse }}
+            {{ $v3 := ($v2.ByParam "dateStart") }}
 
             {{/*
             TODO
