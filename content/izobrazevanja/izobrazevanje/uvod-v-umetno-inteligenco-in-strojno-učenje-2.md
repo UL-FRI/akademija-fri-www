@@ -21,8 +21,6 @@ Na izobraževanju bomo razjasnili razliko med človeško in računalniško intel
 **Izobraževanje bo potekalo v soboto, 16. novembra, od 9.00 do 17.30 ure v Akademiji FRI (Večna pot 113, Ljubljana).**
  Izobraževanje zajema 4 šolske ure predavanj in 4 šolske ure praktičnih vaj na računalnikih. Predavala bosta [dr. Igor Kononenko](https://akademijafri.si/izvajalci/igor-kononenko/) in [dr. Petar Vračar](https://akademijafri.si/izvajalci/petar-vracar/).
 
-Prijave potekajo do 13. 11. 2019.
-
 PRIJAVNINA:
 
 * Posamezniki: **300,00 €** + DDV
