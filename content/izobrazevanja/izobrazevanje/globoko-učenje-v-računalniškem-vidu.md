@@ -10,6 +10,8 @@ dateStart: 2019-12-04T15:30:00.000Z
 dates:
   - 2019-12-04T15:30:00.000Z
   - 2019-12-05T15:30:00.000Z
+prijavnica: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSfL6uA70SazJGoKhZHzSGQWFgNs-3zOWcQNAsBMdocf9cIM4w/viewform?usp=sf_link
 summary: >-
   Namen izobraževanja je predstaviti globoko učenje in računalniški vid kot
   omogočitveno tehnologijo za razvoj novih produktov in reševanje mnogih izzivov
