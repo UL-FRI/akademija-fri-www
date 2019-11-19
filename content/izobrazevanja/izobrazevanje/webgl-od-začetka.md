@@ -11,6 +11,8 @@ dates:
   - 2020-02-05T15:30:00.000Z
   - 2020-02-12T15:30:00.000Z
   - 2020-02-19T15:30:00.000Z
+prijavnica: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSeBqBMCGd7SWO5WVF6P4CqrioeAB--UOiy64saHCYfpksbrzw/viewform?usp=sf_link
 summary: >-
   Dandanes zahtevne grafične aplikacije delujejo tudi v spletnih brskalnikih
   predvsem po zaslugi vmesnika WebGL. Običajno se WebGL uporablja za 3D
