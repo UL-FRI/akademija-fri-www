@@ -10,6 +10,8 @@ dateStart: 2020-02-03T15:30:00.000Z
 dates:
   - 2020-02-03T15:30:00.000Z
   - 2020-02-04T15:30:00.000Z
+prijavnica: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSfr6G7OdGSlp4p5ZaHkqmFyLRVw7yyTQ1siYZJ2SZeEf3GH8A/viewform?usp=sf_link
 summary: >-
   Količina podatkov, ki jih zajamemo dnevno, se je v zadnjih desetih letih
   povečala za nekaj velikostnih razredov. Poleg kopičenja podatkov v okviru
