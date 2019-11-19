@@ -4,8 +4,8 @@ date: 2019-10-29T10:08:00.000Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/artificial-intelligence-4389372_1920.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-11-16T08:00:00.000Z
 dates:
   - 2019-11-16T08:00:00.000Z
