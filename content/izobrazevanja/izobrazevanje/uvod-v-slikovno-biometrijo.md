@@ -9,6 +9,8 @@ preteklo: false
 dateStart: 2020-02-13T13:30:00.000Z
 dates:
   - 2020-02-13T13:30:00.000Z
+prijavnica: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSf7ol7HKDznBXsxTAbggTaeKkfOTH1KEg1il5iIsYr5Q3QEZQ/viewform?usp=sf_link
 summary: >-
   Vsebina izobraževanja temelji na postopkih računalniškega vida, ki
   predstavljajo izhodišče večine biometričnih sistemov, ki imajo za vhod sliko.
