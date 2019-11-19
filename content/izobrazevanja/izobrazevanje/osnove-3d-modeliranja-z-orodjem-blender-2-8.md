@@ -11,6 +11,8 @@ dates:
   - 2019-12-02T15:30:00.000Z
   - 2019-12-09T15:30:00.000Z
   - 2019-12-16T15:30:00.000Z
+prijavnica: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSdJRZlBxKTnn9yv2Cxo5AnnC7jxj6AOotsi08RfWshg6Y4XBw/viewform?usp=sf_link
 summary: >-
   Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je
   smiselno spoznati tudi osnove takšnih vsebin. Močno orodje za ustvarjanje 3D
