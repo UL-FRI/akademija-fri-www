@@ -9,6 +9,8 @@ preteklo: false
 dateStart: 2020-01-23T03:30:00.000Z
 dates:
   - 2020-01-23T03:30:00.000Z
+prijavnica: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSdlcpe8G9WSe7Ws_ByegxA6x6bUzjB0VZoLB7QNKSMKafrhBQ/viewform?usp=sf_link
 summary: >-
   Vsako podjetje in vsak posameznik bi v današnjem času, ko je tehnološki
   napredek v stalnem porastu, varnost pa pod vprašajem, moral poznati vsaj
