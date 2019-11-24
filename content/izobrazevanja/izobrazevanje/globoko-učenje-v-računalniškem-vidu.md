@@ -28,9 +28,9 @@ Prijave potekajo do 2. 12. 2019.
 
 **Prijavnina:**
 
-* Posamezniki: 300 € + DDV
-* Člani Kluba alumnov UL: 250 € + DDV
-* Člani Kluba alumnov FRI: 220 € + DDV
+* Posamezniki: 350 € + DDV
+* Člani Kluba alumnov UL: 300 € + DDV
+* Člani Kluba alumnov FRI: 250 € + DDV
 * Študenti: 100 € + DDV
 
 Cena zajema:
