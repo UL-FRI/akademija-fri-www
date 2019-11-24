@@ -24,14 +24,13 @@ summary: >-
 ---
 Količina podatkov, ki jih zajamemo dnevno, se je v zadnjih desetih letih povečala za nekaj velikostnih razredov. Poleg kopičenja podatkov v okviru družbenih medijev, k temu pripomore tudi izjemen razmah interneta stvari. Ta skorajda sleherni stvari omogoča prejem, generiranje in pošiljanje podatkov. Če so bile relacijske baze še pred kratkim edini in osnovni način shranjevanja, dandanes to ne velja več. Uveljavljajo se alternativni načini, ki jih odlikuje visoka razpoložljivost ne glede na število uporabnikov in količino podatkov. Na izobraževanju vam bomo predstavili, kaj so ključne omejitve tradicionalnih sistemov in kako te omejitve rešujemo s sodobnimi, podatkovno intenzivnimi sistemi.
 
-
 **Dvodnevno izobraževanje bo potekalo v ponedeljek in torek, 3. in 4. februarja, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo dr. Slavko Žitnik.
 
 Prijavnina:
 
-* Posamezniki: **300 €** + DDV
-* Člani Kluba alumnov UL: **250 €** + DDV
-* Člani Kluba alumnov FRI: **220 €** + DDV
+* Posamezniki: **350 €** + DDV
+* Člani Kluba alumnov UL: **300 €** + DDV
+* Člani Kluba alumnov FRI: **250 €** + DDV
 * Študenti: **100 €** + DDV
 
 Cena zajema:
