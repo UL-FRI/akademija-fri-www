@@ -25,12 +25,11 @@ Dandanes zahtevne grafične aplikacije delujejo tudi v spletnih brskalnikih pred
 
 **Izobraževanje bo potekalo v sredah, 5., 12. in 19 februarja, od 16.30 do 20.30 ure v Akademiji FRI** (Večna pot 113). Z nami bo Žiga Lesar, mag.
 
-
 _Prijave potekajo do 3. 2. 2020._
 
 **Prijavnina:**
 
-* Posamezniki: **350 €** + DDV
+* Posamezniki: **370 €** + DDV
 * Člani Kluba alumnov UL: **300 €** + DDV
 * Člani Kluba alumnov FRI: **280 €** + DDV
 * Študenti: **150 €** + DDV
@@ -78,7 +77,6 @@ Izobraževanje je namenjeno predvsem (toda ne izključno) tistim, ki:
 … znali uporabljati WebGL tudi za grafične aplikacije.
 
 … lahko izdelovali hitre vzporedne aplikacije, ki delujejo v vseh sodobnih spletnih brskalnikih.
-
 
 **Predznanja:**
 
