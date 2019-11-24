@@ -29,8 +29,8 @@ Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je 
 
 **Prijavnina:**
 
-* Posamezniki: 350 € + DDV
-* Člani Kluba alumnov UL: 300 € + DDV
+* Posamezniki: 370 € + DDV
+* Člani Kluba alumnov UL: 350 € + DDV
 * Člani Kluba alumnov FRI: 280 € + DDV
 * Študenti: 150 € + DDV
 
