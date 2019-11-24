@@ -26,9 +26,9 @@ Vsako podjetje in vsak posameznik bi v današnjem času, ko je tehnološki napre
 
 **Prijavnina:**
 
-* Posamezniki: **200,00 €** + DDV
-* Člani Kluba alumnov UL: **180,00 €** + DDV
-* Člani Kluba alumnov FRI: **160,00 €** + DDV
+* Posamezniki: **250,00 €** + DDV
+* Člani Kluba alumnov UL: **200,00 €** + DDV
+* Člani Kluba alumnov FRI: **180,00 €** + DDV
 * Študenti: **60,00 €**+ DDV
 
 Cena zajema:
