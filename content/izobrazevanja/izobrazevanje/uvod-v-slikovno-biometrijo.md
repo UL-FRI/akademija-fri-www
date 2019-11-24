@@ -24,9 +24,9 @@ Vsebina izobraževanja temelji na postopkih računalniškega vida, ki predstavlj
 
 **Prijavnina:**
 
-* Posamezniki: **300,00 €** + DDV
-* Člani Kluba alumnov UL: **250,00 €** + DDV
-* Člani Kluba alumnov FRI: **220,00 €** + DDV
+* Posamezniki: **350,00 €** + DDV
+* Člani Kluba alumnov UL: **300,00 €** + DDV
+* Člani Kluba alumnov FRI: **250,00 €** + DDV
 * Študenti: **100,00 €**+ DDV
 
 Cena zajema:
