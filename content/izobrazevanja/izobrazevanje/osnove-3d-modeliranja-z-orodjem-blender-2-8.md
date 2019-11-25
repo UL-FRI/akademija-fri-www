@@ -32,7 +32,7 @@ Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je 
 **Prijavnina:**
 
 * Posamezniki: <strike>370,00 € + DDV</strike> **/ 314,50 € + DDV**
-* Zaposleni na Univerzi  v Ljubljani: <strike>350,00 € + DDV</strike> **/ 297,50 € + DDV**
+* Zaposleni na Univerzi  v Ljubljani: <strike>330,00 € + DDV</strike> **/ 280,50 € + DDV**
 * Člani Kluba alumnov UL: <strike>350,00 € + DDV</strike> **/ 297,50 € + DDV**
 * Člani Kluba alumnov FRI: <strike>280,00 € + DDV</strike>**/ 238,00 € + DDV**
 * Študenti: <strike>150,00 € + DDV</strike> **/ 127,50 € + DDV**
