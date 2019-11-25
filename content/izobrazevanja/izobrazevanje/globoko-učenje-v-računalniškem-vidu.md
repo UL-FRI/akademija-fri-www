@@ -24,7 +24,7 @@ Namen izobraževanja je tako predstaviti globoko učenje in računalniški vid k
 
 **Dvodnevno izobraževanje bo potekalo v sredo in četrtek, 4. in 5. decembra, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta [dr. Danijel Skočaj](https://akademijafri.si/izvajalci/danijel-skocaj/) in [Žiga Emeršič, mag.](https://akademijafri.si/izvajalci/ziga-emersic/)
 
-**\*15% NOVOLETNI POPUST\***
+**\*15% PREDNOVOLETNI POPUST\***
 
 **Prijavnina:**
 
