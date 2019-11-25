@@ -29,7 +29,7 @@ Namen izobraževanja je tako predstaviti globoko učenje in računalniški vid k
 **Prijavnina:**
 
 * Posamezniki: <strike>350,00 € + DDV</strike> **/** **297,50 € + DDV**
-* Zaposleni na Univerzi v Ljubljani: <strike>300,00 € + DDV</strike> **/** **255,00 € + DDV**
+* Zaposleni na Univerzi v Ljubljani: <strike>280,00 € + DDV</strike> **/** **238,00 € + DDV**
 * Člani Kluba alumnov UL: <strike>300,00 € + DDV</strike> **/ 255,00 € + DDV**
 * Člani Kluba alumnov FRI: <strike>250,00 € + DDV</strike> **/ 212,50 € + DDV**
 * Študenti: <strike>110,00 € + DDV</strike>  **/ 93,50 € + DDV**
