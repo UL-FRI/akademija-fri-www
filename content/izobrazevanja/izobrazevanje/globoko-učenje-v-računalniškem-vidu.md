@@ -29,7 +29,7 @@ Namen izobraževanja je tako predstaviti globoko učenje in računalniški vid k
 * Posamezniki: 350 € + DDV
 * Člani Kluba alumnov UL: 300 € + DDV
 * Člani Kluba alumnov FRI: 250 € + DDV
-* Študenti: 100 € + DDV
+* Študenti: 110 € + DDV
 
 Cena zajema:
 
