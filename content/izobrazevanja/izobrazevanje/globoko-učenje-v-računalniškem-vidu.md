@@ -24,6 +24,8 @@ Namen izobraževanja je tako predstaviti globoko učenje in računalniški vid k
 
 **Dvodnevno izobraževanje bo potekalo v sredo in četrtek, 4. in 5. decembra, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta [dr. Danijel Skočaj](https://akademijafri.si/izvajalci/danijel-skocaj/) in [Žiga Emeršič, mag.](https://akademijafri.si/izvajalci/ziga-emersic/)
 
+**\*15% NOVOLETNI POPUST\***
+
 **Prijavnina:**
 
 * Posamezniki: <strike>350,00 € + DDV</strike> **/** **297,50 € + DDV**
@@ -62,18 +64,13 @@ Izobraževanje je namenjeno vodstvenemu kadru, vodjem razvoja, projektov, proizv
 
 … vedeli, kaj je globoko učenje (oz. strojno učenje, oz. umetna inteligenca) in kaj je računalniški vid.
 
-
 … vedeli, kakšne probleme se rešuje z globokim učenjem in računalniškim vidom.
-
 
 … poznali prednosti in omejitve ter koristi, ki jih prinaša ta tehnologija.
 
-
 … prepoznali zmožnosti in koristi računalniškega vida ter globokega učenja.
 
-
 … prepoznali potencialno uporabo te tehnologije podjetju.
-
 
 … poizkušali oceniti koristi, ki jih takšna uporaba prinese.
 
