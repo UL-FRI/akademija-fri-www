@@ -27,6 +27,8 @@ Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je 
 
 **Tridnevno izobraževanje bo potekalo v ponedeljkih, 2., 9. in 16. decembra, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo[ dr. Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/).
 
+**\*15% NOVOLETNI POPUST\***
+
 **Prijavnina:**
 
 * Posamezniki: <strike>370,00 € + DDV</strike> **/ 314,50 € + DDV**
