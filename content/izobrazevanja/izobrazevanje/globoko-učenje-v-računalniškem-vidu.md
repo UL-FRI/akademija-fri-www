@@ -61,10 +61,20 @@ Izobraževanje je namenjeno vodstvenemu kadru, vodjem razvoja, projektov, proizv
 **Po izobraževanju boste …**
 
 … vedeli, kaj je globoko učenje (oz. strojno učenje, oz. umetna inteligenca) in kaj je računalniški vid.
+
+
 … vedeli, kakšne probleme se rešuje z globokim učenjem in računalniškim vidom.
+
+
 … poznali prednosti in omejitve ter koristi, ki jih prinaša ta tehnologija.
+
+
 … prepoznali zmožnosti in koristi računalniškega vida ter globokega učenja.
+
+
 … prepoznali potencialno uporabo te tehnologije podjetju.
+
+
 … poizkušali oceniti koristi, ki jih takšna uporaba prinese.
 
 **Predznanja:**
