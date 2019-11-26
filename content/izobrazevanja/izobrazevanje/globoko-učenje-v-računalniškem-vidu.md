@@ -20,6 +20,8 @@ summary: >-
   na predstavitvi konkretnih primerov uporabe in predaji praktičnih izkušenj pri
   razvoju tovrstnih rešitev.
 ---
+V zadnjih letih smo priča renesansi računalniškega vida, ki predvsem na krilih globokega učenja dosega odlične rezultate in v obliki raznih aplikacij in robotskih sistemov vstopa na najrazličnejša področja našega življenja. Z razvojem metod globokega učenja se je namreč uspešnost in robustnost pristopov računalniškega vida izredno izboljšala. To omogoča uporabo te tehnologije ne samo v omejenih predvidljiv pogojih, temveč tudi v vse bolj raznovrstnih okoljih. Področja uporabe so se razširila tako v industrijskem okolju, kot tudi na različna področja vsakdanjega življenja.
+
 Namen izobraževanja je tako predstaviti globoko učenje in računalniški vid kot omogočitveno tehnologijo za razvoj novih produktov in reševanje mnogih izzivov na različnih področjih. Na kratko bomo udeležence seznanili z osnovnimi koncepti in delovanjem globokega učenja v računalniškem vidu, poudarek pa bo na predstavitvi konkretnih primerov uporabe in predaji praktičnih izkušenj pri razvoju tovrstnih rešitev.
 
 **Dvodnevno izobraževanje bo potekalo v sredo in četrtek, 4. in 5. decembra, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta [dr. Danijel Skočaj](https://akademijafri.si/izvajalci/danijel-skocaj/) in [Žiga Emeršič, mag.](https://akademijafri.si/izvajalci/ziga-emersic/)
