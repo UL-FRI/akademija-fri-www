@@ -1,5 +1,5 @@
 ---
-title: English
+title: Course Catalogue
 date: 2019-03-18T11:21:00.000Z
 bgImage: /uploads/fri-outside.jpg
 ---
@@ -13,7 +13,8 @@ The FRI academy also offers unique fully tailored courses for businesses which m
 
 All of the courses are held in English and can be conducted at the headquarters of your company or organization. Courses are organized for groups of at least 5 people.
 
-For course catalogue click HERE.
+### **For course catalogue click HERE.**
+
 
 CONTACT INFORMATION
 
