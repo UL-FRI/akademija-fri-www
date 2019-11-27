@@ -22,7 +22,5 @@ CONTACT INFORMATION
 * phone number: +386 (0) 1 479 8268
 
 Address:
-
-University of Ljubljana, Faculty of Computer and Information Science, FRI academy
-
-Večna pot 113, 1000 Ljubljana, Slovenia
+University of Ljubljana, Faculty of Computer and Information Science, FRI academy
+Večna pot 113, 1000 Ljubljana, Slovenia
