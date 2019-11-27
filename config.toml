@@ -69,6 +69,11 @@ theme = "biztrox-hugo-modified"
     URL = "/klub"
     weight = 7
 
+    [[menu.nav]]
+    name = "English"
+    URL = "/english"
+    weight = 8
+
 [taxonomies]
     category = "categories"
     tag = "tags"
