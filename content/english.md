@@ -3,7 +3,7 @@ title: FRI academy
 date: 2019-03-18T11:21:00.000Z
 bgImage: /uploads/fri-outside.jpg
 ---
-The **FRI academy** offers IT-oriented courses for professional staff and the general public. Important knowlege is presented by educators, researchers and external staff of the **Faculty of Computer and Information Science at the University of Ljubljana, Slovenia**.
+The **FRI academy** offers IT-oriented courses for professional staff and the general public. Important knowledge is presented by educators, researchers and external staff of the **Faculty of Computer and Information Science at the University of Ljubljana, Slovenia**.
 
 **OUR FOCUS**
 
@@ -19,7 +19,7 @@ All of the courses are held in English and can be conducted at the headquarters 
 
 ### **\*For course catalogue click** [**HERE**](https://files.fm/u/3hanwzz9)**.**
 
-****
+- - -
 
 **Address:**
 University of Ljubljana, Faculty of Computer and Information Science, FRI academy,
