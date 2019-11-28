@@ -21,6 +21,5 @@ All of the courses are held in English and can be conducted at the headquarters 
 
 - - -
 
-**Address:**
-University of Ljubljana, Faculty of Computer and Information Science, FRI academy,
-Večna pot 113, 1000 Ljubljana, Slovenia
+_**Address:**
+University of Ljubljana, Faculty of Computer and Information Science, FRI academy, Večna pot 113, 1000 Ljubljana, Slovenia_
