@@ -14,7 +14,7 @@ dates:
 ---
 **Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je smiselno spoznati tudi osnove takšnih vsebin. Močno orodje za ustvarjanje 3D vsebin je Blender. To je brezplačno odprtokodno orodje namenjeno ustvarjanju animiranih filmov, vizuelnih efektov, 3D umetnij, modelov za 3D tisk, interaktivnih 3D aplikacij in video iger. Uveljavilo se je tako med amaterskimi kot profesionalnimi uporabniki in velja za najmočnejše odprtokodno 3D oblikovalsko orodje, ki podpira širok nabor uporab in ponuja visoko stopnjo prilagodljivosti.**
 
-Izobraževanje je namenjeno vsem, ki se želijo naučiti 3D modeliranja z brezplačnim odprtokodnim orodjem Blender - začetnikom in izkušenim uporabnikom za hobi ali profesionalno delo. Izvedli ga bomo v treh delih, potekalo bo v **sredo, 10., 17. in 24. aprila, od 16.30 do 20.30 ure v Akademiji FRI** na Fakulteti za računalništvo in informatiko, Večna pot 113, Ljubljana.
+Izobraževanje je namenjeno vsem, ki se želijo naučiti 3D modeliranja z brezplačnim odprtokodnim orodjem Blender - začetnikom in izkušenim uporabnikom za hobi ali profesionalno delo. Izvedli ga bomo v treh delih, potekalo bo v **sredo, 10., 17. in 24. aprila, od 16.00 do 20.00 ure v Akademiji FRI** na Fakulteti za računalništvo in informatiko, Večna pot 113, Ljubljana.
 
 **VSEBINA:**
 
