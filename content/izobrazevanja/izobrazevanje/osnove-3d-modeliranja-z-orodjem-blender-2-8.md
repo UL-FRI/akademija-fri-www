@@ -25,7 +25,7 @@ summary: >-
 ---
 Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je smiselno spoznati tudi osnove takšnih vsebin. Močno orodje za ustvarjanje 3D vsebin je Blender. To je brezplačno odprtokodno orodje namenjeno ustvarjanju animiranih filmov, vizuelnih efektov, 3D umetnij, modelov za 3D tisk, interaktivnih 3D aplikacij in video iger. Uveljavilo se je tako med amaterskimi kot profesionalnimi uporabniki in velja za najmočnejše odprtokodno 3D oblikovalsko orodje, ki podpira širok nabor uporab in ponuja visoko stopnjo prilagodljivosti. Nedavno je po več letih razvoja izšla nova različica - 2.8, ki prinaša številne novosti in spremembe v uporabi. V okviru delavnice se boste spoznali z najnovejšo različico orodja Blender.
 
-**Tridnevno izobraževanje bo potekalo v ponedeljkih, 2., 9. in 16. decembra, od 16.00 do 20.00 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo[ dr. Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/).
+**Tridnevno izobraževanje bo potekalo v ponedeljkih, 2., 9. in 16. decembra, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo[ dr. Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/).
 
 **\*15% PREDNOVOLETNI POPUST\***
 
