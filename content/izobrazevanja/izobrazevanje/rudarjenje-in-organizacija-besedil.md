@@ -13,16 +13,14 @@ dates:
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSfr6G7OdGSlp4p5ZaHkqmFyLRVw7yyTQ1siYZJ2SZeEf3GH8A/viewform?usp=sf_link
 summary: >-
-  Količina podatkov, ki jih zajamemo dnevno, se je v zadnjih desetih letih
-  povečala za nekaj velikostnih razredov. Poleg kopičenja podatkov v okviru
-  družbenih medijev, k temu pripomore tudi izjemen razmah interneta stvari. Ta
-  skorajda sleherni stvari omogoča prejem, generiranje in pošiljanje podatkov.
-  Če so bile relacijske baze še pred kratkim edini in osnovni način
-  shranjevanja, dandanes to ne velja več. Na izobraževanju vam bomo predstavili,
-  kaj so ključne omejitve tradicionalnih sistemov in kako te omejitve rešujemo s
-  sodobnimi, podatkovno intenzivnimi sistemi.
+  Namen izobraževanja je predstaviti in uporabiti glavne tehnike rudarjenja
+  besedil, predvsem na semantičnem nivoju. Udeleženci boste uporabili metode za
+  predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih
+  delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene
+  podatke se boste naučili shranjevati v semantičnih podatkovnih zbirkah (kot je
+  na primer DBPedia) in po njih tudi poizvedovati.
 ---
-Količina podatkov, ki jih zajamemo dnevno, se je v zadnjih desetih letih povečala za nekaj velikostnih razredov. Poleg kopičenja podatkov v okviru družbenih medijev, k temu pripomore tudi izjemen razmah interneta stvari. Ta skorajda sleherni stvari omogoča prejem, generiranje in pošiljanje podatkov. Če so bile relacijske baze še pred kratkim edini in osnovni način shranjevanja, dandanes to ne velja več. Uveljavljajo se alternativni načini, ki jih odlikuje visoka razpoložljivost ne glede na število uporabnikov in količino podatkov. Na izobraževanju vam bomo predstavili, kaj so ključne omejitve tradicionalnih sistemov in kako te omejitve rešujemo s sodobnimi, podatkovno intenzivnimi sistemi.
+Namen izobraževanja je predstaviti in uporabiti glavne tehnike rudarjenja besedil, predvsem na semantičnem nivoju. Udeleženci boste uporabili metode za predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene podatke se boste naučili shranjevati v semantičnih podatkovnih zbirkah (kot je na primer DBPedia) in po njih tudi poizvedovati.
 
 **Dvodnevno izobraževanje bo potekalo v ponedeljek in torek, 3. in 4. februarja, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo dr. Slavko Žitnik.
 
@@ -42,21 +40,22 @@ Cena zajema:
 
 **Vsebina:**
 
-* Veliki podatki in izzivi pri njihovem obvladovanju.
-* Podatkovno intenzivni sistemi.
-* Primerjava podatkovnih modelov (relacijski, dokumentni, graf) njihovih prednosti in slabosti.
-* Primerjava tradicionalnih relacijskih in noSQL podatkovnih baz.
-* Primeri noSQL podatkovnih baz.
-* Osnove Hadoop ekosistema (Spark, Nifi, Kafka, HBase, Solr …) za delo z velikimi količinami podatkov.
+* Predprocesiranje in obogatitev besedil.
+* Pomen jezikovnih virov, njihova izgradnja in uporaba.
+* Prepoznavanje imenskih entitet, ekstrakcija povezav in odkrivanje koreferenčnosti.
+* Osnovna uporaba nevronskih mrež nad besedili.
+* Primerjava jezikovnih lastnosti med različnimi jeziki.
+* Hranjenje podatkov v obliki ontologij in iskanje po njih.
+* Praktični primeri in samostojno delo za vsako izmed zgornjih tematik (Python notebook).
 
 **Za koga?**
 
-Izobraževanje je primerno za vse, ki se ukvarjate z razvojem informacijskih sistemov, hranjenjem in obdelavo podatkov ter vodstvenim delavcem, ki sprejemate odločitve o tehnologijah in arhitekturah informacijskih sistemov.
+Za vse, ki že poznate osnove programiranja in bi želeli avtomatsko obdelovati tudi besedilne podatke.
 
 **Po izobraževanju boste …**
 
-… vedeli, kako se spoprijeti z velikimi količinami podatkov, kako zagotoviti, da bodo vaše rešitve razširljive in ne bodo omejene s količino podatkov in številom uporabnikov, kako izbirati med vrstami sistemov za upravljanje s podatkovnimi bazami, kako se odločiti za najbolj ustrezen podatkovni model, kako razvijati podatkovno intenzivne sisteme ipd.
+… sposobni sami s pomočjo programskega jezika izvesti izbrano analizo besedila od začetka do konca.
 
 **Predznanja:**
 
-Zaželeno je poznavanje osnov razvoja informacijskih sistemov ter sistemov za upravljanje s podatkovnimi bazami. Kot nadaljevanje priporočamo izobraževanja iz skupine “Uporaba Hadoop ekosistema za zajem, hrambo, procesiranje in vizualizacijo velikih količin podatkov”, v okviru katerih lahko spoznate konkretna orodja, kot so Druid, Lucene/Solr, Neo4j, Kafka, Nifi, HiveMQ, Spark, Superset in Grafana.
+Osnovno predznanje iz programiranja (poljuben programski jezik).
