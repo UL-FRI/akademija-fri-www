@@ -16,6 +16,9 @@ Je soavtor več kot 30 znanstvenih člankov, objavljenih v priznanih revijah, ko
 
 #### V medijih
 
+* Državljan D: [Face recognition - prakse in problemi](https://www.cryptoparty.si/2019/11/21/face-recognition-prakse-in-problemi/) (20. 11. 2019)
+* Val 202 (Odbita do bita), Anže Tomić in Maruša Kerec: [Lahko še zaupamo videoposnetkom?](https://val202.rtvslo.si/2019/10/odbita-do-bita-153/) (14. 11. 2019)
+* Val 202 (To je moja muska), Maj Valerij: [To je moja muska](https://val202.rtvslo.si/spored/2019-03-29/) (29. 3. 2019)
 * 24UR, Miha Krajnc: [Tehnologija prepoznave uhljev](https://www.24ur.com/video?video=62121936) (22. 8. 2018)
 * Delo, Simona Bandur: [Pokaži mi uhelj in povem ti, kdo si](https://www.delo.si/magazin/zanimivosti/pokazi-mi-uhelj-in-povem-ti-kdo-si-83181.html) (21. 8. 2018)
 * Radio Prvi, Ana Skrt: [Človeški uhlji bolj edinstveni od prstnega odtisa](https://radioprvi.rtvslo.si/2018/08/cloveski-uhlji-bolj-edinstveni-od-prstnega-odtisa/) (15. 8. 2018)
