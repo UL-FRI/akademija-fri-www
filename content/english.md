@@ -17,7 +17,7 @@ The FRI academy also offers unique fully tailored courses for businesses which m
 
 All of the courses are held in English and can be conducted at the headquarters of your company or organization. Courses are organized for groups of at least 5 people.
 
-### **\*For course catalogue click** [**HERE**](https://files.fm/u/c8z2x6nj)*
+### **\*For course catalogue click** [**HERE**](https://files.fm/f/gd884jhj)*
 
 - - -
 
