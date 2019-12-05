@@ -4,8 +4,8 @@ date: 2019-11-11T09:01:45.927Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/artificial-neural-network-3501528_1920.png
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-12-04T15:30:00.000Z
 dates:
   - 2019-12-04T15:30:00.000Z
