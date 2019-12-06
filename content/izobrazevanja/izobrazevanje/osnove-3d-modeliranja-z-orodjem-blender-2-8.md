@@ -4,13 +4,13 @@ date: 2019-11-11T10:09:08.589Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/56448930_421962581904506_55914955160944640_o.jpg
 type: izobrazevanje
-aktualno: false
-preteklo: true
+aktualno: true
+preteklo: false
 dateStart: 2019-12-02T15:30:00.000Z
 dates:
-  - 2019-12-02T15:30:00.000Z
-  - 2019-12-09T15:30:00.000Z
-  - 2019-12-16T15:30:00.000Z
+  - 2020-02-17T15:00:00.000Z
+  - 2020-02-18T15:00:00.000Z
+  - 2020-02-20T15:00:00.000Z
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdJRZlBxKTnn9yv2Cxo5AnnC7jxj6AOotsi08RfWshg6Y4XBw/viewform?usp=sf_link
 summary: >-
@@ -25,17 +25,15 @@ summary: >-
 ---
 Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je smiselno spoznati tudi osnove takšnih vsebin. Močno orodje za ustvarjanje 3D vsebin je Blender. To je brezplačno odprtokodno orodje namenjeno ustvarjanju animiranih filmov, vizuelnih efektov, 3D umetnij, modelov za 3D tisk, interaktivnih 3D aplikacij in video iger. Uveljavilo se je tako med amaterskimi kot profesionalnimi uporabniki in velja za najmočnejše odprtokodno 3D oblikovalsko orodje, ki podpira širok nabor uporab in ponuja visoko stopnjo prilagodljivosti. Nedavno je po več letih razvoja izšla nova različica - 2.8, ki prinaša številne novosti in spremembe v uporabi. V okviru delavnice se boste spoznali z najnovejšo različico orodja Blender.
 
-**Tridnevno izobraževanje bo potekalo v ponedeljkih, 2., 9. in 16. decembra, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo[ dr. Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/).
-
-**\*15% PREDNOVOLETNI POPUST\***
+**Tridnevno izobraževanje bo potekalo, 17., 18. in 20. februarja 2020, od 16.00 do 20.00 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo[ dr. Ciril Bohak](https://akademijafri.si/izvajalci/ciril-bohak/).
 
 **Prijavnina:**
 
-* Posamezniki: <strike>370,00 € + DDV</strike> **/ 314,50 € + DDV**
-* Zaposleni na Univerzi  v Ljubljani: <strike>330,00 € + DDV</strike> **/ 280,50 € + DDV**
-* Člani Kluba alumnov UL: <strike>350,00 € + DDV</strike> **/ 297,50 € + DDV**
-* Člani Kluba alumnov FRI: <strike>280,00 € + DDV</strike>**/ 238,00 € + DDV**
-* Študenti: <strike>150,00 € + DDV</strike> **/ 127,50 € + DDV**
+* Posamezniki: 370,00 € + DDV
+* Zaposleni na Univerzi  v Ljubljani: 330,00 € + DDV
+* Člani Kluba alumnov UL: 350,00 € + DDV
+* Člani Kluba alumnov FRI: 280,00 € + DDV
+* Študenti: 150,00 € + DDV
 
 Cena zajema:
 
