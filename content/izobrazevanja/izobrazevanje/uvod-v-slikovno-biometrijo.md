@@ -42,13 +42,11 @@ Cena zajema:
 * Zgradba tipičnega biometričnega sistema.
 * Razpoznava/verifikacija/identifikacija.
 * Pogoji za korektno primerjanje sistemov (metrike, baze, protokoli, ogrodja).
-* Uspešnost in uporabnost sistemov.
 * Ključne modalnosti in delovanje sistemov:
 * prstni odtis in/ali
 * šarenica in/ali
 * obraz in/ali …
 * Večbiometrični sistemi/večmodalnost/fuzija.
-* Ključni izzivi modalnosti/sistemov.
 
 **Za koga?**
 
@@ -60,8 +58,6 @@ Ciljna skupina so vsi, ki jih zanima visoko-tehnološki razvoj, raziskave in pro
 
 … razumeli korake vsakega biometričnega sistema.
 
-… znali določiti potrebne lastnosti za vpeljavo biometričnega sistema.
-
 … znali pravilno meriti in primerjati uspešnost biometričnih sistemov.
 
 … razumeli ključno terminologijo vsake modalnosti in uporabo le-te v realnih sistemih.
@@ -69,8 +65,6 @@ Ciljna skupina so vsi, ki jih zanima visoko-tehnološki razvoj, raziskave in pro
 … razumeli prednosti in pomanjkljivosti posameznih modalnosti.
 
 … znali združevati modalnosti za doseganje boljše učinkovitosti biometričnih sistemov.
-
-… poznali ključne algoritme računalniškega vida v biometriji.
 
 **Predznanja:**
 
