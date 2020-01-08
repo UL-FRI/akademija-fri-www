@@ -27,8 +27,9 @@ Vsako podjetje in vsak posameznik bi v današnjem času, ko je tehnološki napre
 **Prijavnina:**
 
 * Posamezniki: **250,00 €** + DDV
-* Člani Kluba alumnov UL: **200,00 €** + DDV
-* Člani Kluba alumnov FRI: **180,00 €** + DDV
+* Člani Kluba alumnov UL in zaposleni na UL: **15% popust** 
+* Člani Kluba alumnov FRI: **20% popust**
+* Partnerji Akademije FRI: **30% popust**
 * Študenti: **60,00 €**+ DDV
 
 Cena zajema:
@@ -42,6 +43,7 @@ Cena zajema:
 
 * Osnovno izrazoslovje (INFOSEC, OSINT, modeli groženj, vektorji napada, ...).
 * Splošni modeli groženj:
+
   * potek napadov, 
   * pridobljene koristi, 
   * profili napadalcev, 
