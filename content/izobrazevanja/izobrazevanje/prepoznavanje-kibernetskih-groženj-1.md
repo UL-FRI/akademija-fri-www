@@ -20,13 +20,13 @@ summary: >-
   varnosti in se skladno s tem naučili pravilnih odzivov na napade. Napade boste
   sposobni prepoznati in znali o njih poročati tako, da bodo imeli rep in glavo.
 ---
-Vsako podjetje in vsak posameznik bi v današnjem času, ko je tehnološki napredek v stalnem porastu, varnost pa pod vprašajem, moral poznati vsaj osnove informacijske varnosti. Zato vas bomo na izobraževanju naučili osnovnega izrazoslovja, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. Spoznali boste tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. Napade boste sposobni prepoznati in znali o njih poročati tako, da bodo imeli rep in glavo.
+Dnevi brezbrižnega srfljanja po Medmrežju so minili. Čas je, da si vsakdo osveži in osmisli vsaj osnove računalniške varnosti. Zaposleni v javnem in zasebnem sektorju morate biti sposobni prepoznavati grožnje in na njih pravilno reagirati. To je še posebej pomembno kadar se v vašem delu srečujete z bolj ranljivimi populacijami, ki so, kot vemo, pogoste posredne tarče napadov. Zato vas bomo na izobraževanju naučili osnovnega izrazoslovja, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. Spoznali boste tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. Napade boste sposobni prepoznati in znali o njih poročati tako, da bodo imeli rep in glavo. Predavanje je namenjeno tistim, ki računalnike uporabljate kot orodje, in ne kot sredstvo preživetja.
 
 **Izobraževanje bo potekalo v četrtek, 23. januarja, od 16.30 do 20.30 ure v Akademiji FRI** (Večna pot 113, Ljubljana). Predaval bo dr. David Modic.
 
 **Prijavnina:**
 
-* Posamezniki: **250,00 €** + DDV
+* Posamezniki: **200,00 €** + DDV
 * Člani Kluba alumnov UL in zaposleni na UL: **15% popust** 
 * Člani Kluba alumnov FRI: **20% popust**
 * Partnerji Akademije FRI: **30% popust**
@@ -54,7 +54,7 @@ Cena zajema:
 
 **Za koga?**
 
-Izobraževanje je namenjeno vsem zaposlenim v srednjih in večjih podjetjih.
+Izobraževanje je namenjeno ne-tehničnemu osebju zaposlenemu v javnem in zasebnem sektorju (še posebej tistim, ki so zaposleni v šolstvu).
 
 **Po izobraževanju boste …**
 
