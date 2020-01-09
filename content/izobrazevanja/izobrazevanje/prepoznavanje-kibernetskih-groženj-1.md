@@ -12,13 +12,17 @@ dates:
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdlcpe8G9WSe7Ws_ByegxA6x6bUzjB0VZoLB7QNKSMKafrhBQ/viewform?usp=sf_link
 summary: >-
-  Vsako podjetje in vsak posameznik bi v današnjem času, ko je tehnološki
-  napredek v stalnem porastu, varnost pa pod vprašajem, moral poznati vsaj
-  osnove informacijske varnosti. Zato vas bomo na izobraževanju naučili
-  osnovnega izrazoslovja, se poglobili v profile napadalcev in preučili tipične
-  primere uspešnih napadov. Spoznali boste tudi pravne okvirje informacijske
-  varnosti in se skladno s tem naučili pravilnih odzivov na napade. Napade boste
-  sposobni prepoznati in znali o njih poročati tako, da bodo imeli rep in glavo.
+  Dnevi brezbrižnega srfljanja po Medmrežju so minili. Čas je, da si vsakdo
+  osveži in osmisli vsaj osnove računalniške varnosti. Zaposleni v javnem in
+  zasebnem sektorju morate biti sposobni prepoznavati grožnje in na njih
+  pravilno reagirati. To je še posebej pomembno kadar se v vašem delu srečujete
+  z bolj ranljivimi populacijami, ki so, kot vemo, pogoste posredne tarče
+  napadov. Zato vas bomo na izobraževanju naučili osnovnega izrazoslovja, se
+  poglobili v profile napadalcev in preučili tipične primere uspešnih napadov.
+  Spoznali boste tudi pravne okvirje informacijske varnosti in se skladno s tem
+  naučili pravilnih odzivov na napade. Napade boste sposobni prepoznati in znali
+  o njih poročati tako, da bodo imeli rep in glavo. Predavanje je namenjeno
+  tistim, ki računalnike uporabljate kot orodje, in ne kot sredstvo preživetja.
 ---
 Dnevi brezbrižnega srfljanja po Medmrežju so minili. Čas je, da si vsakdo osveži in osmisli vsaj osnove računalniške varnosti. Zaposleni v javnem in zasebnem sektorju morate biti sposobni prepoznavati grožnje in na njih pravilno reagirati. To je še posebej pomembno kadar se v vašem delu srečujete z bolj ranljivimi populacijami, ki so, kot vemo, pogoste posredne tarče napadov. Zato vas bomo na izobraževanju naučili osnovnega izrazoslovja, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. Spoznali boste tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. Napade boste sposobni prepoznati in znali o njih poročati tako, da bodo imeli rep in glavo. Predavanje je namenjeno tistim, ki računalnike uporabljate kot orodje, in ne kot sredstvo preživetja.
 
