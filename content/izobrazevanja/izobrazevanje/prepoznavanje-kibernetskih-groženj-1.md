@@ -26,7 +26,7 @@ Dnevi brezbrižnega srfljanja po Medmrežju so minili. Čas je, da si vsakdo osv
 
 Zato vas bomo na izobraževanju naučili osnovnega izrazoslovja, se poglobili v profile napadalcev in preučili tipične primere uspešnih napadov. Spoznali boste tudi pravne okvirje informacijske varnosti in se skladno s tem naučili pravilnih odzivov na napade. Napade boste sposobni prepoznati in znali o njih poročati tako, da bodo imeli rep in glavo. Predavanje je namenjeno tistim, ki računalnike uporabljate kot orodje, in ne kot sredstvo preživetja.
 
-**Izobraževanje bo potekalo v četrtek, 23. januarja, od 16.30 do 20.30 ure v Akademiji FRI** (Večna pot 113, Ljubljana). Predaval bo dr. David Modic.
+**Izobraževanje bo potekalo v četrtek, 23. januarja, od 16.30 do 20.30 ure v Akademiji FRI** (Večna pot 113, Ljubljana). Predaval bo [dr. David Modic](https://akademijafri.si/izvajalci/david-modic/).
 
 **Prijavnina:**
 
