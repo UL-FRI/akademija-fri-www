@@ -22,13 +22,14 @@ summary: >-
 ---
 Namen izobraževanja je predstaviti in uporabiti glavne tehnike rudarjenja besedil, predvsem na semantičnem nivoju. Udeleženci boste uporabili metode za predprocesiranje besedil in se nato osredotočili na ekstrakcijo pomenskih delov (entitet, povezav, koreferenc). Zajete oziroma semantično označene podatke se boste naučili shranjevati v semantičnih podatkovnih zbirkah (kot je na primer DBPedia) in po njih tudi poizvedovati.
 
-**Dvodnevno izobraževanje bo potekalo v ponedeljek in torek, 3. in 4. februarja, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo dr. Slavko Žitnik.
+**Dvodnevno izobraževanje bo potekalo v ponedeljek in torek, 3. in 4. februarja, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo [dr. Slavko Žitnik](https://akademijafri.si/izvajalci/slavko-zitnik/).
 
 Prijavnina:
 
 * Posamezniki: **350 €** + DDV
-* Člani Kluba alumnov UL: **300 €** + DDV
-* Člani Kluba alumnov FRI: **250 €** + DDV
+* Člani Kluba alumnov UL in zaposleni na UL: **15% popust**
+* Člani Kluba alumnov FRI: **20% popust**
+* Partnerji Akademije FRI: **30% popust**
 * Študenti: **100 €** + DDV
 
 Cena zajema:

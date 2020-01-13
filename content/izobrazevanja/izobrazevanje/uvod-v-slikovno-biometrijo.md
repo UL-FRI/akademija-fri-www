@@ -20,14 +20,15 @@ summary: >-
 ---
 Vsebina izobraževanja temelji na postopkih računalniškega vida, ki predstavljajo izhodišče večine biometričnih sistemov, ki imajo za vhod sliko. V okviru izobraževanja bodo vsebine predstavljene teoretično in praktično skozi dejanske primere in najnovejše implementacije, tudi globokega učenja. Modalnosti, ki bodo obdelane, se lahko določi skupaj s podjetjem.
 
-**Izobraževanje bo potekalo v četrtek, 13. februarja 2020, od 14.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta dr. Peter Peer in Žiga Emeršič, mag.
+**Izobraževanje bo potekalo v četrtek, 13. februarja 2020, od 14.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta [dr. Peter Peer](https://akademijafri.si/izvajalci/peter-peer/) in [Žiga Emeršič, mag.](https://akademijafri.si/izvajalci/ziga-emersic/)
 
 **Prijavnina:**
 
 * Posamezniki: **350,00 €** + DDV
-* Člani Kluba alumnov UL: **300,00 €** + DDV
-* Člani Kluba alumnov FRI: **250,00 €** + DDV
-* Študenti: **100,00 €**+ DDV
+* Člani Kluba alumnov UL in zaposleni na UL: **15% popust**
+* Člani Kluba alumnov FRI: **20% popust**
+* Partnerji Akademije FRI: **30% popust**
+* Študenti: **100,00 €** + DDV
 
 Cena zajema:
 
@@ -42,13 +43,11 @@ Cena zajema:
 * Zgradba tipičnega biometričnega sistema.
 * Razpoznava/verifikacija/identifikacija.
 * Pogoji za korektno primerjanje sistemov (metrike, baze, protokoli, ogrodja).
-* Uspešnost in uporabnost sistemov.
 * Ključne modalnosti in delovanje sistemov:
 * prstni odtis in/ali
 * šarenica in/ali
 * obraz in/ali …
 * Večbiometrični sistemi/večmodalnost/fuzija.
-* Ključni izzivi modalnosti/sistemov.
 
 **Za koga?**
 
@@ -60,8 +59,6 @@ Ciljna skupina so vsi, ki jih zanima visoko-tehnološki razvoj, raziskave in pro
 
 … razumeli korake vsakega biometričnega sistema.
 
-… znali določiti potrebne lastnosti za vpeljavo biometričnega sistema.
-
 … znali pravilno meriti in primerjati uspešnost biometričnih sistemov.
 
 … razumeli ključno terminologijo vsake modalnosti in uporabo le-te v realnih sistemih.
@@ -69,8 +66,6 @@ Ciljna skupina so vsi, ki jih zanima visoko-tehnološki razvoj, raziskave in pro
 … razumeli prednosti in pomanjkljivosti posameznih modalnosti.
 
 … znali združevati modalnosti za doseganje boljše učinkovitosti biometričnih sistemov.
-
-… poznali ključne algoritme računalniškega vida v biometriji.
 
 **Predznanja:**
 
