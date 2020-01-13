@@ -23,7 +23,7 @@ summary: >-
 ---
 Dandanes zahtevne grafične aplikacije delujejo tudi v spletnih brskalnikih predvsem po zaslugi vmesnika WebGL. Običajno se WebGL uporablja za 3D vizualizacije, primeren pa je tudi za bolj splošno vzporedno računanje. Medtem ko se začetni tečaji v glavnem osredotočajo na osnove 3D grafike, je to izobraževanje namenjeno tistim, ki bi radi WebGL spoznali bolj podrobno in z njim pospešili računanje na končnih napravah.
 
-**Izobraževanje bo potekalo v sredah, 5., 12. in 19 februarja, od 16.30 do 20.30 ure v Akademiji FRI** (Večna pot 113). Z nami bo Žiga Lesar, mag.
+**Izobraževanje bo potekalo v sredah, 5., 12. in 19 februarja, od 16.30 do 20.30 ure v Akademiji FRI** (Večna pot 113). Z nami bo [Žiga Lesar, mag.](https://akademijafri.si/izvajalci/ziga-lesar/)
 
 *Prijave potekajo do 3. 2. 2020.*
 
