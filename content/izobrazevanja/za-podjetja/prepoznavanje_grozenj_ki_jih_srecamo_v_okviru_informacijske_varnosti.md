@@ -30,7 +30,7 @@ Izobraževanje je namenjeno vsem zaposlenim v srednjih in večjih podjetjih.
 
 #### Predznanja:
 
-V izdelavi.
+Predznanja niso potrebna.
 
 #### Trajanje:
 
