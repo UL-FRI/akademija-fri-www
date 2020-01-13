@@ -184,14 +184,40 @@ collections:
           - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Type", name: "type", widget: "hidden", default: "koledar"}
           - {label: "Body", name: "body", widget: "markdown", required: false}
-      - label: "Klub"
-        file: "content/klub.md"
-        name: "klub"
+      - label: "Partnerstva"
+        file: "content/partnerstva.md"
+        name: "partnerstva"
         fields:
           - {label: "Title", name: "title", widget: string}
           - {label: "Creation Date", name: "date", widget: "datetime"}
           - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
           - {label: "Body", name: "body", widget: "markdown"}
+
+      - label: "Partnerstva Logo"
+        file: "data/partnerstva.yaml"
+        name: "partnerstvaLogo"
+        fields:
+          - label: "Zlati"
+            name: "zlati"
+            widget: "list"
+            field:
+              label: logo
+              name: logo
+              widget: image
+          - label: "Srebrni"
+            name: "srebrni"
+            widget: "list"
+            field:
+              label: logo
+              name: logo
+              widget: image
+          - label: "Bronasti"
+            name: "bronasti"
+            widget: "list"
+            field:
+              label: logo
+              name: logo
+              widget: image
       - label: "English"
         file: "content/english.md"
         name: "english"
