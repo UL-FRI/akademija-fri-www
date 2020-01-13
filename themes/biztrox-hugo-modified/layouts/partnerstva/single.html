@@ -34,7 +34,7 @@
               }
             </style>
 
-
+            {{ if (len $.Site.Data.partnerstva.zlati) }}
             <h4 class="h3">Zlati partnerji</h4>
             <div class="partnerstva">
               {{ range $.Site.Data.partnerstva.zlati }}
@@ -43,7 +43,9 @@
               </div>
               {{ end }}
             </div>
+            {{ end }}
 
+            {{ if (len $.Site.Data.partnerstva.srebrni) }}
             <h4 class="h3">Srebrni partnerji</h4>
             <div class="partnerstva">
               {{ range $.Site.Data.partnerstva.srebrni }}
@@ -52,8 +54,9 @@
               </div>
               {{ end }}
             </div>
+            {{ end }}
             
-            
+            {{ if (len $.Site.Data.partnerstva.bronasti) }}
             <h4 class="h3">Bronasti partnerji</h4>
             <div class="partnerstva">
               {{ range $.Site.Data.partnerstva.bronasti }}
@@ -62,6 +65,7 @@
               </div>
               {{ end }}
             </div>
+            {{ end }}
               
 
           </div>
