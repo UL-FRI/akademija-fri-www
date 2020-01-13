@@ -65,8 +65,8 @@ theme = "biztrox-hugo-modified"
     weight = 6
 
     [[menu.nav]]
-    name = "Klub Akademije FRI"
-    URL = "/klub"
+    name = "Partnerstva"
+    URL = "/partnerstva"
     weight = 7
 
     [[menu.nav]]
