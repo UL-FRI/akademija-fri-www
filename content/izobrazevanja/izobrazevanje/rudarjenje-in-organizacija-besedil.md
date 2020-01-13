@@ -27,8 +27,9 @@ Namen izobraževanja je predstaviti in uporabiti glavne tehnike rudarjenja besed
 Prijavnina:
 
 * Posamezniki: **350 €** + DDV
-* Člani Kluba alumnov UL: **300 €** + DDV
-* Člani Kluba alumnov FRI: **250 €** + DDV
+* Člani Kluba alumnov UL in zaposleni na UL: **15% popust**
+* Člani Kluba alumnov FRI: **20% popust**
+* Partnerji Akademije FRI: **30% popust**
 * Študenti: **100 €** + DDV
 
 Cena zajema:
