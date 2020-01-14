@@ -20,7 +20,7 @@ summary: >-
 ---
 Vsebina izobraževanja temelji na postopkih računalniškega vida, ki predstavljajo izhodišče večine biometričnih sistemov, ki imajo za vhod sliko. V okviru izobraževanja bodo vsebine predstavljene teoretično in praktično skozi dejanske primere in najnovejše implementacije, tudi globokega učenja. Modalnosti, ki bodo obdelane, se lahko določi skupaj s podjetjem.
 
-**Izobraževanje bo potekalo v četrtek, 13. februarja 2020, od 14.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta [dr. Peter Peer](https://akademijafri.si/izvajalci/peter-peer/) in [Žiga Emeršič, mag.](https://akademijafri.si/izvajalci/ziga-emersic/)
+**Izobraževanje bo potekalo v četrtek in petek, 13. in 14. februarja 2020, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bosta [dr. Peter Peer](https://akademijafri.si/izvajalci/peter-peer/) in [Žiga Emeršič, mag.](https://akademijafri.si/izvajalci/ziga-emersic/)
 
 **Prijavnina:**
 
