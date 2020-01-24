@@ -4,8 +4,8 @@ date: 2019-11-11T10:19:04.632Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/hacker-3081816_1920.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2020-01-23T03:30:00.000Z
 dates:
   - 2020-01-23T03:30:00.000Z
