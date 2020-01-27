@@ -23,6 +23,8 @@ Vsebina izobraževanja temelji na postopkih računalniškega vida, ki predstavlj
 
 **Prijavnina:**
 
+**Na vse cene nudimo še 5% valentinov popust!**
+
 * Posamezniki: **350,00 €** + DDV
 * Člani Kluba alumnov UL in zaposleni na UL: **15% popust**
 * Člani Kluba alumnov FRI: **20% popust**
