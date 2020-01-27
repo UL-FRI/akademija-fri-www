@@ -24,6 +24,8 @@ Namen izobraževanja je predstaviti in uporabiti glavne tehnike rudarjenja besed
 
 **Dvodnevno izobraževanje bo potekalo v ponedeljek in torek, 3. in 4. februarja, od 16.30 do 20.30 v Akademiji FRI** (Večna pot 113, Ljubljana). Z nami bo [dr. Slavko Žitnik](https://akademijafri.si/izvajalci/slavko-zitnik/).
 
+*Prijave zbiramo do torka, 28. 1. 2020, do 15.00 ure.*
+
 Prijavnina:
 
 * Posamezniki: **350 €** + DDV
