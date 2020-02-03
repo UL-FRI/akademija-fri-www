@@ -6,7 +6,7 @@ image: /uploads/finger-2081169_1280.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2020-02-13T13:30:00.000Z
+dateStart: 2020-02-13T15:30:00.000Z
 dates:
   - 2020-02-13T13:30:00.000Z
 prijavnica: >-
