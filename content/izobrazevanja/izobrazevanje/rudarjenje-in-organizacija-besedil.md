@@ -4,8 +4,8 @@ date: 2019-11-11T10:29:38.943Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/text-mining-icon-2793702_1280.png
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2020-02-03T15:30:00.000Z
 dates:
   - 2020-02-03T15:30:00.000Z
