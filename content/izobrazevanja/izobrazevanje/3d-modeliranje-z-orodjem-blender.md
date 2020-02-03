@@ -6,7 +6,7 @@ image: /uploads/56448930_421962581904506_55914955160944640_o.jpg
 type: izobrazevanje
 aktualno: false
 preteklo: true
-dateStart: 2019-04-10T14:30:00.000Z
+dateStart: 2020-02-17T15:30:00.000Z
 dates:
   - 2019-04-10T14:30:00.000Z
   - 2019-04-17T14:30:00.000Z
