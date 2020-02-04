@@ -7,7 +7,6 @@ tagsIzobrazevanjaZaPodjetja:
   - Computer Graphics
 izvajalci:
   - Ciril Bohak
-  - Blaž Meden
 ---
 Zaradi vse večje potrebe po 3D vsebinah za uporabo v različnih scenarijih, je smiselno spoznati tudi osnove takšnih vsebin. Močno orodje za ustvarjanje 3D vsebin je Blender. To je brezplačno odprtokodno orodje namenjeno ustvarjanju animiranih filmov, vizuelnih efektov, 3D umetnij, modelov za 3D tisk, interaktivnih 3D aplikacij in video iger. Uveljavilo se je tako med amaterskimi kot profesionalnimi uporabniki in velja za najmočnejše odprtokodno 3D oblikovalsko orodje, ki podpira širok nabor uporab in ponuja visoko stopnjo prilagodljivosti.
 
