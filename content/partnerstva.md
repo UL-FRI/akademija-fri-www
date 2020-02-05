@@ -3,7 +3,7 @@ title: Partnerstva
 date: 2019-03-18T11:21:00.000Z
 bgImage: /uploads/fri-outside.jpg
 ---
-**Vabimo vas, da postanete naš partner!**
+### Postanite naš partner!
 
 Naše poslanstvo je dolgoročno sodelovanje s podjetji s prenosom znanja in dobrih praks. Postanite zlati, srebrni ali bronasti partner in se povežite z akademsko sfero!
 
