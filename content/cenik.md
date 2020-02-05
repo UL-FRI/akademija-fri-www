@@ -19,11 +19,13 @@ bgImage: /uploads/c75t1206.jpg
 * 5 šolskih ur: 4.500,00 EUR/dan
 * 6 šolskih ur: 5.000,00 EUR/dan
 
-\*_DDV ni vključen v ceno_.
+\**DDV ni vključen v ceno*.
 
 - - -
 
 #### Najem prostora Akademije FRI
+
+**Idelano za sestanke, teambuildinge, delavnice)** 
 
 **Kapaciteta:** 15-20 sedežev
 
@@ -33,10 +35,12 @@ bgImage: /uploads/c75t1206.jpg
 * projektor - 1 kom
 * bela tabla - 2 kom
 * internet (hitrosti 1 Gbit/s)
+* zvočniki
+* kliker
 
 **Cena:**
 
-* Najem do 5 ur med tednom 214,00 EUR.
-* Najem do 5 ur v soboto in nedeljo 128,00 EUR.
-* Celodnevni najem med tednom 324,00 EUR.
-* Celodnevni najem v soboto in nedeljo 194,00 EUR.
+* Najem do 5 ur med tednom 214,00 EUR + DDV.
+* Najem do 5 ur v soboto in nedeljo 128,00 EUR + DDV.
+* Celodnevni najem med tednom 324,00 EUR + DDV.
+* Celodnevni najem v soboto in nedeljo 194,00 EUR + DDV (doplačilo v primeru dodatnega varnostnika in čiščenja).
