@@ -11,6 +11,6 @@ S partnerstvom pridobite:
 
 * 30% popust na vsa izobraževanja z odprtimi termini.
 * Različne možnosti promocije podjetja na fakulteti in fakultetnih tržnih kanalih.
-* Brezplačen najem prostora Akademije FRI z interno organizacijsko podporo (za teambuildinge, sestanke, predstavitve izdelkov ...).
+* Brezplačen najem prostora Akademije FRI z interno organizacijsko podporo.
 
 Za več informacij pišite na akademija@fri.uni-lj.si ali pokličite na 01 479 82 68.
