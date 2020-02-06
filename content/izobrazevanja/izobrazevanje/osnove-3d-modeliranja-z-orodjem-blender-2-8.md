@@ -10,7 +10,7 @@ dateStart: 2019-12-02T15:30:00.000Z
 dates:
   - 2020-02-17T15:00:00.000Z
   - 2020-02-18T15:00:00.000Z
-  - 2020-02-20T15:00:00.000Z
+  - 2020-02-19T15:00:00.000Z
 prijavnica: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdJRZlBxKTnn9yv2Cxo5AnnC7jxj6AOotsi08RfWshg6Y4XBw/viewform?usp=sf_link
 summary: >-
