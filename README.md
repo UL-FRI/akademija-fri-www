@@ -79,6 +79,42 @@ URL CMS je na: `/admin`.
 
 Zaradi tehničnih omejitev (omejeno število računov ter pomanjkanje možnosti določitev pravic) ima dostop do CMS samo vzdrževalec spletne strani.
 
+### Ustvarjanje strani ("page")
+1. V direktoriju `content` ustvarimo novo datoteko s končnico `.md`, ki jo poimenujemo enako kot želeno povezavo URL. Na primer: `foo.md` bo ustvarilo stran dostopno na `/foo`.
+2. Odpremo datoteko, ki smo jo ustvarili v prejšnji točki in vstavimo naslednjo vsebino:
+    ```markdown
+    ---
+    title: Foo
+    date: 2020-02-24T11:21:00.000Z
+    bgImage: /uploads/page-title.jpg
+    ---
+    Moja vsebina v formatu markdown.
+    ```
+
+    Vsebino lahko poljubno spreminjamo (parametre: `title`, `date`, `bgImage`).
+    Parameter `bgImage` določa sliko, ki je v ozadju glave strani. 
+    Slike so definirane v direktorju `static/uploads` lahko pa tudi uporabimo vsebino v direktoriju `static/images`. Pozor: predpone `/static` ne pišemo v parametru `bgImage`!
+
+3. Vsebino pišemo v formatu [markdown](https://www.markdownguide.org/basic-syntax).
+
+4. (Opcijsko) Če želimo, da se stran lahko ureja preko sistema CMS je treba povedati sistemu CMS za obstoj nove strani.
+To storimo tako, da v datoteki `static/admin/config.yaml` definiramo nastavitve strani:
+    ```markdown
+    - label: "Foo"
+        file: "content/foo.md"
+        name: "foo"
+        fields:
+          - {label: "Title", name: "title", widget: string}
+          - {label: "Creation Date", name: "date", widget: "datetime"}
+          - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
+          - {label: "Body", name: "body", widget: "markdown"}
+    ```
+
+#### Dodajanje strani v glavni meni
+Odpremo datoteko `config.toml` in dodamo nov `menu.nav` vnos.
+Kot predlogo si vzemite že definirane strani.
+
+
 ### Ostali make ukazi
 #### Produkcija
 ```bash
