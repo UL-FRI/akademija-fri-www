@@ -8,4 +8,4 @@ image: /uploads/fürst-luka.jpg
 phone: +386 1 479 8213
 email: luka.fuerst@fri.uni-lj.si
 ---
-Dr. Luka Füerst je docent na Fakulteti za računalništvo in informatiko UL in član [Laboratorija za tehnologijo programske opreme](https://www.fri.uni-lj.si/sl/laboratorij/ltpo).
+Dr. Luka Fürst je docent na Fakulteti za računalništvo in informatiko UL in član [Laboratorija za tehnologijo programske opreme](https://www.fri.uni-lj.si/sl/laboratorij/ltpo).
