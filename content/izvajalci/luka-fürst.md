@@ -4,7 +4,7 @@ firstName: Luka
 lastName: Fürst
 date: 2020-02-28T09:04:09.258Z
 bgImage: /uploads/c75t9175.jpg
-image: /uploads/c75t2994-fuerst.jpg
+image: /uploads/team_luka_furst.jpg
 phone: +386 1 479 8213
 email: luka.fuerst@fri.uni-lj.si
 ---
