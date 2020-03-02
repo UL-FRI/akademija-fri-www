@@ -31,11 +31,12 @@ summary: >-
 
 Izobraževanje bo izvedeno v dveh delih: Programiranje za začetnike 1 in nadaljevalni del Programiranje za začetnike 2. Udeležite se lahko posamičnega izobraževanja ali pa po ugodnejši ceni kupite paket obeh izobraževanj. Izobraževanje je sestavljeno iz predavanj in praktičnih vaj za utrjevanje znanja. 
 
-## Izvajalec
+### Izvajalec
 
 Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/), docent na Fakulteti za računalništvo in informatiko UL in član Laboratorija za tehnologijo programske opreme.
 
-## Datum
+
+### Datum
 
 *Programiranje za začetnike 1:* 
 
@@ -45,7 +46,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 22. in 23. april ter 6. in 13. maj 2020 od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
-## Vsebina
+### Vsebina
 
 *Programiranje za začetnike 1*
 
@@ -67,11 +68,11 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 **13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
 
-## Za koga?
+### Za koga?
 
 Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezika python.
 
-## Prijavnina
+### Prijavnina
 
 |                                                        | **Programiranje za začetnike 1** (16 šolskih ur) | **Programiranje za začetnike 2** (16 šolskih ur) |
 | ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
