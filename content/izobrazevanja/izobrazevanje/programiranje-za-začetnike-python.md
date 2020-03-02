@@ -62,6 +62,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 * **6. maj:** grafika in grafični uporabniški vmesnik (prvi del)
 * **13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
 
+
 ### Za koga?
 
 Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezika python.
