@@ -1,5 +1,5 @@
 ---
-title: Programiranje za začetnike (python)
+title: Programiranje od začetka (python)
 date: 2020-03-02T10:17:15.791Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/language-2024210_1280.png
@@ -29,7 +29,7 @@ summary: >-
 ---
 **Računalnik je hiter in natančen, toda neumen, človek pa počasen in površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev, se pa bomo dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo. Spoznali bomo osnove programskega jezika po imenu python, ki je hkrati industrijsko zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali, bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.**
 
-Izobraževanje bo izvedeno v dveh delih: Programiranje za začetnike 1 in nadaljevalni del Programiranje za začetnike 2. Udeležite se lahko posamičnega izobraževanja ali pa po ugodnejši ceni kupite paket obeh izobraževanj. Izobraževanje je sestavljeno iz predavanj in praktičnih vaj za utrjevanje znanja. 
+Izobraževanje bo izvedeno v dveh delih: Programiranje od začetka 1 in nadaljevalni del Programiranje od začetka 2. Udeležite se lahko posamičnega izobraževanja ali pa po ugodnejši ceni kupite paket obeh izobraževanj. Izobraževanje je sestavljeno iz predavanj in praktičnih vaj za utrjevanje znanja. 
 
 ### Izvajalec
 
@@ -38,17 +38,17 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 ### Datum
 
-*Programiranje za začetnike 1:* 
+*Programiranje od začetka 1:* 
 
 25. in 26. marec ter 8. in 9. april 2020 od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
-*Programiranje za začetnike 2:* 
+*Programiranje od začetka 2:* 
 
 22. in 23. april ter 6. in 13. maj 2020 od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
 ### Vsebina
 
-*Programiranje za začetnike 1*
+*Programiranje od začetka 1*
 
 **25. marec:** krmilni konstrukti (prvi del)
 
@@ -58,7 +58,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 **9. april:** tabele (drugi del); nizi
 
-*Programiranje za začetnike 2*
+*Programiranje od začetka 2*
 
 **22. april:** množice in slovarji
 
@@ -74,7 +74,7 @@ Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezi
 
 ### Prijavnina
 
-|                                                        | **Programiranje za začetnike 1** (16 šolskih ur) | **Programiranje za začetnike 2** (16 šolskih ur) |
+|                                                        | **Programiranje od začetka 1** (16 šolskih ur) | **Programiranje od začetka 2** (16 šolskih ur) |
 | ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | Polna cena                                             | 220 € + DDV                                      | 220 € + DDV                                      |
 | Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 187 € + DDV                                      | 187 € + DDV                                      |
