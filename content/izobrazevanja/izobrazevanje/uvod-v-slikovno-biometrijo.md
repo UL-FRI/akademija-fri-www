@@ -4,8 +4,8 @@ date: 2019-11-11T10:48:10.515Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/finger-2081169_1280.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2020-02-13T15:30:00.000Z
 dates:
   - 2020-02-13T15:30:00.000Z
