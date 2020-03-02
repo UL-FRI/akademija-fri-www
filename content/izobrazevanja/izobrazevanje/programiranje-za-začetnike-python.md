@@ -49,23 +49,17 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 *Programiranje od začetka 1*
 
-**25. marec:** krmilni konstrukti (prvi del)
-
-**26. marec:** krmilni konstrukti (drugi del)
-
-**8. april:** funkcije; tabele (prvi del)
-
-**9. april:** tabele (drugi del); nizi
+* **25. marec:** krmilni konstrukti (prvi del)
+* **26. marec:** krmilni konstrukti (drugi del)
+* **8. april:** funkcije; tabele (prvi del)
+* **9. april:** tabele (drugi del); nizi
 
 *Programiranje od začetka 2*
 
-**22. april:** množice in slovarji
-
-**23. april:** datoteke
-
-**6. maj:** grafika in grafični uporabniški vmesnik (prvi del)
-
-**13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
+* **22. april:** množice in slovarji
+* **23. april:** datoteke
+* **6. maj:** grafika in grafični uporabniški vmesnik (prvi del)
+* **13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
 
 ### Za koga?
 
