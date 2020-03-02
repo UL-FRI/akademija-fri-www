@@ -4,8 +4,8 @@ date: 2019-11-11T10:09:08.589Z
 bgImage: /uploads/agreement-2642610_1920.jpg
 image: /uploads/56448930_421962581904506_55914955160944640_o.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2019-12-02T15:30:00.000Z
 dates:
   - 2020-02-17T15:00:00.000Z
