@@ -45,7 +45,6 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 * 22. in 23. april ter 6. in 13. maj 2020 od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
-
 ### Vsebina
 
 *Programiranje od začetka 1*
@@ -61,7 +60,6 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 * **23. april:** datoteke
 * **6. maj:** grafika in grafični uporabniški vmesnik (prvi del)
 * **13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
-
 
 ### Za koga?
 
