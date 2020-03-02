@@ -27,7 +27,7 @@ summary: >-
   zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali, bodo sicer
   preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.
 ---
-> Računalnik je hiter in natančen, toda neumen, človek pa počasen in površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev, se pa bomo dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo. Spoznali bomo osnove programskega jezika po imenu python, ki je hkrati industrijsko zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali, bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.
+**Računalnik je hiter in natančen, toda neumen, človek pa počasen in površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev, se pa bomo dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo. Spoznali bomo osnove programskega jezika po imenu python, ki je hkrati industrijsko zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali, bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.**
 
 Izobraževanje bo izvedeno v dveh delih: Programiranje za začetnike 1 in nadaljevalni del Programiranje za začetnike 2. Udeležite se lahko posamičnega izobraževanja ali pa po ugodnejši ceni kupite paket obeh izobraževanj. Izobraževanje je sestavljeno iz predavanj in praktičnih vaj za utrjevanje znanja. 
 
