@@ -39,27 +39,33 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 *Programiranje od začetka 1:* 
 
-* **25. in 26. marec** ter 8. in 9. april 2020 od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
+* **25. in 26. marec** ter **8. in 9. april 2020** od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
 *Programiranje od začetka 2:* 
 
-* **22. in 23. april** ter 6. in 13. maj 2020 od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
+* **22. in 23. april** ter **6. in 13. maj 2020** od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
 #### Vsebina
 
 *Programiranje od začetka 1*
 
-* **25. marec:** krmilni konstrukti (prvi del)
-* **26. marec:** krmilni konstrukti (drugi del)
-* **8. april:** funkcije; tabele (prvi del)
-* **9. april:** tabele (drugi del); nizi
+**25. marec:** krmilni konstrukti (prvi del)
+
+**26. marec:** krmilni konstrukti (drugi del)
+
+**8. april:** funkcije; tabele (prvi del)
+
+**9. april:** tabele (drugi del); nizi
 
 *Programiranje od začetka 2*
 
-* **22. april:** množice in slovarji
-* **23. april:** datoteke
-* **6. maj:** grafika in grafični uporabniški vmesnik (prvi del)
-* **13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
+**22. april:** množice in slovarji
+
+**23. april:** datoteke
+
+**6. maj:** grafika in grafični uporabniški vmesnik (prvi del)
+
+**13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
 
 #### Za koga?
 
@@ -67,14 +73,13 @@ Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezi
 
 #### Prijavnina
 
-| | Programiranje od začetka 1 (16 šolskih ur) | Programiranje od začetka 2 (16 šolskih ur) |
-| --- |  ---- |  --- |
-| Polna cena | 220 € + DDV | 220 € + DDV |
-| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 187 € + DDV | 187 € + DDV |
-| Člani Kluba alumnov FRI (20% popust) | 176 € + DDV | 176 € + DDV |
-| Partnerji Akademije FRI (30% popust) | 154 € + DDV | 154 € + DDV |
-| Študenti | 100 € + DDV | 100 € + DDV |
-
+|                                                        | Programiranje od začetka 1 (16 šolskih ur) | Programiranje od začetka 2 (16 šolskih ur) |
+| ------------------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| Polna cena                                             | 220 € + DDV                                | 220 € + DDV                                |
+| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 187 € + DDV                                | 187 € + DDV                                |
+| Člani Kluba alumnov FRI (20% popust)                   | 176 € + DDV                                | 176 € + DDV                                |
+| Partnerji Akademije FRI (30% popust)                   | 154 € + DDV                                | 154 € + DDV                                |
+| Študenti                                               | 100 € + DDV                                | 100 € + DDV                                |
 
 | PAKET 1+2 (32 šolskih ur)                |             |
 | ---------------------------------------- | ----------- |
