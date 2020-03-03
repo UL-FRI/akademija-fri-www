@@ -67,17 +67,16 @@ Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezi
 
 ### Prijavnina
 
-|                                                        | **Programiranje od začetka 1** (16 šolskih ur) | **Programiranje od začetka 2** (16 šolskih ur) |
-| ------------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| Polna cena                                             | 220 € + DDV                                    | 220 € + DDV                                    |
-| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 187 € + DDV                                    | 187 € + DDV                                    |
-| Člani Kluba alumnov FRI (20% popust)                   | 176 € + DDV                                    | 176 € + DDV                                    |
-| Partnerji Akademije FRI (30% popust)                   | 154 € + DDV                                    | 154 € + DDV                                    |
-| Študenti                                               | 100 € + DDV                                    | 100 € + DDV                                    |
+| | Programiranje od začetka 1 (16 šolskih ur) | Programiranje od začetka 2 (16 šolskih ur) |
+| --- |  ---- |  --- |
+| Polna cena | 220 € + DDV | 220 € + DDV |
+| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 187 € + DDV | 187 € + DDV |
+| Člani Kluba alumnov FRI (20% popust) | 176 € + DDV | 176 € + DDV |
+| Partnerji Akademije FRI (30% popust) | 154 € + DDV | 154 € + DDV |
+| Študenti | 100 € + DDV | 100 € + DDV |
 
-- - -
 
-| **PAKET 1+2** (32 šolskih ur)            |             |
+| PAKET 1+2 (32 šolskih ur)                |             |
 | ---------------------------------------- | ----------- |
 | Polna cena                               | 400 € + DDV |
 | Člani Kluba alumnov UL / zaposleni na UL | 350 € + DDV |
