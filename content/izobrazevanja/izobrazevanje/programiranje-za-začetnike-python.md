@@ -81,7 +81,7 @@ Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezi
 | Partnerji Akademije FRI (30% popust)                   | 154 € + DDV                                | 154 € + DDV                                |
 | Študenti                                               | 100 € + DDV                                | 100 € + DDV                                |
 
-| PAKET 1+2 (32 šolskih ur)                |             |
+| PAKET 1 + 2 (32 šolskih ur)              |             |
 | ---------------------------------------- | ----------- |
 | Polna cena                               | 400 € + DDV |
 | Člani Kluba alumnov UL / zaposleni na UL | 350 € + DDV |
