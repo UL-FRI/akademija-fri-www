@@ -47,7 +47,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 #### Vsebina
 
-*Programiranje od začetka 1*
+* *Programiranje od začetka 1*
 
 **25. marec:** krmilni konstrukti (prvi del)
 
@@ -57,7 +57,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 **9. april:** tabele (drugi del); nizi
 
-*Programiranje od začetka 2*
+* *Programiranje od začetka 2*
 
 **22. april:** množice in slovarji
 
@@ -70,8 +70,6 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 #### Za koga?
 
 Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezika python.
-
-#### Prijavnina
 
 |                                                        | Programiranje od začetka 1 (16 šolskih ur) | Programiranje od začetka 2 (16 šolskih ur) |
 | ------------------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
