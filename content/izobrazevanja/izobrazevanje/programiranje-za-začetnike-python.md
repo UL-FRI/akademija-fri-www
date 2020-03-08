@@ -49,23 +49,77 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 *Programiranje od začetka 1*
 
-**25. marec:** krmilni konstrukti (prvi del)
+**Uvod**
+* malo o programiranju in pythonu nasploh,
+* pythonova konzola,
+* aritmetični operatorji in izrazi,
+* spremenljivka,
+* prireditev,
+* tip,
+* pisanje samostojnih programov,
+* izpisovanje podatkov,
+* branje podatkov.
 
-**26. marec:** krmilni konstrukti (drugi del)
+**Krmilni konstrukti**
+* zaporedje stavkov,
+* pogojni stavki: if, if-else, if-else-elif,
+* primerjalni operatorji,
+* logični operatorji in izrazi,
+* zanka while,
+* zanka for,
+* naključna števila.
 
-**8. april:** funkcije; tabele (prvi del)
+**Funkcije**
+* definicija funkcije,
+* funkcija brez parametrov,
+* funkcija s parametri,
+* vračanje vrednosti.
 
-**9. april:** tabele (drugi del); nizi
+**Tabele**
+* izdelava tabele,
+* dostop do elementov tabele,
+* dolžina tabele,
+* sprehod po tabeli,
+* tipične operacije nad tabelo (maksimum, iskanje ...),
+* pythonove funkcije za delo s tabelami,
+* terke.
+
+**Nizi**
+* definicija niza,
+* niz in znak,
+* funkciji ord in chr,
+* dolžina niza,
+* pythonove funkcije za delo z nizi.
 
 *Programiranje od začetka 2*
 
-**22. april:** množice in slovarji
+**Množice**
+* izdelava množice,
+* dodajanje in odvzemanje elementov,
+* preverjanje prisotnosti elementa,
+* presek, unija in razlika množic,
+* nespremenljivost elementov množice,
+* tipični primeri uporabe množic.
 
-**23. april:** datoteke
+**Slovarji**
+* izdelava slovarja,
+* dostop do vrednosti preko ključa,
+* preverjanje prisotnosti ključa,
+* sprehod po slovarju,
+* tipični primeri uporabe slovarjev.
 
-**6. maj:** grafika in grafični uporabniški vmesnik (prvi del)
+**Datoteke**
+* odpiranje datoteke,
+* branje datotek po vrsticah,
+* pisanje v datoteke,
+* obdelava datotek CSV.
 
-**13. maj:** grafika in grafični uporabniški vmesnik (drugi del)
+**Grafika in grafični uporabniški vmesnik** 
+* izdelava grafičnega okna,
+* preprosto risanje,
+* preproste animacije,
+* odzivanje na pritiske tipk,
+* oznake, gumbi, vnosna polja.
 
 #### Za koga?
 
