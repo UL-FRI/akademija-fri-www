@@ -50,6 +50,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 *Programiranje od začetka 1*
 
 **Uvod**
+
 * malo o programiranju in pythonu nasploh,
 * pythonova konzola,
 * aritmetični operatorji in izrazi,
@@ -61,6 +62,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 * branje podatkov.
 
 **Krmilni konstrukti**
+
 * zaporedje stavkov,
 * pogojni stavki: if, if-else, if-else-elif,
 * primerjalni operatorji,
@@ -70,12 +72,14 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 * naključna števila.
 
 **Funkcije**
+
 * definicija funkcije,
 * funkcija brez parametrov,
 * funkcija s parametri,
 * vračanje vrednosti.
 
 **Tabele**
+
 * izdelava tabele,
 * dostop do elementov tabele,
 * dolžina tabele,
@@ -85,6 +89,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 * terke.
 
 **Nizi**
+
 * definicija niza,
 * niz in znak,
 * funkciji ord in chr,
@@ -94,6 +99,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 *Programiranje od začetka 2*
 
 **Množice**
+
 * izdelava množice,
 * dodajanje in odvzemanje elementov,
 * preverjanje prisotnosti elementa,
@@ -102,6 +108,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 * tipični primeri uporabe množic.
 
 **Slovarji**
+
 * izdelava slovarja,
 * dostop do vrednosti preko ključa,
 * preverjanje prisotnosti ključa,
@@ -109,12 +116,14 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 * tipični primeri uporabe slovarjev.
 
 **Datoteke**
+
 * odpiranje datoteke,
 * branje datotek po vrsticah,
 * pisanje v datoteke,
 * obdelava datotek CSV.
 
 **Grafika in grafični uporabniški vmesnik** 
+
 * izdelava grafičnega okna,
 * preprosto risanje,
 * preproste animacije,
