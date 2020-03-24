@@ -4,7 +4,7 @@ date: 2020-03-02T10:17:15.791Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/language-2024210_1280.png
 type: izobrazevanje
-aktualno: true
+aktualno: false
 preteklo: false
 dateStart: 2020-03-02T10:17:15.837Z
 dates:
