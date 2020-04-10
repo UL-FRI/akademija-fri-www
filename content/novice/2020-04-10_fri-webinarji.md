@@ -23,7 +23,7 @@ DIAGRAMI PRIMEROV UPORABE: PRVI KORAK V SVET UML-JA
 
 KAKO Z BIOMETRIJO PREPOZNAJO VAŠO IDENTITETO?
 
-* Kdaj? Četrtek, 32. 4. 2020, ob 17.00.
+* Kdaj? Četrtek, 23. 4. 2020, ob 17.00.
 * Izvajalec: As. Žiga Emeršič, mag.
 * Prijavite se [TUKAJ](https://docs.google.com/forms/d/e/1FAIpQLSdb_EiJzlRbTGKHN7FJtayRBIxeps7qncwAnrmCHNhtIM3EJQ/viewform?usp=sf_link).
 
