@@ -5,7 +5,7 @@ bgImage: /uploads/c75t2860.jpg
 exposed: true
 image: /uploads/laptop-2557586_1920.jpg
 ---
-Na Fakulteti za računalništvo in informatiko UL smo vam v okviru Akademije FRI pripravili skupek brezplačnih enournih webinarjev. Z njimi vam želimo skrajšati čas, ki ga preživljate v trenutni karanteni in nudimo odlično priložnost za pridobitev dodatnih kompetenc. 
+Na Fakulteti za računalništvo in informatiko UL smo vam v okviru Akademije FRI pripravili skupek brezplačnih enournih webinarjev. Izkoristite čas, ki ga preživljate doma, in pridobite dodatne kompetence.
 
 Profesorji, asistenti in raziskovalci se bodo dotaknili različnih tem, od slovenskih narečij in prepoznave oseb z biometrijo do osnov umetne inteligence. Webinarji so namenjeni tako popolnim laikom kot tudi računalniški stroki. 
 
