@@ -1,7 +1,7 @@
 ---
 title: FRI WEBINARJI
 date: 2020-04-10T08:56:06.095Z
-bgImage: uploads/page-title.jpg
+bgImage: /uploads/c75t9175.jpg
 exposed: true
 ---
 Na Fakulteti za računalništvo in informatiko UL smo vam v okviru Akademije FRI pripravili skupek brezplačnih enournih webinarjev. Z njimi vam želimo skrajšati čas, ki ga preživljate v trenutni karanteni in nudimo odlično priložnost za pridobitev dodatnih kompetenc. 
