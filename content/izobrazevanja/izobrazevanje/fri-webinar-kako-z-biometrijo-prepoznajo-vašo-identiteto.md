@@ -29,6 +29,6 @@ Udeleženci boste pridobili jasnejšo sliko o tem, kaj biometrija sploh je in ka
 
 **Izvajalec:** As. Žiga Emeršič, mag.
 
-**Povezavo do webinarja boste prejeli na vaš e-mail naslov v četrtek, 23. aprila 2020, 30 minut pred pričetkom.**
+**Povezavo do webinarja boste po prijavi prejeli na vaš e-mail naslov v četrtek, 23. aprila 2020, 30 minut pred pričetkom.**
 
 **\*UDELEŽBA JE BREZPLAČNA.\***
