@@ -1,6 +1,6 @@
 ---
 title: "FRI WEBINAR: Biometrične tehnologije razpoznave ljudi"
-date: 2020-04-12T20:40:04.852Z
+date: 2020-04-12T19:53:00.000Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/notebook-2386034_1920.jpg
 type: izobrazevanje
