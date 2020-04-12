@@ -1,6 +1,6 @@
 ---
 title: "FRI WEBINAR: Uvod v umetno inteligenco in strojno učenje"
-date: 2020-04-12T21:32:08.562Z
+date: 2020-04-12T19:54:00.000Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/laptop-2557586_1920.jpg
 type: izobrazevanje
