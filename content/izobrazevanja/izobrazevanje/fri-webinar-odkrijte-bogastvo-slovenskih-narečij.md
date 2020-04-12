@@ -1,12 +1,12 @@
 ---
-title: "FRI WEBINAR: ODKRIJTE BOGASTVO SLOVENSKIH NAREČIJ"
+title: "FRI WEBINAR: Odkrijte bogastvo slovenskih narečij"
 date: 2020-04-12T19:50:31.790Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/laptop-2557586_1920.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2020-04-12T19:50:34.093Z
+dateStart: 2020-04-16T15:00:00.000Z
 dates:
   - 2020-04-16T15:00:00.000Z
 prijavnica: https://docs.google.com/forms/d/e/1FAIpQLSfE5Zu66HVbsILUIwPI6NMpn3Tn6lqAi-_bbbNXZ38JVNTLUg/viewform?usp=sf_link
@@ -17,6 +17,8 @@ summary: Slovenski jezik je zelo razčlenjen, saj pozna 7 narečnih skupin in
   govora. Webinar je namenjen vsem, ki jih zanima odkrivanje narečnih posebnosti
   slovenskega jezika.
 ---
+***Četrtek, 16. april 2020, do 17.00 do 18.00.***
+
 Slovenski jezik je zelo razčlenjen, saj pozna 7 narečnih skupin in preko 40 narečij in podnarečij. Jih poznate? Poznate njihove značilnosti?
 
 Da bi približali slovenska narečja tudi širši javnosti (in hkrati nudili uporabno orodje za dialektologe) smo na FRI UL v sodelovanju s FF UL pripravili nekaj spletnih aplikacij za temo narečnega govora. Izpeljani projekti so pokazali priložnosti in izzive, ki jih nove tehnologije nudijo tudi na področju jezikoslovja. Znati jih moramo le izkoristiti.
@@ -27,6 +29,8 @@ Webinar predstavi dve spletni aplikaciji: Interaktivna karta slovenskih narečni
 
 Webinar je namenjen vsem, ki jih zanima odkrivanje narečnih posebnosti slovenskega jezika, še posebej pa morebitnim strokovnim uporabnikov predstavljenih spletnih aplikacij, kot so študenti slovenistike, učitelji slovenščine in dialektologi.
 
-**Povezavo do webinarja boste prejeli na vaš e-mail naslov v četrtek, 16. aprila 2020, 30 minut pred pričetkom.**
+**Izvajalka:** Viš. pred. dr. Alenka Kavčič
+
+**Povezavo do webinarja boste po prijavi prejeli na vaš e-mail naslov v četrtek, 16. aprila 2020, 30 minut pred pričetkom.**
 
 **\*UDELEŽBA JE BREZPLAČNA.\***
