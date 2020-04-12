@@ -1,6 +1,6 @@
 ---
 title: "FRI WEBINAR: Diagrami primerov uporabe: Prvi korak v svet UML-ja"
-date: 2020-04-12T20:34:29.485Z
+date: 2020-04-12T19:51:00.000Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/notebook-2386034_1920.jpg
 type: izobrazevanje
