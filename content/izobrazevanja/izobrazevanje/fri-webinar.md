@@ -20,7 +20,7 @@ summary: Webinar predstavi osnove modelirnega jezika UML in njegovo uporabo s
 
 Univerzalni modelirni jezik UML uporabljamo tudi pri procesu izdelave programske opreme za modeliranje oz. predstavitev različnih vidikov želene programske rešitve. S tem omogočimo abstrakcijo sistema, tako da se lažje osredotočimo na rešitve posameznih delov problema, hkrati pa vzdržujemo konsistentni model celotnega sistema.
 
-Webinar predstavi osnove modelirnega jezika UML in njegovo uporabo s poudarkom na diagramih primerov uporabe, ki so osnovni diagrami za zapis funkcionalnosti sistema in nudijo visokonivojski pogled na sistem. Zaradi svoje enostavnosti omogočajo tudi nekoliko bolj formalen način komunikacije z naročnikom in usklajevanja zajetih uporabniških zahtev. Na njih nato gradimo nadaljnji razvoj sistema. V okviru webinarja bomo spoznali postopek izdelave diagrama primerov uporabe na realnem problemu.
+Webinar predstavi osnove modelirnega jezika UML in njegovo uporabo s poudarkom na diagramih primerov uporabe, ki so osnovni diagrami za zapis funkcionalnosti sistema in nudijo visokonivojski pogled na sistem. Zaradi svoje enostavnosti omogočajo tudi nekoliko bolj formalen način komunikacije z naročnikom in usklajevanja zajetih uporabniških zahtev. Na njih nato gradimo nadaljnji razvoj sistema. V okviru webinarja bomo spoznali postopek izdelave diagrama primerov uporabe na realnem problemu. 
 
 **Zakaj se udeležiti webinarja?**
 
