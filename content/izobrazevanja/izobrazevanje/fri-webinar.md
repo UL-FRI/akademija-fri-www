@@ -1,5 +1,5 @@
 ---
-title: "FRI WEBINAR:"
+title: "FRI WEBINAR: DIAGRAMI PRIMEROV UPORABE: PRVI KORAK V SVET UML-JA"
 date: 2020-04-12T20:34:29.485Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/notebook-2386034_1920.jpg
