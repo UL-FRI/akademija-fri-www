@@ -1,6 +1,6 @@
 ---
 title: "FRI WEBINAR: Kako z biometrijo prepoznajo vašo identiteto?"
-date: 2020-04-12T20:30:00.000Z
+date: 2020-04-12T19:52:00.000Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/notebook-2386034_1920.jpg
 type: izobrazevanje
