@@ -1,7 +1,7 @@
 ---
 title: "FRI WEBINAR: ODKRIJTE BOGASTVO SLOVENSKIH NAREČIJ"
 date: 2020-04-12T19:50:31.790Z
-bgImage: /uploads/friwebinar-fb-li.png
+bgImage: /uploads/c75t9175.jpg
 image: /uploads/laptop-2557586_1920.jpg
 type: izobrazevanje
 aktualno: true
@@ -15,9 +15,7 @@ summary: Slovenski jezik je zelo razčlenjen, saj pozna 7 narečnih skupin in
   javnosti (in hkrati nudili uporabno orodje za dialektologe), smo na FRI UL v
   sodelovanju s FF UL pripravili nekaj spletnih aplikacij za temo narečnega
   govora. Webinar je namenjen vsem, ki jih zanima odkrivanje narečnih posebnosti
-  slovenskega jezika, še posebej pa morebitnim strokovnim uporabnikov
-  predstavljenih spletnih aplikacij, kot so študenti slovenistike, učitelji
-  slovenščine in dialektologi.
+  slovenskega jezika.
 ---
 Slovenski jezik je zelo razčlenjen, saj pozna 7 narečnih skupin in preko 40 narečij in podnarečij. Jih poznate? Poznate njihove značilnosti?
 
