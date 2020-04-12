@@ -6,7 +6,7 @@ image: /uploads/notebook-2386034_1920.jpg
 type: izobrazevanje
 aktualno: true
 preteklo: false
-dateStart: 2020-04-12T20:45:24.487Z
+dateStart: 2020-04-23T15:00:00.000Z
 dates:
   - 2020-04-23T15:00:00.000Z
 prijavnica: https://www.eventbrite.com/e/102418342018
