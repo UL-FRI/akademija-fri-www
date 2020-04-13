@@ -9,7 +9,7 @@ preteklo: false
 dateStart: 2020-04-16T15:00:00.000Z
 dates:
   - 2020-04-16T15:00:00.000Z
-prijavnica: https://docs.google.com/forms/d/e/1FAIpQLSfE5Zu66HVbsILUIwPI6NMpn3Tn6lqAi-_bbbNXZ38JVNTLUg/viewform?usp=sf_link
+prijavnica: https://www.eventbrite.com/e/102414817476
 summary: Slovenski jezik je zelo razčlenjen, saj pozna 7 narečnih skupin in
   preko 40 narečij in podnarečij. Da bi približali slovenska narečja tudi širši
   javnosti (in hkrati nudili uporabno orodje za dialektologe), smo na FRI UL v
