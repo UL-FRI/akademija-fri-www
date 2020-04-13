@@ -13,7 +13,7 @@ ODKRIJTE BOGASTVO SLOVENSKIH NAREČIJ
 
 * Kdaj? Četrtek, 16. 4. 2020, ob 17.00.
 * Izvajalka: Viš. pred. dr. Alenka Kavčič
-* Prijavite se [TUKAJ](https://docs.google.com/forms/d/e/1FAIpQLSfE5Zu66HVbsILUIwPI6NMpn3Tn6lqAi-_bbbNXZ38JVNTLUg/viewform?usp=sf_link).
+* Prijavite se [TUKAJ](https://www.eventbrite.com/e/102414817476).
 
 DIAGRAMI PRIMEROV UPORABE: PRVI KORAK V SVET UML-JA
 
