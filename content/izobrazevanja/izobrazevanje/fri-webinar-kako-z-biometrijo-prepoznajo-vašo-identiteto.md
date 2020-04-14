@@ -11,7 +11,7 @@ dates:
   - 2020-04-23T15:00:00.000Z
 prijavnica: https://www.eventbrite.com/e/102418342018
 summary: Z biometrijo prepoznavamo ljudi na podlagi različnih modalnosti kot je
-  obraz, mrežnica, šarenica, uhlji, prstni odtis, glas … Na webnarju boste
+  obraz, mrežnica, šarenica, uhlji, prstni odtis, glas … Na webinarju boste
   pridobili jasnejšo sliko o tem, kaj biometrija sploh je in kaj se dogaja v
   zakulisju. Želimo vas spodbuditi k odgovorni uporabi naprav, ki pridobivajo
   vaše biometrične podatke in razširiti zavedanje o pozitivnih in negativnih
