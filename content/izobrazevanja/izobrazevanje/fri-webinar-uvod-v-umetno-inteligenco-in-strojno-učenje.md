@@ -1,5 +1,5 @@
 ---
-title: "FRI WEBINAR: Uvod v umetno inteligenco in strojno učenje"
+title: "FRI WEBINAR: Globoko učenje v računalniškem vidu"
 date: 2020-04-12T19:54:00.000Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/laptop-2557586_1920.jpg
