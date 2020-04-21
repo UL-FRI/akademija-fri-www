@@ -11,10 +11,12 @@ Profesorji, asistenti in raziskovalci se bodo dotaknili različnih tem, od slove
 
 ODKRIJTE BOGASTVO SLOVENSKIH NAREČIJ
 
+* Izvajalka: Viš. pred. dr. Alenka Kavčič
 * Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=L16VBbdp9NJMTiQYYasBJ147).
 
 DIAGRAMI PRIMEROV UPORABE: PRVI KORAK V SVET UML-JA
 
+* Izvajalka: Viš. pred. dr. Alenka Kavčič
 * Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=s1QF9VTlnkUI7UjbRfFAYtnB).
 
 KAKO Z BIOMETRIJO PREPOZNAJO VAŠO IDENTITETO?
