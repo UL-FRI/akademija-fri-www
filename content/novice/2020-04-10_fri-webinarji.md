@@ -11,15 +11,11 @@ Profesorji, asistenti in raziskovalci se bodo dotaknili različnih tem, od slove
 
 ODKRIJTE BOGASTVO SLOVENSKIH NAREČIJ
 
-* Kdaj? Četrtek, 16. 4. 2020, ob 17.00.
-* Izvajalka: Viš. pred. dr. Alenka Kavčič
-* Prijavite se [TUKAJ](https://www.eventbrite.com/e/102414817476).
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=L16VBbdp9NJMTiQYYasBJ147).
 
 DIAGRAMI PRIMEROV UPORABE: PRVI KORAK V SVET UML-JA
 
-* Kdaj? Torek, 21. 4. 2020, ob 17.00.
-* Izvajalka: Viš. pred. dr. Alenka Kavčič
-* Prijavite se [TUKAJ](https://www.eventbrite.com/e/102417236712).
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=s1QF9VTlnkUI7UjbRfFAYtnB).
 
 KAKO Z BIOMETRIJO PREPOZNAJO VAŠO IDENTITETO?
 
