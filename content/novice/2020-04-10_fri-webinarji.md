@@ -30,7 +30,7 @@ BIOMETRIČNE TEHNOLOGIJE RAZPOZNAVE LJUDI
 * Izvajalec: As. Žiga Emeršič, mag.
 * Prijavite se [TUKAJ](https://www.eventbrite.com/e/102418592768).
 
-.GLOBOKO UČENJE V RAČUNALNIŠKEM VIDU
+GLOBOKO UČENJE V RAČUNALNIŠKEM VIDU
 
 * Kdaj? Četrtek, 30. 4. 2020, ob 17.00.
 * Izvajalca: Izr. prof. dr. Danijel Skočaj in Domen Tabernik, uni. dipl. inž.
