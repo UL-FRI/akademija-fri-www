@@ -26,7 +26,6 @@ KAKO Z BIOMETRIJO PREPOZNAJO VAŠO IDENTITETO?
 
 BIOMETRIČNE TEHNOLOGIJE RAZPOZNAVE LJUDI
 
-* Kdaj? Torek, 28. 4. 2020, ob 17.00.
 * Izvajalec: As. Žiga Emeršič, mag.
 * Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=b1AgSGRaRm5VRZhoYZfK1IKH). Ob strani videa pa si lahko prenesete prezentacijo.
 
