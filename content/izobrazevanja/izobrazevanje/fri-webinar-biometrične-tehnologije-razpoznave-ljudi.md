@@ -4,8 +4,8 @@ date: 2020-04-12T19:53:00.000Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/notebook-2386034_1920.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2020-04-28T15:00:00.000Z
 dates:
   - 2020-04-28T15:00:00.000Z
