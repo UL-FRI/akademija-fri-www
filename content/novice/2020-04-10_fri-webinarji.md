@@ -28,7 +28,7 @@ BIOMETRIČNE TEHNOLOGIJE RAZPOZNAVE LJUDI
 
 * Kdaj? Torek, 28. 4. 2020, ob 17.00.
 * Izvajalec: As. Žiga Emeršič, mag.
-* Prijavite se [TUKAJ](https://www.eventbrite.com/e/102418592768).
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=b1AgSGRaRm5VRZhoYZfK1IKH). Ob strani videa pa si lahko prenesete prezentacijo.
 
 GLOBOKO UČENJE V RAČUNALNIŠKEM VIDU
 
