@@ -34,3 +34,9 @@ GLOBOKO UČENJE V RAČUNALNIŠKEM VIDU
 * Kdaj? Četrtek, 30. 4. 2020, ob 17.00.
 * Izvajalca: Izr. prof. dr. Danijel Skočaj in Domen Tabernik, uni. dipl. inž.
 * Prijavite se [TUKAJ](https://www.eventbrite.com/e/102419310916).
+
+ANALIZA COVID-19 TVITOV IN NJIHOVEGA SENTIMENTA
+
+* Kdaj? Četrtek, 7. 5. 2020, ob 17.00.
+* Izvajalka: As. Ajda Pretnar
+* Prijavite se [TUKAJ](https://www.eventbrite.com/e/fri-webinar-analiza-covid-19-tvitov-in-njihovega-sentimenta-tickets-104021866202).
