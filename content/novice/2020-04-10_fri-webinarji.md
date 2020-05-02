@@ -31,9 +31,8 @@ BIOMETRIČNE TEHNOLOGIJE RAZPOZNAVE LJUDI
 
 GLOBOKO UČENJE V RAČUNALNIŠKEM VIDU
 
-* Kdaj? Četrtek, 30. 4. 2020, ob 17.00.
 * Izvajalca: Izr. prof. dr. Danijel Skočaj in Domen Tabernik, uni. dipl. inž.
-* Prijavite se [TUKAJ](https://www.eventbrite.com/e/102419310916).
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=f1bWPbCWAkZZY1TZXjUEpWHB).
 
 ANALIZA COVID-19 TVITOV IN NJIHOVEGA SENTIMENTA
 
