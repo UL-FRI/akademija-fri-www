@@ -32,9 +32,9 @@ BIOMETRIČNE TEHNOLOGIJE RAZPOZNAVE LJUDI
 GLOBOKO UČENJE V RAČUNALNIŠKEM VIDU
 
 * Izvajalca: Izr. prof. dr. Danijel Skočaj in Domen Tabernik, uni. dipl. inž.
-* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=f1bWPbCWAkZZY1TZXjUEpWHB).
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=f1bWPbCWAkZZY1TZXjUEpWHB). Ob strani videa pa si lahko prenesete prezentacijo.
 
 ANALIZA COVID-19 TVITOV IN NJIHOVEGA SENTIMENTA
 
 * Izvajalka: As. Ajda Pretnar
-* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=AMaaUIYHROpRjdSVRcqTmgIP).
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=AMaaUIYHROpRjdSVRcqTmgIP). Ob strani videa pa si lahko prenesete prezentacijo.
