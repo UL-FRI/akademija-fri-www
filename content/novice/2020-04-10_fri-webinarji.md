@@ -36,6 +36,5 @@ GLOBOKO UČENJE V RAČUNALNIŠKEM VIDU
 
 ANALIZA COVID-19 TVITOV IN NJIHOVEGA SENTIMENTA
 
-* Kdaj? Četrtek, 7. 5. 2020, ob 17.00.
 * Izvajalka: As. Ajda Pretnar
-* Prijavite se [TUKAJ](https://www.eventbrite.com/e/fri-webinar-analiza-covid-19-tvitov-in-njihovega-sentimenta-tickets-104021866202).
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=AMaaUIYHROpRjdSVRcqTmgIP).
