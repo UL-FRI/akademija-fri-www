@@ -38,3 +38,9 @@ ANALIZA COVID-19 TVITOV IN NJIHOVEGA SENTIMENTA
 
 * Izvajalka: As. Ajda Pretnar
 * Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=AMaaUIYHROpRjdSVRcqTmgIP). Ob strani videa pa si lahko prenesete prezentacijo.
+
+SPLETNE PREVARE V ČASU COVID-19 
+
+* Izvajalec: Dr. David Modic
+* Četrtek, 28. 5. 2020, od 17.00 do 18.00
+* [PRIJAVNICA](https://www.eventbrite.com/e/106631688250)
