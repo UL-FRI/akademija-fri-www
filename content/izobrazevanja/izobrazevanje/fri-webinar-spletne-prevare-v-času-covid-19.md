@@ -33,7 +33,7 @@ Za piko odret, na koncu, bomo še malo tuhtali o tem, kaj narediti in kako se zl
 
 Da vam ne bo dolgčas. Vsi poznamo tisto mitsko bitje, ki je nasedlo na prevaro. Verjetno to bitje živi skupaj s tistim bratrancem od sosedovega nečaka v tretjem kolenu. Tistim, ki je preživel, ko ga je z avtom odneslo v jezero samo zato, ker ni bil pripasan in je lahko splaval na površje. Resno, zakaj poslušati ta webinar? Zato, ker predavatelj sledi novostim v svetu prevar, da vam ni treba. Če vas tema zanima, se vklopite. 
 
-**Izvajalec:** dr. David Modic (več na https://david.deception.org.uk)
+**Izvajalec:** dr. David Modic (več na <https://david.deception.org.uk>)
 
 **Povezavo do webinarja boste prejeli na vaš e-mail naslov v četrtek, 28. maja 2020, 30 minut pred pričetkom.**
 
