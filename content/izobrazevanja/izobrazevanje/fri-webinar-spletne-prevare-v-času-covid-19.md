@@ -17,7 +17,7 @@ summary: Ker prevaranti nikoli ne spijo, bomo na webinarju pogledali v teorijo
   tem, kaj novega po svetu najdemo. So stare prevare najboljše? So nove sploh
   kaj drugačne? Je bolje, če narod misli, da mu vladajo bedaki, ali pa da mu
   vladajo pokvarjenci? Za piko odret, na koncu, bomo še malo tuhtali o tem, kaj
-  narediti in kako se zlemu obraniti.
+  narediti in kako se zla obraniti.
 ---
 ***Četrtek, 28. 4. 2020, od 17.00 do 18.00.***
 
@@ -27,7 +27,7 @@ Prevaranti nikoli ne spijo, ker kot koprive, tudi oni ne pozebejo. In v času kr
 
 Ampak to ni vse, saj z golo roko se kače ne lovijo. Orodje imamo, zdaj pa še vajo naredimo. Pogledali bomo par primerov in se pogovorili o tem, kaj novega po svetu najdemo. So stare prevare najboljše? So nove sploh kaj drugačne? Je bolje, če narod misli, da mu vladajo bedaki, ali pa da mu vladajo pokvarjenci? 
 
-Za piko odret, na koncu, bomo še malo tuhtali o tem, kaj narediti in kako se zlemu obraniti. 
+Za piko odret, na koncu, bomo še malo tuhtali o tem, kaj narediti in kako se zla obraniti. 
 
 **Zakaj se udeležiti webinarja?** 
 
