@@ -1,5 +1,5 @@
 ---
-title: Vzpostavitev biometrije v poslovnih prostorih
+title: "FRI WEBINAR: Vzpostavitev biometrije v poslovnih prostorih"
 date: 2020-05-28T12:39:55.562Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/laptop-2557586_1920.jpg
