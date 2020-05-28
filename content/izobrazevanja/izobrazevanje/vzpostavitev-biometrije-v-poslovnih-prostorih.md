@@ -13,7 +13,7 @@ summary: Pravno-biometrični webinar je namenjen predvsem podjetjem, ki želijo
   pridobiti boljšo predstavo o uporabi biometrije v podjetju in njenih pravnih
   aspektih.
 ---
-Ta pravno-biometrični webinar je namenjen predvsem podjetjem, ki želijo pridobiti boljšo predstavo o uporabi biometrije v podjetju in njenih pravnih aspektih. Sestavljen bo iz dveh delov:
+Ta pravno-biometrični webinar je namenjen predvsem podjetjem, ki želijo pridobiti boljšo predstavo o uporabi biometrije v podjetju in njenih pravnih aspektih. 
 
 Sestavljen bo iz dveh delov:
 
