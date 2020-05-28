@@ -42,5 +42,10 @@ ANALIZA COVID-19 TVITOV IN NJIHOVEGA SENTIMENTA
 SPLETNE PREVARE V ČASU COVID-19 
 
 * Izvajalec: Dr. David Modic
-* Četrtek, 28. 5. 2020, od 17.00 do 18.00
-* [PRIJAVNICA](https://www.eventbrite.com/e/106631688250)
+* Posnetek webinarja je dostopen [TUKA](https://video.arnes.si/portal/asset.zul?id=j1aUbTGoWNgfW9TbRnuq15Eg)J. Ob strani videa pa si lahko prenesete prezentacijo.
+
+VZPOSTAVITEV BIOMETRIJE V POSLOVNIH PROSTORIH
+
+* Izvajalca: As. Žiga Emeršič, mag. (UL FRI) in Ana Antunićević, mag. prav. (Consilium d.o.o.)
+* Četrtek, 4. 6. 2020, od 17.00 do 18.00
+* [PRIJAVNICA](https://www.eventbrite.com/e/107127234442)
