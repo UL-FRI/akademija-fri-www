@@ -42,7 +42,7 @@ ANALIZA COVID-19 TVITOV IN NJIHOVEGA SENTIMENTA
 SPLETNE PREVARE V ČASU COVID-19 
 
 * Izvajalec: Dr. David Modic
-* Posnetek webinarja je dostopen [TUKA](https://video.arnes.si/portal/asset.zul?id=j1aUbTGoWNgfW9TbRnuq15Eg)J. Ob strani videa pa si lahko prenesete prezentacijo.
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=j1aUbTGoWNgfW9TbRnuq15Eg). Ob strani videa pa si lahko prenesete prezentacijo.
 
 VZPOSTAVITEV BIOMETRIJE V POSLOVNIH PROSTORIH
 
