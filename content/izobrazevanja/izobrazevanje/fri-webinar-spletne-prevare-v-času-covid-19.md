@@ -4,8 +4,8 @@ date: 2020-05-25T12:14:45.495Z
 bgImage: /uploads/c75t9175.jpg
 image: /uploads/notebook-2386034_1920.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2020-05-28T15:00:00.000Z
 dates:
   - 2020-05-28T15:00:00.000Z
@@ -19,7 +19,7 @@ summary: Ker prevaranti nikoli ne spijo, bomo na webinarju pogledali v teorijo
   vladajo pokvarjenci? Za piko odret, na koncu, bomo še malo tuhtali o tem, kaj
   narediti in kako se zla obraniti.
 ---
-***Četrtek, 28. 4. 2020, od 17.00 do 18.00.***
+***Četrtek, 28. 5. 2020, od 17.00 do 18.00.***
 
 Za hec bomo v tem opisu poskusili uporabiti čim več ljudskih rekov:
 
