@@ -10,12 +10,17 @@ dateStart: 2020-05-28T12:39:55.602Z
 dates:
   - 2020-06-04T15:00:00.000Z
 prijavnica: https://www.eventbrite.com/e/107127234442
-summary: Z udeležbo tega pravno-biometričnega webinarja boste pridobili boljšo
-  predstavo o uporabi biometrije v podjetju in njenih pravnih aspektih.
+summary: >-
+  Z udeležbo na tem pravno-biometričnem webinarju boste pridobili boljšo
+  predstavo o uporabi biometrije v podjetju (tehnični aspekt) in njenih pravnih
+  aspektih (Ocene učinkov tveganja).
+
+
+  .
 ---
 ***Četrtek, 4. 6. 2020, od 17.00 do 18.00.***
 
-Z udeležbo tega pravno-biometričnega webinarja boste pridobili boljšo predstavo o uporabi biometrije v podjetju in njenih pravnih aspektih. 
+Z udeležbo na tem pravno-biometričnem webinarju boste pridobili boljšo predstavo o uporabi biometrije v podjetju in njenih pravnih aspektih. 
 
 Sestavljen bo iz dveh delov:
 
