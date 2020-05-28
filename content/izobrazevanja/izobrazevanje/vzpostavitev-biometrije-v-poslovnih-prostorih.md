@@ -17,5 +17,5 @@ Ta pravno-biometrični webinar je namenjen predvsem podjetjem, ki želijo pridob
 
 Sestavljen bo iz dveh delov:
 
-1. Tehnični aspekt vzpostavitve uporabe biometrije (kaj je biometrije, kako deluje, zakaj jo je priporočljivo uporabiti in kakšna so tveganja).
+1. Tehnični aspekt vzpostavitve uporabe biometrije (kaj je biometrija, kako deluje, zakaj jo je priporočljivo uporabiti in kakšna so tveganja).
 2. Opredelitev pravnega okvirja za vzpostavitev uporabe biometrije v poslovnih prostorih, pri čemer se bomo osredotočili predvsem na ustrezno pripravo Ocene učinkov tveganja (t.i. DPIA).
