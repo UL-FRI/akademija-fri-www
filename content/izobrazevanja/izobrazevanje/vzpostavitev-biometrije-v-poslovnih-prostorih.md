@@ -27,7 +27,7 @@ Sestavljen bo iz dveh delov:
 1. Tehnični aspekt vzpostavitve uporabe biometrije (kaj je biometrija, kako deluje, zakaj jo je priporočljivo uporabiti in kakšna so tveganja).
 2. Opredelitev pravnega okvirja za vzpostavitev uporabe biometrije v poslovnih prostorih, kjer bo poudarek predvsem na ustrezni pripravi Ocene učinkov tveganja (t.i. DPIA).
 
-**Izvajalca:** as. Žiga Emeršič, mag. (UL FRI) in Ana Antunićević, mag. prav. (Consilium d.o.o.)
+**Izvajalca:** as. Žiga Emeršič, mag. (UL FRI) in Ana Antunićević, mag. prav. (Consilium pravno svetovanje, Ana Antunićević s.p.)
 
 **Povezavo do webinarja boste prejeli na vaš e-mail naslov v četrtek, 4. junija 2020, 30 minut pred pričetkom.**
 
