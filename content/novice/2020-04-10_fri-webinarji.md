@@ -47,5 +47,4 @@ SPLETNE PREVARE V ČASU COVID-19
 VZPOSTAVITEV BIOMETRIJE V POSLOVNIH PROSTORIH
 
 * Izvajalca: As. Žiga Emeršič, mag. (UL FRI) in Ana Antunićević, mag. prav. (Consilium pravno svetovanje, Ana Antunićević s.p.)
-* Četrtek, 4. 6. 2020, od 17.00 do 18.00
-* [PRIJAVNICA](https://www.eventbrite.com/e/107127234442)
+* Posnetek webinarja je dostopen [TUKAJ](https://video.arnes.si/portal/asset.zul?id=ffdodubnaQIxVWagNwfGW33T). Ob strani videa pa si lahko prenesete prezentacijo.
