@@ -80,8 +80,8 @@ Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezi
 
 |                                                        | Programiranje od začetka (12 šolskih ur) |
 | ------------------------------------------------------ | ---------------------------------------- |
-| Polna cena                                             | 150 € + DDV                              |
-| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 127,5 € + DDV                            |
-| Člani Kluba alumnov FRI (20% popust)                   | 120 € + DDV                              |
-| Partnerji Akademije FRI (30% popust)                   | 105 € + DDV                              |
-| Študenti                                               | 70 € + DDV                               |
+| Polna cena                                             | 150,00 € + DDV                           |
+| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 127,50 € + DDV                           |
+| Člani Kluba alumnov FRI (20% popust)                   | 120,00 € + DDV                           |
+| Partnerji Akademije FRI (30% popust)                   | 105,00 € + DDV                           |
+| Študenti                                               | 70,00 € + DDV                            |
