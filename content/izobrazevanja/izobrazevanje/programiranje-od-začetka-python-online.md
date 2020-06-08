@@ -4,7 +4,7 @@ date: 2020-06-05T12:19:10.890Z
 bgImage: uploads/page-title.jpg
 image: /uploads/animal-161424_640.png
 type: izobrazevanje
-aktualno: false
+aktualno: true
 preteklo: false
 dateStart: 2020-06-05T12:19:10.922Z
 dates:
