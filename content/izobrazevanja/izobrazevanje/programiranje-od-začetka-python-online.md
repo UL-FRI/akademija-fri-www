@@ -21,7 +21,7 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 #### Datum
 
-* **25. in 26. marec** ter **8. in 9. april 2020** od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
+V ponedeljkih in četrtkih, 15., 18., 29. junija in 2. julija, od 17.00 do 20.00 ure.
 
 #### Vsebina
 
@@ -70,18 +70,10 @@ Za popolne začetnike ali tiste, ki si želite obnoviti osnove programskega jezi
 
 #### Cena prijavnine
 
-|                                                        | Programiranje od začetka 1 (16 šolskih ur) | Programiranje od začetka 2 (16 šolskih ur) |
-| ------------------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| Polna cena                                             | 220 € + DDV                                | 220 € + DDV                                |
-| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 187 € + DDV                                | 187 € + DDV                                |
-| Člani Kluba alumnov FRI (20% popust)                   | 176 € + DDV                                | 176 € + DDV                                |
-| Partnerji Akademije FRI (30% popust)                   | 154 € + DDV                                | 154 € + DDV                                |
-| Študenti                                               | 100 € + DDV                                | 100 € + DDV                                |
-
-| PAKET 1 + 2 (32 šolskih ur)              |             |
-| ---------------------------------------- | ----------- |
-| Polna cena                               | 400 € + DDV |
-| Člani Kluba alumnov UL / zaposleni na UL | 350 € + DDV |
-| Člani Kluba alumnov FRI                  | 280 € + DDV |
-| Partnerji Akademije FRI                  | 245 € + DDV |
-| Študenti                                 | 150 € + DDV |
+|                                                        | Programiranje od začetka (12 šolskih ur) |
+| ------------------------------------------------------ | ---------------------------------------- |
+| Polna cena                                             | 150 € + DDV                              |
+| Člani Kluba alumnov UL in zaposleni na UL (15% popust) | 127,5 € + DDV                            |
+| Člani Kluba alumnov FRI (20% popust)                   | 120 € + DDV                              |
+| Partnerji Akademije FRI (30% popust)                   | 105 € + DDV                              |
+| Študenti                                               | 70 € + DDV                               |
