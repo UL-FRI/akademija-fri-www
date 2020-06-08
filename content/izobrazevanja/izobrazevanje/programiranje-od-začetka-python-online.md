@@ -13,13 +13,13 @@ dates:
   - 2020-06-29T15:00:00.000Z
   - 2020-07-02T15:00:00.000Z
 prijavnica: https://docs.google.com/forms/d/e/1FAIpQLScGI5FOojvtAm3b3yOju6DV6VLBmcKIsV0sEXkXROEV7nqzaQ/viewform?usp=sf_link
-summary: "**Računalnik je hiter in natančen, toda neumen, človek pa počasen in
+summary: Računalnik je hiter in natančen, toda neumen, človek pa počasen in
   površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko
   dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev,
   se pa bomo dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo.
   Spoznali bomo osnove programskega jezika po imenu python, ki je hkrati
   industrijsko zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali,
-  bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.**"
+  bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.
 ---
 **Računalnik je hiter in natančen, toda neumen, človek pa počasen in površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev, se pa bomo dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo. Spoznali bomo osnove programskega jezika po imenu python, ki je hkrati industrijsko zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali, bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.**
 
