@@ -33,7 +33,7 @@ collections:
       - {label: "Aktualno", name: "aktualno", widget: "boolean", default: true}
       - {label: "Preteklo", name: "preteklo", widget: "boolean", default: false}
       - {label: "Date Start", name: "dateStart", widget: "datetime"}
-      - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime"}}
+      - {label: "Dates", name: "dates", widget: "list", field: {label: "Date", widget: "datetime", name: "date"}}
       - {label: "Prijavnica", name: "prijavnica", widget: "string", required: false}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -68,7 +68,7 @@ collections:
       - {label: "Background image", name: "bgImage", widget: "image", default: "uploads/page-title.jpg"}
       - {label: "Type", name: "type", widget: "hidden", default: "izobrazevanjaZaPodjetja"}
       - {label: "Tags", name: "tagsIzobrazevanjaZaPodjetja", widget: list, required: false}
-      - {label: "Izvajalci", name: "izvajalci", widget: "list", field: {label: "Izvajalec", widget: "string"}}
+      - {label: "Izvajalci", name: "izvajalci", widget: "list", field: {label: "Izvajalec", widget: "string", name: "izvajalec"}}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Izobraževanja za šole"
     name: "izobrazevanjaZaSole"
