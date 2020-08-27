@@ -6,26 +6,24 @@ image: /uploads/language-2024210_1280.png
 type: izobrazevanje
 aktualno: false
 preteklo: false
-dateStart: 2020-03-02T10:17:15.837Z
+dateStart: 2020-08-27T09:17:15.837Z
 dates:
-  - 2020-03-25T15:30:00.000Z
-  - 2020-03-26T15:30:00.000Z
-  - 2020-04-08T14:30:00.000Z
-  - 2020-04-09T14:30:00.000Z
-  - 2020-04-22T14:30:00.000Z
-  - 2020-04-23T14:30:00.000Z
-  - 2020-05-06T14:30:00.000Z
-  - 2020-05-13T14:30:00.000Z
-prijavnica: >-
-  https://docs.google.com/forms/d/e/1FAIpQLSc71n6hEF2P8FvQQ_naVTOQdcQyoHaCsvC1Ddik68Q_2-3mdg/viewform?usp=sf_link
-summary: >-
-  Računalnik je hiter in natančen, toda neumen, človek pa počasen in površen, a
-  inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko dosežeta čudeže,
-  je še dodal. Na izobraževanju sicer ne bomo delali čudežev, se pa bomo
-  dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo. Spoznali
-  bomo osnove programskega jezika po imenu python, ki je hkrati industrijsko
-  zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali, bodo sicer
-  preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.
+  - 2020-09-30T14:30:00.000Z
+  - 2020-10-05T14:30:00.000Z
+  - 2020-10-07T14:30:00.000Z
+  - 2020-10-12T14:30:00.000Z
+  - 2020-10-14T14:30:00.000Z
+  - 2020-10-19T14:30:00.000Z
+  - 2020-10-21T14:30:00.000Z
+  - 2020-10-26T15:30:00.000Z
+prijavnica: ""
+summary: Računalnik je hiter in natančen, toda neumen, človek pa počasen in
+  površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko
+  dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev,
+  se pa bomo dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo.
+  Spoznali bomo osnove programskega jezika po imenu python, ki je hkrati
+  industrijsko zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali,
+  bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.
 ---
 **Računalnik je hiter in natančen, toda neumen, človek pa počasen in površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev, se pa bomo dotaknili programiranja, dejavnosti, ki jih je ustvarila že mnogo. Spoznali bomo osnove programskega jezika po imenu python, ki je hkrati industrijsko zanimiv in prijazen začetnikom. Programi, ki jih bomo napisali, bodo sicer preprosti, imeli pa bodo marsikaj od tistega, kar imajo veliki.**
 
