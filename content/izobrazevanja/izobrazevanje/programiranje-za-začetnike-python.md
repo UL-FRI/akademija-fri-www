@@ -8,14 +8,14 @@ aktualno: false
 preteklo: false
 dateStart: 2020-08-27T09:17:15.837Z
 dates:
+  - 2020-09-25T14:30:00.000Z
   - 2020-09-30T14:30:00.000Z
-  - 2020-10-05T14:30:00.000Z
+  - 2020-10-02T14:30:00.000Z
   - 2020-10-07T14:30:00.000Z
-  - 2020-10-12T14:30:00.000Z
+  - 2020-10-09T14:30:00.000Z
   - 2020-10-14T14:30:00.000Z
-  - 2020-10-19T14:30:00.000Z
+  - 2020-10-16T14:30:00.000Z
   - 2020-10-21T14:30:00.000Z
-  - 2020-10-26T15:30:00.000Z
 prijavnica: ""
 summary: Računalnik je hiter in natančen, toda neumen, človek pa počasen in
   površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko
@@ -37,11 +37,11 @@ Z nami bo [dr. Luka Fürst](https://akademijafri.si/izvajalci/luka-f%C3%BCrst/),
 
 *Programiranje od začetka 1:* 
 
-* **25. in 26. marec** ter **8. in 9. april 2020** od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
+* **25. in 30. september** ter **2. in 7. oktober 2020** od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
 *Programiranje od začetka 2:* 
 
-* **22. in 23. april** ter **6. in 13. maj 2020** od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
+* **9., 14, 16. in 21. oktober** od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113).
 
 #### Vsebina
 
