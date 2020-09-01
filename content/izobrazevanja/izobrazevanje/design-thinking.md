@@ -5,7 +5,7 @@ bgImage: /uploads/c75t9175.jpg
 image: /uploads/gettyimages-boesedesignthinking700.jpg
 type: izobrazevanje
 aktualno: false
-preteklo: false
+preteklo: true
 dateStart: 2020-08-31T13:48:42.780Z
 dates:
   - 2020-09-23T14:30:00.000Z
