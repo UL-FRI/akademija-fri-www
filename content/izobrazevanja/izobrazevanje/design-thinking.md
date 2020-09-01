@@ -38,7 +38,7 @@ Za vodje velikih in malih podjetij ter njihove uslužbence, za zagonska podjetja
 #### Cena prijavnine
 
 |                                                        | Design thinking | 
-| ------------------------------------------------------ | ------------------------------------------ |
+| ------------------------------------------------------ | ------------------------------------------ |------------------ |
 | Polna cena                                                                            | 95 € + DDV                                |
 | Člani Kluba alumnov UL in zaposleni na UL (15% popust)                                 | 80,75 € + DDV                                |
 | Člani Kluba alumnov FRI (20% popust)                                                 | 76 € + DDV                                |
