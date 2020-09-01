@@ -16,7 +16,7 @@ dates:
   - 2020-10-14T14:30:00.000Z
   - 2020-10-16T14:30:00.000Z
   - 2020-10-21T14:30:00.000Z
-prijavnica: ""
+prijavnica: https://docs.google.com/forms/d/e/1FAIpQLSc71n6hEF2P8FvQQ_naVTOQdcQyoHaCsvC1Ddik68Q_2-3mdg/viewform?usp=sf_link
 summary: Računalnik je hiter in natančen, toda neumen, človek pa počasen in
   površen, a inteligenten, je nekoč izjavil neznani vizionar. Skupaj lahko
   dosežeta čudeže, je še dodal. Na izobraževanju sicer ne bomo delali čudežev,
