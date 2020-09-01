@@ -9,6 +9,7 @@ preteklo: true
 dateStart: 2020-08-31T13:48:42.780Z
 dates:
   - 2020-09-23T14:30:00.000Z
+prijavnica: https://docs.google.com/forms/d/e/1FAIpQLSeTFaMAg3wsah-bI1I9atjt0hDbbStjeiR-sfP1ZK9kcJeuLQ/viewform?usp=sf_link
 summary: Predstavili vam bomo dizajnerski pristop (design thinking) za reševanje
   kompleksnih večplastnih problemov, ki v središče postavljajo potencialne
   uporabnike izdelkov in storitev.
