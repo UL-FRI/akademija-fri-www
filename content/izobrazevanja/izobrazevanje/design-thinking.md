@@ -36,3 +36,12 @@ Sreda, 23. 9. 2020, od 16.30 do 20.30 ure v Akademiji FRI (Večna pot 113). V pr
 Za vodje velikih in malih podjetij ter njihove uslužbence, za zagonska podjetja, uslužbence vladne in akademske sfere.
 
 #### Cena prijavnine
+
+|                                                        | Programiranje od začetka 1 (16 šolskih ur) | 
+| ------------------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| Polna cena                                                                            | 220 € + DDV                                |
+| Člani Kluba alumnov UL in zaposleni na UL (15% popust)                                 | 187 € + DDV                                |
+| Člani Kluba alumnov FRI (20% popust)                                                 | 176 € + DDV                                |
+| Partnerji Akademije FRI (30% popust)                                                  | 154 € + DDV                                |
+| Študenti                                                                            | 100 € + DDV                                |
+
