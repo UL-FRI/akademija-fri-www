@@ -37,11 +37,11 @@ Za vodje velikih in malih podjetij ter njihove uslužbence, za zagonska podjetja
 
 #### Cena prijavnine
 
-|                                                        | Programiranje od začetka 1 (16 šolskih ur) | 
-| ------------------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| Polna cena                                                                            | 220 € + DDV                                |
-| Člani Kluba alumnov UL in zaposleni na UL (15% popust)                                 | 187 € + DDV                                |
-| Člani Kluba alumnov FRI (20% popust)                                                 | 176 € + DDV                                |
-| Partnerji Akademije FRI (30% popust)                                                  | 154 € + DDV                                |
-| Študenti                                                                            | 100 € + DDV                                |
+|                                                        | Design thinking | 
+| ------------------------------------------------------ | ------------------------------------------ |
+| Polna cena                                                                            | 95 € + DDV                                |
+| Člani Kluba alumnov UL in zaposleni na UL (15% popust)                                 | 80,75 € + DDV                                |
+| Člani Kluba alumnov FRI (20% popust)                                                 | 76 € + DDV                                |
+| Partnerji Akademije FRI (30% popust)                                                  | 66,50 € + DDV                                |
+| Študenti                                                                            | 100 50 € + DDV                                |
 
