@@ -40,7 +40,7 @@ bgImage: /uploads/c75t1206.jpg
 
 **Cena:**
 
-* Najem do 5 ur med tednom 214,00 EUR + DDV.
-* Najem do 5 ur v soboto in nedeljo 128,00 EUR + DDV.
-* Celodnevni najem med tednom 324,00 EUR + DDV.
-* Celodnevni najem v soboto in nedeljo 194,00 EUR + DDV (doplačilo v primeru dodatnega varnostnika in čiščenja).
+* Najem do 5 ur med tednom 265,00 EUR + DDV.
+* Najem do 5 ur v soboto in nedeljo 155,00 EUR + DDV.
+* Celodnevni najem med tednom 405,00 EUR + DDV.
+* Celodnevni najem v soboto in nedeljo 245,00 EUR + DDV (doplačilo v primeru dodatnega varnostnika in čiščenja).
