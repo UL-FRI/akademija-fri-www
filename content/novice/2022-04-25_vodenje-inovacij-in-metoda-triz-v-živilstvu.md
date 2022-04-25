@@ -3,6 +3,7 @@ title: Vodenje inovacij in metoda TRIZ v živilstvu
 date: 2022-04-25T09:49:15.809Z
 bgImage: uploads/page-title.jpg
 exposed: true
+image: /uploads/delavnice_akfri_hd.jpg
 ---
 **Sistematično vodenje inovacij je na področju živilske oskrbovalne verige izjemno pomembno, da nas konkurenca ne prehiti.**
 
