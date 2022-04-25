@@ -18,13 +18,9 @@ summary: "**Sistematično vodenje inovacij je na področju živilske oskrbovalne
 
 **V Akademiji FRI organiziramo 4-urno delavnico vodenja inovacij in uporabe metode TRIZ, ki je namenjena prav podjetjem, ki so del živilske oskrbovalne verige, vendar je metodologijo mogoče preslikati tudi na druge panoge.**
 
-
-
 ## **Sistem vodenja inovacij in uporaba metode TRIZ za inoviranje v živilstvu**
 
 Na izobraževanju se bomo poglobili v **vodenje inovacij** v skladu s priporočili standarda ISO 56002 in uporabo **teorije inventivnega reševanja problemov** (TRIZ). Spoznali bomo sistematične koncepte, kreativne metode in orodja za reševanje problemov in izboljšanje kreativnosti posameznika ali skupine. Praktične primere bomo analizirali z uporabo mobilne aplikacije [TRIZ x QMS](https://play.google.com/store/apps/details?id=com.mj.triz&hl=en&gl=US) in podrobneje predstavili različne usmeritve, ki vodijo  k najboljši možni rešitvi razvoja inovativnih izdelkov ali storitev v živilstvu in prehrani.
-
-
 
 #### **Vsebina:**
 
@@ -38,13 +34,9 @@ Na izobraževanju se bomo poglobili v **vodenje inovacij** v skladu s priporoči
 * postopek reševanja problemov
 * praktični primeri s področja živilstva in prehrane (mobilna aplikacija TRIZ crossover QSM)
 
-
-
 #### **Za koga?**
 
 Za tiste, ki se v živilski oskrbovalni verigi srečujejo z razvojem proizvodov in storitev, s pristopi za zmanjšanje količin zavržene hrane in vodenjem kakovosti.
-
- 
 
 #### **Po izobraževanju boste:**
 
@@ -53,13 +45,9 @@ Za tiste, ki se v živilski oskrbovalni verigi srečujejo z razvojem proizvodov 
 * znali uporabljati digitalno orodje TRIZ crossover QSM
 * uporabljali preverjene metode pri reševanju problemov
 
- 
-
 #### **Predznanja:**
 
 Ni potrebnih predznanj.
-
-
 
 **Izvajalci:** [Mira Trebar](https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/mira-trebar) ([mira.trebar@fri.uni-lj.si](mailto:mira.trebar@fri.uni-lj.si)) s sodelavci (Creativ-plus)
 
@@ -69,8 +57,6 @@ Ni potrebnih predznanj.
 
 **Cena:** 180 EUR + DDV
 
-
-
 #### Cena prijavnine
 
 |                                                             | Vodenje inovacij in metoda TRIZ |
@@ -78,9 +64,7 @@ Ni potrebnih predznanj.
 | Polna cena                                                  | 180 € + DDV                     |
 | Člani Kluba alumnov FRI UL in Kluba alumnov UL (20% popust) | 144 € + DDV                     |
 | Člani Gospodarske zbornice Slovenije  (20% popust)          | 144 € + DDV                     |
-| Dva ali več udeležencev iz istega podjetja (20% popust)     | 66,50 € + DDV                   |
+| Dva ali več udeležencev iz istega podjetja (20% popust)     | 144 € + DDV                     |
 | Partnerji Akademije FRI (30% popust)                        | 126 € + DDV                     |
-
-
 
 **Prijave sprejemamo do 12. 5. 2022**, rok za plačilo kotizacij je 13. 5. 2022. Popusti se ne seštevajo.
