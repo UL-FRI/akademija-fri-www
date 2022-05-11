@@ -4,8 +4,8 @@ date: 2022-04-25T10:01:32.440Z
 bgImage: uploads/page-title.jpg
 image: /uploads/delavnice_akfri_hd.jpg
 type: izobrazevanje
-aktualno: true
-preteklo: false
+aktualno: false
+preteklo: true
 dateStart: 2022-04-25T10:01:32.469Z
 dates:
   - 2022-05-17T11:15:00.000Z
@@ -51,7 +51,7 @@ Ni potrebnih predznanj.
 
 **Izvajalci:** [Mira Trebar](https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/mira-trebar) ([mira.trebar@fri.uni-lj.si](mailto:mira.trebar@fri.uni-lj.si)) s sodelavci (Creativ-plus)
 
-**Termin:** 17. 5. 2022, ob 13:15
+**Termin:** 17. 5. 2022, ob 13:15 (TERMIN JE ODPOVEDAN - v primeru interesa, pišite izvajalki ali na akademija@fri.uni-lj.si)
 
 **Trajanje:** 1 x 4 šolske ure
 
