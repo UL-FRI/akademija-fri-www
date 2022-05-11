@@ -13,8 +13,6 @@ image: /uploads/delavnice_akfri_hd.jpg
 
 Na izobraževanju se bomo poglobili v **vodenje inovacij** v skladu s priporočili standarda ISO 56002 in uporabo **teorije inventivnega reševanja problemov** (TRIZ). Spoznali bomo sistematične koncepte, kreativne metode in orodja za reševanje problemov in izboljšanje kreativnosti posameznika ali skupine. Praktične primere bomo analizirali z uporabo mobilne aplikacije [TRIZ x QMS](https://play.google.com/store/apps/details?id=com.mj.triz&hl=en&gl=US) in podrobneje predstavili različne usmeritve, ki vodijo  k najboljši možni rešitvi razvoja inovativnih izdelkov ali storitev v živilstvu in prehrani.
 
-
-
 **Vsebina:**
 
 * sistem vodenja inovacij po priporočilih standarda ISO 56002
@@ -27,13 +25,9 @@ Na izobraževanju se bomo poglobili v **vodenje inovacij** v skladu s priporoči
 * postopek reševanja problemov
 * praktični primeri s področja živilstva in prehrane (mobilna aplikacija TRIZ crossover QSM)
 
-
-
 **Za koga?**
 
 Za tiste, ki se v živilski oskrbovalni verigi srečujejo z razvojem proizvodov in storitev, s pristopi za zmanjšanje količin zavržene hrane in vodenjem kakovosti.
-
- 
 
 **Po izobraževanju boste:**
 
@@ -42,13 +36,9 @@ Za tiste, ki se v živilski oskrbovalni verigi srečujejo z razvojem proizvodov 
 * znali uporabljati digitalno orodje TRIZ crossover QSM
 * uporabljali preverjene metode pri reševanju problemov
 
- 
-
 **Predznanja:**
 
 Ni potrebnih predznanj.
-
-
 
 **Izvajalci:** [Mira Trebar](https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/mira-trebar) ([mira.trebar@fri.uni-lj.si](mailto:mira.trebar@fri.uni-lj.si)) s sodelavci (Creativ-plus)
 
@@ -57,8 +47,6 @@ Ni potrebnih predznanj.
 **Trajanje:** 1 x 4 šolske ure
 
 **Cena:** 180 EUR + DDV
-
-
 
 **Popusti:**
 
@@ -70,10 +58,6 @@ Dva ali več udeležencev iz istega podjetja: **20 % popust za vsakega udeležen
 
 Popusti se ne seštevajo.
 
-
-
 **Prijave:**
 
 Spletna prijavnica na [POVEZAVI](https://forms.gle/edvqiVPGGienBvWFA).
-
-Prijave sprejemamo do 12. 5. 2022, rok za plačilo kotizacij je 13. 5. 2022.
