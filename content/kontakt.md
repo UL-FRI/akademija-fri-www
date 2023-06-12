@@ -11,4 +11,5 @@ SI-1000 Ljubljana \
 Slovenija
 
 **Telefon**: +386 1 479 8268 \
+**Naslov**: R2.47 \
 **Email**: akademija@fri.uni-lj.si
